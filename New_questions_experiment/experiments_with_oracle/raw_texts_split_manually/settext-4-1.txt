@@ -1,0 +1,26 @@
+   
+Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).
+(2) The distribution of BrE vowels
+
+
+_C
+_#
+_V
+a.
+KIT, DRESS, TRAP, STRUT, LOT, FOOT
+yes
+no
+no
+b.
+NEAR, SQUARE, START, NURSE, FORCE, CURE
+yes
+yes
+no
+c.
+FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE
+yes
+yes
+yes
+The vowels in (2a) are often called checked vowels, since they are obligatorily followed by a consonant. This set is analysed and transcribed as “short monophthongs” in the British tradition (Jones 1917; Gimson 1977). The second set, the members of which are listed in (2b), are referred to as R vowels by Kreidler (1989). In the present analysis they are all “long” monophthongs. The last set contains vowels that may occur in all three environments, (2c). Following Trubetzkoy (1968) this set will be called free vowels. They are considered to be diphthongs by most analysts (or not, as we have seen above), although there are notable exceptions, like Batchelor (1809), Trager & Bloch (1941); Trager & Smith (1957), who take these sequences to be a short vowel followed by a glide, an analysis I support with some evidence in this paper.
+   Since the tense–lax contrast does not characterize British English, there is no reason to distinguish vowel symbols along this dimension. Accordingly and also for the sake of simplicity, I will use the six vowel symbols [i e a ə o u] as in (3), although “lax” symbols like [ɪ « ɔ ʊ], or distinct front and back [a ɑː], or a centralized symbol [ʉ] for the last vowel of each category, would perhaps be more appropriate if our aim were to be phonetically precise.
+

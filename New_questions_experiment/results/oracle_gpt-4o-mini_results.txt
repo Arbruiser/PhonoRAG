@@ -1,0 +1,27 @@
+Model: gpt-4o-mini
+Temperature: 0
+System message: You're an expert in answering quiz questions about phonology.
+
+itembank-2:		Correct answers 48 / total questions 51 * 100 = 94.12%
+itembank-3:		Correct answers 59 / total questions 67 * 100 = 88.06%
+itembank-4:		Correct answers 59 / total questions 60 * 100 = 98.33%
+itembank-5:		Correct answers 56 / total questions 64 * 100 = 87.5%
+itembank-9:		Correct answers 56 / total questions 58 * 100 = 96.55%
+ 
+itembank-2:		Correct answers 49 / total questions 51 * 100 = 96.08%
+itembank-3:		Correct answers 59 / total questions 67 * 100 = 88.06%
+itembank-4:		Correct answers 58 / total questions 60 * 100 = 96.67%
+itembank-5:		Correct answers 57 / total questions 64 * 100 = 89.06%
+itembank-9:		Correct answers 56 / total questions 58 * 100 = 96.55%
+ 
+itembank-2:		Correct answers 49 / total questions 51 * 100 = 96.08%
+itembank-3:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4:		Correct answers 59 / total questions 60 * 100 = 98.33%
+itembank-5:		Correct answers 56 / total questions 64 * 100 = 87.5%
+itembank-9:		Correct answers 56 / total questions 58 * 100 = 96.55%
+ 
+
+Overall correct answers 838 / total questions 900 * 100 = 93.11%
+
+------------------------------------------------------------------------
+

@@ -1,0 +1,167 @@
+SDR
+run number 1
+top_k = 2
+similarity cutoff: 50
+
+Results for 2-settext.pdf:
+from correct doc as chunk number 1: 43/51
+from correct doc as chunk number 2: 40/51
+from correct chunk as chunk number 1: 15/51
+from correct chunk as chunk number 2: 11/51
+
+Results for 3-settext.txt:
+from correct doc as chunk number 1: 41/67
+from correct doc as chunk number 2: 31/67
+from correct chunk as chunk number 1: 20/67
+from correct chunk as chunk number 2: 9/67
+
+Results for 4-settext.pdf:
+from correct doc as chunk number 1: 43/60
+from correct doc as chunk number 2: 44/60
+from correct chunk as chunk number 1: 22/60
+from correct chunk as chunk number 2: 12/60
+
+Results for 5-settext.pdf:
+from correct doc as chunk number 1: 62/64
+from correct doc as chunk number 2: 59/64
+from correct chunk as chunk number 1: 26/64
+from correct chunk as chunk number 2: 10/64
+
+Results for 9-settext.pdf:
+from correct doc as chunk number 1: 57/58
+from correct doc as chunk number 2: 55/58
+from correct chunk as chunk number 1: 30/58
+from correct chunk as chunk number 2: 13/58
+
+Overall Results:
+Overall from correct doc as chunk number 1: 246/300
+Overall from correct doc as chunk number 2: 229/300
+Overall from correct chunk as chunk number 1: 113/300
+Overall from correct chunk as chunk number 2: 55/300
+
+
+--------------------------
+SDR
+- raised the similarity cutoff. The final results are insignificantly affected. 
+run number 2
+top_k = 2
+similarity cutoff: 70
+
+Results for 2-settext.pdf:
+from correct doc as chunk number 1: 43/51
+from correct doc as chunk number 2: 40/51
+from correct chunk as chunk number 1: 15/51
+from correct chunk as chunk number 2: 11/51
+
+Results for 3-settext.txt:
+from correct doc as chunk number 1: 41/67
+from correct doc as chunk number 2: 31/67
+from correct chunk as chunk number 1: 19/67
+from correct chunk as chunk number 2: 6/67
+
+Results for 4-settext.pdf:
+from correct doc as chunk number 1: 43/60
+from correct doc as chunk number 2: 44/60
+from correct chunk as chunk number 1: 19/60
+from correct chunk as chunk number 2: 12/60
+
+Results for 5-settext.pdf:
+from correct doc as chunk number 1: 62/64
+from correct doc as chunk number 2: 59/64
+from correct chunk as chunk number 1: 26/64
+from correct chunk as chunk number 2: 8/64
+
+Results for 9-settext.pdf:
+from correct doc as chunk number 1: 57/58
+from correct doc as chunk number 2: 55/58
+from correct chunk as chunk number 1: 29/58
+from correct chunk as chunk number 2: 13/58
+
+Overall Results:
+Overall from correct doc as chunk number 1: 246/300
+Overall from correct doc as chunk number 2: 229/300
+Overall from correct chunk as chunk number 1: 108/300
+Overall from correct chunk as chunk number 2: 50/300
+
+--------------------------
+
+with SDR
+retriever: <llama_index.core.indices.vector_store.retrievers.retriever.VectorIndexRetriever object at 0x000001689CCD98E0>
+top_k = 5
+similarity cutoff: 70
+
+Results for 2-settext.pdf:
+from correct doc as chunk number 1: 43/51
+from correct doc as chunk number 2: 39/51
+from correct doc as chunk number 3: 38/51
+from correct doc as chunk number 4: 39/51
+from correct doc as chunk number 5: 37/51
+from correct chunk as chunk number 1: 14/51
+from correct chunk as chunk number 2: 9/51
+from correct chunk as chunk number 3: 8/51
+from correct chunk as chunk number 4: 7/51
+from correct chunk as chunk number 5: 4/51
+
+Results for 3-settext.txt:
+from correct doc as chunk number 1: 44/67
+from correct doc as chunk number 2: 33/67
+from correct doc as chunk number 3: 32/67
+from correct doc as chunk number 4: 33/67
+from correct doc as chunk number 5: 25/67
+from correct chunk as chunk number 1: 19/67
+from correct chunk as chunk number 2: 8/67
+from correct chunk as chunk number 3: 8/67
+from correct chunk as chunk number 4: 4/67
+from correct chunk as chunk number 5: 0/67
+
+Results for 4-settext.pdf:
+from correct doc as chunk number 1: 43/60
+from correct doc as chunk number 2: 45/60
+from correct doc as chunk number 3: 44/60
+from correct doc as chunk number 4: 39/60
+from correct doc as chunk number 5: 38/60
+from correct chunk as chunk number 1: 26/60
+from correct chunk as chunk number 2: 13/60
+from correct chunk as chunk number 3: 5/60
+from correct chunk as chunk number 4: 2/60
+from correct chunk as chunk number 5: 3/60
+
+Results for 5-settext.pdf:
+from correct doc as chunk number 1: 62/64
+from correct doc as chunk number 2: 58/64
+from correct doc as chunk number 3: 54/64
+from correct doc as chunk number 4: 48/64
+from correct doc as chunk number 5: 45/64
+from correct chunk as chunk number 1: 25/64
+from correct chunk as chunk number 2: 9/64
+from correct chunk as chunk number 3: 8/64
+from correct chunk as chunk number 4: 5/64
+from correct chunk as chunk number 5: 1/64
+
+Results for 9-settext.pdf:
+from correct doc as chunk number 1: 57/58
+from correct doc as chunk number 2: 55/58
+from correct doc as chunk number 3: 47/58
+from correct doc as chunk number 4: 50/58
+from correct doc as chunk number 5: 45/58
+from correct chunk as chunk number 1: 29/58
+from correct chunk as chunk number 2: 11/58
+from correct chunk as chunk number 3: 4/58
+from correct chunk as chunk number 4: 3/58
+from correct chunk as chunk number 5: 1/58
+
+Overall Results:
+Overall from correct doc as chunk number 1: 249/300
+Overall from correct doc as chunk number 2: 230/300
+Overall from correct doc as chunk number 3: 215/300
+Overall from correct doc as chunk number 4: 209/300
+Overall from correct doc as chunk number 5: 190/300
+Overall from correct chunk as chunk number 1: 113/300
+Overall from correct chunk as chunk number 2: 50/300
+Overall from correct chunk as chunk number 3: 33/300
+Overall from correct chunk as chunk number 4: 21/300
+Overall from correct chunk as chunk number 5: 9/300
+
+
+--------------------------
+

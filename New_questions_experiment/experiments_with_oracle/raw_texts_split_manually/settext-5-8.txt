@@ -1,0 +1,25 @@
+
+7.5.2.1. Rhythmic stress deletion (“nice old lady” rule) 
+When three stresses come closely together, with maximally one unstressed syllable between them (ˈnice ˈold ˈlady), the middle one of the three stresses may optionally be deleted (“destressed”) to make the rhythm smoother: ˈnice old ˈlady. Such de-stressing does not depend on the meaning or grammatical role of the word affected, just the rhythmic pattern  
+ In the examples below all stresses are underlined. The deleted middle stress (downgraded to 3ry) is shown with a small circle (o). 
+ 	 	three stresses close together  
+Medial Stress-Deletion 
+ 	 	      a ′nice ′old ′lady  	→ 
+     a ′nice  oold ′lady 
+ 	 	        ′very ′nice ′people 	→ 
+       ′very  onice ′people 
+ 	 	  my ′son ′speaks ′Hindi 	→ 
+ my ′son  ospeaks ′Hindi 
+ 	 	       ′John 1disa′ppeared 	→ 
+      ′John  odisa′ppeared 
+The deletion also happens in the middle of very long words which have two secondary stresses before the primary: 
+ 	 	 	ˌpsychoˌana′lytical 	 	→ 	1psycho oana′lytical 
+ 	 	 	ˌundeˌnomi′national  	→ 	1unde onomi′national 
+In We de′cided to ′come ′back in Oc′tober, stress deletion is not normal because though there are two stresses (come, back) next to each other; there isn’t a third stress close enough. 
+ Medial Stress-Deletion causes short content words to lose their stress, or a secondary stress to be lost in the middle of a longer word (or finally-stressed compound). The result is the deletion of a foot, as the de-stressed word now becomes attached to the previous foot. Observe the examples: 
+ 
+ 	 foot1 	foot2  foot3  	   foot1  	foot2  
+ 	|  nice      |  old  |  lady  |       → |  nice old     |  lady  | 
+ 	|  psycho-|  ana- |  lytical |     → |  psychoana-|  lytical | 
+ 	|  North   |  Sea  |  oil   |         → |  North Sea  |  oil   | 
+ 

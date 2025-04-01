@@ -1,0 +1,18 @@
+
+Reality, however, is more interesting than fiction because we have a number of reasons to believe that this R is actually not R (the historical R), but r (a ‘new’ rhotic inserted by a rule after Middle English). 
+Let’s look at why we should think that the r at the end of car is not R. 
+5.2.1 	Reason 1 for claiming r is not R in car 
+The loss of R after a stressed vowel results in compensatory lengthening, i.e., the lengthening of the vowel after which there used to be an R in word-internal coda position (see (23)). (23) Compensatory lengthening 
+ 
+Our control group is found in (24), words in which deletion of R has never happened and the vowel has remained short. 
+(24) Absence of compensatory lengthening 
+ 
+When word-final R is lost, the vowel also lengthens (see (25)). 
+(25) Compensatory lengthening after loss of word-final R 
+ 
+One may think that if R is recovered as r before vowel-initial words, that would mean the undoing of compensatory lengthening (that is, a short vowel is expected before R), see (26)). 
+(26) There is no undoing of compensatory lengthening  
+ 
+However, our expectations are not borne out: we have both a long vowel and r. This r is traditionally known as linking (i.e., historical) R. Note, however, that the vowel does remain short, but that happens only if we have an unstressed function word (which has a lexical short vowel), see (27). (27) Compensatory lengthening fails in case of unstressed function words 
+ 
+We have seen that (not counting the function words) even if R comes back, the vowel before it stays long, which is a good enough reason to believe that the r that we recover word-finally before a vowelinitial word is not the historical R that was lost after Middle English. What other reasons do we have for supposing that recovered R is actually r, that is a non-historical rhotic? Let us look at reason 2. 

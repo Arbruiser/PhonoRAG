@@ -1,0 +1,144 @@
+Before updating the prompt:
+itembank-2_GPT-made_questions:		Correct answers 42 / total questions 50 * 100 = 84.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 38 / total questions 42 * 100 = 90.48%
+itembank-5_GPT-made_questions:		Correct answers 47 / total questions 54 * 100 = 87.04%
+itembank-9_GPT-made_questions:		Correct answers 21 / total questions 24 * 100 = 87.5%
+itembank-2_own_questions:		Correct answers 45 / total questions 51 * 100 = 88.24%
+itembank-3_own_questions:		Correct answers 59 / total questions 67 * 100 = 88.06%
+itembank-4_own_questions:		Correct answers 55 / total questions 60 * 100 = 91.67%
+itembank-5_own_questions:		Correct answers 58 / total questions 64 * 100 = 90.62%
+itembank-9_own_questions:		Correct answers 56 / total questions 58 * 100 = 96.55%
+
+Overall correct answers for GPT-made 192 / total questions 219 * 100 = 87.67%
+Overall correct answers for own 273 / total questions 300 * 100 = 91.0%
+
+------------------------------------------------------------------------
+
+After updating the prompt(1):
+
+itembank-2_GPT-made_questions:		Correct answers 42 / total questions 50 * 100 = 84.0%
+itembank-3_GPT-made_questions:		Correct answers 45 / total questions 49 * 100 = 91.84%
+itembank-4_GPT-made_questions:		Correct answers 36 / total questions 42 * 100 = 85.71%
+itembank-5_GPT-made_questions:		Correct answers 47 / total questions 54 * 100 = 87.04%
+itembank-9_GPT-made_questions:		Correct answers 21 / total questions 24 * 100 = 87.5%
+itembank-2_own_questions:		Correct answers 45 / total questions 51 * 100 = 88.24%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 55 / total questions 60 * 100 = 91.67%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 56 / total questions 58 * 100 = 96.55%
+
+Overall correct answers for GPT-made 191 / total questions 219 * 100 = 87.21%
+Overall correct answers for own 276 / total questions 300 * 100 = 92.0%
+
+
+------------------------------------------------------------------------
+
+After updating the prompt(2):
+
+itembank-2_GPT-made_questions:		Correct answers 45 / total questions 50 * 100 = 90.0%
+itembank-3_GPT-made_questions:		Correct answers 41 / total questions 49 * 100 = 83.67%
+itembank-4_GPT-made_questions:		Correct answers 37 / total questions 42 * 100 = 88.1%
+itembank-5_GPT-made_questions:		Correct answers 52 / total questions 54 * 100 = 96.3%
+itembank-9_GPT-made_questions:		Correct answers 24 / total questions 24 * 100 = 100.0%
+itembank-2_own_questions:		Correct answers 46 / total questions 51 * 100 = 90.2%
+itembank-3_own_questions:		Correct answers 60 / total questions 67 * 100 = 89.55%
+itembank-4_own_questions:		Correct answers 55 / total questions 60 * 100 = 91.67%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 57 / total questions 58 * 100 = 98.28%
+
+Overall correct answers for GPT-made 199 / total questions 219 * 100 = 90.87%
+Overall correct answers for own 277 / total questions 300 * 100 = 92.33%
+
+
+------------------------------------------------------------------------
+
+After updating the prompt(3):
+
+itembank-2_GPT-made_questions:		Correct answers 45 / total questions 50 * 100 = 90.0%
+itembank-3_GPT-made_questions:		Correct answers 42 / total questions 49 * 100 = 85.71%
+itembank-4_GPT-made_questions:		Correct answers 37 / total questions 42 * 100 = 88.1%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 24 / total questions 24 * 100 = 100.0%
+itembank-2_own_questions:		Correct answers 47 / total questions 51 * 100 = 92.16%
+itembank-3_own_questions:		Correct answers 60 / total questions 67 * 100 = 89.55%
+itembank-4_own_questions:		Correct answers 55 / total questions 60 * 100 = 91.67%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 57 / total questions 58 * 100 = 98.28%
+
+Overall correct answers for GPT-made 199 / total questions 219 * 100 = 90.87%
+Overall correct answers for own 278 / total questions 300 * 100 = 92.67%
+
+
+------------------------------------------------------------------------
+
+itembank-2_GPT-made_questions:		Correct answers 45 / total questions 50 * 100 = 90.0%
+itembank-3_GPT-made_questions:		Correct answers 43 / total questions 49 * 100 = 87.76%
+itembank-4_GPT-made_questions:		Correct answers 36 / total questions 42 * 100 = 85.71%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 24 / total questions 24 * 100 = 100.0%
+itembank-2_own_questions:		Correct answers 48 / total questions 51 * 100 = 94.12%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 55 / total questions 60 * 100 = 91.67%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 57 / total questions 58 * 100 = 98.28%
+
+Overall correct answers for GPT-made 199 / total questions 219 * 100 = 90.87%
+Overall correct answers for own 280 / total questions 300 * 100 = 93.33%
+
+
+------------------------------------------------------------------------
+
+itembank-2_GPT-made_questions:		Correct answers 44 / total questions 50 * 100 = 88.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 38 / total questions 42 * 100 = 90.48%
+itembank-5_GPT-made_questions:		Correct answers 47 / total questions 54 * 100 = 87.04%
+itembank-9_GPT-made_questions:		Correct answers 20 / total questions 24 * 100 = 83.33%
+itembank-2_own_questions:		Correct answers 47 / total questions 51 * 100 = 92.16%
+itembank-3_own_questions:		Correct answers 62 / total questions 67 * 100 = 92.54%
+itembank-4_own_questions:		Correct answers 54 / total questions 60 * 100 = 90.0%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 55 / total questions 58 * 100 = 94.83%
+
+Overall correct answers for GPT-made 193 / total questions 219 * 100 = 88.13%
+Overall correct answers for own 277 / total questions 300 * 100 = 92.33%
+
+
+------------------------------------------------------------------------
+
+itembank-2_GPT-made_questions:		Correct answers 44 / total questions 50 * 100 = 88.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 38 / total questions 42 * 100 = 90.48%
+itembank-5_GPT-made_questions:		Correct answers 47 / total questions 54 * 100 = 87.04%
+itembank-9_GPT-made_questions:		Correct answers 21 / total questions 24 * 100 = 87.5%
+itembank-2_own_questions:		Correct answers 48 / total questions 51 * 100 = 94.12%
+itembank-3_own_questions:		Correct answers 60 / total questions 67 * 100 = 89.55%
+itembank-4_own_questions:		Correct answers 56 / total questions 60 * 100 = 93.33%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 57 / total questions 58 * 100 = 98.28%
+
+Overall correct answers for GPT-made 194 / total questions 219 * 100 = 88.58%
+Overall correct answers for own 280 / total questions 300 * 100 = 93.33%
+
+
+------------------------------------------------------------------------
+
+itembank-2_GPT-made_questions:		Correct answers 45 / total questions 50 * 100 = 90.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 35 / total questions 42 * 100 = 83.33%
+itembank-5_GPT-made_questions:		Correct answers 52 / total questions 54 * 100 = 96.3%
+itembank-9_GPT-made_questions:		Correct answers 24 / total questions 24 * 100 = 100.0%
+itembank-2_own_questions:		Correct answers 48 / total questions 51 * 100 = 94.12%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 55 / total questions 60 * 100 = 91.67%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 57 / total questions 58 * 100 = 98.28%
+
+Overall correct answers for GPT-made 200 / total questions 219 * 100 = 91.32%
+Overall correct answers for own 280 / total questions 300 * 100 = 93.33%
+
+
+------------------------------------------------------------------------
+NEW:
+
+

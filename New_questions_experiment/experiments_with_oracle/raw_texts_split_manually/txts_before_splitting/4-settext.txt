@@ -1,0 +1,204 @@
+﻿Numerous descriptions of the vowel systems of different Englishes have been proposed during the past centuries. Most of these descriptions include a group of vowels that are analysed as diphthongs. This group comprises several sets that are variably seen as diphthongs or as monophthongs. These sets are shown in (1).
+(1)	Sets of vowels potentially categorized as diphthongs in English
+a. PRICE, MOUTH, CHOICE
+b. FACE, GOAT
+c. FLEECE, GOOSE
+d. NEAR, SQUARE, FORCE, CURE
+Practically all accounts of English take the vowels in (1a) to be diphthongs. Accounts of British English count the vowels in (1b) to be diphthongs too, those of American English are varied (diphthongs in Chomsky & Halle 1968; monophthongs in Kenyon & Knott 1953 or Giegerich 1992). Sweet (1900) transcribes FLEECE and GOOSE as [flijs] and [guws], it is only Jones (1917) who (wrongly, as I will argue) alters the British tradition, and introduces the currently prevalent monophthongal symbols [iː] and [uː] for the vowels in (1c). American accounts again vary, the typical case is to lump the vowels in (1b) and (1c) together, either as diphthongs ([ey], [ow]; [iy], [uw]) or as (tense) monophthongs ([e], [o]; [i], [u], respectively). The vowels of the last group, (1d), are vowelþ[r] sequences in rhotic American English, occasionally centring diphthongs. In British English they were diphthongs at the beginning of the last century, but have all gradually monophthongized. This is reflected in the transcription of FORCE by Jones (1917): [fɔːs] (vs. Sweet’s [fɔəs]); CURE and SQUARE by Upton (1995): [kjɔː] (vs. Gimson’s [kjʊə], 1962; already mentioned in Jones 1917) and [skwɛː] (vs. Gimson’s [skweə]), and also NEAR by Lindsey (2012a, 2019): [nɪː] (vs. Upton’s [nɪə]). I take all the vowels of (1d) to be long monophthongs, and all the vowels of (1a–c) to be “diphthongs”, or more precisely, not single monophthongal vowels. This categorization is based on the distribution of these vowels, to which we turn presently.
+1. THE VOWEL INVENTORY OF BRITISH ENGLISH (BRE)
+The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of
+[ə] produced long vowels merging these two categories (e.g., far [far] > [faː]; fire [fajr] > [fajər] > [fajə] > [faə] > [faː]), the tense vs. lax split is partly merged, and so it is not meaningful any more.
+^^^   
+Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).
+(2) The distribution of BrE vowels
+
+
+_C
+_#
+_V
+a.
+KIT, DRESS, TRAP, STRUT, LOT, FOOT
+yes
+no
+no
+b.
+NEAR, SQUARE, START, NURSE, FORCE, CURE
+yes
+yes
+no
+c.
+FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE
+yes
+yes
+yes
+The vowels in (2a) are often called checked vowels, since they are obligatorily followed by a consonant. This set is analysed and transcribed as “short monophthongs” in the British tradition (Jones 1917; Gimson 1977). The second set, the members of which are listed in (2b), are referred to as R vowels by Kreidler (1989). In the present analysis they are all “long” monophthongs. The last set contains vowels that may occur in all three environments, (2c). Following Trubetzkoy (1968) this set will be called free vowels. They are considered to be diphthongs by most analysts (or not, as we have seen above), although there are notable exceptions, like Batchelor (1809), Trager & Bloch (1941); Trager & Smith (1957), who take these sequences to be a short vowel followed by a glide, an analysis I support with some evidence in this paper.
+   Since the tense–lax contrast does not characterize British English, there is no reason to distinguish vowel symbols along this dimension. Accordingly and also for the sake of simplicity, I will use the six vowel symbols [i e a ə o u] as in (3), although “lax” symbols like [ɪ « ɔ ʊ], or distinct front and back [a ɑː], or a centralized symbol [ʉ] for the last vowel of each category, would perhaps be more appropriate if our aim were to be phonetically precise.
+
+^^^
+(3) The vowels of BrE
+a. checked vowels: KIT [i], DRESS [e], TRAP [a], STRUT [ə], LOT [o], FOOT [u]
+b. R vowels: NEAR [iː], SQUARE [eː], START [aː], NURSE [əː], FORCE [oː], CURE [uː]
+c. free vowels: FLEECE [ij], FACE [ej], PRICE [aj], MOUTH [aw], GOAT [əw], CHOICE [oj], GOOSE [uw]
+Some of the R vowels, most notably [iː], [aː], and [uː] vary with free vowelþschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [niː juw] we have you’re near [joː niː] or [-nijə]; beside fire fighter [faː fajtə] we have fight the fire [fajt ðə fajə] or [-faː]; beside cure them [kjuː ðəm] we have the cure [ðə kjuː] or [-kjuwə]. In the case of two [r]-influenced vowels, [eː] and [oː], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [beː] (†[be(j)ə]), boar [boː] (†[bo(w)ə]). On the other hand, in the rare sequence [ojə] monophthongization is not possible at all: coir
+[kojə] (p[koː]).
+   In stressed position a free vowelþschwa sequence may often monophthongize irrespective of whether it has resulted from the influence of a following historical [r], as in the examples cited so far, or not, as in diamond [dajəmənd] or [daːmənd] (or [dajmənd]), vowel [vawəl] or [vaːl] (or [vawl]), idea [ajdıjə] or [ajdıː], mayor [mejə] or [meː].
+   The system in (3a–b) exhibits short–long vowel pairs: for each checked vowel we find a long counterpart among the R vowels. Our question in this paper is whether the free vowels in (3c) are compounds of a checked vowel and a glide ([j] or [w]) as Batchelor, Bloch, Smith, and Trager claim, or vocalic units, “diphthongs”, as they are usually referred to.
+
+^^^
+2. DIPHTHONG OR VC/CV?
+A diphthong is the combination of a vowel and an adjacent glide (or, perhaps schwa) into what is considered as one unit. What kind of unit this is is not clear: it is usually not a segment in the autosegmental sense, since it consists of two skeletal slots with melody associated to each. The literature also mentions so-called light (monomoraic) diphthongs, which are monosegmental (linked to a single skeletal slot, Kaye 1989, 128), but their status is even less clear. Whether a vowelþglide or glideþvowel sequence is a diphthong is a question that phonetics cannot answer, this is a matter of phonological analysis, and accordingly this is a language-specific issue. It may well happen that a vowelþglide or glideþvowel sequence is a diphthong in some variety of a language, but not in another variety.
+   It can even be argued that the status of a glideþvowel sequence may differ from word to word. With respect to article selection, the French word [jatys] ‘hiatus’, for example, behaves as a vowelinitial word: it selects the vowelless form of the singular definite article, [ljatys], which is typical of words that begin with a vowel. The beginning of the word [jauʁt] ‘yoghurt’ is rather similar, yet it selects the vowelful form of the singular definite article, like consonant-initial words do: [ləjauʁt]. Digging a bit deeper, we find some facts that may make us wary. On the one hand, [jatys] has an alternative form [iatys], which begins with a “real” vowel, but [jauʁt] does not have such an alternative form. Yet [wat] ‘watt’ selects the vowelful singular definite article [ləwat], while [wat] ‘cotton’ may also select the vowelless allomorph, [lwat], although the latter word has no vowel-initial variant, p[uat]. On the other hand, there exist numerous French words that begin with a “real” vowel, and yet select the preconsonantal, vowelful variant of the singular definite article: for example, [ɛn] ‘hatred’, [laɛn]. Many (though not all) of these words have a [h]-initial etymon: [ɛn], for example, is a descendant of the same Proto-Germanic word as English hate, which did indeed begin with a consonant.
+   English is less variable in this respect. Vowel-initial words select the consonantful variant of the indefinite article (an apple), consonant-initial words select the consonantless variant (a pear). This distribution holds even in words that are variable: we have a hen for speakers who pronounce hen as [hen], but an hen for those who pronounce it as [en].
+   With its phonetically stable article selection, English provides us with a criterion for analysing “diphthongs” that begin with the glide. Words like yak or wax cannot begin with a diphthong, because they do not behave like vowel-initial words: pan yak, pan wax figure. In fact, no glideþvowel sequence can be analysed as a diphthong in English: even words that were historically vowel initial behave as (5 are) consonant initial today when they begin with a glide (e.g., a ewe, a eulogy, a unit, a Uyghur). That is, the article test neatly distinguishes consonantand vowel-initial words in English, and uniformly categorizes glides with consonants and, consequently, glideþvowel sequences as clusters, not diphthongs.
+   
+^^^
+The situation is less obvious word finally. The distributions of the allomorphs of the past tense ([d] ∼ [id]) and the nominal plural suffix ([z] ∼ [iz]) do not distinguish between vowels and consonants, but between some set of consonants (alveolar plosives and sibilants, respectively) and the set comprising all other consonants and vowels. The ordinal suffix [q] has a vowelful allomorph only after [ij] (as in twentieth [twentijəq]), but not after any other segment, be it a vowel (as in fourth [fo:q]) or any consonant (as in tenth [tenq], eighth [ejtq]) or consonant cluster (as in thousandth [qawzəndq] or sixth [siksq]). So there is no suffix test in English for separating vowel- and consonant-final words.
+   In fact, not even enclitics make this distinction. It is only enclitics that have a nonsyllabic allomorph that are possible candidates for the test. These all begin with a vowel or a glide in their full allomorph. Of them, and will not do, since ‘n’ is always syllabic ([ən] or [n$]). Likewise are [ə] also only has a syllabic allomorph. The candidates that remain are listed in (4).
+(4) Nonsyllabic enclitics of English
+a. has [həz], is [iz] ∼ ’s [z]
+b. had [həd], would [wəd] ∼ ’d [d]
+c. have [həv] ∼ ’ve [v]
+d. will [wil] ∼ ’ll [l]
+e. am [əm] ∼ ’m [m]
+Just like the homophonous suffixes, the clitics [z] and [d], (4a–b), are not sensitive to the distinction between vowels and consonants, so they cannot be used as a test. The distribution of [m], (4e), is very limited (it occurs only in I’m [ajm] ∼ [am]), so it is also useless for our purpose.
+   This leaves us with two clitics, have [v] and will [l]. English words regularly do not end in a checked vowel, but unstressed function words may do so, providing us with examples of the two relevant nonsyllabic clitics after a (checked) vowel. The stressed variant of the same pronouns end in a free vowel or a glide, depending on the analysis. In (5), I also give some examples with a real consonant preceding the clitic.
+(5) Nonsyllabic clitics
+	after vowel	after glide	after consonant
+we’ve
+wiv
+wijv
+will’ve wiləv
+they’ve
+ðev
+ðejv
+can’ve kənəv
+I’ve
+av
+ajv
+
+you’ve
+juv
+juwv
+
+we’ll they’ll
+wil ðel
+wijəl ðejəl
+J-ohn’ll dʒonəl
+I’ll
+al
+ajəl
+
+you’ll
+jul
+juw(ə)l
+
+As expected, the nonsyllabic allomorph of both clitics occurs after a vowel, but the nonsyllabic allomorph of neither occurs after a “regular” consonant ([l] or [n] in our examples). The data in the middle column are variable, [v] may, while [l] may not occur after [j] (or after a diphthong, under the alternative analysis). This distribution mirrors monomorphemic word-final clusters: both [jv] and [wv] occur (e.g., eve, cave, dive, cove, move), [jl] is subject to epenthesis (e.g., file [fajəl], fail [fejəl], etc.), [wl] is variable (e.g., owl, cool).
+   The distribution of the nonsyllabic allomorphs of enclitics thus allows for both interpretations of these sequences, therefore there seems to be no conclusive evidence for analysing these sequences either as diphthongs or as vowelþconsonant sequences. In any case, we did not find obvious evidence for taking them to be diphthongs.
+
+^^^
+3. STRESSED AND UNSTRESSED VOWELS
+Vowel quality in English is related to stress. The general wisdom is that one vowel, schwa, only occurs unstressed, the other vowels may either be stressed or unstressed. There is some confusion about the use of the term “stress”, however. In many descriptions of English, this term is used synonymously with accent. It is certainly true that any vowel may occur without accent in English, but if we avoid the conflation of “stress” and “accent”, then a stressed vowel will be identical to a full vowel (and an unstressed vowel to a reduced vowel). In this terminology, which is what I follow in this paper, it is not the case that any vowel may be unstressed in English. In fact, all vowels in the inventory introduced in (3) occur stressed, but only a subset of that inventory occurs unstressed.
+   The set of reduced (or unstressed) vowels includes schwa and two further vowels, KIT and FOOT, transcribed as [i] and [u], respectively, by Jones (1917), and as [ɪ] and [ʊ] by Gimson (1962). The second vowel in each of the following words is unstressed and together they illustrate all the possibilities: comet [komət], comic [komik], communal [komjunəl]. All three vowels occur preconsonantally, as in these examples.
+   Word finally FOOT and GOOSE were in free variation earlier, with the latter gaining the upper hand. Jones transcribes value as [ˈvæljuː] with the alternant [-ju] added in brackets, implying it is the less frequent form (1917, xx), furthermore, he adds that for many words the variant with the short vowel is available, but not indicated in the dictionary (1917, xxx). We find this solution all the way up to the 14th edition (Gimson 1977). Both the 15th edition (Jones 1997) and the LPD (Wells 1990) lack the variant with FOOT altogether.
+   Word-final reduced KIT has also been replaced by a long vowel, FLEECE. This change is called HAPPY-tensing (Wells 1982). To parallel the name, let us call the former change VALUE-tensing.HAPPY- and VALUE-tensing are claimed to take place not only word finally, but in prevocalic position, too. Wells (1990), who uses the redundant Gimsonian system [ɪ]/[iː] and [ʊ]/[uː] for transcribing the high vowels KIT/FLEECE and FOOT/GOOSE, applies two further symbols to represent the transition from the pre-HAPPY/VALUE-tensing state of the language (where these words have [ɪ] and [ʊ]) to the post-tensing state (with [iː] and [uː]), the “transitional” symbols are [i] and [u]. Accordingly, he has create [kriˈeɪt], where [i] is an abbreviation for “more conservative speakers may have [ɪ] here, others have [iː]”, and statuette [ˌstætʃuˈet], where [u] is similarly an abbreviation for FOOT or GOOSE. Since these symbols only occur in unstressed position, that is, they represent reduced vowels, they could be called schwee and schwoo, respectively (Lindsey 2012b). Word finally Wells does not apply schwoo, since, as we have noted above, VALUE-tensing has completed in standard British English in this position. It is important to emphasize that [i] and [u] are not members of the vowel inventory, they are transcriptional abbreviations or, from a different point of view, archiphonemes.
+   
+^^^
+Thus in current British English the set of reduced vowels (the vowels that may occur in unstressed position) seems to have increased, in addition to schwa, KIT, and FOOT, it now also includes FLEECE and GOOSE. In fact, there is a sixth member of this set: GOAT. Jones claims that [ou] has an allophone [o] “in certain unstressed positions” (1917, xxxv). This vowel is represented by [ou], the italicized offglide is “optional”. It is most common before a consonant, especially at the end of what looks like a learned prefix, but elsewhere too: both positions are exemplified by automobile [ˈɔːtoumoubiːl]. We also find this symbol before a vowel (Genoa [ˈdʒenouə]). Interestingly, the word-final occurrence of this alternation is rather rare, Jones indicates it in fellow, but not arrow, borrow, hallow, window unless followed by a vowel-initial suffix or in a compound: fellow [ˈfelou] vs. arrow [ˈærou] vs. arrowy [ˈæroui], arrow-head [ˈærouhed].
+   British English underwent a vowel change that is relevant from our point of view, GOATfronting (or advancement, Wells 1982, 237). The shift of the first part of earlier [ou] into [əu] is already mentioned by Jones (1917), but it is given graphical recognition only much later by Gimson (1962), as [əʊ], and Jones (1967), as [əu]. With this change, the marginal reduced vowel [o], which was in free variation with [ə], has disappeared from dictionaries. It has been replaced by the canonical reduced vowel, [ə].
+   As a result, in current British English we have six reduced vowels. Three of the six checked vowels may occur in unstressed position: KIT ([i]), STRUT ([ə]), and FOOT ([u]); and three free vowels may also occur here: FLEECE ([ij]), GOAT ([əw]), and GOOSE ([uw]).
+   None of the R vowels, that is, the long monophthongs, may occur unstressed. This follows from universal tendencies of stressability. For example, Hayes claims that “CV counts as a light syllable. It is probable that long-vowelled syllables universally count as heavy; [... b]ut CVC syllables vary: in some languages they are heavy, in others light” (1995, 120). Accordingly, we can set up the stressability scale in (6), where “>” means the item on the left is more stressable than the one on the right.
+(6) The stressability scale
+VV$ > VC$ > V$
+All the vowels in the inventory I posit in (3) may be stressed (this is because schwa is claimed here to be equivalent to STRUT, cf. Fabricius 2007; Szigetvari 2018), but only a subset of them may be unstressed. Because of this, what we need is the opposite of the stressability scale, that is, an “unstressability” scale. This is given in (7).
+(7) The unstressability scale
+V$ > VC$ > VV$
+The scale shows that the R vowels (VV) are the least unstressable vowels, and indeed, in English they only occur stressed. We have mentioned above that free vowelþschwa sequences alternate with R vowels. However, this only occurs in stressed position, so idea may be [ajdıː], but India may not be p[ındiː], secure may be [sikjuː], but jaguar may not be p[dʒaɡjuː]. This follows from the nonoccurrence of long vowels in unstressed position.
+   But its quantity is not the only factor that determines the unstressability of a vowel. Not all checked vowels and not all free vowels may occur unstressed. Let us first look at the six checked vowels. They may be arranged in the format shown in (8).
+^^^
+(8) The checked vowels
+	“nonlow”	i	ə u	unstressable
+	“nonhigh”	e	a	o	not unstressable
+In defence of the indeterminate labels “nonlow” and “nonhigh” it must be noted that the vowels of the top line are not necessarily high, but they are certainly not low. Similarly, those of the bottom line are not all low, but certainly none of them is high. Kenstowicz (1997) shows that in some languages the stressability scale does not only involve quantity, but also quality. Put simply the more sonorous, that is, the more open a vowel, the more stressable it is. This is exactly what we find in English, too: the closer, less sonorous vowel of each pair, [i], [ə], and [u], may occur unstressed, the opener, more sonorous ones, [e], [a], and [o], may not. So opener vowels are less “unstressable” than closer ones. More concretely, they are not unstressable, while closer ones are. Thus the fact that [i], [ə], and [u] may occur in unstressed position in English, while [e], [a], and [o] may not follows from universals of language.
+   However, we have seen that some of the free vowels, traditionally classified as diphthongs, may also occur in unstressed position. We are going to examine them in the next section.
+4. UNSTRESSED FREE VOWELS
+We have seen that HAPPY-tensing is responsible for the creation of a word-final and prevocalic unstressed free vowel, FLEECE. Two further free vowels occur unstressed, GOAT and GOOSE. If we organize the free vowels as we have in (8) according to their first element, we get the arrangement in (9).
+
+^^^
+(9)	The free vowels
+	“nonlow”	ij	əw	uw	unstressable
+	“nonhigh”	ej	aj aw	oj	not unstressable
+If we do not accept it as a mere accident that the first element in the free vowels occurring unstressed is the same three checked vowels that occur unstressed, then the simplest explanation is that these are, in fact, the same three vowels, [i], [ə], and [u], followed by a consonant, [j] and [w]. But there are further arguments for this analysis.
+   In light of the unstressability scale of (7), HAPPY-tensing is a suspicious phenomenon. Why should an unstressed light syllable become heavy? The vowel in an unstressed syllable is expected to become “simpler”, shorter, closer, but not longer or a diphthong. I argue that HAPPYtensing is not the fortition of a vowel, rather it is the consequence of the generalization of a phonotactic constraint of English.
+   In the interpretation advocated in this paper, the input of this change is [i] and the output is [ij]. This change is the “fortition” of the vowel, only if [ij] is a diphthong, that is, a single unit. If, however, it is the short vowel, [i], followed by a consonant, [j], then this change is the epenthesis of a consonant. Word finally this consonant is epenthesized because word-final short vowels are dispreferred in English. Prevocalically, this consonant is epenthesized because prevocalic vowels (that is, hiatus) are also strongly dispreferred in English.
+   We have seen that stressed short vowels do not occur either word finally or prevocalically. In the accent described by Jones and Gimson, the unstressed short vowels [i] and [u] could occur in these positions: happy [hapi], India [ındiə], value [valju], jaguar [dʒaɡjuə], and unstressed [ə] can occur word finally, but not prevocalically. The constraint against short vowels in word-final and prevocalic position has been generalized to unstressed position, which triggers the insertion (or, in the case of [uw], the retention) of the glide after these two short unstressed vowels. Most importantly, in neither case does this change make the syllable heavy, which would entail that it is less unstressable. It is well-known that word-final consonants are not moraic in English, so the glide does not add to the weight of the final syllable in the changes from [hapi] to [hapij] or [valju] to [valjuw]. The glide that appears between two vowels, as in the changes from [ındiə] to [ındijə] or [dʒaɡjuə] to [dʒaɡjuwə], is an onset, hence it does not contribute to weight either. That is, the unstressed syllables involved in HAPPY-tensing and VALUE-tensing remain light, hence fully unstressable.
+   The appearance of a [j] and [w] after [i] and [u] in unstressed word-final and prevocalic position is thus the result of the extension of the constraint against short vowels in these positions. However, only if we analyse these two glides as consonants will they not contribute to the weight of the unstressed syllables they seem to appear in.
+   
+^^^
+On several occasions I have hinted at the fact that while in HAPPY-tensing a short vowel turned into a diphthong, or rather, as we now see, a short vowel, [i], followed by a consonant, [j], in VALUE-tensing it is a diphthong, that is, the short vowel [u] followed by the consonant [w] that did not lose its glide. The same holds for unstressed GOAT: this vowel is [əw] (or, rather, [ow]) historically, and it may lose its [w]. But this loss may never occur prevocalically, and even word finally, it is a rare event (e.g., fellow [feləw] ]). However, both unstressed GOOSE and unstressed GOAT may lose their glide before a consonant. So unite may be [juwnajt] or [junajt],volume may be [voljuwm] or [voljum]. We find similar alternations with unstressed GOAT (as we have already seen above in the case of Jones’s variable [ou]): obey [ə(w)bej], Eothen [ıjə(w)qen]. In fact, the glide is obligatorily dropped before an unstressed syllable: while stimulate varies, [stımju(w)lejt], stimulus does not, [stımju(pw)ləs]; advocaat [advə(w)kaː] vs. advocate [advə(pw)kət]. The distribution of the three unstressed free vowels is shown in (10).
+	(10)	The distribution of the unstressed free vowels
+
+_C
+_#
+_V
+ij
+no
+yes
+yes
+əw
+variable/no
+yes
+yes
+uw
+variable/no
+yes
+yes
+All members of the vowel inventory of English may occur before a consonant. In fact, it is probably universally true that the distribution of vowels may be curtailed word finally or prevocalically, but not preconsonantally. Yet, unstressed FLEECE fails to occur in this position and unstressed GOOSE and GOAT also may or must lose their offglide in preconsonantal position. Why should that be so?
+   I argue that this follows from the unstressability scale presented in (7). The three “diphthongs” [ij], [əw], and [uw] are heavy before a consonant, but light before a vowel and word finally only if they are vowelþconsonant sequences. Since the strings under discussion are expected to be high on the unstressability scale, but diphthongs, which are VV, are at the bottom of that scale, they had better not be analysed as diphthongs.
+
+^^^
+5. ALTERNATIONS IN UNSTRESSED POSITION
+Alternations of vowels are very common in unstressed position in English. The tendency is for both [i] and [u] to become [ə]. The alternations in (11) serve as examples.
+(11)
+Alternations in unstressed position
+
+
+
+a.	chicken [tʃıkin] ∼ [tʃıkən]
+b.
+stimulus [stımjuləs] ∼ [stımjələs]
+
+purchase [pəːtʃis] ∼ [pəːtʃəs]
+
+accurate [akjurət] ∼ [akjərət]
+
+event [ivent] ∼ [əvent]
+
+conjugal [kondʒuɡəl] ∼ [kondʒəɡəl]
+element  [eləmənt] deputy [depjutij] ∼ [depjətij] amulet [amjulit] amjulət] amulet [amjulət] ∼ [amjələt] While many instances of unstressed [i] and [u] alternate with [ə], certain word-final consonants block this alternation, they “protect” the quality of the preceding vowel. Examples are provided in (12).
+(12)	No alternation in unstressed position
+a.	polish [poliʃ]	b.	vacuum [vakjuwəm] ∼ [vakjuwm] ∼ [vakjum] ostrich [ostritʃ]	volume [voljuwm]	oljum] manage [manidʒ]
+attic [atik]
+Danzig [dansiɡ] viking [vajkis]
+Unstressed [i] is stable before word-final palatal and velar consonants. Unstressed [u] is stable before the word-final labial consonant [m], but it does not occur before other labial consonants, [p], [b], [f], or [v]. The coronal [n], for example, does not inhibit the preceding unstressed vowel vowel ending up as schwa: fortune [foːtʃuwn] ∼ [foːtʃən].
+   If unstressed [ij] and [uw] are [i] and [u] followed by the glides [j] and [w], respectively, as argued here, their stability follows from the palatal and labial consonant following the unstressed vowel.
+
+^^^
+6. CONCLUSIONS
+I argue that there are several reasons to analyse unstressed FLEECE, GOAT, and GOOSE as KIT, STRUT, and FOOT, respectively, followed by the consonant [j] in the first case, and the consonant [w] in the latter two. On the other hand, there is no reason to take these sequences to be diphthongs: we have seen that suffixes or clitics do not provide evidence for such an analysis. In fact, if they are taken to be diphthongs, then we encounter a rather unexpected vowel strengthening in unstressed position (known as HAPPY-tensing). In Szigetvari (2016), I look at English vowels in stressed position too and come to the same result. In the present paper, I survey evidence provided by these vowels in unstressed position. The reasons for analysing unstressed [ij], [əw], and [uw] as VC, not as VV are the following:
+1. the first parts of [ij], [əw], and [uw] are identical to the three unstressable short vowels, [i], [ə], and [u];
+2. the change of word-final and prevocalic [i] into [ij] in unstressed position makes sense only if [ij] is VC;
+3. the optional or obligatory loss of [w] from unstressed [əw] and [uw] in preconsonantal position makes sense if they are VC;
+4. the stability of [i] and [u] before the homorganic glides [j] and [w] is parallelled by thestability of the same unstressed vowels before a homorganic consonant.
+
+
+
+
+
+
+
+
+
+
+
+
+

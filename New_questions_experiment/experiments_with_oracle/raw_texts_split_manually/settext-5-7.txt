@@ -1,0 +1,14 @@
+
+7.5. RHYTHM 
+7.5.1. The Rhythmic Foot 
+— The way stressed syllables follow each other in the “head” of the tone-unit is called rhythm. The unit of English rhythm is the rhythmic foot.8 A foot is a stressed syllable plus the unstressed syllables that follow it. Each tone unit is made up of one or more such feet. The first foot may be incomplete, consisting of unstressed syllables only: this is pre-head. The last foot always begins with the tonic: this is the tonic foot (consisting of tonic + tail). 
+    The following sentence is a tone-unit consisting of five feet. (Foot boundaries are shown here with a vertical line. The missing stress in the pre-head is shown by ^.) 
+| ^ We de|′cided to |′come |′back in Oc||to ber. | 
+Rhythmic feet need not coincide with words or grammatical structures. There exist feet like “cided to”  or  “back in Oc“. 
+
+ 
+ 
+7.5.2. The Rhythm Rule: stress-deletion 
+When three stresses come too closely together, English tends to delete the middle one to make the rhythm smoother. This is called the Rhythm Rule. The deletion means that the syllable is downgraded from 2ry to 3ry stress. There are two subcases: in one case the deleted middle stress is a short word (nice old lady); in the other it is the second stress of a word having a 2ry+1ry lexical stress (afternoon tea). 
+ 
+ 

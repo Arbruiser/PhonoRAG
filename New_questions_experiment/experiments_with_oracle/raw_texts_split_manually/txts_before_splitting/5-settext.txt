@@ -1,0 +1,687 @@
+﻿7.1. WHAT IS PROSODY? 
+Prosody in linguistics means the study of stress, rhythm and intonation in units larger than the word. The elements of prosody are also called suprasegmentals because they appear “above” the segments. 
+    Stress means pronouncing the syllable louder than others. Intonation, on the other hand, means the “melody” – falling or rising – with which the sentence is spoken. Observe how we can change one without changing the other: 
+
+(1) 
+Main stress on last word 
+(2) 
+Main stress earlier 
+(a) Falling intonation 
+(1a) 
+ She ′spent a ′year in the  forest. 
+(2a) 
+She ′spent a SYEAR in the forest. 
+(b) Rising intonation 
+(1b) 
+′Did she ′spend a ′year in the ′forest? 
+(2b) 
+′Did she ′spend a ′YEAR in the forest? 
+All combinations exist, proving that stress and intonation are independent variables, both having distinctive (contrastive, “phonemic”) value.  
+      Even though italics and punctuation may represent some prosodic features, it often happens that the same written sentence can be spoken with differing stress or intonation patterns. Ordinary spelling can only express some features of prosody, e.g. 
+She spent a year in the forest!  (emphatic stress on  year) 
+^^^
+7.2. THE END-WEIGHT PRINCIPLE 
+It is a general rule of English that if there is a sequence of equal stresses, the last must become the strongest. The prosodic “weight” of an utterance must be at the end: this is the EndWeight Principle. Observe the examples: 
+	new bóok  	 	 	Amanda Cóllinder  	 	sit dówn 
+	considerable expénses 	 	utterly destrúctive  	 	he criticized éverything 
+Unstressable function words (printed here in italics) do not count: 
+right in frónt of you – John dránk some – what I lóok for – Mary couldn’t dó it for me 
+Longer stretches of speech also obey the End-Weight Principle. The last (and therefore strongest!) stress is called the tonic. In the following sentence the tonic is underlined: 
+The children managed to carry the suitcases as far as the edge of the róundabout. 
+The End-Weight Principle is satisfied through a Tonic Assignment Rule: 
+Tonic Assignment Rule 
+	1  1 → 2  1 	= of several primary stresses, downgrade each to secondary, 
+except the last, which will be the tonic. 
+Example:    1  	1	1        1 	  → 	  2	2	2        1      Rachel was happy to cycle home 	Rachel was happy to cycle home 
+The same mechanism is at work in many compounds: 
+    1    1      →   2      1   1      1      1 →   2   2 1 
+photo montage photomontage second  world  war     Second World War 
+It follows that the “secondariness” of secondary stress is predictable: a secondary stress is actually a stress which is followed by another stress and has therefore been downgraded. Secondary stress is thus an “allophone” of primary stress. Lexically, we may represent words like reformation, satisfactory, sardine with two equal “primary” stresses: 
+     //ˈrefəˈmeɪʃən// //ˈsætɪsˈfæktəri// //ˈsɑ:ˈdi:n// because the Tonic Assignment Rule will turn the first stress into secondary anyway: /ˌrefəˈmeɪʃən/  /ˌsætɪsˈfæktəri/ /ˌsɑ:ˈdi:n/ 
+We conclude that primary and secondary stress in an allophonic relationship (complementary distribution), and can be seen as two realizations of the same thing: stress (or “major stress”) 
+^^^
+7.2.1. Stress Degrees in connected speech 
+The effects of the End-Weight Principle are well known in the analysis of word stress: – if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1
+– strong-unstressed syllables (fórmat /-mæt/, diréct /daɪ-/) are also called “tertiarystressed” because their vowel does not reduce (as it would in completely unstressed syllables like sálad /-ləd/ or Óxford /-fəd/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not “see” them: they can never become 1ry-stressed.  
+We conclude that in prosody there are only two phonologically relevant stress degrees: 
+stressed (1ry or 2ry) and unstressed (3ry or zero). 
+STRESS DEGREES 
+example (underlined) 
+urbanization 
+/ˌɜ:bənaɪˈzeɪʃn/ 
+urbanization /ˌɜ:bənaɪˈzeɪʃn/ 
+urbanization 
+/ˌɜ:bənaɪˈzeɪʃn/ 
+urbanization 
+/ˌɜ:bənaɪˈzeɪʃn/ 
+word-level: 
+primary str. 
+secondary str. 
+tertiary str. 
+zero str. 
+prosodic: 
+s t r e s s e d 
+(= major-stressed) 
+u n s t r e s s e d 
+	(strong)       	          (weak) 
+We shall occasionally mention (and indicate) secondary stress, but generally we shall just speak of stressed and unstressed syllables – or, more simply, stressed and unstressed words (meaning that their primary-stressable syllable is stressed or unstressed). 
+
+^^^ 
+ 
+7.3. COMPOUND WORDS 
+ 
+A compound is a lexical unit (a lexeme) made up of two or more free stems (= words), e.g. gréenhouse, to ill-tréat, car ferry, unemployment benefit. Compounds usually have a specialized meaning: a bláckbird is a special type of bird, not any bird that is black. Compounds behave as units from the point of view of grammar (syntactically) and meaning (semantically).  
+ 	From a phonological point of view there are two types of compound:  
+ 	 initially-stressed compounds, pattern  #  1  #  3  # 
+ 	 	primary stress on the first element: gréenhouse, cár ferry, compúter virus 
+ 	 finally-stressed compounds, pattern #  2  #  1  # 
+  primary stress on the second element: trade únion, fruit sálad, Victoria Státion The type depends on the syntactic relationship between the two elements, their frequency, or degree of lexicalization. The meaning or communicative “importance” of the elements is not decisive. 
+ The spelling of compounds in English is not consistent. Some are written as one word (gréenhouse), some with a hyphen (wòrd-fínal), but the majority are written as two words (cár ferry, geógraphy teacher, dòuble chín). The latter may be called “invisible compounds”, since the spelling does not show that they are compounds.2 
+ When two words are just an ordinary phrase (new book) and not a compound, both elements are stressed, the second has the primary stress according to the End-Weight Principle. Observe the examples, where (a) and (b) have the same stress pattern, while (b) and (c) are compounds: 
+ 	a. (We are using a) néw bóok.  
+– phrase; finally-stressed by End-Weight Princ. 
+ 	b. (I’ll make some) fruit sálad. 
+– compound, finally-stressed 
+ 	c. (We drove to the) cár ferry.  
+– compound, initially-stressed 
+ 
+ ^^^
+7.3.1. Initially-stressed compounds  
+These sound like one word: the first element carries the stress. This pattern is the same as in Hungarian, German, and many languages (e.g. telefonnévjegyzék). The second element is downgraded to 3ry stress. This is expressed by the following rule: 
+(3) Compound Stress Rule 
+#  1  #  #  1  #  →  #  1  #  3  # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level. 
+ 
+Examples for initially-stressed compounds, with the stressed element underlined: 
+• NOUNS: gréenhouse, cár ferry, scréensaver, cán-opener, a búyout, a wríte-off, shóplifting, Cánon Street, páperback, páperback writer, lánguage teaching,  nemplóyment benefit 
+• ADJECTIVES: wáterproof, fún-loving, chócolate coloured, súnlit 
+• VERBS: to báby-sit, to héadhunt, to bélly-dance, to áir-condition, to whítewash 
+ 
+Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: póst|man /-mən/, wél|come /-kəm/, nónsense /ˈnɒnsəns/,  Éngland /ˈɪŋglənd/,  Jóhnson /ˈdʒɒnsn/. These are called “obscured” compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word. 
+ 
+ ^^^
+7.3.2. Finally-stressed compounds  
+In these the second element is primary-stressed, the first element has secondary stress, e.g. tràde únion, Victòria Státion. They sound like two words, their stress pattern is identical to a phrase (n w bóok,  mànda’s fáther). We give some examples for finally-stressed compounds, with remarks on the semantic or syntactic relationship between the elements: 
+ 
+ The compound is a NOUN: 
+– the “Y is (made) of X” relationship:  brìck wáll,  fr it sálad,  potàto crísps,  r bber bóots,  gàs fíre 
+– the “Y is (an) X” relationship:  
+     tòy sóldier,  twìn bróther,  wòman wríter,  bòy scóut,  quèen bée,  chìld áctor – names of places (but not those ending in “Street”, which are initially-stressed!):  
+     Victoria Státion,  Cròmwell Róad,  Fìfth Ávenue,  Cèntral Párk,  Hèroes’ Squáre – various others:  
+Sòcial Démocrat,  blàck márket,  lìving condítions,  trade únion,  Còca Cóla,  wèekénd3 
+– “initialisms” (letters pronounced as their alphabetical names): DJ /ˌdi: ˈdʒeɪ/, etc. 
+• The compound is an ADJECTIVE:  èasy-góing,  dìrt chéap,   ser-fríendly,  d ty frée,  dàrk brówn – the second element is a Past Participle: 
+bàd-témpered,  clèar-cút,  àbsent-mínded,  well-desérved 
+• The compound is an ADVERB:4  hèad-fírst,  dòwnstréam,   pstáirs,  òffhánd,  wèll-óff,  wày óut,  fàr awáy,  Nòrth-Éast  The compound is a VERB: 
+to dòwngráde,  to cròss-exámine,  to òutnúmber,  to òversléep,  to ìll-tréat. 
+ 
+ There are no clear-cut rules as to which compound is finally-stressed and which initiallystressed:5 this is a lexical property of the given compound. The following guiudelines must be remembered: 
+(a) if the compound expresses the idea of “for...” (an object relationship), it is initiallystressed.  
+(b) if the compound it expresses the idea of “is a...”, “is made of...”, “is characterized by...” (a subject relationship), it is finally-stressed.5 
+ 
+a   Énglish teacher (teaches English; object)  
+a   páper bag  (bag for putting paper in) 
+b    nglish téacher (she is English, subject)  
+b   pàper bág  (the bag is made of paper) 
+a   tóy factory  (it makes toys, object) 	 
+a   drínking water  (we drink it; object) 
+b   tòy sóldier  (the soldier is a toy, subject)  
+b  r nning wáter  (the water runs; subject) 
+But in many cases such a semantic or logical explanation is not easy to find, and the two types of stressing seem to be arbitrary, i.e. lexical, and have to be memorized as part of the pronunciation of the compound. 
+ 
+SUMMARY TABLE OF COMPOUNDS 
+ 
+phrase 
+ 
+compound,  
+finally-stressed 
+compound, 
+initially-stressed 
+obscured 
+compound 
+ 
+new bóok 
+trade únion 
+cár ferry 
+Éngland 
+Is it a  grammatical word? 
+NO 
+YES 
+YES 
+YES 
+Is it a  phonological word? 
+NO 
+NO 
+YES 
+YES 
+Is the second  element de-stressed? 
+NO 
+NO 
+YES 
+YES 
+Is the second  element reduced? 
+NO 
+NO 
+NO 
+YES 
+ 
+We have included “obscured compounds” for the sake of comparison, but phonologically they do not count as compounds because their final element is reduced, i.e. not a free stem. 
+ ^^^
+ 
+7.4. THE TONE-UNIT 
+ 
+A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. 
+ 	The tone-unit has the following parts:  
+– Pre-head: the unstressed syllables before the first stress (We de-). 
+– Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-). 
+
+– Tonic: the last stressed syllable (-to-). – Tail: anything after the tonic (-ber).
+We de- 
+′cided to ′come ′back in Oc- 
+
+to- 
+ber. 
+Pre-head 
+Head 
+Tonic 
+Tail 
+non-obligatory 
+non-obligatory 
+obligatory 
+non-oblig. 
+no stress 
+stress(es) 
+stress 
+no stress 
+incomplete foot 
+one or more feet 
+one foot 
+T O N E - U N I T 
+
+Many tone-units are not complete sentences. In the list below; each row is a tone-unit. Observe their parts. Only the tonic is obligatory, the other parts may be missing. 
+Pre-head 
+Head 
+Tonic 
+Tail 
+We de- 
+′cided to ′come ′back in Oc- 
+
+to- 
+ber. 
+
+′Jeremy ′played the gui- 
+
+tar, 
+
+but the 
+′others ′weren’t 
+
+li- 
+stening. 
+I re- 
+
+
+mem- 
+ber. 
+In 
+′front of the ′Swan 
+
+The- 
+atre, 
+there’s an in- 
+′credibly ′ugly 
+
+pe- 
+trol station. 
+
+′Not on ′top of the 
+
+car, 
+please! 
+
+′Jim was ′interested in 1inter′national 
+
+law. 
+
+
+
+
+No. 
+
+I 
+′think A′manda should ′write ′Jennifer a 
+
+le- 
+tter. 
+
+′Unbe- 
+
+lie- 
+vable! 
+A- 
+′manda was up′set because ′John had ˌdisa- 
+
+ppeared. 
+
+In connected speech the general rule is to stress every content-word, and leave function-words unstressed. For example: 
+I ′think A′manda should ′write ′Jennifer a ′letter. 
+/aI 0FINk ə0mAndə Səd 0raIt 0dZenIfər ə 0letə/ 
+When we say that “a word is stressed”, we mean that the primary-stressed syllable of that word is stressed. The place of stress within the word is not important now, that is a lexical question (Chapter 6). In this chapter it will be practical to indicate stress with separate stress marks (as in transcription), rather than with accent marks above vowels. So instead of  mánda, Jénnifer we will write  ′manda, ′Jennifer, etc. Of course the two notations are equivalent. 
+English Phonological Analysis  Chapter 7  PROSODY (Autumn 2013)
+    While in isolation (as in a dictionary) one-syllable words (think, write) need not get a stress-mark, in connected speech they, too, must be stress-marked if actually stressed. Certain unstressed function-words have their “weak form” (here should /ʃʊd/ weakens to /ʃəd/). 
+    Punctuation (dots, commas, apostrophes, etc.) and capital letters are not shown in transcription. The only thing shown is the space between words. 
+    Content-words are the four major word classes: nouns, verbs, adjectives, and adverbs (including adverbial particles like up in get up). Numerals (e.g. two), interrogative and demonstrative pronouns (e.g. who?, this), and negative words (e.g. not, couldn’t) are stressed like content-words. Function-words are all others: auxiliaries, most pronouns, articles, and conjunctions. Note that prepositions (e.g. with, along) also behave like function-words.6
+The tonic 
+We have seen the working of the End-Weight Principle: if a longer word has several stresses, the last one is the strongest (the primary, as in j stificátion). Similarly, in an English sentence the last stressed word has the strongest stress, called the tonic. The tonic is, properly speaking, a syllable (since stress is always attached to a syllable), but we will often refer to the tonic-bearing word as “the tonic word” or simply “the tonic”.7 For example, in We met in October, the tonic is really the syllable -to-, but we may also express this by saying that October is the tonic: We met in October. 
+    In transcription it is not necessary to show the tonic specially, since it is by definition the last stress. If necessary, the tonic can be highlighted by underlining the syllable (or the word that contains it), and by placing an arrow in front of the tonic syllable (I or  , depending on whether the voice falls or rises there). 
+^^^
+7.5. RHYTHM 
+7.5.1. The Rhythmic Foot 
+— The way stressed syllables follow each other in the “head” of the tone-unit is called rhythm. The unit of English rhythm is the rhythmic foot.8 A foot is a stressed syllable plus the unstressed syllables that follow it. Each tone unit is made up of one or more such feet. The first foot may be incomplete, consisting of unstressed syllables only: this is pre-head. The last foot always begins with the tonic: this is the tonic foot (consisting of tonic + tail). 
+    The following sentence is a tone-unit consisting of five feet. (Foot boundaries are shown here with a vertical line. The missing stress in the pre-head is shown by ^.) 
+| ^ We de|′cided to |′come |′back in Oc||to ber. | 
+Rhythmic feet need not coincide with words or grammatical structures. There exist feet like “cided to”  or  “back in Oc“. 
+
+ 
+ 
+7.5.2. The Rhythm Rule: stress-deletion 
+When three stresses come too closely together, English tends to delete the middle one to make the rhythm smoother. This is called the Rhythm Rule. The deletion means that the syllable is downgraded from 2ry to 3ry stress. There are two subcases: in one case the deleted middle stress is a short word (nice old lady); in the other it is the second stress of a word having a 2ry+1ry lexical stress (afternoon tea). 
+ 
+ ^^^
+7.5.2.1. Rhythmic stress deletion (“nice old lady” rule) 
+When three stresses come closely together, with maximally one unstressed syllable between them (ˈnice ˈold ˈlady), the middle one of the three stresses may optionally be deleted (“destressed”) to make the rhythm smoother: ˈnice old ˈlady. Such de-stressing does not depend on the meaning or grammatical role of the word affected, just the rhythmic pattern  
+ In the examples below all stresses are underlined. The deleted middle stress (downgraded to 3ry) is shown with a small circle (o). 
+ 	 	three stresses close together  
+Medial Stress-Deletion 
+ 	 	      a ′nice ′old ′lady  	→ 
+     a ′nice  oold ′lady 
+ 	 	        ′very ′nice ′people 	→ 
+       ′very  onice ′people 
+ 	 	  my ′son ′speaks ′Hindi 	→ 
+ my ′son  ospeaks ′Hindi 
+ 	 	       ′John 1disa′ppeared 	→ 
+      ′John  odisa′ppeared 
+The deletion also happens in the middle of very long words which have two secondary stresses before the primary: 
+ 	 	 	ˌpsychoˌana′lytical 	 	→ 	1psycho oana′lytical 
+ 	 	 	ˌundeˌnomi′national  	→ 	1unde onomi′national 
+In We de′cided to ′come ′back in Oc′tober, stress deletion is not normal because though there are two stresses (come, back) next to each other; there isn’t a third stress close enough. 
+ Medial Stress-Deletion causes short content words to lose their stress, or a secondary stress to be lost in the middle of a longer word (or finally-stressed compound). The result is the deletion of a foot, as the de-stressed word now becomes attached to the previous foot. Observe the examples: 
+ 
+ 	 foot1 	foot2  foot3  	   foot1  	foot2  
+ 	|  nice      |  old  |  lady  |       → |  nice old     |  lady  | 
+ 	|  psycho-|  ana- |  lytical |     → |  psychoana-|  lytical | 
+ 	|  North   |  Sea  |  oil   |         → |  North Sea  |  oil   | 
+ ^^^
+ 
+7.5.2.2. Stress-shift (“afternoon tea” rule) 
+If a word with two stresses (e.g. 1after′noon) is immediately followed by a stressed word, three stresses fall closely together: 1after′noon ′tea. This is subject to the Rhythm Rule, which deletes the middle stress: ′afteronoon ′tea. But as a result, the original [2 0 1] stress pattern of the 
+English Phonological Analysis  Chapter 7  PROSODY (Autumn 2013)
+word 1after′noon is replaced by a [2 0 3] stressing ′afteronoon. The word’s lexical primarystressed syllable (noon) is degraded to strong-unstressed (tertiary) status.This gives the impression that the major stress in the word has “shifted” leftwards to the place of the secondary, and instead of the normal /ˌɑ:ftəˈnu:n/ we now have /ˈɑ:ftənu:n/.  
+    Due to this Stress-Shift, the stressing of many longer words or compounds is variable, depending on whether they are followed by a stressed word or not.9 Stress-Shift is most frequent in adjectives and nouns in attributive position, but it can affect practically any word that has two stresses. Examples: 
+	1Japa′nese  →  ′Japa onese ′garden; 	1demo′cratic  →   ′demo ocratic ′country 
+	1unde′clared  →   ′unde oclared ′goods 	to  1de′ice  →  to  ′de oice ′everything
+It may also hit the second element of a finally-stressed compound, causing the compound to sound initially-stressed. For example, 1North ′Sea, when followed by óil, loses the stress on Sea and appears with shifted stress as ′North Sea.  
+	1North ′Sea  →  ′North  oSea ′oil 	1New ′Year  →  ′New  oYear’s ′Eve 
+	1duty ′free  →   ′duty  ofree ′goods 	1World ′War  →  ′World  oWar ′Two 
+The two applications of the Rhythm Rule, Medial Stress-Deletion and Stress-Shift, are basically the same: they eliminate a stress between two other stresses. They have no communicative significance: they are not applied to emphasize any part of the message. They are mechanical means to ensure a smoother rhythm in speech. Observe: 
+	       2    2    2	2      2     1 	→ 	       2    3    2          2        3    1 
+We had a nice old lady for afternoon tea. 	We had a nice old lady for afternoon tea. 
+^^^
+7.6. TONIC PLACEMENT 
+ 
+This section will examine the rules for tonic placement, that is, choosing the word that receives the strongest (= last major) stress in a tone unit.10 The place of the tonic can be neutral11 (i.e. unmarked), or dislocated (i.e. marked, typically contrastive). The neutral tonic has no special communicative value, and is prescribed by general rules. The dislocated tonic is placed by the speaker on some other word than where it would normally fall, in order to express some communicative surplus by highlighting some element. 
+
+7.6.1. Neutral Tonic 
+ 
+7.6.1.1. On the last content word 
+The neutral tonic falls on the last content-word of the tone-unit. This is the Last ContentWord Rule. If the last words are function-words, they remain unstressed because these are not “tonic-bearing”. The neutral tonic is mechanically assigned: the tonic need not be the most “important” or communicatively most informative word. For example: 
+ 
+ 	′Pat’s ′father is an ex′tremely ′rich  man. 	 	I ′hope you can rermember them. 
+ 	A′manda ′made some de′licious ′fruit fsalad.  	′What was your umubrella like?  	′Turn ′left towards the  car ferry. 	 	 	They ′couldn’t .wait for us. 
+ 
+ 
+7.6.1.2. On a function-word 
+The neutral tonic may, in well-defined cases, fall on some function word. We will discuss only two of these cases: neutral tonic on an auxiliary, and on an adverbial particle. 
+
+ Neutral tonic and auxiliaries. An auxiliary (including the finite forms of be, do, have) has the tonic if there is no further stressable word in the sentence: ′Yes, we )may.  –  ′Jim ′always .does. – This includes questions where the auxiliary is followed by its unstressed personal pronoun subject: ′How ex′pensive .is it?  –  ′Where  am I?  –  ′How  are you? 
+However, when a sentence-final auxiliary is preceded by its own stressed subject, the tonic falls on the subject and the auxiliary is unstressed (but strong, i.e. tertiary-stressed!): 
+ 	You ′play ′better than  Joe does. 	 	I ′wonder ′when the eexam will be. 
+ 	′That’s the ′pub where my  friends are. 	It ′fits me ′better than .yours would. 
+A final auxiliary is never reduced to zero stress.  
+ 
+Neutral tonic and adverbial particles. An adverbial particle12 forms part of a phrasal verb: 
+get up, put off. The particle has no weak form, and is usually stressed:  
+ 	You should ′get ′up before  six. – I ′couldn’t ′ring you ′back on  Tuesday. 
+ Sentence-finally (possibly followed by non-stressable words), it can have two kinds of stressing: 
+(a) It is tonic-bearing after a verb or after an unstressed pronoun: 
+ 	′Get  up! 	 	′Please ′put that !down. 	    The ′meeting was ′called .off.  	′It’ ˈhard to ˈget .out of it. 	 	′Shall I ′wrap one  up for you? 
+(b) It is unstressed after a noun. This is the only case when a final adverbial particle is unstressed: 
+ 	′Take your  coat off! 	 	 	 	′Tim’s ′got to ′call his !mother back. 
+ 	′Please ′put that  gun down. 	 	 	′Liz ′promised to ′put the .children up. 
+The verb before the particle may lose its stress due to Medial Stress-Deletion, as break in The ′car ′didn’t obreak  down. A phrasal verb is thus stressed either on both components (′get 
+′up), or on the particle only (get ′up). 
+ Let us remark that prepositions behave differently from adverbial particles in syntax as well as in prosody. Laugh at, deal with, sit on are Prepositional verbs13 (verbs requiring a prepositional complement), while call off, break up, put on are Phrasal Verbs (Verb + Adverbial Particle). There is a syntactic differene: I [put on] the hat – I sat [on the hat]. A preposition normally appears in a reduced (“weak”) form, while adverbial particles have no weak form. The words at, for, from, of, to, with, without are only used as prepositions, never as adverbial particles, while other words (up, off, etc.) can function as either. 
+ 	A phrasal verb may be followed by a preposition, e.g. hang on to (‘insist’), get away with 
+(‘escape’), go in for (‘enjoy’). The stress of such combinations follows the rules outlined so far: the adverbial particle is stressed, the preposition unstressed. Examples: 
+ 	′Don’t hang ′on to this ′stupid iidea. 	 	′Don’t hang .on to it. 
+ 	′What is he ′hanging  on to? 	 	 	′Don’t hang ′on to  THAT! 
+ 
+ ^^^
+7.6.2. Dislocated Tonic Placement 
+In order to focus some part of the message, to contrast it with something, or to highlight it as new information, the tonic may be dislocated, i.e. placed elsewhere than the neutralplacement rules would prescribe. Compare: 
+(a) She spent a year in the Sforest.  	– neutral tonic placement 
+(b) She spent a SYEAR in the forest. 	– dislocated tonic placement 
+A dislocated tonic need not be louder than the other stresses – it is just earlier or later than it would be in the neutral stress pattern. (In the following examples the dislocated tonic is printed in CAPITALS.) 
+ In everyday life people use the word “stress” exactly for this kind of emphasis, and not for the syllabic prominence that “stress” means to the linguist. People say: The headmaster stressed that our school was a traditional one, meaning that he laid special emphasis on tradition. (The same is done in Hungarian, where the everyday meaning of “hangsúly(oz)” is similarly “emphasis, emphasize”:  z igazgató hangsúlyozta...). The layman would say that in sentence (a) above we “didn’t stress anything”, while in (b) we “stressed” that it was a whole year. From a linguistic point of view, the word year is stressed in both (a) and (b); but in (b) it is made emphatic by receiving a dislocated tonic. 
+ 
+ 
+7.6.2.1. Dislocated tonic for contrast 
+The tonic may be dislocated in order to contrast one element (a word, a morpheme, or a grammatical feature, like tense). 
+ 
+ (A) LEXICAL CONTRAST  
+A frequent case of dislocated tonic placement is lexical contrast, when the speaker emphasizes a word which is earlier than the tonic. For example 
+ 	 	Jane  BOUGHT three rabbits at the market.  (She did not sell them.) 
+ 	 	Tim was so drunk he literally  CRAWLED out of the pub.  (instead of walking) 
+Even the verb be can be lexically contrasted: 
+ 	 	(She sounds Welsh to me.) — ′That’s beˈcause she  IS Welsh. 
+ 	 	(It tasted like bad wine.)  —  It  WAS bad wine. 
+ 
+ (B) VERBAL CONTRASTS: MODALITY AND YES/NO POLARITY  
+Another type of contrast that we express with a dislocated tonic concerns the mood, tense, or positive/negative value (the “polarity”) of the verb. The two sentences below show these three types of difference: 
+(a) Tim will enjoy the perpformance.  (neutral tonic)  	 	 	(indicative mood, future tense, positive polarity) 
+(b) Tim TWON’T enjoy the performance. 
+ 	 	 	(indicative mood, future tense, negative polarity) 
+This is not lexical contrast since the verb (enjoy) is the same: the speaker is not contrasting one verb with another, but is contrasting the accompanying values of the same verb. In modality and polarity contrast, the dislocated tonic always falls on an auxiliary. If there is no auxiliary (in the simple present or past), the auxiliary do has to come in to bear the tonic. 
+
+ (i) Verbal modality (mood and tense) contrast  
+“Mood”, for our purposes, includes not only indicative and conditional, but also meanings expressed by the modal auxiliaries (can, could, ought to, etc.). The category “tense” covers all verbal categories including aspect like continuous (= progressive), passive, etc. 
+ 
+ 	(Has Sue gone to France?) — No, but she  MIGHT go. 
+ 	(When will the students write the application?) — They  ARE writing it. 
+ 	(Why don’t you try the cheesecake?) — I  HAVE tried it, thanks. 
+ 	(I think Tim works at a hospital.)  —  He  DID work there (...but doesn’t any more).  	(You should use this dictionary.)  —  We  DO use it. 
+ 	(Shouldn’t Joe study classical music?) — He  DOES study classical music. 
+ 
+ (ii) Yes/No polarity (positive/negative) contrast  
+The other type of non-lexical contrast in verbs concerns “polarity”, namely, positive (= affirmative) versus negative meaning. Polarity contrast (answering “yes” to “no”, or vice versa) is again achieved by placing the tonic on the auxiliary: 
+ 
+ 	(Sue can learn it on her own.) — She  CAN’T learn it on her own.  	(You can’t come in because you’re not members.) — We (ARE members. 
+ 	(I’m glad you’ve bought the tickets.) — We  HAVEN’T bought them. 
+ 	(You don’t like fish and chips, I suppose.) — I  DO like fish and chips. 
+ 	(It’s a shame you didn’t write to Liz.) — I  DID write to her. 
+ 
+Remember that do- forms or other auxiliaries are not needed in cases of lexical contrast, where the verb itself must be stressed: 
+ 	 	(Was Tim ill in hospital for so long?) — No, he  WORKED there. 
+ 	 	(Why don’t you throw away this old dictionary?) — We  USE it! 
+ 	 	(Joe teaches classical music, doesn’t he?) — He  STUDIES classical music. 
+ 
+ ^^^
+7.6.2.2. Dislocated tonic for highlighting new information 
+The speaker may consider some part of his sentence as “old” information, known both to him and the listener. If this old information is at the end of the sentence, the speaker will de-stress the words which express it, and move the tonic leftwards to the (end of the) “new” information. In such cases there is no contrast or emphasis involved; the tonic-bearing word is not opposed to anything, it is just highlighted as new. 
+ In the examples below the old information is printed in italics; the DISLOCATED TONIC which highlights the (last stress of the) new information, is capitalized: 
+ 
+ 	(Was the headmaster angry about it?) — I ′didn’t  SPEAK to the headmaster. 
+ 	(We only serve Indian food here.) — I  WANT Indian. 
+ 	(My wife comes from Singapore.) — Oh, I ′grew  UP in Singapore! 
+Sometimes the fact that the information is “old” (= “given”) is only obvious from the situation or from the hearer’s knowledge of the general background: 
+ 	 	′Here’s the CCD I promised to bring you. 
+ 	 	(Leeds is a very busy town.) — I know, my  PARENTS live there. 
+ 
+Anaphoric words de-stressed for old information 
+The speaker may, alternatively, choose to express the old information with unstressed content-words, usually synonyms or other words which refer to the things mentioned: 
+ 	(Why’s that man looking at you?) — I ′went to  SCHOOL with the guy. 
+ 	(Everyone was talking Chinese to me,) but I ′don’t  SPEAK the language. 
+ 	(Joe ran away) be′fore I could  ASK the idiot. 
+ 
+In all these cases the tonic counts as dislocated because it is not on the last content word. 
+ 
+ ^^^
+7.7. INTONATION 
+ 
+In the preceding sections we discussed one component of prosody: stress. We now turn to the other prosodic component: intonation. While stress concerns the loudness of syllables, intonation concerns their height, called “pitch” in linguistics.14 People easily confuse a high pitch with a loud stress: these often appear together, but are not the same (see the examples in 7.1). Intonation includes two things only: the melodies or “tones” (with their meanings and functions), and the division of speech into tone-units (that is, where one intonation pattern ends and the next one begins).15 
+ The pitch of the speaker’s voice is influenced by several factors. (a) natural factors (= “symptoms”) like sex and age: women and children have a higher pitch than men, and every person has a characteristic pitch; (b) paralinguistic factors: an excited speaker will use a higher pitch than someone who is tired or bored; (c) linguistic factors: the pitch may depend on whether the utterance is a question or a command, old or new information, encouraging or neutral. These linguistic factors belong to the field of intonation.  
+ Besides pitch, speech has other features like loudness and tempo, and is accompanied by gestures and facial expressions (sometimes called “body language”), all of which are important for communication, but do not form part of the linguistic system. 
+ 
+ ^^^
+7.7.1. The components of intonation 
+In speech the height of a given syllable is called pitch. In phonology the linguistically relevant (= “phonemic”) pitch changes are examined: this is what we call intonation. In every tone-unit, the last stress, the tonic, is accompanied by pitch change, i.e. the voice falls or rises on that syllable. The pitch-change attached to a tonic syllable is a tone. 
+ 
+The English tones 
+English has four phonologically distinct tones. One is falling, three are rising. 
+
+ 
+Intonation can be represented with lines actually depicting the rising or falling of the voice. The tone (= the pitch change on the tonic syllable) is shown with a thick line. 
+Example 1. Falling tone. 
+ 	 	 	high 	—————————————————  	 	 	mid 
+ 	 	 	low 	————————————————— 
+ 	 	 	 	 We de ′cided to  ′come  ′back in Oc  tober.  	 	 	 	{pre-h} {.......h......e......a......d........} {tn}{tl} 
+The following points deserve comment: 
+– The pre-head (We de-), containing only unstressed syllables, is spoken at a low pitch.  
+– The head (-cided to come back in Oc-) begins with a high pitch, and gradually becomes lower as we proceed towards the tonic (“downdrift”).16 
+– The tonic syllable (-to-) has the only radical pitch change: the tone starts here. The height of the voice suddenly changes on this syllable. (Our example has a falling tone). 
+– The tail (-ber) adds nothing to the intonation, it simply continues where the tonic has pushed it (in this case at a low level). 
+ 
+Example 2. High-rising tone. The rise here is realized on one syllable (car), as there is no tail. There is no pre-head either. The head starts high, the pitch descends gradually as far as the end of the head; there the pitch suddenly breaks its descent, and rises from low to high on the tonic syllable: 
+   high —————————————    mid    low ————————————— 
+ 	 	 	 	   ′Did  you  ′park  the     car? 
+ The falling or rising nature of the intonation of a tone-unit is determined by the tonic. If the tonic has a falling tone, we call the whole intonation falling, no matter where it began or what happened in the pre-head or head. If the tonic is rising, we call the whole intonation rising, though the sentence may actually end on a lower pitch than where it began. 
+ 
+Downdrift 
+The gradual lowering of the pitch within the tone unit’s head is called downdrift.17 Downdrift itself does not count as falling intonation. Compare the examples again: the downdrifting heads are highlighted with parallel lines: 
+ 	 	 	 	————————————————— 
+FALLING INTON. 
+ 	 	 	 	————————————————— 
+ 	 	 	 	 We de ′cided to  ′come  ′back in Oc  tober. 
+ 
+ 	 	 	 	————————————— 
+HIGH-RISING INTON. 
+ 	 	 	 	————————————— 
+ 	 	 	 	   ′Did  you  ′park  the     car? 
+Both sentences have downdrift in their heads. However, the first sentence has falling intonation, the second rising, because their tonics are falling and rising respectively. 
+ 
+ 
+The intonation of the tail  
+If there is a tail, the tone spreads out over the tail: the syllables in the tail continue the movement set by the tonic.  
+ 	 	 	Falling tone:  	——————— 	 	——————— 
+
+ 
+ 	 	 	 	 	 
+ 	 	 	 	 	 
+ 
+ 	 	 	High-rising tone: 
+ 
+ 	 	 	 	 	 
+ 	 	 	 	 	 
+——————— 
+—Usually. 	 
+——————— 
+——————— 
+—Usually? 	 
+ 
+ 
+ 
+ 
+ 
+——————— 
+  Using  it. 
+——————— 
+——————— 
+   Using  it? 
+ 
+We see that when the tone is falling, the syllables in the tail continue low. When the tone is rising, the syllables in the tail continue to rise. The tail is thus not an independent factor in intonation. 
+ 
+ ^^^
+7.7.2. The four tones and their use 
+ 
+7.7.2.1. The falling tone 
+Form 
+The voice falls on the tonic from high (or mid) to low. If there is a tail, its syllables continue low. 
+ 	 	 	 	—————————————— 
+ 	
+ 	 	 	 	—————————————— 
+ 	 	 	 	   The   ′papers   ′aren’t    interesting 
+Function 
+The falling tone has the following functions/meanings: 
+(a) Definiteness. The fall is the most neutral intonation. In statements and commands it expresses definiteness and finality. It suggests that what we say is plain new information.  Statements: 
+ 	There ′isn’t e′nough Ttime. 	 	 	Her ′book was ′published in .French. 
+• Commands (serious, businesslike, not too polite): 
+ 	′Keep your ′door ′safely  locked. 	 	′Open your ′books at ′page fif.teen! 
+• Exclamations (to express surprise, etc.). 
+ 	′What a ′marvellous ′picture!  	 	′How ′utterly distgusting! 
+(b) Wh-questions. The fall is used for Wh-questions (i.e. questions beginning with a question-word such as who, what, where, how, etc.): 
+ 	′What’s her ′new a ddress? 	 	 	′Who’ll be the ′chief ?editor?  ?When?  	How ?much?  	 	′What ?size are they? 
+To sum up: the fall is used for statements, commands, exclamations and Wh-questions. 
+ ^^^
+ 
+7.7.2.2. The falling-rising tone 
+Form 
+The voice falls from high (or mid) to low, then immediately rises to mid-high again. Thus the second half of this tone is a low rise. If there is a tail, its syllables continue to rise to midheight. 
+ 	 	——— 
+—————————— 
+ 
+———————————— 
+ 
+ 	 	——— 
+ 	 	\ Fine  
+—————————— 
+You can ′ask the \Yporter. 
+ 
+ 
+————————————	 
+The \Tfirst part is interesting. 
+ 
+Function 
+The fall-rise has the following functions/meanings: 
+(a) Implications. What we say is not the whole truth. The speaker has reservations, does not agree completely, or is hesitant to plainly say his opinion: “yes, but...” We call it implicational because it implies something that remains unsaid (this is added after three dots in the examples below). 
+ 	(Shall we go by car?) — \ Fine.  (...but I won’t drive)  	We ′like to \.travel.  (...but not to silly places like that) Such sentences often have a dislocated tonic: 
+ 	The \ FIRST part is interesting.  (...but the rest isn’t) 
+The implication conveyed by the fall-rise is often that something should be done: 
+ 	\ Dinner’s ready!  (...so come and sit down) 
+ 	I ′can’t \ lift this.  (...so please help me) 
+ 
+(b) Partial negation. The fall-rise is able to express partial negation (see the (b) sentences below), implying that the thing is true on the whole, but some part of it is negated. While ordinary full negation (a), expressed by the fall, simply means “no”, the partial negation expressed by the fall-rise means “yes, but...”. Compare: 
+(a) I ′won’t ′eat Ianything.  (full negation; ‘I will eat nothing’) 
+(b) I ′won’t ′eat \Ianything.  (partial negation; ‘I’ll eat, but not everything’) 
+    (a) We ′haven’t ′heard them  once.  (full negation; ‘never heard them’)     (b) We ′haven’t ′heard them \oonce.  (partial negation; ‘heard them many times’) 
+(a) It ′wasn’t ′published because a Iwoman wrote it. 
+ 	 	(full negation; ‘it wasn’t published, and the reason was that a woman wrote it’) 
+(b) It ′wasn’t ′published because a \Iwoman wrote it. 
+ 	 	(partial negation; ‘it was published, though not for this reason’) 
+ 
+(c) Softening. Another use of the fall-rise is to soften the directness of commands or questions, which might sound rude or too official with the falling tone. 
+• Polite commands (said rather like requests): 
+ 	\ Wait a minute!  	′Keep your \ passports ready! 	′Have a\pnother one! 
+• Polite Wh-questions: 
+ 	′What’s your \ name? 	 	′How \?old is she? 	 	\ When? 
+To sum up: the fall-rise is used for implications (including partial negation); to soften a command or a Wh-question. 
+ ^^^
+ 
+7.7.2.3. The low-rising tone 
+Form 
+The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: 
+ 	 	———— 	 	—————  	——————————————— 
+ 	 	———— 
+ 
+—————  
+——————————————— 
+ 	 	Blue.  
+.
+ 
+She knows.  
+.
+We could ′ask them ′over for coffee. 
+f
+ 	
+ 
+The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: 
+ 	 Really?  LOW RISE (just a polite way of saying “I see” or “I heard what you said”) 
+ 
+  Really?  HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an “allo-“ form of the high rise but a distinct “intonation phoneme”, an independent tone of English. 
+ 
+Function 
+The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: 
+(a) Indifference. “What I’m saying is true but I don’t think it’s important or interesting or relevant.” It sounds as if the speaker was shrugging while saying these sentences.  (What’s your favourite colour?) — Blue. (What a childish question.) 
+.
+ 	(I suppose you don’t dare to tell your wife.) — She knows. (It makes no difference.) 
+.
+ 	(Did you enjoy the performance?) — It was all right. (Nothing special.) 
+.
+(b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, “no problem, nothing serious, relax”.  Encouragement to do something, not to worry, etc. Often used to children. 
+ 	′Don’t worry. 	 	I ′don’t mind. 	We ′shouldn’t be a fraid. 
+						
+ Encouragement to continue speaking (“I’m listening, go on!”): 
+ 	Yes. 	 	Is ′that so? 	 	′That’s interesting.  	No. (but tell me) 
+								
+It is also used with the polite tag ...will/won’t you?, attached to imperatives. The imperative base sentence has a falling tone: 
+ 	Help your self, | won’t you? 	 
+ 
+(c) Greetings, thanks, apologies. 
+Come and lend a Chand, | will you? 
+ 
+ 	′Good morning.  	′No thanks.  
+				
+ 	′Bye- bye. 
+.
+ 	I’m sorry. 	 	Ex cuse me.  
+				
+ 	′See you soon. 
+.
+To sum up: the low rise is mostly a response, something added to other sentences. It can express indifference and lack of importance. Due to its “lightness” it can also be used to express encouragement and greetings. It is not used for questions. 
+^^^
+7.7.2.4. The high-rising tone 
+Form 
+The voice rises to a high pitch. 
+———— 
+ 
+—————  
+——————————————— 
+  You? 
+ 
+ To  Jennifer? 
+And ′is  she  Apermanently there? 
+	———— 	————— 	——————————————— 
+The English high rise is distributed over the tonic plus the tail, so sometimes five or six syllables keep rising steadily (as above in ...permanently there?). If there is a tail in the English high rise, Hungarian learners will tend to use their rise-fall. This is dangerous for communication as the English ear will only hear the fall at the end, and interpret the intonation as falling, i.e. not a question. 
+Function 
+(a) The high rise is mostly used in Yes/No questions, whether they are grammatically wellformed interrogative sentences or not. 
+′Did you ′park the ′car?  	 	′Could I ′bring it ′back on ?Saturday? ′One of the teditors? 	 	dAre you? 	 	 Birmingham? 
+(b) “Please-repeat” questions. These are Wh-questions asking for the repetition of something just heard. Such “please-repeat” questions have a dislocated tonic on the question word. 
+(Jennifer is in Kuala Lumpur.) — (WHERE’s Jennifer?? 
+(Watson will be the new chief editor.) — (WHO’ll be the new chief editor?? (My girlfriend is thirteen.) —  HOW old is she?? 
+The question-word bearing the tonic can also remain in the syntactic place where the questioned element stands in the statement. In this case the word order is not question-like: 
+(She bought herself a platypus.) — She bought herself a (WHAT?? 
+(We’ve got tickets for the 2am performance.) 
+— You’ve got tickets for —WHICH performance?? 
+
+(Zöl↑de↓ket? Zöldsé↑ge↓ket?), only the penult will rise and the ult will fall back. This is the characteristic Hungarian “rise-fall”, used for Yes-No questions. For example: 
+	——— 	 	———— 	 	—————  	—————— 
+
+	——— 	 	———— 	 	—————  	—————— 
+		Zöld? 	 	 ZZöldek? 	 	  ZZöldeket?  	ZZöldségeket? 
+————————————————————————————————————— 
+^^^
+7.7.3 Question-intonations: a summary 
+Because English questions may have a variety of tones, let us summarize them.18 The numbers refer to the examples below. 
+TONE
+Question type 
+Falling tone 
+Wh-questions (2) 
+High-rising tone 
+Yes/No questions (1) 
+Please-repeat questions (4) 
+Low-rising tone 
+— 
+Falling-rising tone 
+Polite Wh-questions (3) 
+The following list illustrates the various question intonations, using very short tone units: 
+(1) Ordinary Yes/No question: HIGH-RISING TONE. 
+.Here? (neutral question) 
+(2) Ordinary Wh-question: FALLING TONE. 
+(I know a much better pub.) —  Where? (neutral question) 
+(3) Polite Wh-question: FALLING-RISING TONE. 
+(I know a much better pub.) — \kWhere? (= “Oh, really? Tell me!”) 
+(4) “Please-repeat” question: HIGH-RISING TONE. 
+(There’s a better pub in Yahoo Street.) —  Where?? (= “Sorry, couldn’t hear.”) 
+END OF CHAPTER 7 
+ In transcription, it is customary to use a secondary-stress mark on the originally stressed (now tertiary-stressed) syllable of the second element if it is longer than one syllable: fíre alarm /0faIər əˌlá:m/. 
+ In Hungarian invisible compounds are less frequent, e.g. túrós csusza, mérges kígyó. 
+ Weekend, ice cream are true compounds in AmE, having initial stress. There are a number of such differences between the accents of English. 
+ Observe that finally-stressed compound adverbs and verbs are normally spelt with a hyphen or as one word. 5 This uncertainty only arises when the compound is spelt as two words. (Only one or two finallystressed compounds are spelt as one word: w ekénd, aròmathérapy.) Good dictionaries give the stress pattern of compounds even when they are “invisible”, spelt as two words. 

@@ -1,0 +1,17 @@
+
+1.1 Short monophthongs
+Lindsey (2012) distinguishes the six short vowels shown in (1).
+
+(1)
+kit	ɪ	foot	ɵ
+dress	ɛ	lot	ɔ
+trap	a	strut	ə
+Contrary to the British transcribing tradition, Lindsey does not necessarily use separate symbols for schwa and the vowel of strut. This is justifiable because these two vowels do not contrast: schwa only occurs in unstressed syllables, strut only in stressed syllables. The difference between the vowels of blunderers and blunderbuss may be seen as one of stress: blə́ndərəz vs blə́ndəbə̀s. It is exactly because of this difference in their distribution that pedagogically oriented works employ the symbol ʌ for strut, despite the fact that a schwa, especially word finally, can be phonetically equivalent to strut (Jones 1922: §493, 1960: §362).
+
+Lindsey’s symbols — like most other symbol sets used for transcribing British English — aim to be phonetically precise. The advantages of this practice are clear, but there are certain disadvantages too. The inventory in (1) looks quite alien, in fact the totally unfamiliar symbols do not help the everyday language learner, who form the vast majority of the consumers of these transcriptions. If one has to explain how a symbol like ɵ ought to be pronounced anyway, one might consider using something simpler. This simplification is also desirable in a theoretically oriented approach, because it lets the analyst posit a system. This is why we are going to use alternative, but very familiar symbols in this paper. (2) is a recoded version of (1).
+
+(2)
+kit	i	foot	u
+dress	e	lot	o
+trap	a	strut	ə
+The symbols in (2) enable a fairly broad transcription, but in return they show that English may be seen as yet another language having the wide-spread five-vowel system supplemented with schwa. Finally, let us quote Bloomfield: “The shapes of the graphic symbols scarcely deserve discussion. The reader who prefers the symbol [æ] where I use [ɛ] does not need any factual basis to justify his preference” (1935: 98). Mutatis mutandis, this consideration is valid for all of our symbol replacements.

@@ -1,0 +1,20 @@
+
+7 Conclusions
+Analysing diphthongs and long vowels as vowel+consonant sequences has a very radical consequence: the vowel inventory of current British English is reduced to six short vowels, namely, i e a o u and ə. Therefore the first column of the following chart contains all the vowels of current British English. The rest of the columns contain the same vowels followed by h, j, and w, respectively.
+
+(21)
+i	kit	ih	near	ij	fleece	iw	bill
+e	dress	eh	square	ej	face	ew	bell
+a	trap	ah	start	aj	price	aw	mouth
+o	lot	oh	north	oj	choice	ow	ball
+u	foot	uh	cure	uj	(goose)	uw	goose(/bull)
+ə	strut	əh	nurse	əj	(goat)	əw	goat(/dull)
+Of the six vowels only one, unstressed ə may occur word finally. None of the vowels may occur before another vowel, ie there is no hiatus in English as analysed here.
+
+Three of the six vowels may occur in an unstressed syllable: ə, i, and u. Of these unstressed u is always followed by w (eg argue áhgjuw). Unstressed ə and i are in near complementary distribution with i occurring typically before “coda” j, ʤ, ʧ, and ŋ (eg carry kárij, carriage káriʤ, ostrich óstriʧ, gosling gózliŋ) and ə in other positions. These two unstressed vowels are freely variable in many positions.
+
+The view of the vowel system of current British English presented above is significantly simpler than the currently accepted alternatives, it is nevertheless phonologically tenable in all respects we have had the chance to examine up to now.
+
+
+
+

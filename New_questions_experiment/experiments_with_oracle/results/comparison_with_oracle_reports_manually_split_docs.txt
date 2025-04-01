@@ -1,0 +1,79 @@
+run number 1
+top_k = 5
+similarity cutoff: 70
+
+Results for ./JSON_oracles/oracle-itembank-2.json:
+from correct doc as chunk number 1: 45/51
+from correct doc as chunk number 2: 45/51
+from correct doc as chunk number 3: 42/51
+from correct doc as chunk number 4: 39/51
+from correct doc as chunk number 5: 36/51
+from correct chunk as chunk number 1: 21/51
+from correct chunk as chunk number 2: 15/51
+from correct chunk as chunk number 3: 4/51
+from correct chunk as chunk number 4: 5/51
+from correct chunk as chunk number 5: 3/51
+
+Results for ./JSON_oracles/oracle-itembank-3.json:
+from correct doc as chunk number 1: 47/67
+from correct doc as chunk number 2: 35/67
+from correct doc as chunk number 3: 30/67
+from correct doc as chunk number 4: 29/67
+from correct doc as chunk number 5: 30/67
+from correct chunk as chunk number 1: 31/67
+from correct chunk as chunk number 2: 7/67
+from correct chunk as chunk number 3: 0/67
+from correct chunk as chunk number 4: 3/67
+from correct chunk as chunk number 5: 1/67
+
+Results for ./JSON_oracles/oracle-itembank-4.json:
+from correct doc as chunk number 1: 47/60
+from correct doc as chunk number 2: 40/60
+from correct doc as chunk number 3: 37/60
+from correct doc as chunk number 4: 28/60
+from correct doc as chunk number 5: 40/60
+from correct chunk as chunk number 1: 26/60
+from correct chunk as chunk number 2: 6/60
+from correct chunk as chunk number 3: 9/60
+from correct chunk as chunk number 4: 3/60
+from correct chunk as chunk number 5: 2/60
+
+Results for ./JSON_oracles/oracle-itembank-5.json:
+from correct doc as chunk number 1: 61/64
+from correct doc as chunk number 2: 55/64
+from correct doc as chunk number 3: 50/64
+from correct doc as chunk number 4: 54/64
+from correct doc as chunk number 5: 50/64
+from correct chunk as chunk number 1: 43/64
+from correct chunk as chunk number 2: 4/64
+from correct chunk as chunk number 3: 5/64
+from correct chunk as chunk number 4: 4/64
+from correct chunk as chunk number 5: 0/64
+
+Results for ./JSON_oracles/oracle-itembank-9.json:
+from correct doc as chunk number 1: 57/58
+from correct doc as chunk number 2: 54/58
+from correct doc as chunk number 3: 53/58
+from correct doc as chunk number 4: 48/58
+from correct doc as chunk number 5: 45/58
+from correct chunk as chunk number 1: 30/58
+from correct chunk as chunk number 2: 9/58
+from correct chunk as chunk number 3: 6/58
+from correct chunk as chunk number 4: 5/58
+from correct chunk as chunk number 5: 6/58
+
+Overall Results:
+Overall from correct doc as chunk number 1: 257/300
+Overall from correct doc as chunk number 2: 229/300
+Overall from correct doc as chunk number 3: 212/300
+Overall from correct doc as chunk number 4: 198/300
+Overall from correct doc as chunk number 5: 201/300
+Overall from correct chunk as chunk number 1: 151/300
+Overall from correct chunk as chunk number 2: 41/300
+Overall from correct chunk as chunk number 3: 24/300
+Overall from correct chunk as chunk number 4: 20/300
+Overall from correct chunk as chunk number 5: 12/300
+
+
+--------------------------
+

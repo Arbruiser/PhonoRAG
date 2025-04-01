@@ -1,0 +1,16 @@
+
+5.2.1 Reason 2 for claiming r is not R in car 
+For SSBE there is perfect regularity when r must be inserted after those words which have no R (that is, historical R). This r is traditionally known as intrusive (unetymological/unhistorical) r. In (28) we have some data that can be used to compare the differences in behaviour of linking R and intrusive r. (28) Linking R and intrusive r 
+ 
+Close your eyes, have some say the words, forget about the spelling and you’ll soon see that there is no way in which the r’s can or could be differentiated (apart from spelling, of course). This is because of a rule (set out in (29)) that took over the regularity of the pronunciation of word-final pre-vocalic r. The rhotic r is automatically inserted by a rule after long vowels and schwa of SSBE. For this reason, these vowels are known as R vowels. 
+(29) r-insertion rule 
+0 0 r / Vː# __ V (Vː = R-vowels: long monophthongs and schwa) 
+Let us review what we have come to see so far (see (30)). (30) Conclusions 
+ 
+It seems then that in a non-rhotic accent there is no historical R word-finally. As a matter of fact, it seems historical (lexical) R is only found word-initially (e.g., rat) and word-internally before a vowel 
+(e.g., carrot, hurry). Word-internal coda R is lost for ever (e.g., art), it is unrecoverable, but word-final R is an automatically inserted, post-lexical r. Phonetically, however, there is no difference between lexical R and post-lexically inserted r, both are r (a pronounced rhotic of identical qualities). 
+Phonologically, historical R is not inserted by any rule, post-lexical r is. 
+5.3 Distribution of vowels before r 
+Up to now we have seen where r can be found in the various accents of English, and have also concluded that all word-final pre-vocalic r’s are post-lexical (inserted by a rule). This is not where the story ends, because r also exercised a considerable impact on the vowels preceding it in some of the accents in the past. 
+5.3.1 	Scottish Standard English (SSE) 
+Let’s look now at Scottish Standard English (SSE) first. 

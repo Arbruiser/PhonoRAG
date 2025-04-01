@@ -1,0 +1,44 @@
+
+The situation is less obvious word finally. The distributions of the allomorphs of the past tense ([d] ∼ [id]) and the nominal plural suffix ([z] ∼ [iz]) do not distinguish between vowels and consonants, but between some set of consonants (alveolar plosives and sibilants, respectively) and the set comprising all other consonants and vowels. The ordinal suffix [q] has a vowelful allomorph only after [ij] (as in twentieth [twentijəq]), but not after any other segment, be it a vowel (as in fourth [fo:q]) or any consonant (as in tenth [tenq], eighth [ejtq]) or consonant cluster (as in thousandth [qawzəndq] or sixth [siksq]). So there is no suffix test in English for separating vowel- and consonant-final words.
+   In fact, not even enclitics make this distinction. It is only enclitics that have a nonsyllabic allomorph that are possible candidates for the test. These all begin with a vowel or a glide in their full allomorph. Of them, and will not do, since ‘n’ is always syllabic ([ən] or [n$]). Likewise are [ə] also only has a syllabic allomorph. The candidates that remain are listed in (4).
+(4) Nonsyllabic enclitics of English
+a. has [həz], is [iz] ∼ ’s [z]
+b. had [həd], would [wəd] ∼ ’d [d]
+c. have [həv] ∼ ’ve [v]
+d. will [wil] ∼ ’ll [l]
+e. am [əm] ∼ ’m [m]
+Just like the homophonous suffixes, the clitics [z] and [d], (4a–b), are not sensitive to the distinction between vowels and consonants, so they cannot be used as a test. The distribution of [m], (4e), is very limited (it occurs only in I’m [ajm] ∼ [am]), so it is also useless for our purpose.
+   This leaves us with two clitics, have [v] and will [l]. English words regularly do not end in a checked vowel, but unstressed function words may do so, providing us with examples of the two relevant nonsyllabic clitics after a (checked) vowel. The stressed variant of the same pronouns end in a free vowel or a glide, depending on the analysis. In (5), I also give some examples with a real consonant preceding the clitic.
+(5) Nonsyllabic clitics
+	after vowel	after glide	after consonant
+we’ve
+wiv
+wijv
+will’ve wiləv
+they’ve
+ðev
+ðejv
+can’ve kənəv
+I’ve
+av
+ajv
+
+you’ve
+juv
+juwv
+
+we’ll they’ll
+wil ðel
+wijəl ðejəl
+J-ohn’ll dʒonəl
+I’ll
+al
+ajəl
+
+you’ll
+jul
+juw(ə)l
+
+As expected, the nonsyllabic allomorph of both clitics occurs after a vowel, but the nonsyllabic allomorph of neither occurs after a “regular” consonant ([l] or [n] in our examples). The data in the middle column are variable, [v] may, while [l] may not occur after [j] (or after a diphthong, under the alternative analysis). This distribution mirrors monomorphemic word-final clusters: both [jv] and [wv] occur (e.g., eve, cave, dive, cove, move), [jl] is subject to epenthesis (e.g., file [fajəl], fail [fejəl], etc.), [wl] is variable (e.g., owl, cool).
+   The distribution of the nonsyllabic allomorphs of enclitics thus allows for both interpretations of these sequences, therefore there seems to be no conclusive evidence for analysing these sequences either as diphthongs or as vowelþconsonant sequences. In any case, we did not find obvious evidence for taking them to be diphthongs.
+

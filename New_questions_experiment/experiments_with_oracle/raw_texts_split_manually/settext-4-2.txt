@@ -1,0 +1,10 @@
+
+(3) The vowels of BrE
+a. checked vowels: KIT [i], DRESS [e], TRAP [a], STRUT [ə], LOT [o], FOOT [u]
+b. R vowels: NEAR [iː], SQUARE [eː], START [aː], NURSE [əː], FORCE [oː], CURE [uː]
+c. free vowels: FLEECE [ij], FACE [ej], PRICE [aj], MOUTH [aw], GOAT [əw], CHOICE [oj], GOOSE [uw]
+Some of the R vowels, most notably [iː], [aː], and [uː] vary with free vowelþschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [niː juw] we have you’re near [joː niː] or [-nijə]; beside fire fighter [faː fajtə] we have fight the fire [fajt ðə fajə] or [-faː]; beside cure them [kjuː ðəm] we have the cure [ðə kjuː] or [-kjuwə]. In the case of two [r]-influenced vowels, [eː] and [oː], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [beː] (†[be(j)ə]), boar [boː] (†[bo(w)ə]). On the other hand, in the rare sequence [ojə] monophthongization is not possible at all: coir
+[kojə] (p[koː]).
+   In stressed position a free vowelþschwa sequence may often monophthongize irrespective of whether it has resulted from the influence of a following historical [r], as in the examples cited so far, or not, as in diamond [dajəmənd] or [daːmənd] (or [dajmənd]), vowel [vawəl] or [vaːl] (or [vawl]), idea [ajdıjə] or [ajdıː], mayor [mejə] or [meː].
+   The system in (3a–b) exhibits short–long vowel pairs: for each checked vowel we find a long counterpart among the R vowels. Our question in this paper is whether the free vowels in (3c) are compounds of a checked vowel and a glide ([j] or [w]) as Batchelor, Bloch, Smith, and Trager claim, or vocalic units, “diphthongs”, as they are usually referred to.
+

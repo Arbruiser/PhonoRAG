@@ -1,0 +1,473 @@
+"""It seems a natural necessity of all existing things to change, not for better or for worse, change happens for no obvious (or no psychologically, humanly understandable) reason. It simply seems that changes are part of a complex web that is still too complex for us to comprehend. This doesn’t mean that one shouldn’t approach change, it only means that no judgements should be passed on any one stage (of any structure of any language) being better or surpassing any other stage (of any language). This is why sciences are impartial, seemingly cold and aloof, but objective, non-judgemental and non-personal (pretty much like a Buddhist’s view on the order of things). Think of biology or physics, for example: physics will never claim that a supernova is at a more advanced level than a red giant, nor will biology pass any judgements on the anatomy of a cockroach (as opposed to a swan, a willow warbler or a dolphin). Such statements would simply be laughable. The same principle holds in linguistics: we will observe, compare, analyse, establish orders of precedence of rules, but will never have anything to say about why something is better or worse than anything else we observe, because such statements are nonsensical in sciences."""
+
+== cat 901
+What is the reason behind the phonological change of languages?
+# To make languages more complex
+# To make languages simpler
+# ! There is no obvious reason
+# To increase vocabulary
+
+== cat 902
+Which statement is true?
+# Language changes are predictable and easy to understand
+# Language changes are random and make languages simpler
+# Language changes happen rarely, but can be controlled
+# ! Language changes are part of a complex web that is still too complex for us to comprehend
+
+== cat 903
+What parallel is drawn between linguistics and sciences like physics or biology?
+# Linguistics aims to quantify languages like mathematics
+# Linguists often make predictions about language evolution
+# ! Linguistics observes and analyses without making value judgments
+# Linguistics ranks languages based on complexity and age
+
+== cat 904
+When do linguists say that a language is better or worse than another language?
+# When a language has more speakers
+# When a language is older
+# When a language is geographically widespread
+# ! Never, such statements are nonsensical in sciences
+
+"""As it turns out, everything is part of a larger structure, and as such has a history as well. You may have wondered why the human respiratory system is as imperfect as it is (note that this is not a scientific statement, but a human sentiment). Our lungs are only capable of performing a bi-tidal respiratory function. This means that we can at any one time either inhale or exhale, but not both, and the lungs can never be totally emptied of the inhaled air. This is similar to the movement of the seas: we either have an outgoing tide or an incoming tide but not both. Birds, in contrast, have a different take on the problem: their bodies have a system of interconnected airsacks in addition to lungs, which ensures that air can both exit and enter their bodies at the same time through different channels (their nostrils and mouths). This anatomical trait ensures that they have all the energy required for prolonged flying, which is both energy- and oxygen-consuming"""
+
+== cat 905
+What is the parallel drawn between the function of human lungs and the movement of tides?
+# Both lungs and tides can flow in multiple directions
+# Lungs can forcefully empty air just as tides can reverse
+# ! Both lungs and tides can only move in one direction at a time
+# Lungs are adaptable to rapid changes, just like incoming tides
+
+"""But why are our lungs as they are? From a structural anatomical point of view little can be said about this, apart from describing this and drawing conclusions from this for the whole of the system (we may now understand why humans get tired very easily performing physically demanding exercises: the blood simply can’t draw enough oxygen from the lungs, which as we see now can only work unidirectionally, first inhaling then exhaling thus losing precious time in drawing further supplies of air). But this is where a structural analysis stops."""
+
+== cat 906
+Where does the structural analysis of the human anatomy of lungs stop?
+# At explaining the evolutionary development of lungs
+# At predicting future changes in lung function
+# ! At describing the function and limitations without explaining their origins
+# At comparing lungs with other organ systems
+
+"""But what can we say about this anatomical ‘flaw’ from a historical point of view? If we examine fish we will see that fish have an air bladder that can be filled with oxygen from the blood, but this air bladder is part of the fish’s digestive system. Human lungs, evolutionary biologists think, developed out of this air bladder of a distant ancestor, a bud on our digestive system. So, historically our lungs are closely associated with our stomachs, which explains why the air can only be inhaled and exhaled in one direction (air is basically food and food is normally only transported in one direction, away from the mouth into the stomach). As you can see, exhaling air can now be viewed as an evolutionary innovation (inhalation, just like passing food down our gullets, is older historically/evolutionary)."""
+
+== cat 907
+Out of what do evolutionary biologists think human lungs developed?
+# A separate respiratory organ evolved later in humans
+# The heart's circulatory system
+# The skin's ability to absorb oxygen directly
+# ! An air bladder that is part of the fish's digestive system
+
+== cat 908
+What may explain the reason for why air can only be inhaled and exhaled in one direction?
+# It optimizes energy consumption
+# It prevents air from returning to the mouth
+# It improves the efficiency of oxygen absorption
+# ! Air is basically food, and food is normally only transported in one direction
+
+== cat 909
+How do fish's air bladders relate to human lungs from a historical perspective?
+# Fish bladders evolved independently of lungs
+# Fish bladders show no functional similarity to human lungs
+# ! Fish air bladders were a part of the digestive system and are ancestors of human lungs
+# Fish air bladders are larger capacity storage than human lungs
+
+== cat 910
+What evolutionary development is considered to be an innovation in human respiratory function?
+# The ability to cough and clear airways
+# ! Exhaling air as a separate action from inhalation
+# The presence of two distinct lung lobes
+# Capacity to hold breath underwater for extended periods
+
+"""1.3 Do languages have a structural and a historical aspect to their analysis? The answer has to be in the affirmative. Analysing a language can happen at two independent, but complementary levels. One deals with structure: the system of contrastive building blocks (features like voice, nasality, place of articulation, manner of articulation), phonemes, contrasts, syllables (and whether they exist), stress (and whether any generalisations can be drawn on them based on the various patterns we encounter), intonation (and whether the various contours can be used contrastively and how this can be described). This approach you have been engrossed in up to now is synchronic linguistics (ancient Greek syn- ‘together, next to’ and chron- ‘time’, referring to units of analysis present at the same level of reference/slice of time, say 19th century English, or contemporary South African English), on a par with anatomy (no questions asked about where our lungs come from, only their function can be inspected and how they fit into the larger unit that we call the organism). This approach may have its limitations, but then the synchronic approach can never be aware of its own shortcomings because it doesn’t have the means to assess its own limitations. You are now aware why we say that ɛj (as in pane) and ɛː (as in pair) are two phonemes of this language, but you don’t know anything about whether this has always been the case or not. This is not a problem, you may not want to consider this a problem, or you may have other reasons to dismiss history, the fact remains that all analysts doing synchronic linguistics have to live with absence of history in a synchronic analysis."""
+
+== cat 911
+What does the language system of contrastive building blocks consist of?
+# Syntax and semantics
+# Cultural influences and usage patterns
+# Dialectical variations and slang
+# ! Features like voice, nasality, place of articulation, manner of articulation
+
+== cat 912
+What does synchronic linguistics focus on?
+# The evolutionary history of languages
+# ! The analysis of language units present at a specific point in time
+# The influence of languages on human society
+# The historical development of writing systems
+
+== cat 913
+Why might synchronic linguistics be unaware of its own limitations?
+# It considers all historical changes within its analysis
+# ! It does not assess the historical development of language units
+# It relies heavily on historical data
+# It incorporates all possible perspectives on language evolution
+
+"""The complementary approach is called diachronic linguistics (Greek dia- ‘across’ and chron- ‘time’), referring to a point of view when items are inspected as they developed from each other, not as they coexisted with other units of analysis at the respective point of reference/slice of time. Historical linguistics will tell you after some deliberation that (some instances of) ɛː derive from ɛj, so ɛː is an innovation. If you dig deeper you will realise that even ɛj is an innovation, deriving from eː. Dig deeper still and you will see that (some instances of) eː derive from aː (pane having originally been paːn). And who knows what further linguistic excavations will produce. Similar chains of developments can be established for the rest of the phonemes of the language. This is a mental exercise which requires considerable expertise and knowledge of the past stages of English, languages in general, spelling conventions of the past (and their limitations), comparison of languages (English with German, English with French or any other combination), comparison of dialects (and accents) of English (SSBE with GA, Scottish Standard English or any other variety for that matter). The analysis ultimately produces a complex network of chains of developments (see (1) below which only contains one part of a more extensive summary) with instances of mergers and splits (to be explained later)). Don’t concern yourself with this now, it is only for demonstration (this is mainly for those who study the history of English and are quite advanced at it)."""
+
+== cat 914
+What does historical linguistics say about the phoneme ɛː?
+# It is a borrowed sound from other languages
+# It has always existed in its current form
+# ! It is an innovation derived from previous phonemes
+# It is unrelated to phonological development
+
+== cat 915
+How did the phoneme ɛː develop historically?
+# It originated directly from contemporary English sounds
+# It was created by blending unrelated phonemes
+# ! It evolved through a sequence of changes: aː -> eː -> ɛj -> ɛː
+# It was introduced as an entirely new phoneme in modern times
+
+"""(i) verb-final voiced fricatives (e.g., house hawz, graze, heave hɪjv, loathe ləwð) show that there used to be an infinitive suffix after them (so housen, grasen, etc. originally). The suffix was there after all verbs, but it left no trace of its presence with verbs ending in other types of consonants"""
+
+== cat 916
+What do verb-final voiced fricatives indicate (house hawz, graze, heave hɪjv, loathe ləwð)?
+# They were once nouns that became verbs over time
+# They have always been used without any suffixes
+# ! There used to be an infinitive suffix after them, such as in housen and grasen
+# They evolved from different word roots without any suffixes
+
+"""(ii) that grass ɑː (now with a ‘long a’ in CuBE) had a short vowel historically, but graze (which originates in grass) originally had a long vowel (now it has the diphthong ɛj)"""
+
+== cat 917
+What does the historical evolution of the words 'grass' and 'graze' tell us about their vowels? 
+# Both 'grass' and 'graze' originally had short vowels
+# 'Grass' retains its original vowel length in CuBE 
+# 'Graze' has always had the diphthong ɛj since its origin
+# ! 'Grass' had a historically short vowel, while 'graze' originally had a long vowel
+
+"""And the list continues. This doesn’t mean, of course, that every irregularity ceases to be irregular in the past. But before we continue with an analysis we have to ask ourselves ‘what can be compared with what?’, ‘What counts as similar?’ ‘What does similarity mean at all?’ ‘How far can similarity extend?’"""
+
+== cat 918
+What questions should historical linguists always consider when analyzing languages?
+# What does similarity mean at all?
+# What can be compared with what?
+# How far can similarity extend?
+# ! All of these
+
+"""Typological linguistics usually analyses syntactic and morphological similarities. For example, it looks at whether languages have prepositions (like English, French, Croatian: e.g., in the school, sur la maison ‘on the house’, u kutiji ‘in the box’) or postpositions (like Hungarian: iskolában, házon, dobozban). It may also look at how morphological material is organised with respect to the base of the word: some languages have long complex words built up of a sequence of affixes centred around a syntactically independent semantic core and are thus word-based, like Hungarian, Finnish or Turkish: e.g., HU megmérettetéseidben ‘in your (singular) allowing yourself to be tested for what you can do (plural)’ with the ultimate stem mér ‘measure, test’, which is also an independently occurring word. 1 Some languages are stem-based (affixes are added to a syntactically non-independent core, as it is done in Latin, Greek or the Slavonic languages. For example, the stem behind the word for earth in Latin terra is terr-, something which can never be found on its own/in isolation (that’s why you will find a hyphen after such data): terr- is thus abstracted away from terra, terrae, terrā, terram, terrarium, terras and the rest of the shapes that this stem can take on. Hungarian and Latin thus belong to two different types of languages as far as morpheme independence is concerned. Both Hungarian and Latin, however, are referred to as synthetic languages (they synthesise a number of morphemes into long words). They contrast sharply with Chinese, which is an analytic language where there is little or no inflection (so there are no complex/synthetically inflected words). No language is perfect from any perspective, of course: Hungarian has bound stems (in játék ‘toy’ and játszik ‘to play’ there is a bound stem ját-), and Chinese has compound words (and thus its derivational morphology is not analytic). English is more analytic than Hungarian, but its inflection still shows signs of synthesising (boys boy+Plural is still a synthetically formed word, just like begs beg+3 person+singular+present+indicative). The derivational morphology of English can still be argued to be heavily synthetic."""
+
+== cat 919
+Which language is considered to be stem-based?
+# Hungarian
+# Turkish
+# ! Latin
+# Finnish
+
+== cat 920
+Which language is considered to be stem-based?
+# English
+# ! Greek
+# Spanish
+# French
+
+"""It may also analyse how passivisation is executed: morphologically, syntactically or lexically. Of course, no language will ever be a perfect example of just one type of process. Languages will always be scattered on a cline of features. Hungarian, for example, can express the logico-semantic concept of possibility by either using a suffix (e.g. tanul-hat ‘can study’, literally study-can) or a syntactically independent word/auxiliary (tud tanulni or bír tanulni), similarly to English (can study), although the two languages are generally taken to belong to two different morphological types of languages. Note that in a typological analysis any language can be compared with any other."""
+
+== cat 921
+How can the logico-semantic concept of possibility be expressed in Hungarian?
+# Only through the addition of a suffix
+# Only by rearranging sentence structure
+# Only by an independent word/auxiliary
+# ! In two ways: by either using a suffix or a syntactically independent word/auxiliary
+
+"""As is well-known, languages may develop similar features because they are spoken in close proximity to each other and speakers have a chance of mixing through marriage, trade, shared pastures, etc. Areal linguistics looks at how features may spread from one to language to the other. It is generally claimed that Hungarian has developed a complex system of verbal prefixation through extended contact with languages such as German and Russian (e.g., csinálni ‘to do’ vs meg-csinálni ‘to have done it’, kicsinálni ‘to have aggravated somebody’, be-csinálni ‘to have been scared stiff’, fel-csinálni ‘to have put her up the duff’, etc.). We are not saying here that the verbal prefixes meg- or le- are of German or Russian origin, of course. The lexical material is Hungarian, the principle is non-Hungarian originally (= express perfectivity with prefixes, not with auxiliaries or different tenses). Some claim that bilingual speakers are the key in understanding these similarities because it’s only through such speakers that aspects of any language can be internalised in another. This aspect of language contact can be observed at any level (phonology, morphology, syntax, and probably most visibly in the lexicon, etc.)."""
+
+== cat 922
+What is generally claimed about the Hungarian complex system of verbal prefixation?
+# It was borrowed from Latin
+# It developed independently without external influences
+# ! It developed through extended contact with languages such as German and Russian
+# It was primarily influenced by ancient Hungarian tribes
+
+"""(2) Hungarian of Vojvodina A feleségem a második szmenába dolgozik, és zsurbába volt, amikor láttam lejönni a szolitérből a tursival a kezébe. Unless you speak Serbian (or a Slavonic language), it is hard work deciphering the meaning of the sentence in (2). You still feel it is Hungarian. It seems to have Hungarian sounds (or at least the spelled version of the original above suggests so), it exemplifies well-known processes: the suffix -ba requires the vowel of the stem to lengthen, giving you the base words szmena, zsurba, keze, there is no lengthening if the final vowel is a high vowel (tursi), vowel harmony seems to be working (szmenába, not szmenábe), past tense marking is the usual -t- (láttam ‘I saw her’). Well, what does this mean? For this you have to know the words, unfortunately. This is not structural knowledge, but lexical: despite the words, this is still Hungarian because it behaves like Hungarian (the one you are more familiar with as far as the words go). A translation follows in (3).2"""
+
+== cat 923
+What kind of knowledge is required to decipher the meaning of the Hungarian sentence "A feleségem a második szmenába dolgozik, és zsurbába volt, amikor láttam lejönni a szolitérből a tursival a kezébe"?
+# Structural knowledge
+# Phonological knowledge
+# Morphological knowledge
+# ! Lexical knowledge
+
+"""The picture is quite convoluted, as you can see. Linguistics also claims that English and German are genetically related, that is at some ‘deep’ level they are more closely related (= similar) to each other than English and French are (despite the casual remark that these two share a substantial amount of their lexical items and must thus be related). This is because English and German are Germanic languages. French is similar to Italian, Spanish, Catalan or Rumanian (and the rest of the Romance languages). It is also common knowledge in linguistic circles that the Romance and the Germanic languages are also similar to each other (at an even ‘deeper’ level), and so on and so forth until the final circle of comparison is made to the effect that English and French and Latin and Greek and Sanskrit and Russian and Persian (Farsi) and Armenian and Albanian (and a fair deal of others) are all more similar to each other than they are to any other language outside this circle (like Hungarian, Finnish, Turkish, Basque or Chinese). What we have now done is give an insight into what perspectives comparing languages from a genealogical perspective may open up. This is the territory of historical (or diachronic) linguistics. From what we have said so far it should be obvious that perceived similarities between words themselves are no guarantee that any two languages will be more closely related to each other than they are to any other where the casual observer sees no similarities. Claiming that Hungarian and English are ‘genetically’ related because of the similarities in words is simply missing the point big time."""
+
+== cat 924
+Which language is English most genetically related to?
+# French
+# Ukrainian
+# ! German
+# Spanish
+
+== cat 925
+Which language is Indo-European?
+# ! Farsi
+# Hungarian
+# Finnish
+# Turkish
+
+"""Diachronic linguistics is not commonly referred to as genealogical linguistics because strictly speaking it does not deal with genes (genes being the repositories of inherited information from a biological perspective). Languages are above and beyond genes in the traditional biological sense, so any child with any genetic (racial) background can learn any language whatsoever (a Caucasoid learns Russian just as easily as an Australoid). It also seems that any child with any genetic makeup can acquire any number of unrelated languages making them a bilingual or a multilingual child. From what we have said it follows that, in a diachronic analysis, languages cannot just be analysed indiscriminately (a typological or areal analysis allows for any two languages to be compared at any level (syntactic, morphological, lexical), as shown above). It would appear that relatedness between languages is more than skin deep, but how can it be accessed if it is difficult to spot and interpret? And even more importantly is it syntax or morphology or phonology perhaps that opens up a window on this level of relatedness?3"""
+
+== cat 926
+Why isn't diachronic linguistics commonly referred to as genealogical linguistics?
+# It mainly focuses on phonology, syntax and semantics
+# It only analyzes language structures
+# ! It does not deal with genes or biological inheritance
+# It studies the evolution of language phonemes
+
+== cat 927
+Genetically speaking, what language can a Caucasoid child learn the easiest?
+# Russian
+# Chinese
+# Spanish
+# ! There is no difference
+
+"""The basis for any diachronic analysis as it has been understood for more than 200 years now is phonology. We have concluded, however, that words themselves offer no indication of relatedness. We have to modify this to the following effect: where superficial phonetic similarities end there may begin a diachronic phonological analysis. It is not words that are relevant for a historical analysis, but the relationship (and the relative temporal depth) between phonological changes affecting such words. Hungarian csetel ‘chat’ and English chat is ‘boring’ diachronically and superficial and as such is no proof for these two being related. Observe the following examples (5)."""
+
+== cat 928
+What is relevant for historical analysis according to a diachronic approach?
+# Phonetic similarities
+# The frequency of word usage
+# The complexity of language syntax
+# ! Relationships between phonological changes in words
+
+"""There are other observations as well: German lost θ and has now . This is true for every German word, as every θ was regularly displaced by  (cf. think, as opposed to denken; that, as opposed to das, etc.). Note also that German has no mb clusters: it has m now. This is true for every historical *mb in German (compare En lamb to G Lamm going back to *lamb-, comb to G Kamm going back to *kamb-; timber to G Zimmer ‘room’). Note that an asterisk (*) shows reconstructed data in historical linguistics, NOT ungrammatical data. Double asterisks (**) show ungrammatical data."""
+
+== cat 929
+In German, what was every θ regularly displaced by?
+# n
+# t
+# k
+# ! d
+
+== cat 930
+What happened to every historical *mb cluster in German?
+# It turned into <m>
+# It became <nd>
+# It remained as <mb>
+# ! It turned into <mm>
+
+== cat 931
+How is ungrammatical data shown in historical linguistics?
+# With an asterisk
+# With an exclamation mark
+# With underscores
+# ! With double asterisks
+
+"""There is an important consequence of this analysis. If the loss of nasals before fricatives is what characterises English, and if rules are understood as they should; that is, as rules applying to all possible inputs at a given time, there should be no nasals before fricatives in English at all. This is not borne out by the data: nymph, lymph, anthem, Kensington, pansy, lens, and the list continues. Is this the end of our analysis? Fortunately, this is not the case. We must conclude that rules (or rather their lifecycles) are fickle: they appear and they disappear for no obvious reason. Everything is born, it lasts for a limited time and then dies. The same applies to rules. The nasal loss rule above operated a long time ago (over almost 1500 years ago). We must conclude that all those words that we gave as counterexamples are not a problem, because they arrived (well) after the nasal loss rule had run its course. Historical linguistics is replete with such cases: words surviving rules not because they were stronger in any imaginable way than the rules but because they arrived (= were borrowed) later than the rule(s) for which they are supposed counterexamples."""
+
+== cat 932
+How come we still have nasals before fricatives in English if there was a nasal loss rule?
+# Nasal loss rule only applied temporarily during the medieval period 
+# Nasals evolved back into certain words
+# Some dialects never followed the nasal loss rule
+# ! The rule appeared, then disappeared, and stopped working
+
+== cat 933
+What is the nasal loss rule?
+# The rule that requires nasals to precede fricatives persistently
+# ! The rule that states all nasals before fricatives are deleted
+# The rule stating that nasals are lost if they are preceded by a consonant
+# The rule mandating the loss of nasality
+
+== cat 934
+When did the nasal loss rule operate?
+# 200 years ago
+# 500 years ago
+# ! 1500 years ago
+# 50 years ago
+
+"""If you are still unconvinced, you probably want to ask how we know that words like anthem entered the language after the nasal loss rule? We know this from a number of sources: in Old English texts anthem, pansy and the like are never found. You may express your disbelief and say that perhaps exactly those texts are missing where these words would amply be found. There would appear to be no reason for this, however, given the fact that all words in (5a) are amply recorded in old texts. We don’t see why Old English scribes would have left out exactly those words where there occurred a nasal before a fricative. What’s more, we also know that words like pansy are of French origin (coming from Old French penser ‘think’) and these start appearing in the language well after the period we are discussing here. Words like lymph and nymph are of learned origin appearing in the age of enlightenment or later. All this seems to cement the fact that the nasal loss rule was a reality at some distant point in the history of English"""
+
+== cat 935
+How do we know that a word like 'anthem' entered English after the nasal loss rule?
+# Old English scribes intentionally omitted words with nasals before fricatives
+# 'Anthem' evolved from a different English dialect that did not follow the rule
+# ! In Old English texts, 'anthem', 'pansy', and similar words are never found, indicating they entered later
+# Historical records show 'anthem' was replaced with alternative words during that period
+
+"""Take a deep breath and compare the Germanic languages to the Slavonic languages and so on and on and on until phonological analysis lets you look behind the data to arrive at ever more ancient protolanguages. Where do we stop then? The last level of generalisation (the most abstract object of study in historical linguistics which still has something to do with English and can be arrived at using the comparative method shown here) is Indo-European, a language which we can only glimpse at through reconstructive work (a handful of the less controversial reconstructions are shown in (6)). Whether the forms reconstructed for this ancient language ever existed in the form in which they are reconstructed must remain a matter of philosophical speculation, analytical bias or a combination of the two.6 The drive to reconstruct Indo-European (and the ways in which this can be achieved) has resulted in thousands of books and analyses over the last 200 years. How far we can get back in time? Not too far. 4000-4500 years is where reconstructive analysis stops for one obvious reason: after this point all data become overly speculative. Claiming that Indo-European and Ugro-Finnic (a large language family that comprises Hungarian and Finnish) are related based on 5 vowels and 9 consonants is too weak: the five cardinal vowels i, e, a, o, u, voiceless stops, nasals, glides and a liquid are found in (almost) all languages and thus provide no incontestable proof of relatedness."""
+
+== cat 936
+How far back in time can we go when reconstructing Indo-European language?
+# 1000-2000 years
+# ! 4000-4500 years
+# 6000-7000 years
+# 2000-3000 years
+
+== cat 937
+Why is claiming that Indo-European and Ugro-Finnic are related considered weak?
+# They have too few similar syntactic structures
+# There is no extensive vocabulary overlap beyond basic elements
+# Cultural similarities skew linguistic analysis
+# ! They are only compared based on 5 vowels and 9 consonants, which are common in most languages
+
+"""Historical linguistics is reconstructive phonological analysis taking the regularity principle for one of its fundamental pillars: change (exemplified here with phonological change) can only be regular, there is no other way in which it can be conceived of. The other pillar is the uniformitarian principle, which says that whatever we observe nowadays must have existed in the past as well, there can be no novel phonological rules never seen before, every rule we observe nowadays must (or may) also have worked in the past. These are important cornerstones in any analysis."""
+
+== cat 938
+What does the regularity principle in historical linguistics state?
+# ! Language changes can only be regular, there is no other way in which it can be conceived of
+# Language changes in language are often arbitrary and unpredictable
+# Language changes are regularized by phonologists
+# Language changes primarily result from societal influences
+
+== cat 939
+What does the uniformitarian principle in historical linguistics state?
+# Language changes often introduces completely new phonological rules
+# Current language features are novel developments without historical precedent
+# Language rules from the present have evolved significantly and bear no resemblance to the past
+# ! Whatever we observe nowadays must have existed in the past as well
+
+"""As you can see, by comparing words (phonological bodies of morphemes) that are cognates we arrive at a common proto-language provided that the two languages are related, of course. In historical linguistics the deeper we go in time, the less likely it is that words will be (superficially) similar. Actually, the more different the languages are, the more likely it is that they can be ultimately related through inheriting these words from a common mother language. It is important to understand that the notion ‘the more different they are’ means ‘if the difference between two languages can be showed to regularly derive from the application of ordered phonological rules’. Having two wildly different words is no proof of their relatedness. As we have seen, having two wildly similar words is no proof of relatedness either. This is a piece of wisdom that all historical linguists must take to heart at some point. Phonological variation between languages, as well as between accents of the same language, revolves around a phonological feature (or features) and a phonological position (coda, onset, etc.) and a phonological response to such a conditioning set of features and positions."""
+
+== cat 940
+What does the presence of two wildly similar words in two languages indicate about their relatedness?
+# They are likely to have evolved independently
+# Shared vocabulary indicates only cultural exchange, not linguistic descent
+# They are almost certainly related
+# ! There is no proof of relatedness based solely on their similarity
+
+"""The language ‘gene’ that underlies related languages can be understood as regular phonological change applying to an underlying representation. In historical linguistics not just any two languages can be compared, they must be genetically related through phonological changes revealing their common ancient ancestry through cognates. Of course, to know what can be compared, you must first do phonological comparison and discard what does not belong to your frame of comparison. This is why French and English are not immediately related and cannot be directly compared: there is no phonological rule that would reveal there was a common language from which these two developed through phonological change. English and French are ultimately related, but at the level of Germanic and Italic (of which French is a remote daughter through Latin), both of them descending from Indo-European. English and Hungarian are not immediately related, but not even ultimately; there is no genetic relatedness between the two. This is an important consequence of historical analysis. This, of course, doesn’t mean that English and Hungarian cannot be compared typologically or through contact (areal) linguistics (we have seen that Hungarian has extensively borrowed from English, but for a historical linguist this is skin deep)."""
+
+== cat 941
+In historical linguistics, what can be thought of as the 'language genes' that underlie related languages?
+# Shared vocabulary
+# Grammatical structures
+# Writing systems
+# ! Regular phonological changes
+
+== cat 942
+Which of the following pairs of languages are related only ultimately?
+# English and German
+# ! English and French
+# French and Spanish
+# English and Hungarian
+
+== cat 943
+Which two languages are immediately related?
+# English and Spanish
+# ! English and German
+# French and Hungarian
+# French and Dutch
+
+== cat 944
+Which pair of languages are not genetically related at all?
+# English and Farsi
+# Ukrainian and Sanskrit
+# English and French
+# ! English and Hungarian
+
+"""The previous section has shown that in a historical analysis if you can set up phonological rules that trace the route a sound takes (in all the words in which it occurs in the same environment) through time allows you to say English and German are dialects of a now extinct language (West-Germanic). So, are English and German not languages, but rather dialects? The answer depends on your point of view. For a historical linguist a language is virtually the same as a dialect (of a now extinct dialect, which in turn may be the dialect of yet another extinct dialect, and so on ad infinitum). If you want to stick to the distinction between language and dialect, that distinction will mainly have to be established on a nonlinguistic basis. The basis will be routed in a social, cultural, military, naval or any other supremacy difference between the entities of which you want to elevate one to the status of an (official) language."""
+
+== cat 945
+What does a historical linguist consider to be the primary difference between a language and a dialect?
+# The number of speakers using each variety
+# A language is a dialect with an army and navy
+# ! There is virtually no difference
+# The written forms and scripts they use
+
+== cat 946
+On what basis is the distinction between language and dialect primarily established, according to non-linguistic perspectives?
+# The age and historical depth of the dialects
+# The phonological and syntactic complexity
+# ! Social, cultural, military, naval, or other supremacy differences
+# The number of phonemes each dialect contains
+
+"""Let us now have a look at a few isoglosses that criss-cross the United Kingdom (shown here with England, Scotland and Whales). We will have 6 of these characteristics to discuss briefly. Before we go there, it is worth asking what words we are using as our point of departure. Maps that show isoglosses always start with the comparison of cognates (= words that were ‘born together’ or found together in a now extinct language; go back to our discussion if you don’t understand this), not words that are viewed to have entered the language separately (i.e., independently of a common mother language). So, maps like the ones below will be based on words like bath and sun (two words that have been in the language since Germanic times), course (a word that entered English from French at least 500 years ago, before it branched off into GA or SSBE), but not banana, basil, sushi, sachet, gateau, jalapeno, quesadilla, chinchilla, chihuahua or the like that are viewed as relatively recent borrowings that have entered GA and SSBE separately on separate occasions (more on this below). This is crucial: words referred to above like bath, sun and course did not enter GA and SSBE separately on separate occasions, these words were present together (= they are cognates) in an earlier mother language from which both GA and SSBE develop"""
+
+== cat 947
+Which of the following words entered GA and SSBE together?
+# ! Bath, sun, course
+# Banana, basil, quesadilla
+# Sushi, sachet, gateau
+# Jalapeno, chinchilla, chihuahua
+
+== cat 948
+Which of the following words entered GA and SSBE separately?
+# Bath, sun, course
+# ! Banana, basil, sushi
+# Sun, course, chihuahua
+# Bath, jalapeno, quesadilla
+
+"""(10) R-dropping r → Ø / __#, __C"""
+
+== cat 949
+What is the rule for R-dropping in phonology?
+# r → Ø / #__
+# r → f / __V
+# ! r → Ø / __#, __C
+# r → Ø / V__, __C
+
+"""4.2.4 NG-coalescence NG-coalescence simply refers to whether the velar nasal (ŋ) is a phoneme or not. This isogloss shows those areas where the g is no longer found in the original *ŋg sequences word-finally or word-medially before a #-boundary. When g was deleted, a new phoneme came into existence (the velar nasal): long, sing, bring, sing#er all contained *ŋg originally (the velar nasal was not a phoneme then, its appearance having been predictable; recall the Nasal place assimilation rule from Chapter 1). After the loss of the velar voiced stop, ŋ became a phoneme (its presence is now unpredictable and it now distinguishes words, as in sing – sin – sim). The read pocket area shows where the velar nasal is still only found before g, but not on its own."""
+
+== cat 950
+What does NG-coalescence refer to in phonology?
+# The process by which the velar nasal (ŋ) becomes a vowel
+# The assimilation of nasals to following fricatives
+# The loss of velar sounds in all environments
+# ! Whether the velar nasal (ŋ) is a phoneme or not
+
+"""The original historical vowel is reconstructed as a ‘short A’, i.e., *a. At some point in the history of the language there appeared a phonological change that lengthened every *a before a voiceless fricative that was either word-final of followed by a consonant (= fricative in coda position), see (19a) in Accent 2. If the fricative was followed by a vowel (= fricative in onset) in the same word (but not across a #-boundary as in pass#ing), the lengthening failed, as in (19b(i)) (compare class ɑː to classify a). Lengthening also failed if the short vowel was followed by any other consonant (19b(ii)). We can blame this on a rule shown in (20). In Accent 1 nothing happened."""
+
+== cat 951
+In which case did the BATH-TRAP vowel lengthening fail according to the historical phonological change?
+# If the short vowel was followed by a pause
+# If the short vowel was followed by silence
+# If the fricative was followed by a glottal stop
+# ! If the fricative was followed by a vowel in the same morpheme
+
+== cat 952
+In which instance did the BATH-TRAP vowel lengthening fail?
+# If the short vowel was followed by a fricative
+# ! If the short vowel was followed by any consonant that is not a fricative
+# If the short vowel appeared at the end of a word
+# If the short vowel was preceded by a voiced fricative
+
+"""(20) BATH-lengthening a → aː / __ Fric(−voi)#, __Fric(−voi)C (voiceless fricatives: f θ s ʃ"""
+
+== cat 953
+What is the rule for BATH-lengthening in phonology?
+# a → aː / __Stop(−voi)C#, __Vowel(+high)
+# a → aː / __Fric(−voi)V, __Nasal(+voi)C
+# a → aː / __NasalC__, __C#
+# ! a → aː / __ Fric(−voi)#, __Fric(−voi)C
+
+"""Not everything can be explained so neatly. The words mass ‘holy service’ and Basque can have both a long and short vowel (= free variation). Words like lass, bass ‘perch’, ass ‘donkey’, lash have short vowels, while ass ‘backside’ usually has a long vowel, as does moustache. The same is true for words in which the fricative was followed by a consonant: ask, task, mask, cask, rascal have long vowels, mascot, asp, Bafta have short ones. One possible explanation is that these words were ‘reborrowed’ from those accents in which the BATH-lengthening never happened (the non-SouthEastern accents). Bafta, of course, is too modern a word to be reborrowed. Here we must conclude that the rule of BATH-lengthening is dead as a rule, it ran its course and is no longer active. New words (of any source) are no likely to be affected."""
+
+== cat 954
+What is the possible explanation for why we have words like mass and Basque that can have either long or short vowel? Also words like lass, bass ‘perch’, ass ‘donkey’ have a short vowel, while ass ‘backside’ usually has a long vowel, as does moustache.
+# These words underwent a new vowel lengthening process after BATH-lengthening
+# Vowel length varies due to a general phonetic shift affecting all vowels in English
+# These words are influenced by modern pronunciation trends
+# ! These words were 'reborrowed' from accents where BATH-lengthening never occurred
+
+"""(29) r-insertion rule 0 → r / Vː# __ V (Vː = R-vowels: long monophthongs and schwa)"""
+
+== cat 955
+Which is the formula for the r-insertion rule?
+# 0 → r  / V__V
+# 0 → r / #_V
+# r → 0 / Vː#__
+# ! 0 → r / Vː# __ V
+
+"""The traditional name for the combined effects of the first nurse merger and the backing of the historical a vowel before coda r (tar) are known as pre-R broadening (compare tap vs tar, set vs serf, sit vs spirt, to which we can add hut/burn where the change was vacuous). Pre-R broadening is also extended to the failure of ɔ becoming ɑ before coda R (port ɔ, never ɑ). So, first nurse merger + laxing of a to ɑ + failure of ɔ to become ɑ before coda R = pre-R broadening."""
+
+== cat 956
+What is the traditional name for the combined effects of the first nurse merger and the backing of the historical a vowel before coda r?
+# Vowel harmony
+# Final-obstruent devoicing
+# Palatalization
+# ! Pre-R broadening
+
+"""What happens if historically lax (short) vowels are followed by coda R? Here the modern vowels are long and there is no coda R (spirt, serf, tar, port, burn). This is because of R-dropping (see (48 below), and the chapter on syllables in this course). However, coda R did not only drop (with compensatory lengthening), it also affected the quality of the preceding lax vowel in a process we have already discussed for GA (first nurse merging) plus backing of a to ɑ, and raising of ɔ to o. All these changes can collectively be referred to as pre-R broadening. This change is shared by SSBE and GA, which for a historical linguist means that American English and SSBE are closely related. As always, languages introduce new rules. SSBE, starting in the 18th century, started applying a rule known as Rdropping. After R was dropped, the vowels underwent compensatory lengthening, resulting in long broad vowels (as opposed to GA, where there was no R-dropping and hence the lax vowels are still short, and followed by R, of course). This is why SSBE and GA are still very closely related, but by no means identical. It also follows that if R was not dropped, the vowel is expected to be short. We’ll see if this is borne out by the data."""
+
+== cat 957
+What changes can collectively be referred to as pre-R broadening?
+# Lowering of e to ɛ and centralizing of a to ə before coda R
+# ! First nurse merging, backing of a to ɑ, and raising of ɔ to o before coda R
+# Fronting of a to æ and reduction of u to ʊ before coda R
+# Merging of i and e with subsequent vowel lengthening before coda R
+
+"""R vowels can come from two sources: pre-R broadening (in case of the historical lax vowels), and from pre-R breaking (in case of historical tense/diphthongal vowels). We now have the absence of diphthongs before R to account for."""
+
+== cat 958
+Which sources can R-vowels come from?
+# Pre-R broadening
+# ! Pre-R broadening and pre-R breaking
+# pre-R breaking
+# Post-vocalic lengthening and consonant fronting

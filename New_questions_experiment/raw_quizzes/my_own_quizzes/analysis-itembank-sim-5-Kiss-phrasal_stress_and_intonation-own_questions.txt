@@ -1,0 +1,447 @@
+== cat 501
+If there is a sequence of equal stresses in English, what happens?
+# The first one becomes the strongest
+# They remain equal in strength
+# The middle one becomes the strongest
+# ! The last one becomes the strongest
+
+== cat 502
+Where is the prosodic "weight" of an utterance typically located in English?
+# At the beginning
+# In the middle
+# It varies randomly
+# ! At the end
+
+== cat 503
+What is the tonic stress in the context of English prosody?
+# The first stress in a sentence
+# ! The last and strongest stress in a sentence
+# A stress at the midpoint of a sentence
+# The lightest stress in a sentence
+
+== cat 504
+What is the 1 1 → 2 1 rule known as in English prosody?
+# ! Tonic assignment rule
+# Stress deletion rule
+# Prosodic adjustment rule
+# Rhythm rule
+
+== cat 505
+What does the tonic assignment rule state in English prosody?
+# All primary stresses become stronger
+# Only the first stress remains primary
+# ! Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic
+# Ignore all secondary stresses
+
+== cat 506
+Which statement is NOT true regarding secondary stress in English prosody?
+# The “secondariness” of secondary stress is predictable
+# A secondary stress is actually a stress which is followed by another stress and has therefore been downgraded
+# Secondary stress is actually an “allophone” of primary stress
+# ! We cannot represent words like reformation, satisfactory, sardine with two equal “primary” stresses
+
+== cat 507
+Can there be a secondary stress after a primary stress in English prosody according to the End-Weight Principle?
+# ! No, there cannot be a secondary after the primary
+# Yes, it often occurs
+# It depends on the sentence structure
+# Only in certain dialects
+
+== cat 508
+Which word exhibits tertiary-stressed vowels due to a lack of vowel reduction?
+# sálad
+# Óxford
+# ! fórmat
+# cycle
+
+== cat 509
+Which word also exhibits tertiary-stressed vowels due to its non-reduced vowel?
+# sálad
+# cycle
+# ! diréct 
+# fashion
+
+== cat 510
+What type of stressed syllables are referred to as "tertiary-stressed"?
+# Those that are entirely unstressed
+# ! Those that are strong-unstressed because their vowel does not reduce
+# Those that are primary-stressed
+# Those affected by the Rhythm Rule
+
+== cat 511
+Why do 3ry and zero stresses not count as stresses from the prosodic point of view?
+# They are louder than other stresses
+# They dominate the intonation pattern
+# Because they occur at the start of the tone-unit
+# ! Because the End-Weight Principle does not “see” them and they can never become 1ry-stressed
+
+== cat 512
+What are the phonologically relevant stress degrees in English prosody?
+# Stressed, unstressed, tertiary
+# ! Stressed and unstressed
+# Primary, secondary, and tertiary
+# Primary and secondary only
+
+== cat 513
+What stress pattern do initially-stressed compounds exhibit in English prosody?
+# # 3 # 2 #
+# # 2 # 2 #
+# ! # 1 # 3 #
+# # 3 # 1 #
+
+== cat 514
+What stress pattern do finally-stressed compounds exhibit?
+# # 1 # 3 #
+# ! # 2 # 1 #
+# # 3 # 1 #
+# # 1 # 2 #
+
+== cat 515
+Which of the following compounds is initially-stressed?
+# trade union
+# fruit salad
+# Victoria Station
+# ! car ferry
+
+== cat 516
+Which compound is finally-stressed?
+# greenhouse
+# car ferry
+# ! fruit salad
+# computer virus
+
+== cat 517
+Which of the following words is considered an "invisible compound" in English?
+# gréenhouse
+# wòrd-fínal
+# ! cár ferry
+# wèlcome
+
+== cat 518
+Which word is considered an invisible compound?
+# nónsense
+# wòrd-fínal
+# wélcome
+# ! geógraphy teacher
+
+== cat 519
+Which word is NOT considered an "invisible compound"?
+# ! wòrd-fínal
+# cár ferry
+# geógraphy teacher
+# dòuble chin
+
+== cat 520
+What does the Compound Stress Rule state regarding initially-stressed compounds?
+# Keep both elements equally stressed
+# Downgrade the first word to secondary stress
+# ! Downgrade the primary stress of the second word to strong-unstressed (3ry) level
+# Elevate the first stress to primary
+
+== cat 521
+What stress pattern is formed according to the Compound Stress Rule for initially-stressed compounds?
+# # 2 # 2 #
+# # 2 # 1 #
+# # 3 # 1 #
+# ! # 1 # 3 #
+
+== cat 522
+Which of the following compounds would follow the Compound Stress Rule for initial stress?
+# trade union
+# ! gréenhouse
+# Victoria Station
+# èasy-góing
+
+== cat 523
+According to the Compound Stress Rule, which compound would NOT apply the rule of downgrading the second element to strong-unstressed?
+# wèlcome
+# ! trade union
+# wòrd-fínal
+# nonsense
+
+== cat 524
+What rule is described by the pattern # 1 # # 1 # → # 1 # 3 #?
+# Tonic Assignment Rule
+# Rhythm Rule
+# ! Compound Stress Rule
+# Stress-Shift Rule
+
+== cat 525
+Which word is NOT an obscured compound in English?
+# nónsense
+# póstman
+# Éngland
+# ! wòrd-fínal
+
+== cat 526
+Which of the following words is an example of an obscured compound?
+# wòrd-fínal
+# gréenhouse
+# ! Jóhnson
+# cár ferry
+
+== cat 527
+What is the stress pattern of obscured compounds in English prosody?
+# # 1 # 2 #
+# # 1 # 3 #
+# # 2 # 1 #
+# ! # 10 #
+
+== cat 528
+What does the stress pattern #10# exemplify in English prosody?
+# Compound Secondary Stress Rule
+# Tonic Placement
+# Compound Ambiguity
+# ! Obscured compounds
+
+== cat 529
+What does the “Y is (made) of X” relationship entail in terms of stress pattern?
+# An initially-stressed compound
+# An obscured compound
+# A tertiary-stressed compound
+# ! A finally-stressed compound
+
+== cat 530
+What does the “Y is (an) X” relationship involve regarding compound stress?
+# An initially-stressed compound
+# An obscured compound
+# A tertiary-stressed compound
+# ! A finally-stressed compound
+
+== cat 531
+What kind of compound stress pattern do names of places typically have, excluding those ending in "Street"?
+# Obscured compound
+# ! A finally-stressed compound
+# An initially-stressed compound
+# Unstressed compound
+
+== cat 532
+What kind of compound stress pattern do “initialisms”, where letters are pronounced as their alphabetical names, exhibit?
+# An initially-stressed compound
+# An obscured compound
+# A secondary-stressed compound
+# ! A finally-stressed compound
+
+== cat 533
+If a compound expresses the idea of "for..." (an object relationship), what type of stress does it exhibit?
+# Finally-stressed
+# Obscured
+# ! Initially-stressed
+# Unstressed
+
+== cat 534
+If a compound expresses the idea of "is a...", "is made of...", or "is characterized by..." (a subject relationship), what type of stress pattern does it typically have?
+# Obscured
+# Initially-stressed
+# ! Finally-stressed
+# Unstressed
+
+== cat 535
+In a typical tone unit 'We decided to come back in October', what constitutes the pre-head?
+# ! We de-
+# -cided to come back in Oc-
+#  -to-
+# -ber
+
+== cat 536
+In a typical tone unit 'We decided to come back in October', what does the head consist of?
+# We de-
+# ! -cided to come back in Oc-
+#  -to-
+# -ber
+
+== cat 537
+In the typical tone unit 'We decided to come back in October', which part is considered the tonic?
+# We de-
+# -cided to come back in Oc-
+# ! -to-
+# -ber
+
+== cat 538
+In a typical tone unit 'We decided to come back in October', what is referred to as the tail?
+# We de-
+# -cided to come back in Oc-
+#  -to-
+# ! -ber
+
+== cat 539
+What is the "nice old lady" rule in English prosody?
+# Tonic placement
+# Stress shift
+# Phonemic distinction
+# ! Rhythmic stress deletion
+
+== cat 540
+What is the "afternoon tea" rule in English prosody?
+# Tonic placement
+# Phonemic distinction
+# ! Stress-shift, resulting from the Rhythm Rule
+# Compound stress adjustment
+
+== cat 541
+Which stress pattern exemplifies the "afternoon tea" rule?
+# [1 3 1]
+# [1 0 2]
+# [2 1 0]
+# ! [2 0 3]
+
+== cat 542
+What does the "afternoon tea" rule dictate regarding stress patterns?
+# The word’s primary stress moves forward
+# The secondary stress becomes the new primary
+# A previously unstressed syllable gains stress
+# ! The word’s lexical primary-stressed syllable is degraded to strong-unstressed status
+
+== cat 543
+Where does the neutral tonic fall?
+# On the last function-word of the tone-unit
+# On the first content-word of the tone-unit
+# On the first function-word of the tone-unit
+# ! On the last content-word of the tone-unit
+
+== cat 544
+On which function words can the neutral tonic fall?
+# On a determiner and a pronoun
+# On auxiliary and a preposition
+# On an article and an adverb
+# ! On an auxiliary and on an adverbial particle
+
+== cat 545
+When can the neutral tonic fall on an auxiliary?
+# When it is followed by its unstressed personal pronoun subject
+# When it is followed by a noun
+# Only when it is part of a subordinate clause
+# ! When there is no further stressable word in the sentence
+
+== cat 546
+In which case does the tonic not fall on a sentence-final auxiliary?
+# When it is used in an interrogative sentence
+# ! When it is preceded by its own stressed subject
+# When it follows a conjunction
+# When it is part of a complex verb phrase
+
+== cat 547
+What is the relationship between intonation and pitch in linguistics?
+# Intonation is about the loudness of syllables
+# Intonation only relates to rhythm
+# Pitch is unrelated to intonation
+# ! Intonation concerns the height, or pitch, of syllables
+
+== cat 548
+What does intonation include in the context of prosody?
+# Only the rhythm of speech
+# The stress and syllable count
+# ! The melodies or “tones” and the division of speech into tone-units
+# The speed and volume of speech
+
+== cat 549
+What does the Falling tone express in English intonation?
+# Implication; softening; old info
+# Indifference; encouragement
+# Inquiry; Yes/No question
+# ! Neutrality, definiteness, finality
+
+== cat 550
+What does the Rising Fall-rise tone convey in English intonation?
+# ! Implication; softening; old info
+# Indifference; encouragement
+# Inquiry; Yes/No question
+# Neutrality, definiteness, finality
+
+== cat 551
+What meaning does the Low rise tone hold in English intonation?
+# Implication; softening; old info
+# ! Indifference; encouragement
+# Inquiry; Yes/No question
+# Neutrality, definiteness, finality
+
+== cat 552
+What is expressed by the High rise tone in English intonation?
+# Implication; softening; old info
+# Indifference; encouragement
+# ! Inquiry; Yes/No question
+# Neutrality, definiteness, finality
+
+== cat 553
+In which context is the falling tone generally used to express definiteness and finality?
+# In song lyrics
+# In casual conversations only
+# When expressing hypothetical scenarios
+# ! In statements and commands
+
+== cat 554
+Which of the following intonations is most commonly used for Wh-questions?
+# High rise
+# Low rise
+# ! Falling tone
+# Rising Fall-rise
+
+== cat 555
+What is a common function of the falling-rising tone when used in sentences?
+# To express enthusiastic agreement
+# ! To imply reservations or partial truth
+# To convey complete certainty
+# To signal boredom
+
+== cat 556
+How does the falling-rising tone act in terms of negation?
+# It confirms full negation
+# It denies any implication
+# ! It expresses partial negation
+# It reverses the meaning
+
+== cat 557
+In what context is the falling-rising tone used to achieve a more polite effect?
+# In dramatic monologues
+# ! To soften commands or Wh-questions
+# In fast-paced conversations
+# To convey sarcasm
+
+== cat 558
+What is a common function of the low-rising tone in English intonation?
+# To express strong disagreement
+# To convey urgency
+# ! To indicate indifference or lack of importance
+# To confirm full understanding
+
+== cat 559
+Which of the following does the low-rising tone often express?
+# Excitement
+# Inquiry
+# ! Encouragement or reassurance
+# Sarcasm
+
+== cat 560
+In which contexts is the low-rising tone used to display politeness in English?
+# In sarcastic remarks
+# In questions
+# ! In greetings, thanks, and apologies
+# In explanations
+
+== cat 561
+What is the primary function of the high-rising tone in English intonation?
+# To indicate certainty
+# To express a command
+# To confirm information
+# ! To signal Yes/No questions
+
+== cat 562
+In what type of questions is the high-rising tone most commonly used?
+# Hypothetical questions
+# Informative questions
+# ! Yes/No questions
+# Rhetorical questions
+
+== cat 563
+What linguistic challenge might Hungarian learners face with the high-rising tone in English?
+# They tend to use too low a pitch
+# They might apply it to statements
+# They might not articulate the words clearly
+# ! They tend to use a rise-fall pattern
+
+== cat 564
+How is the high-rising tone used in "please-repeat" questions?
+# It places emphasis on the auxiliary verb
+# It omits the question word
+# ! It places a dislocated tonic on the question word
+# It maintains the intonation of a declarative sentence

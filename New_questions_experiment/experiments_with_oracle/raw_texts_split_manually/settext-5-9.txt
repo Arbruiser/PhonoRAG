@@ -1,0 +1,15 @@
+
+ 
+7.5.2.2. Stress-shift (“afternoon tea” rule) 
+If a word with two stresses (e.g. 1after′noon) is immediately followed by a stressed word, three stresses fall closely together: 1after′noon ′tea. This is subject to the Rhythm Rule, which deletes the middle stress: ′afteronoon ′tea. But as a result, the original [2 0 1] stress pattern of the 
+English Phonological Analysis  Chapter 7  PROSODY (Autumn 2013)
+word 1after′noon is replaced by a [2 0 3] stressing ′afteronoon. The word’s lexical primarystressed syllable (noon) is degraded to strong-unstressed (tertiary) status.This gives the impression that the major stress in the word has “shifted” leftwards to the place of the secondary, and instead of the normal /ˌɑ:ftəˈnu:n/ we now have /ˈɑ:ftənu:n/.  
+    Due to this Stress-Shift, the stressing of many longer words or compounds is variable, depending on whether they are followed by a stressed word or not.9 Stress-Shift is most frequent in adjectives and nouns in attributive position, but it can affect practically any word that has two stresses. Examples: 
+	1Japa′nese  →  ′Japa onese ′garden; 	1demo′cratic  →   ′demo ocratic ′country 
+	1unde′clared  →   ′unde oclared ′goods 	to  1de′ice  →  to  ′de oice ′everything
+It may also hit the second element of a finally-stressed compound, causing the compound to sound initially-stressed. For example, 1North ′Sea, when followed by óil, loses the stress on Sea and appears with shifted stress as ′North Sea.  
+	1North ′Sea  →  ′North  oSea ′oil 	1New ′Year  →  ′New  oYear’s ′Eve 
+	1duty ′free  →   ′duty  ofree ′goods 	1World ′War  →  ′World  oWar ′Two 
+The two applications of the Rhythm Rule, Medial Stress-Deletion and Stress-Shift, are basically the same: they eliminate a stress between two other stresses. They have no communicative significance: they are not applied to emphasize any part of the message. They are mechanical means to ensure a smoother rhythm in speech. Observe: 
+	       2    2    2	2      2     1 	→ 	       2    3    2          2        3    1 
+We had a nice old lady for afternoon tea. 	We had a nice old lady for afternoon tea. 

@@ -1,0 +1,5 @@
+ 
+(2) 
+ 
+We can describe the voicing quality of a plosive using VOT values. “VOT” is an abbreviation for voice onset time, which gives the timing between the release of the plosive and the beginning (= onset) of voicing in the next vowel or sonorant consonant, as shown in the schematized figure in (3). Voiced plosives, in which voicing begins prior to the release of the stops, are characterized by negative VOT. In the case of voiceless unaspirated plosives, where vocal fold vibration begins right around its release, we can talk of zero or short-lag VOT. Finally, voiceless aspirated plosives have positive VOT values (a.k.a. long-lag VOT), which means that voicing is delayed, i.e., lags behind the release of the stop (e.g., in the case of the /p/ of Paul in the above figure, VOT = +105 milliseconds). For further details about the phonetics of laryngeal properties, please read “The phonetics of voicing,”3 “The phonetics of aspiration”4 and “Voice onset time”5 in Phonolec notes. 
+ 

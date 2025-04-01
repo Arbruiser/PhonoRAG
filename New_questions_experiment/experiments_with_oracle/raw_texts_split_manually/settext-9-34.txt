@@ -1,0 +1,9 @@
+
+It seems we cannot simply say that all long vowels are the result of loss of historical R. The examples in (40) show that we can find a long vowel even before those Rs that have never been lost. In monomorphemic Charon the long vowel must be due to another reason. 
+ We have seen that historical word-internal coda Rs were lost in BrE: words like card, lord, serf contain unrecoverable Rs. There is no possibility of ever recovering them. We have also seen that before such Rs stressed vowels are long (card, lord, serf). However, it seems vowel length doesn’t entirely depend on R loss: words like Charon have long vowels despite absence of R loss. So, this can’t be the whole story. See (41) for where r is found. 
+(41) Environments where r is found 
+ 
+It seems that BrE has acquired its R vowels from two sources. There are native sources and some of the long vowels have arrived with loanwords from other languages. We will see how non-native sources of vowels can rearrange the phonological environment in which a sound can be found. This will be a good example for areal linguistic influence having a go at rearranging the phonological system of a language. English. of course, will remain a Germanic language from a historical linguistic point of view, as long as it holds onto its core Germanic vocabulary. Let’s for analyse the native (Germanic) sources of R vowels (see (42)). 
+(42) Sources of R vowels 
+ 
+R vowels can come from two sources: pre-R broadening (in case of the historical lax vowels), and from pre-R breaking (in case of historical tense/diphthongal vowels). We now have the absence of diphthongs before R to account for. 

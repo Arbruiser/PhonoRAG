@@ -1,0 +1,68 @@
+
+7.3.2. Finally-stressed compounds  
+In these the second element is primary-stressed, the first element has secondary stress, e.g. tràde únion, Victòria Státion. They sound like two words, their stress pattern is identical to a phrase (n w bóok,  mànda’s fáther). We give some examples for finally-stressed compounds, with remarks on the semantic or syntactic relationship between the elements: 
+ 
+ The compound is a NOUN: 
+– the “Y is (made) of X” relationship:  brìck wáll,  fr it sálad,  potàto crísps,  r bber bóots,  gàs fíre 
+– the “Y is (an) X” relationship:  
+     tòy sóldier,  twìn bróther,  wòman wríter,  bòy scóut,  quèen bée,  chìld áctor – names of places (but not those ending in “Street”, which are initially-stressed!):  
+     Victoria Státion,  Cròmwell Róad,  Fìfth Ávenue,  Cèntral Párk,  Hèroes’ Squáre – various others:  
+Sòcial Démocrat,  blàck márket,  lìving condítions,  trade únion,  Còca Cóla,  wèekénd3 
+– “initialisms” (letters pronounced as their alphabetical names): DJ /ˌdi: ˈdʒeɪ/, etc. 
+• The compound is an ADJECTIVE:  èasy-góing,  dìrt chéap,   ser-fríendly,  d ty frée,  dàrk brówn – the second element is a Past Participle: 
+bàd-témpered,  clèar-cút,  àbsent-mínded,  well-desérved 
+• The compound is an ADVERB:4  hèad-fírst,  dòwnstréam,   pstáirs,  òffhánd,  wèll-óff,  wày óut,  fàr awáy,  Nòrth-Éast  The compound is a VERB: 
+to dòwngráde,  to cròss-exámine,  to òutnúmber,  to òversléep,  to ìll-tréat. 
+ 
+ There are no clear-cut rules as to which compound is finally-stressed and which initiallystressed:5 this is a lexical property of the given compound. The following guiudelines must be remembered: 
+(a) if the compound expresses the idea of “for...” (an object relationship), it is initiallystressed.  
+(b) if the compound it expresses the idea of “is a...”, “is made of...”, “is characterized by...” (a subject relationship), it is finally-stressed.5 
+ 
+a   Énglish teacher (teaches English; object)  
+a   páper bag  (bag for putting paper in) 
+b    nglish téacher (she is English, subject)  
+b   pàper bág  (the bag is made of paper) 
+a   tóy factory  (it makes toys, object) 	 
+a   drínking water  (we drink it; object) 
+b   tòy sóldier  (the soldier is a toy, subject)  
+b  r nning wáter  (the water runs; subject) 
+But in many cases such a semantic or logical explanation is not easy to find, and the two types of stressing seem to be arbitrary, i.e. lexical, and have to be memorized as part of the pronunciation of the compound. 
+ 
+SUMMARY TABLE OF COMPOUNDS 
+ 
+phrase 
+ 
+compound,  
+finally-stressed 
+compound, 
+initially-stressed 
+obscured 
+compound 
+ 
+new bóok 
+trade únion 
+cár ferry 
+Éngland 
+Is it a  grammatical word? 
+NO 
+YES 
+YES 
+YES 
+Is it a  phonological word? 
+NO 
+NO 
+YES 
+YES 
+Is the second  element de-stressed? 
+NO 
+NO 
+YES 
+YES 
+Is the second  element reduced? 
+NO 
+NO 
+NO 
+YES 
+ 
+We have included “obscured compounds” for the sake of comparison, but phonologically they do not count as compounds because their final element is reduced, i.e. not a free stem. 
+ 

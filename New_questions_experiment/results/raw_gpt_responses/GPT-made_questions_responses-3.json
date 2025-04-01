@@ -1,0 +1,639 @@
+[
+  {
+    "question": "What is the main argument for analyzing diphthongs as sequences of a short vowel and a glide in British English?",
+    "category": "\ufeff1",
+    "answers": [
+      "a) The historical development of English vowels.",
+      "b) The influence of spelling conventions.",
+      "c) The phonotactic distribution of vowels and glides.",
+      "d) The presence of geminates in English."
+    ],
+    "correct answer(s)": "c) The phonotactic distribution of vowels and glides.",
+    "GPT's response": "c) The phonotactic distribution of vowels and glides.",
+    "correct": true
+  },
+  {
+    "question": "In the proposed analysis, what is the role of the glide in a diphthong?",
+    "category": "3",
+    "answers": [
+      "a) To lengthen the preceding vowel.",
+      "b) To create a new syllable.",
+      "c) To act as a consonant following a short vowel.",
+      "d) To indicate stress on the preceding vowel."
+    ],
+    "correct answer(s)": "c) To act as a consonant following a short vowel.",
+    "GPT's response": "c) To act as a consonant following a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words contains a diphthong that is analyzed as a vowel followed by a glide?",
+    "category": "4",
+    "answers": [
+      "a) Price",
+      "b) Kit",
+      "c) Dress",
+      "d) Lot"
+    ],
+    "correct answer(s)": "a) Price",
+    "GPT's response": "a) Price",
+    "correct": true
+  },
+  {
+    "question": "What is the phonotactic pattern for short vowels in British English according to the analysis?",
+    "category": "5",
+    "answers": [
+      "a) They can occur word-finally.",
+      "b) They can occur before another vowel.",
+      "c) They can only occur before a consonant.",
+      "d) They can occur in any position."
+    ],
+    "correct answer(s)": "c) They can only occur before a consonant.",
+    "GPT's response": "c) They can only occur before a consonant.",
+    "correct": true
+  },
+  {
+    "question": "Which glide is analyzed as following the vowel in the word \"fleece\"?",
+    "category": "6",
+    "answers": [
+      "a) w",
+      "b) j",
+      "c) h",
+      "d) r"
+    ],
+    "correct answer(s)": "b) j",
+    "GPT's response": "b) j",
+    "correct": true
+  },
+  {
+    "question": "What is the phonotactic gap noted in the distribution of glides j, w, and h?",
+    "category": "7",
+    "answers": [
+      "a) They cannot occur before a stressed vowel.",
+      "b) They cannot occur after a long vowel.",
+      "c) They do not occur after a short stressed vowel.",
+      "d) They do not occur word-finally."
+    ],
+    "correct answer(s)": "b) They cannot occur after a long vowel.",
+    "GPT's response": "c) They do not occur after a short stressed vowel.",
+    "correct": false
+  },
+  {
+    "question": "How does the analysis treat the vowel in the word \"square\"?",
+    "category": "8",
+    "answers": [
+      "a) As a diphthong.",
+      "b) As a short vowel.",
+      "c) As a long monophthong.",
+      "d) As a glide."
+    ],
+    "correct answer(s)": "c) As a long monophthong.",
+    "GPT's response": "a) As a diphthong.",
+    "correct": false
+  },
+  {
+    "question": "What phenomenon is described by the Poor\u2013Cure Split?",
+    "category": "9",
+    "answers": [
+      "a) The merger of cure and force vowels.",
+      "b) The distinction between long and short vowels.",
+      "c) The split of the cure vowel into different vowels after palatal consonants.",
+      "d) The fronting of the glides in goose and goat."
+    ],
+    "correct answer(s)": "c) The split of the cure vowel into different vowels after palatal consonants.",
+    "GPT's response": "c) The split of the cure vowel into different vowels after palatal consonants.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words exemplifies the epenthesis of \u0259 between a diphthong and a liquid?",
+    "category": "10",
+    "answers": [
+      "a) Heel",
+      "b) Kit",
+      "c) Lot",
+      "d) Dress"
+    ],
+    "correct answer(s)": "a) Heel",
+    "GPT's response": "a) Heel",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"mitre\" in the analysis of diphthongs?",
+    "category": "11",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates the absence of flapping after a diphthong.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates the absence of flapping after a diphthong.",
+    "GPT's response": "c) It illustrates the absence of flapping after a diphthong.",
+    "correct": true
+  },
+  {
+    "question": "What is the main reason for the traditional classification of diphthongs as \"long vowels\"?",
+    "category": "13",
+    "answers": [
+      "a) The influence of modern phonetic studies.",
+      "b) The presence of geminates in English.",
+      "c) The historical development and spelling conventions.",
+      "d) The phonotactic distribution of glides."
+    ],
+    "correct answer(s)": "c) The historical development and spelling conventions.",
+    "GPT's response": "c) The historical development and spelling conventions.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words contains a glide that is analyzed as a consonant in the proposed system?",
+    "category": "14",
+    "answers": [
+      "a) Ice",
+      "b) Kit",
+      "c) Dress",
+      "d) Lot"
+    ],
+    "correct answer(s)": "a) Ice",
+    "GPT's response": "a) Ice",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the glide in the word \"goat\" according to the analysis?",
+    "category": "15",
+    "answers": [
+      "a) To lengthen the preceding vowel.",
+      "b) To create a new syllable.",
+      "c) To act as a consonant following a short vowel.",
+      "d) To indicate stress on the preceding vowel."
+    ],
+    "correct answer(s)": "c) To act as a consonant following a short vowel.",
+    "GPT's response": "a) To lengthen the preceding vowel.",
+    "correct": false
+  },
+  {
+    "question": "How does the analysis treat the vowel in the word \"near\"?",
+    "category": "16",
+    "answers": [
+      "a) As a diphthong.",
+      "b) As a short vowel.",
+      "c) As a long monophthong.",
+      "d) As a glide."
+    ],
+    "correct answer(s)": "c) As a long monophthong.",
+    "GPT's response": "a) As a diphthong.",
+    "correct": false
+  },
+  {
+    "question": "What is the significance of the word \"arcade\" in the analysis of stress patterns?",
+    "category": "17",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates stress on a final syllable with a \"diphthong.\"",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates stress on a final syllable with a \"diphthong.\"",
+    "GPT's response": "c) It illustrates stress on a final syllable with a \"diphthong.\"",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words exemplifies the epenthesis of \u0259 between a diphthong and a liquid?",
+    "category": "18",
+    "answers": [
+      "a) Fire",
+      "b) Kit",
+      "c) Lot",
+      "d) Dress"
+    ],
+    "correct answer(s)": "a) Fire",
+    "GPT's response": "a) Fire",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words contains a glide that is analyzed as a consonant in the proposed system?",
+    "category": "22",
+    "answers": [
+      "a) Toe",
+      "b) Kit",
+      "c) Dress",
+      "d) Lot"
+    ],
+    "correct answer(s)": "a) Toe",
+    "GPT's response": "a) Toe",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the glide in the word \"goose\" according to the analysis?",
+    "category": "23",
+    "answers": [
+      "a) To lengthen the preceding vowel.",
+      "b) To create a new syllable.",
+      "c) To act as a consonant following a short vowel.",
+      "d) To indicate stress on the preceding vowel."
+    ],
+    "correct answer(s)": "c) To act as a consonant following a short vowel.",
+    "GPT's response": "a) To lengthen the preceding vowel.",
+    "correct": false
+  },
+  {
+    "question": "How does the analysis treat the vowel in the word \"cure\"?",
+    "category": "24",
+    "answers": [
+      "a) As a diphthong.",
+      "b) As a short vowel.",
+      "c) As a long monophthong.",
+      "d) As a glide."
+    ],
+    "correct answer(s)": "c) As a long monophthong.",
+    "GPT's response": "a) As a diphthong.",
+    "correct": false
+  },
+  {
+    "question": "Which of the following words exemplifies the epenthesis of \u0259 between a diphthong and a liquid?",
+    "category": "26",
+    "answers": [
+      "a) Coil",
+      "b) Kit",
+      "c) Lot",
+      "d) Dress"
+    ],
+    "correct answer(s)": "a) Coil",
+    "GPT's response": "a) Coil",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"martyr\" in the analysis of diphthongs?",
+    "category": "27",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates the absence of flapping after a long vowel.",
+      "d) It highlights the presence of a short vowel."
+    ],
+    "correct answer(s)": "c) It illustrates the absence of flapping after a long vowel.",
+    "GPT's response": "c) It illustrates the absence of flapping after a long vowel.",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the glide in the word \"mouth\" according to the analysis?",
+    "category": "31",
+    "answers": [
+      "a) To lengthen the preceding vowel.",
+      "b) To create a new syllable.",
+      "c) To act as a consonant following a short vowel.",
+      "d) To indicate stress on the preceding vowel."
+    ],
+    "correct answer(s)": "c) To act as a consonant following a short vowel.",
+    "GPT's response": "c) To act as a consonant following a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "How does the analysis treat the vowel in the word \"force\"?",
+    "category": "32",
+    "answers": [
+      "a) As a diphthong.",
+      "b) As a short vowel.",
+      "c) As a long monophthong.",
+      "d) As a glide."
+    ],
+    "correct answer(s)": "c) As a long monophthong.",
+    "GPT's response": "c) As a long monophthong.",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"defence\" in the analysis of stress patterns?",
+    "category": "33",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates stress on a final syllable with a VCC sequence.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates stress on a final syllable with a VCC sequence.",
+    "GPT's response": "c) It illustrates stress on a final syllable with a VCC sequence.",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"actor\" in the analysis of diphthongs?",
+    "category": "35",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates the absence of flapping after a short vowel.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates the absence of flapping after a short vowel.",
+    "GPT's response": "c) It illustrates the absence of flapping after a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the glide in the word \"choice\" according to the analysis?",
+    "category": "39",
+    "answers": [
+      "a) To lengthen the preceding vowel.",
+      "b) To create a new syllable.",
+      "c) To act as a consonant following a short vowel.",
+      "d) To indicate stress on the preceding vowel."
+    ],
+    "correct answer(s)": "c) To act as a consonant following a short vowel.",
+    "GPT's response": "c) To act as a consonant following a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "How does the analysis treat the vowel in the word \"north\"?",
+    "category": "40",
+    "answers": [
+      "a) As a diphthong.",
+      "b) As a short vowel.",
+      "c) As a long monophthong.",
+      "d) As a glide."
+    ],
+    "correct answer(s)": "c) As a long monophthong.",
+    "GPT's response": "c) As a long monophthong.",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"regimen\" in the analysis of stress patterns?",
+    "category": "41",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates an unstressed penultimate syllable with a V$C sequence.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates an unstressed penultimate syllable with a V$C sequence.",
+    "GPT's response": "c) It illustrates an unstressed penultimate syllable with a V$C sequence.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words exemplifies the epenthesis of \u0259 between a diphthong and a liquid?",
+    "category": "42",
+    "answers": [
+      "a) Moor",
+      "b) Kit",
+      "c) Lot",
+      "d) Dress"
+    ],
+    "correct answer(s)": "a) Moor",
+    "GPT's response": "a) Moor",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"Yalta\" in the analysis of diphthongs?",
+    "category": "43",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates the absence of flapping after a consonant.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates the absence of flapping after a consonant.",
+    "GPT's response": "a) It shows a lack of stress on the diphthong.",
+    "correct": false
+  },
+  {
+    "question": "What is the role of the glide in the word \"price\" according to the analysis?",
+    "category": "47",
+    "answers": [
+      "a) To lengthen the preceding vowel.",
+      "b) To create a new syllable.",
+      "c) To act as a consonant following a short vowel.",
+      "d) To indicate stress on the preceding vowel."
+    ],
+    "correct answer(s)": "c) To act as a consonant following a short vowel.",
+    "GPT's response": "c) To act as a consonant following a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "How does the analysis treat the vowel in the word \"thought\"?",
+    "category": "48",
+    "answers": [
+      "a) As a diphthong.",
+      "b) As a short vowel.",
+      "c) As a long monophthong.",
+      "d) As a glide."
+    ],
+    "correct answer(s)": "c) As a long monophthong.",
+    "GPT's response": "c) As a long monophthong.",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"Cyclopean\" in the analysis of stress patterns?",
+    "category": "49",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates stress on the antepenult with a V$C sequence.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates stress on the antepenult with a V$C sequence.",
+    "GPT's response": "c) It illustrates stress on the antepenult with a V$C sequence.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words exemplifies the epenthesis of \u0259 between a diphthong and a liquid?",
+    "category": "50",
+    "answers": [
+      "a) Coir",
+      "b) Kit",
+      "c) Lot",
+      "d) Dress"
+    ],
+    "correct answer(s)": "a) Coir",
+    "GPT's response": "a) Coir",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the word \"master\" in the analysis of diphthongs?",
+    "category": "51",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates the absence of flapping after a short vowel.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates the absence of flapping after a short vowel.",
+    "GPT's response": "c) It illustrates the absence of flapping after a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "How are long vowels represented in the proposed analysis?",
+    "category": "52",
+    "answers": [
+      "a) As branching nuclei.",
+      "b) As sequences of two identical vowels.",
+      "c) As a vowel followed by a consonantal position.",
+      "d) As a vowel followed by a glide."
+    ],
+    "correct answer(s)": "c) As a vowel followed by a consonantal position.",
+    "GPT's response": "a) As branching nuclei.",
+    "correct": false
+  },
+  {
+    "question": "What is the significance of the word \"actor\" in the analysis of diphthongs?",
+    "category": "59",
+    "answers": [
+      "a) It shows a lack of stress on the diphthong.",
+      "b) It demonstrates the presence of a geminate.",
+      "c) It illustrates the absence of flapping after a short vowel.",
+      "d) It highlights the presence of a long vowel."
+    ],
+    "correct answer(s)": "c) It illustrates the absence of flapping after a short vowel.",
+    "GPT's response": "c) It illustrates the absence of flapping after a short vowel.",
+    "correct": true
+  },
+  {
+    "question": "How does the analysis explain the occurrence of epenthesis in words like \"heel\" and \"fire\"?",
+    "category": "72",
+    "answers": [
+      "a) The presence of a long vowel.",
+      "b) The influence of historical spelling.",
+      "c) The close sonority between a glide and a following liquid.",
+      "d) The need to maintain a syllable structure."
+    ],
+    "correct answer(s)": "c) The close sonority between a glide and a following liquid.",
+    "GPT's response": "c) The close sonority between a glide and a following liquid.",
+    "correct": true
+  },
+  {
+    "question": "Which phonotactic environment is unique to diphthongs in the proposed analysis?",
+    "category": "74",
+    "answers": [
+      "a) Occurrence before a consonant.",
+      "b) Occurrence in unstressed syllables.",
+      "c) Occurrence before another vowel or at the end of a word.",
+      "d) Occurrence in word-initial position."
+    ],
+    "correct answer(s)": "c) Occurrence before another vowel or at the end of a word.",
+    "GPT's response": "c) Occurrence before another vowel or at the end of a word.",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the glide in the analysis of the vowel in \"price\"?",
+    "category": "75",
+    "answers": [
+      "a) It lengthens the vowel.",
+      "b) It changes the vowel's stress pattern.",
+      "c) It forms a consonant cluster with the following sound.",
+      "d) It merges with the preceding vowel to form a monophthong."
+    ],
+    "correct answer(s)": "c) It forms a consonant cluster with the following sound.",
+    "GPT's response": "a) It lengthens the vowel.",
+    "correct": false
+  },
+  {
+    "question": "How does the analysis account for the absence of flapping after long vowels in certain accents?",
+    "category": "76",
+    "answers": [
+      "a) Long vowels are considered branching nuclei.",
+      "b) Long vowels are always followed by a consonant.",
+      "c) Long vowels are analyzed as a vowel followed by a consonantal position.",
+      "d) Long vowels are treated as sequences of two identical vowels."
+    ],
+    "correct answer(s)": "c) Long vowels are analyzed as a vowel followed by a consonantal position.",
+    "GPT's response": "a) Long vowels are considered branching nuclei.",
+    "correct": false
+  },
+  {
+    "question": "How does the analysis explain the distribution of the glides j, w, and h in English?",
+    "category": "78",
+    "answers": [
+      "a) They occur only in unstressed syllables.",
+      "b) They are always followed by a consonant.",
+      "c) They typically do not occur after a short stressed vowel.",
+      "d) They are restricted to word-final position."
+    ],
+    "correct answer(s)": "c) They typically do not occur after a short stressed vowel.",
+    "GPT's response": "c) They typically do not occur after a short stressed vowel.",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the Great Vowel Shift in the analysis of English diphthongs?",
+    "category": "79",
+    "answers": [
+      "a) It introduced new short vowels.",
+      "b) It eliminated all centring diphthongs.",
+      "c) It transformed Middle English long vowels into diphthongs.",
+      "d) It merged all long monophthongs into a single category."
+    ],
+    "correct answer(s)": "c) It transformed Middle English long vowels into diphthongs.",
+    "GPT's response": "c) It transformed Middle English long vowels into diphthongs.",
+    "correct": true
+  },
+  {
+    "question": "How does the analysis account for the variability in the pronunciation of \"near\" and \"cure\"?",
+    "category": "80",
+    "answers": [
+      "a) They are always pronounced as short vowels.",
+      "b) They are influenced by historical spelling.",
+      "c) They are categorized as long monophthongs with variable realizations.",
+      "d) They are treated as sequences of two identical vowels."
+    ],
+    "correct answer(s)": "c) They are categorized as long monophthongs with variable realizations.",
+    "GPT's response": "c) They are categorized as long monophthongs with variable realizations.",
+    "correct": true
+  },
+  {
+    "question": "What is the proposed representation of the vowel in \"thought\" in the analysis?",
+    "category": "81",
+    "answers": [
+      "a) A short vowel.",
+      "b) A centring diphthong.",
+      "c) A long monophthong.",
+      "d) A diphthong with a glide."
+    ],
+    "correct answer(s)": "c) A long monophthong.",
+    "GPT's response": "c) A long monophthong.",
+    "correct": true
+  },
+  {
+    "question": "How does the analysis explain the occurrence of intervocalic lenition in words like \"mitre\"?",
+    "category": "82",
+    "answers": [
+      "a) It occurs only after short vowels.",
+      "b) It is influenced by historical spelling.",
+      "c) It is restricted to environments where the consonant is truly intervocalic.",
+      "d) It occurs only in unstressed syllables."
+    ],
+    "correct answer(s)": "c) It is restricted to environments where the consonant is truly intervocalic.",
+    "GPT's response": "c) It is restricted to environments where the consonant is truly intervocalic.",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the glide in the analysis of the vowel in \"mouth\"?",
+    "category": "83",
+    "answers": [
+      "a) It lengthens the vowel.",
+      "b) It changes the vowel's stress pattern.",
+      "c) It forms a consonant cluster with the following sound.",
+      "d) It merges with the preceding vowel to form a monophthong."
+    ],
+    "correct answer(s)": "c) It forms a consonant cluster with the following sound.",
+    "GPT's response": "d) It merges with the preceding vowel to form a monophthong.",
+    "correct": false
+  },
+  {
+    "question": "How does the analysis account for the absence of flapping after long vowels in certain accents?",
+    "category": "88",
+    "answers": [
+      "a) Long vowels are considered branching nuclei.",
+      "b) Long vowels are always followed by a consonant.",
+      "c) Long vowels are analyzed as a vowel followed by a consonantal position.",
+      "d) Long vowels are treated as sequences of two identical vowels."
+    ],
+    "correct answer(s)": "c) Long vowels are analyzed as a vowel followed by a consonantal position.",
+    "GPT's response": "a) Long vowels are considered branching nuclei.",
+    "correct": false
+  },
+  {
+    "question": "What is the proposed explanation for the lack of true geminates in English?",
+    "category": "89",
+    "answers": [
+      "a) The influence of French phonology.",
+      "b) The historical development of English spelling.",
+      "c) The analysis of diphthongs as vowel+consonant sequences.",
+      "d) The presence of intervocalic lenition."
+    ],
+    "correct answer(s)": "c) The analysis of diphthongs as vowel+consonant sequences.",
+    "GPT's response": "d) The presence of intervocalic lenition.",
+    "correct": false
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "question": "What is the primary function of the End-Weight Principle in English prosody?",
+    "category": "1",
+    "answers": [
+      "a) To place the main stress on the first word of a sentence.",
+      "b) To ensure that every syllable is equally stressed.",
+      "c) To ensure that the last stress in a sequence is the strongest.",
+      "d) To reduce the stress on all function words."
+    ],
+    "correct answer(s)": "c) To ensure that the last stress in a sequence is the strongest."
+  },
+  {
+    "question": "Which of the following is an example of an initially-stressed compound?",
+    "category": "2",
+    "answers": [
+      "a) trade union",
+      "b) fruit salad",
+      "c) car ferry",
+      "d) Victoria Station"
+    ],
+    "correct answer(s)": "c) car ferry"
+  },
+  {
+    "question": "What happens to the pitch in the head of a tone-unit in English intonation?",
+    "category": "3",
+    "answers": [
+      "a) It rises steadily until the tonic.",
+      "b) It remains constant throughout.",
+      "c) It fluctuates randomly.",
+      "d) It gradually lowers, known as downdrift."
+    ],
+    "correct answer(s)": "d) It gradually lowers, known as downdrift."
+  },
+  {
+    "question": "In which situation is the fall-rise tone typically used?",
+    "category": "4",
+    "answers": [
+      "a) To express enthusiasm.",
+      "b) To indicate a Wh-question.",
+      "c) To imply partial negation or reservation.",
+      "d) To command someone directly."
+    ],
+    "correct answer(s)": "c) To imply partial negation or reservation."
+  },
+  {
+    "question": "How does the Rhythm Rule affect the stress pattern in a phrase like \"nice old lady\"?",
+    "category": "5",
+    "answers": [
+      "a) It emphasizes all three words equally.",
+      "b) It deletes the middle stress, making it \"nice old lady\".",
+      "c) It shifts the stress to the last word.",
+      "d) It reduces all words to tertiary stress."
+    ],
+    "correct answer(s)": "b) It deletes the middle stress, making it \"nice old lady\"."
+  },
+  {
+    "question": "What is a characteristic of obscured compounds in English?",
+    "category": "6",
+    "answers": [
+      "a) They always have a high rising tone.",
+      "b) They are written with a hyphen.",
+      "c) The second element has zero stress and a reduced vowel.",
+      "d) They have primary stress on the second element."
+    ],
+    "correct answer(s)": "c) The second element has zero stress and a reduced vowel."
+  },
+  {
+    "question": "Which tone is used to soften commands or Wh-questions in English?",
+    "category": "7",
+    "answers": [
+      "a) Falling tone",
+      "b) High-rising tone",
+      "c) Falling-rising tone",
+      "d) Low-rising tone"
+    ],
+    "correct answer(s)": "c) Falling-rising tone"
+  },
+  {
+    "question": "What is the function of the low-rising tone in a conversation?",
+    "category": "8",
+    "answers": [
+      "a) To express anger.",
+      "b) To show indifference or encouragement.",
+      "c) To indicate a question.",
+      "d) To emphasize a statement."
+    ],
+    "correct answer(s)": "b) To show indifference or encouragement."
+  },
+  {
+    "question": "Which of the following is an example of a finally-stressed compound?",
+    "category": "9",
+    "answers": [
+      "a) Victoria Station",
+      "b) greenhouse",
+      "c) chocolate coloured",
+      "d) baby-sit"
+    ],
+    "correct answer(s)": "a) Victoria Station"
+  },
+  {
+    "question": "What is the effect of the Tonic Assignment Rule on a sequence of stresses?",
+    "category": "10",
+    "answers": [
+      "a) It strengthens the first stress in the sequence.",
+      "b) It eliminates all secondary stresses.",
+      "c) It downgrades all but the last primary stress to secondary.",
+      "d) It places a high pitch on the first stress."
+    ],
+    "correct answer(s)": "c) It downgrades all but the last primary stress to secondary."
+  },
+  {
+    "question": "How is the tonic typically indicated in transcription?",
+    "category": "11",
+    "answers": [
+      "a) By bolding the entire word.",
+      "b) By placing an exclamation mark before it.",
+      "c) By underlining the syllable or word.",
+      "d) By capitalizing the entire sentence."
+    ],
+    "correct answer(s)": "c) By underlining the syllable or word."
+  },
+  {
+    "question": "What is the primary stress pattern of the word \"reformation\" in isolation?",
+    "category": "12",
+    "answers": [
+      "a) /ˌrefəˈmeɪʃən/",
+      "b) /ˈrefəˌmeɪʃən/",
+      "c) /rɛfəˈmeɪʃən/",
+      "d) /ˈrɛfəˌmeɪʃən/"
+    ],
+    "correct answer(s)": "a) /ˌrefəˈmeɪʃən/"
+  },
+  {
+    "question": "In a sentence like \"I think Amanda should write Jennifer a letter,\" where does the neutral tonic fall?",
+    "category": "13",
+    "answers": [
+      "a) On \"think\"",
+      "b) On \"Amanda\"",
+      "c) On \"write\"",
+      "d) On \"letter\""
+    ],
+    "correct answer(s)": "d) On \"letter\""
+  },
+  {
+    "question": "What is a tone-unit in English prosody?",
+    "category": "14",
+    "answers": [
+      "a) A group of unstressed syllables.",
+      "b) A stretch of speech with a single tonic.",
+      "c) A sequence of falling tones.",
+      "d) A phrase with no stress."
+    ],
+    "correct answer(s)": "b) A stretch of speech with a single tonic."
+  },
+  {
+    "question": "Which type of question typically uses a high-rising tone in English?",
+    "category": "15",
+    "answers": [
+      "a) Commands",
+      "b) Yes/No questions",
+      "c) Wh-questions",
+      "d) Exclamations"
+    ],
+    "correct answer(s)": "b) Yes/No questions"
+  },
+  {
+    "question": "What is the effect of Medial Stress-Deletion on a sequence like \"afternoon tea\"?",
+    "category": "16",
+    "answers": [
+      "a) It strengthens the stress on \"tea\".",
+      "b) It places the tonic on \"afternoon\".",
+      "c) It removes stress from \"afternoon\".",
+      "d) It deletes the middle stress, shifting stress to \"afternoon\"."
+    ],
+    "correct answer(s)": "d) It deletes the middle stress, shifting stress to \"afternoon\"."
+  },
+  {
+    "question": "How does a phrasal verb like \"get up\" typically behave in terms of stress?",
+    "category": "17",
+    "answers": [
+      "a) Both the verb and particle are stressed.",
+      "b) Only the verb is stressed.",
+      "c) Only the particle is stressed.",
+      "d) Neither the verb nor the particle is stressed."
+    ],
+    "correct answer(s)": "a) Both the verb and particle are stressed."
+  },
+  {
+    "question": "Which of the following is an example of an obscured compound?",
+    "category": "18",
+    "answers": [
+      "a) postman",
+      "b) trade union",
+      "c) car ferry",
+      "d) chocolate coloured"
+    ],
+    "correct answer(s)": "a) postman"
+  },
+  {
+    "question": "What is the typical tonal pattern for Wh-questions in English?",
+    "category": "19",
+    "answers": [
+      "a) High-rising tone",
+      "b) Falling tone",
+      "c) Low-rising tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "b) Falling tone"
+  },
+  {
+    "question": "What is the primary function of the falling tone in English intonation?",
+    "category": "20",
+    "answers": [
+      "a) To indicate a question.",
+      "b) To convey definiteness and finality.",
+      "c) To show uncertainty.",
+      "d) To imply disagreement."
+    ],
+    "correct answer(s)": "b) To convey definiteness and finality."
+  },
+  {
+    "question": "Which of the following best describes the use of the low rise in conversation?",
+    "category": "21",
+    "answers": [
+      "a) To express anger.",
+      "b) To demand attention.",
+      "c) To show indifference or encouragement.",
+      "d) To indicate a command."
+    ],
+    "correct answer(s)": "c) To show indifference or encouragement."
+  },
+  {
+    "question": "How is a compound like \"fruit salad\" stressed?",
+    "category": "22",
+    "answers": [
+      "a) Finally-stressed",
+      "b) Initially-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "a) Finally-stressed"
+  },
+  {
+    "question": "What happens to the pitch in the tail of a tone-unit with a falling tone?",
+    "category": "23",
+    "answers": [
+      "a) It rises to mid-level.",
+      "b) It continues low.",
+      "c) It rises to high.",
+      "d) It remains constant."
+    ],
+    "correct answer(s)": "b) It continues low."
+  },
+  {
+    "question": "What is the typical stress pattern for a compound like \"photo montage\"?",
+    "category": "24",
+    "answers": [
+      "a) Initially-stressed",
+      "b) Finally-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "a) Initially-stressed"
+  },
+  {
+    "question": "In which case does a function word receive the tonic?",
+    "category": "25",
+    "answers": [
+      "a) When it is part of a compound.",
+      "b) When it is the first word in a sentence.",
+      "c) When it follows a content word.",
+      "d) When there is no further stressable word in the sentence."
+    ],
+    "correct answer(s)": "d) When there is no further stressable word in the sentence."
+  },
+  {
+    "question": "What is the typical function of the high-rising tone in English?",
+    "category": "26",
+    "answers": [
+      "a) To indicate a command.",
+      "b) To express a statement.",
+      "c) To ask a Yes/No question.",
+      "d) To express finality."
+    ],
+    "correct answer(s)": "c) To ask a Yes/No question."
+  },
+  {
+    "question": "How does the presence of a tail affect the intonation of a tone-unit with a falling tone?",
+    "category": "27",
+    "answers": [
+      "a) It causes the pitch to rise.",
+      "b) It causes the pitch to fall further.",
+      "c) It causes the pitch to remain constant.",
+      "d) It continues the fall to a low level."
+    ],
+    "correct answer(s)": "d) It continues the fall to a low level."
+  },
+  {
+    "question": "What is the purpose of downdrift in English intonation?",
+    "category": "28",
+    "answers": [
+      "a) To emphasize the tonic.",
+      "b) To raise the pitch of the head.",
+      "c) To gradually lower the pitch in the head.",
+      "d) To make every syllable equally stressed."
+    ],
+    "correct answer(s)": "c) To gradually lower the pitch in the head."
+  },
+  {
+    "question": "Which of the following is an example of a phrasal verb with a stressed particle?",
+    "category": "29",
+    "answers": [
+      "a) put off",
+      "b) laugh at",
+      "c) deal with",
+      "d) sit on"
+    ],
+    "correct answer(s)": "a) put off"
+  },
+  {
+    "question": "What is the typical intonation pattern for commands in English?",
+    "category": "30",
+    "answers": [
+      "a) Low-rising tone",
+      "b) Falling tone",
+      "c) High-rising tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "b) Falling tone"
+  },
+  {
+    "question": "How is the tonic indicated in transcription when needed?",
+    "category": "31",
+    "answers": [
+      "a) By capitalizing the entire sentence.",
+      "b) By placing an exclamation mark at the end.",
+      "c) By bolding the entire word.",
+      "d) By underlining the syllable or word."
+    ],
+    "correct answer(s)": "d) By underlining the syllable or word."
+  },
+  {
+    "question": "Which of the following compounds is stressed initially?",
+    "category": "32",
+    "answers": [
+      "a) trade union",
+      "b) fruit salad",
+      "c) language teaching",
+      "d) Victoria Station"
+    ],
+    "correct answer(s)": "c) language teaching"
+  },
+  {
+    "question": "What is the primary effect of the Rhythm Rule in English prosody?",
+    "category": "33",
+    "answers": [
+      "a) To increase the number of stressed syllables.",
+      "b) To delete a stress between two other stresses.",
+      "c) To make every syllable equally stressed.",
+      "d) To emphasize the first syllable of each word."
+    ],
+    "correct answer(s)": "b) To delete a stress between two other stresses."
+  },
+  {
+    "question": "Which tone is typically used for polite Wh-questions?",
+    "category": "34",
+    "answers": [
+      "a) High-rising tone",
+      "b) Low-rising tone",
+      "c) Falling-rising tone",
+      "d) Falling tone"
+    ],
+    "correct answer(s)": "c) Falling-rising tone"
+  },
+  {
+    "question": "What is the typical function of the falling-rising tone?",
+    "category": "35",
+    "answers": [
+      "a) To express anger.",
+      "b) To indicate a question.",
+      "c) To imply something unsaid or soften a command.",
+      "d) To emphasize a statement."
+    ],
+    "correct answer(s)": "c) To imply something unsaid or soften a command."
+  },
+  {
+    "question": "How does the End-Weight Principle affect compound stress patterns?",
+    "category": "36",
+    "answers": [
+      "a) It places the main stress on the first element.",
+      "b) It reduces the stress on the second element.",
+      "c) It ensures the last element receives the strongest stress.",
+      "d) It distributes stress evenly across all elements."
+    ],
+    "correct answer(s)": "c) It ensures the last element receives the strongest stress."
+  },
+  {
+    "question": "What is the function of the pre-head in a tone-unit?",
+    "category": "37",
+    "answers": [
+      "a) To carry the tonic.",
+      "b) To contain unstressed syllables before the first stress.",
+      "c) To emphasize the tonic.",
+      "d) To conclude the intonation pattern."
+    ],
+    "correct answer(s)": "b) To contain unstressed syllables before the first stress."
+  },
+  {
+    "question": "What is the effect of a tail in a tone-unit with a high-rising tone?",
+    "category": "38",
+    "answers": [
+      "a) It causes the pitch to fall.",
+      "b) It causes the pitch to remain constant.",
+      "c) It continues the rise to a high level.",
+      "d) It causes the pitch to drop to mid-level."
+    ],
+    "correct answer(s)": "c) It continues the rise to a high level."
+  },
+  {
+    "question": "When is a fall-rise tone typically used in statements?",
+    "category": "39",
+    "answers": [
+      "a) To express anger.",
+      "b) To indicate a question.",
+      "c) To imply reservations or partial negation.",
+      "d) To emphasize a statement."
+    ],
+    "correct answer(s)": "c) To imply reservations or partial negation."
+  },
+  {
+    "question": "What happens to the stress pattern in a word like \"satisfactory\" due to the Tonic Assignment Rule?",
+    "category": "40",
+    "answers": [
+      "a) The first stress is downgraded to secondary.",
+      "b) The last stress is eliminated.",
+      "c) All stresses are emphasized equally.",
+      "d) The last stress is downgraded to secondary."
+    ],
+    "correct answer(s)": "a) The first stress is downgraded to secondary."
+  },
+  {
+    "question": "Which of the following phrases is an example of stress-shift?",
+    "category": "41",
+    "answers": [
+      "a) afternoon tea",
+      "b) new book",
+      "c) nice old lady",
+      "d) car ferry"
+    ],
+    "correct answer(s)": "a) afternoon tea"
+  },
+  {
+    "question": "What is the role of the head in a tone-unit?",
+    "category": "42",
+    "answers": [
+      "a) To conclude the intonation pattern.",
+      "b) To carry the tonic.",
+      "c) To lead up to the tonic syllable.",
+      "d) To contain only unstressed syllables."
+    ],
+    "correct answer(s)": "c) To lead up to the tonic syllable."
+  },
+  {
+    "question": "How does the Rhythm Rule affect the stress pattern in a phrase like \"very nice people\"?",
+    "category": "43",
+    "answers": [
+      "a) It emphasizes all three words equally.",
+      "b) It shifts the stress to the last word.",
+      "c) It removes stress from the last word.",
+      "d) It deletes the middle stress, making it \"very nice people\"."
+    ],
+    "correct answer(s)": "d) It deletes the middle stress, making it \"very nice people\"."
+  },
+  {
+    "question": "Which type of question typically uses a falling tone in English?",
+    "category": "44",
+    "answers": [
+      "a) Yes/No questions",
+      "b) Wh-questions",
+      "c) Commands",
+      "d) Exclamations"
+    ],
+    "correct answer(s)": "b) Wh-questions"
+  },
+  {
+    "question": "What is the primary function of the high-rising tone in a question?",
+    "category": "45",
+    "answers": [
+      "a) To express finality.",
+      "b) To indicate a statement.",
+      "c) To ask for confirmation or clarification.",
+      "d) To express a command."
+    ],
+    "correct answer(s)": "c) To ask for confirmation or clarification."
+  },
+  {
+    "question": "What is a feature of finally-stressed compounds?",
+    "category": "46",
+    "answers": [
+      "a) They have primary stress on the first element.",
+      "b) They have primary stress on the second element.",
+      "c) They are always written with a hyphen.",
+      "d) The second element is reduced to zero stress."
+    ],
+    "correct answer(s)": "b) They have primary stress on the second element."
+  },
+  {
+    "question": "In which situation is a low-rising tone typically used?",
+    "category": "47",
+    "answers": [
+      "a) To express anger.",
+      "b) To demand attention.",
+      "c) To show encouragement or indifference.",
+      "d) To emphasize a statement."
+    ],
+    "correct answer(s)": "c) To show encouragement or indifference."
+  },
+  {
+    "question": "How is the tonic typically placed in a neutral statement?",
+    "category": "48",
+    "answers": [
+      "a) On the first word.",
+      "b) On the second word.",
+      "c) On the last content word.",
+      "d) On the last function word."
+    ],
+    "correct answer(s)": "c) On the last content word."
+  },
+  {
+    "question": "What is the effect of downdrift on the pitch of the head in a tone-unit?",
+    "category": "49",
+    "answers": [
+      "a) It raises the pitch.",
+      "b) It causes the pitch to remain constant.",
+      "c) It emphasizes the tonic.",
+      "d) It gradually lowers the pitch."
+    ],
+    "correct answer(s)": "d) It gradually lowers the pitch."
+  },
+  {
+    "question": "How does a phrasal verb like \"break down\" typically behave in terms of stress?",
+    "category": "50",
+    "answers": [
+      "a) Only the verb is stressed.",
+      "b) Both the verb and particle are stressed.",
+      "c) Only the particle is stressed.",
+      "d) Neither the verb nor the particle is stressed."
+    ],
+    "correct answer(s)": "b) Both the verb and particle are stressed."
+  },
+  {
+    "question": "What is the typical intonation pattern for exclamations in English?",
+    "category": "51",
+    "answers": [
+      "a) Low-rising tone",
+      "b) High-rising tone",
+      "c) Falling tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "c) Falling tone"
+  },
+  {
+    "question": "Which of the following is an example of a compound with obscured stress?",
+    "category": "52",
+    "answers": [
+      "a) trade union",
+      "b) chocolate coloured",
+      "c) nonsense",
+      "d) baby-sit"
+    ],
+    "correct answer(s)": "c) nonsense"
+  },
+  {
+    "question": "What is the primary function of the falling tone in Wh-questions?",
+    "category": "53",
+    "answers": [
+      "a) To express uncertainty.",
+      "b) To convey neutrality and finality.",
+      "c) To indicate a command.",
+      "d) To imply disagreement."
+    ],
+    "correct answer(s)": "b) To convey neutrality and finality."
+  },
+  {
+    "question": "Which of the following best describes the use of the low rise in greetings?",
+    "category": "54",
+    "answers": [
+      "a) To express anger.",
+      "b) To demand attention.",
+      "c) To convey politeness and lightness.",
+      "d) To indicate a command."
+    ],
+    "correct answer(s)": "c) To convey politeness and lightness."
+  },
+  {
+    "question": "How is a compound like \"language teaching\" stressed?",
+    "category": "55",
+    "answers": [
+      "a) Initially-stressed",
+      "b) Finally-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "a) Initially-stressed"
+  },
+  {
+    "question": "What is the effect of a tail in a tone-unit with a falling-rising tone?",
+    "category": "56",
+    "answers": [
+      "a) It causes the pitch to fall.",
+      "b) It causes the pitch to remain constant.",
+      "c) It causes the pitch to drop to mid-level.",
+      "d) It continues the rise to mid-height."
+    ],
+    "correct answer(s)": "d) It continues the rise to mid-height."
+  },
+  {
+    "question": "What is the purpose of the End-Weight Principle in compound stress patterns?",
+    "category": "57",
+    "answers": [
+      "a) To place the main stress on the first element.",
+      "b) To reduce the stress on the second element.",
+      "c) To ensure the last element receives the strongest stress.",
+      "d) To distribute stress evenly across all elements."
+    ],
+    "correct answer(s)": "c) To ensure the last element receives the strongest stress."
+  },
+  {
+    "question": "What is the role of the tonic in a tone-unit?",
+    "category": "58",
+    "answers": [
+      "a) To contain only unstressed syllables.",
+      "b) To conclude the intonation pattern.",
+      "c) To carry the main pitch change.",
+      "d) To lead up to the head."
+    ],
+    "correct answer(s)": "c) To carry the main pitch change."
+  },
+  {
+    "question": "How does the Rhythm Rule affect the stress pattern in a word like \"psychoanalytical\"?",
+    "category": "59",
+    "answers": [
+      "a) It emphasizes all syllables equally.",
+      "b) It shifts the stress to the last syllable.",
+      "c) It deletes a secondary stress, making it \"psychoanalytical\".",
+      "d) It removes stress from the last syllable."
+    ],
+    "correct answer(s)": "c) It deletes a secondary stress, making it \"psychoanalytical\"."
+  },
+  {
+    "question": "Which type of question typically uses a falling-rising tone in English?",
+    "category": "60",
+    "answers": [
+      "a) Yes/No questions",
+      "b) Commands",
+      "c) Polite Wh-questions",
+      "d) Exclamations"
+    ],
+    "correct answer(s)": "c) Polite Wh-questions"
+  },
+  {
+    "question": "What is the primary function of the low-rising tone in a conversation?",
+    "category": "61",
+    "answers": [
+      "a) To express anger.",
+      "b) To demand attention.",
+      "c) To show encouragement or indifference.",
+      "d) To indicate a command."
+    ],
+    "correct answer(s)": "c) To show encouragement or indifference."
+  },
+  {
+    "question": "What is the typical stress pattern for a compound like \"chocolate coloured\"?",
+    "category": "62",
+    "answers": [
+      "a) Finally-stressed",
+      "b) Initially-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "b) Initially-stressed"
+  },
+  {
+    "question": "How does the presence of a tail affect the intonation of a tone-unit with a low-rising tone?",
+    "category": "63",
+    "answers": [
+      "a) It causes the pitch to fall.",
+      "b) It continues the rise to mid-level.",
+      "c) It causes the pitch to remain constant.",
+      "d) It causes the pitch to drop to mid-level."
+    ],
+    "correct answer(s)": "b) It continues the rise to mid-level."
+  },
+  {
+    "question": "What is the typical function of the falling tone in English exclamations?",
+    "category": "64",
+    "answers": [
+      "a) To express uncertainty.",
+      "b) To indicate a question.",
+      "c) To convey surprise or emphasis.",
+      "d) To imply disagreement."
+    ],
+    "correct answer(s)": "c) To convey surprise or emphasis."
+  },
+  {
+    "question": "How is the tonic typically placed in a command?",
+    "category": "65",
+    "answers": [
+      "a) On the first word.",
+      "b) On the second word.",
+      "c) On the last content word.",
+      "d) On the verb or directive word."
+    ],
+    "correct answer(s)": "d) On the verb or directive word."
+  },
+  {
+    "question": "What is the effect of downdrift on the pitch of the head in a tone-unit with a falling-rising tone?",
+    "category": "66",
+    "answers": [
+      "a) It raises the pitch.",
+      "b) It causes the pitch to remain constant.",
+      "c) It emphasizes the tonic.",
+      "d) It gradually lowers the pitch before rising."
+    ],
+    "correct answer(s)": "d) It gradually lowers the pitch before rising."
+  },
+  {
+    "question": "Which of the following is an example of a phrasal verb with a stressed verb?",
+    "category": "67",
+    "answers": [
+      "a) put off",
+      "b) laugh at",
+      "c) get up",
+      "d) deal with"
+    ],
+    "correct answer(s)": "c) get up"
+  },
+  {
+    "question": "What is the typical intonation pattern for Wh-questions in English?",
+    "category": "68",
+    "answers": [
+      "a) Low-rising tone",
+      "b) High-rising tone",
+      "c) Falling tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "c) Falling tone"
+  },
+  {
+    "question": "What is the primary function of the high-rising tone in English questions?",
+    "category": "69",
+    "answers": [
+      "a) To express finality.",
+      "b) To indicate a statement.",
+      "c) To ask for confirmation or clarification.",
+      "d) To express a command."
+    ],
+    "correct answer(s)": "c) To ask for confirmation or clarification."
+  },
+  {
+    "question": "What is the effect of the Tonic Assignment Rule on a word with multiple stresses?",
+    "category": "70",
+    "answers": [
+      "a) It strengthens the first stress.",
+      "b) It eliminates all secondary stresses.",
+      "c) It downgrades all but the last primary stress to secondary.",
+      "d) It places a high pitch on the first stress."
+    ],
+    "correct answer(s)": "c) It downgrades all but the last primary stress to secondary."
+  }
+]

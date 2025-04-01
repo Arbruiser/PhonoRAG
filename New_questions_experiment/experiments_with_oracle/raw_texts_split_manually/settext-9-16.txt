@@ -1,0 +1,5 @@
+
+4.2.3 	FOOT-STRUT split 
+This variable refers to a split in the distribution of the historical *u/ʊ (short U) phoneme in a previous stage of English. The short U split in some areas into either ʊ (now found as ʉ or ɵ in CuBE, as in bull, pull, foot, wolf, could, cushion, courier, sugar, butcher and a few others) or ʌ (now generally found as ə in CuBE, as in dull, strut, dust, come, love, money). In those areas where there was no such split, the vowel is ʊ (bull, dull, come all have ʊ). Note that the split in those area where it occurred produced a new phoneme ʌ (put ʊ and putt ʌ are minimal pairs). Note also that in those areas where such a split didn’t occur, the phoneme (or sound) ʌ is non-existent (it hasn’t been supplied from any other source). 
+(13) FOOT-STRUT split 
+ 

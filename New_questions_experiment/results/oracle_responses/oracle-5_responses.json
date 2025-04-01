@@ -1,0 +1,898 @@
+[
+  {
+    "correct_text_chunk": "\"\"\"It is a general rule of English that if there is a sequence of equal stresses, the last must become the strongest. The prosodic \u201cweight\u201d of an utterance must be at the end: this is the EndWeight Principle. Observe the examples: new b\u00f3ok Amanda C\u00f3llinder sit d\u00f3wn considerable exp\u00e9nses utterly destr\u00factive he criticized everything",
+    "question": "If there is a sequence of equal stresses in English, what happens?",
+    "category": "cat 501",
+    "answers": [
+      "a) The first one becomes the strongest",
+      "b) They remain equal in strength",
+      "c) The middle one becomes the strongest",
+      "d) The last one becomes the strongest"
+    ],
+    "correct answer(s)": "d) The last one becomes the strongest",
+    "GPT's response": "d) The last one becomes the strongest",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\"\"\"It is a general rule of English that if there is a sequence of equal stresses, the last must become the strongest. The prosodic \u201cweight\u201d of an utterance must be at the end: this is the EndWeight Principle. Observe the examples: new b\u00f3ok Amanda C\u00f3llinder sit d\u00f3wn considerable exp\u00e9nses utterly destr\u00factive he criticized everything",
+    "question": "Where is the prosodic \"weight\" of an utterance typically located in English?",
+    "category": "cat 502",
+    "answers": [
+      "a) At the beginning",
+      "b) In the middle",
+      "c) It varies randomly",
+      "d) At the end"
+    ],
+    "correct answer(s)": "d) At the end",
+    "GPT's response": "d) At the end",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Longer stretches of speech also obey the End-Weight Principle. The last (and therefore strongest!) stress is called the tonic. In the following sentence the tonic is underlined:",
+    "question": "What is the tonic stress in the context of English prosody?",
+    "category": "cat 503",
+    "answers": [
+      "a) The first stress in a sentence",
+      "b) The last and strongest stress in a sentence",
+      "c) A stress at the midpoint of a sentence",
+      "d) The lightest stress in a sentence"
+    ],
+    "correct answer(s)": "b) The last and strongest stress in a sentence",
+    "GPT's response": "b) The last and strongest stress in a sentence",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Tonic Assignment Rule 1 1 \u2192 2 1 = of several primary stresses, downgrade each to secondary, except the last, which will be the tonic.\nExample: 1 1 1 1 \u2192 2 2 2 1 Rachel was happy to cycle home Rachel was happy to cycle home",
+    "question": "What is the 1 1 \u2192 2 1 rule known as in English prosody?",
+    "category": "cat 504",
+    "answers": [
+      "a) Tonic assignment rule",
+      "b) Stress deletion rule",
+      "c) Prosodic adjustment rule",
+      "d) Rhythm rule"
+    ],
+    "correct answer(s)": "a) Tonic assignment rule",
+    "GPT's response": "a) Tonic assignment rule",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Tonic Assignment Rule 1 1 \u2192 2 1 = of several primary stresses, downgrade each to secondary, except the last, which will be the tonic.\nExample: 1 1 1 1 \u2192 2 2 2 1 Rachel was happy to cycle home Rachel was happy to cycle home",
+    "question": "What does the tonic assignment rule state in English prosody?",
+    "category": "cat 505",
+    "answers": [
+      "a) All primary stresses become stronger",
+      "b) Only the first stress remains primary",
+      "c) Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic",
+      "d) Ignore all secondary stresses"
+    ],
+    "correct answer(s)": "c) Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic",
+    "GPT's response": "c) Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "It follows that the \u201csecondariness\u201d of secondary stress is predictable: a secondary stress is actually a stress which is followed by another stress and has therefore been downgraded. Secondary stress is thus an \u201callophone\u201d of primary stress. Lexically, we may represent words like reformation, satisfactory, sardine with two equal \u201cprimary\u201d stresses: //\u02c8ref\u0259\u02c8me\u026a\u0283\u0259n// //\u02c8s\u00e6t\u026as\u02c8f\u00e6kt\u0259ri// //\u02c8s\u0251:\u02c8di:n// because the Tonic Assignment Rule will turn the first stress into secondary anyway: /\u02ccref\u0259\u02c8me\u026a\u0283\u0259n/ /\u02ccs\u00e6t\u026as\u02c8f\u00e6kt\u0259ri/ /\u02ccs\u0251:\u02c8di:n/",
+    "question": "Which statement is NOT true regarding secondary stress in English prosody?",
+    "category": "cat 506",
+    "answers": [
+      "a) The \u201csecondariness\u201d of secondary stress is predictable",
+      "b) A secondary stress is actually a stress which is followed by another stress and has therefore been downgraded",
+      "c) Secondary stress is actually an \u201callophone\u201d of primary stress",
+      "d) We cannot represent words like reformation, satisfactory, sardine with two equal \u201cprimary\u201d stresses"
+    ],
+    "correct answer(s)": "d) We cannot represent words like reformation, satisfactory, sardine with two equal \u201cprimary\u201d stresses",
+    "GPT's response": "d) We cannot represent words like reformation, satisfactory, sardine with two equal \u201cprimary\u201d stresses",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The effects of the End-Weight Principle are well known in the analysis of word stress: \u2013 if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1 \u2013 strong-unstressed syllables (f\u00f3rmat /-m\u00e6t/, dir\u00e9ct /da\u026a-/) are also called \u201ctertiarystressed\u201d because their vowel does not reduce (as it would in completely unstressed syllables like s\u00e1lad /-l\u0259d/ or \u00d3xford /-f\u0259d/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not \u201csee\u201d them: they can never become 1ry-stressed.",
+    "question": "Can there be a secondary stress after a primary stress in English prosody according to the End-Weight Principle?",
+    "category": "cat 507",
+    "answers": [
+      "a) No, there cannot be a secondary after the primary",
+      "b) Yes, it often occurs",
+      "c) It depends on the sentence structure",
+      "d) Only in certain dialects"
+    ],
+    "correct answer(s)": "a) No, there cannot be a secondary after the primary",
+    "GPT's response": "a) No, there cannot be a secondary after the primary",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The effects of the End-Weight Principle are well known in the analysis of word stress: \u2013 if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1 \u2013 strong-unstressed syllables (f\u00f3rmat /-m\u00e6t/, dir\u00e9ct /da\u026a-/) are also called \u201ctertiarystressed\u201d because their vowel does not reduce (as it would in completely unstressed syllables like s\u00e1lad /-l\u0259d/ or \u00d3xford /-f\u0259d/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not \u201csee\u201d them: they can never become 1ry-stressed.",
+    "question": "Which word exhibits tertiary-stressed vowels due to a lack of vowel reduction?",
+    "category": "cat 508",
+    "answers": [
+      "a) s\u00e1lad",
+      "b) \u00d3xford",
+      "c) f\u00f3rmat",
+      "d) cycle"
+    ],
+    "correct answer(s)": "c) f\u00f3rmat",
+    "GPT's response": "c) f\u00f3rmat",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The effects of the End-Weight Principle are well known in the analysis of word stress: \u2013 if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1 \u2013 strong-unstressed syllables (f\u00f3rmat /-m\u00e6t/, dir\u00e9ct /da\u026a-/) are also called \u201ctertiarystressed\u201d because their vowel does not reduce (as it would in completely unstressed syllables like s\u00e1lad /-l\u0259d/ or \u00d3xford /-f\u0259d/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not \u201csee\u201d them: they can never become 1ry-stressed.",
+    "question": "Which word also exhibits tertiary-stressed vowels due to its non-reduced vowel?",
+    "category": "cat 509",
+    "answers": [
+      "a) s\u00e1lad",
+      "b) cycle",
+      "c) dir\u00e9ct",
+      "d) fashion"
+    ],
+    "correct answer(s)": "c) dir\u00e9ct",
+    "GPT's response": "c) dir\u00e9ct",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The effects of the End-Weight Principle are well known in the analysis of word stress: \u2013 if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1 \u2013 strong-unstressed syllables (f\u00f3rmat /-m\u00e6t/, dir\u00e9ct /da\u026a-/) are also called \u201ctertiarystressed\u201d because their vowel does not reduce (as it would in completely unstressed syllables like s\u00e1lad /-l\u0259d/ or \u00d3xford /-f\u0259d/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not \u201csee\u201d them: they can never become 1ry-stressed.",
+    "question": "What type of stressed syllables are referred to as \"tertiary-stressed\"?",
+    "category": "cat 510",
+    "answers": [
+      "a) Those that are entirely unstressed",
+      "b) Those that are strong-unstressed because their vowel does not reduce",
+      "c) Those that are primary-stressed",
+      "d) Those affected by the Rhythm Rule"
+    ],
+    "correct answer(s)": "b) Those that are strong-unstressed because their vowel does not reduce",
+    "GPT's response": "b) Those that are strong-unstressed because their vowel does not reduce",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The effects of the End-Weight Principle are well known in the analysis of word stress: \u2013 if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1 \u2013 strong-unstressed syllables (f\u00f3rmat /-m\u00e6t/, dir\u00e9ct /da\u026a-/) are also called \u201ctertiarystressed\u201d because their vowel does not reduce (as it would in completely unstressed syllables like s\u00e1lad /-l\u0259d/ or \u00d3xford /-f\u0259d/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not \u201csee\u201d them: they can never become 1ry-stressed.",
+    "question": "Why do 3ry and zero stresses not count as stresses from the prosodic point of view?",
+    "category": "cat 511",
+    "answers": [
+      "a) They are louder than other stresses",
+      "b) They dominate the intonation pattern",
+      "c) Because they occur at the start of the tone-unit",
+      "d) Because the End-Weight Principle does not \u201csee\u201d them and they can never become 1ry-stressed"
+    ],
+    "correct answer(s)": "d) Because the End-Weight Principle does not \u201csee\u201d them and they can never become 1ry-stressed",
+    "GPT's response": "d) Because the End-Weight Principle does not \u201csee\u201d them and they can never become 1ry-stressed",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "We conclude that in prosody there are only two phonologically relevant stress degrees: stressed (1ry or 2ry) and unstressed (3ry or zero).",
+    "question": "What are the phonologically relevant stress degrees in English prosody?",
+    "category": "cat 512",
+    "answers": [
+      "a) Stressed, unstressed, tertiary",
+      "b) Stressed and unstressed",
+      "c) Primary, secondary, and tertiary",
+      "d) Primary and secondary only"
+    ],
+    "correct answer(s)": "b) Stressed and unstressed",
+    "GPT's response": "b) Stressed and unstressed",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "From a phonological point of view there are two types of compound: \uf0b7 initially-stressed compounds, pattern # 1 # 3 # primary stress on the first element: gr\u00e9enhouse, c\u00e1r ferry, comp\u00fater virus \uf0b7 finally-stressed compounds, pattern # 2 # 1 # primary stress on the second element: trade \u00fanion, fruit s\u00e1lad, Victoria Station",
+    "question": "What stress pattern do initially-stressed compounds exhibit in English prosody?",
+    "category": "cat 513",
+    "answers": [
+      "a) # 3 # 2 #",
+      "b) # 2 # 2 #",
+      "c) # 1 # 3 #",
+      "d) # 3 # 1 #"
+    ],
+    "correct answer(s)": "c) # 1 # 3 #",
+    "GPT's response": "c) # 1 # 3 #",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "From a phonological point of view there are two types of compound: \uf0b7 initially-stressed compounds, pattern # 1 # 3 # primary stress on the first element: gr\u00e9enhouse, c\u00e1r ferry, comp\u00fater virus \uf0b7 finally-stressed compounds, pattern # 2 # 1 # primary stress on the second element: trade \u00fanion, fruit s\u00e1lad, Victoria Station",
+    "question": "What stress pattern do finally-stressed compounds exhibit?",
+    "category": "cat 514",
+    "answers": [
+      "a) # 1 # 3 #",
+      "b) # 2 # 1 #",
+      "c) # 3 # 1 #",
+      "d) # 1 # 2 #"
+    ],
+    "correct answer(s)": "b) # 2 # 1 #",
+    "GPT's response": "b) # 2 # 1 #",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "From a phonological point of view there are two types of compound: \uf0b7 initially-stressed compounds, pattern # 1 # 3 # primary stress on the first element: gr\u00e9enhouse, c\u00e1r ferry, comp\u00fater virus \uf0b7 finally-stressed compounds, pattern # 2 # 1 # primary stress on the second element: trade \u00fanion, fruit s\u00e1lad, Victoria Station",
+    "question": "Which of the following compounds is initially-stressed?",
+    "category": "cat 515",
+    "answers": [
+      "a) trade union",
+      "b) fruit salad",
+      "c) Victoria Station",
+      "d) car ferry"
+    ],
+    "correct answer(s)": "d) car ferry",
+    "GPT's response": "d) car ferry",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "From a phonological point of view there are two types of compound: \uf0b7 initially-stressed compounds, pattern # 1 # 3 # primary stress on the first element: gr\u00e9enhouse, c\u00e1r ferry, comp\u00fater virus \uf0b7 finally-stressed compounds, pattern # 2 # 1 # primary stress on the second element: trade \u00fanion, fruit s\u00e1lad, Victoria Station",
+    "question": "Which compound is finally-stressed?",
+    "category": "cat 516",
+    "answers": [
+      "a) greenhouse",
+      "b) car ferry",
+      "c) fruit salad",
+      "d) computer virus"
+    ],
+    "correct answer(s)": "c) fruit salad",
+    "GPT's response": "c) fruit salad",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The spelling of compounds in English is not consistent. Some are written as one word (gr\u00e9enhouse), some with a hyphen (w\u00f2rd-f\u00ednal), but the majority are written as two words (c\u00e1r ferry, ge\u00f3graphy teacher, d\u00f2uble ch\u00edn). The latter may be called \u201cinvisible compounds\u201d, since the spelling does not show that they are compounds.2",
+    "question": "Which of the following words is considered an \"invisible compound\" in English?",
+    "category": "cat 517",
+    "answers": [
+      "a) gr\u00e9enhouse",
+      "b) w\u00f2rd-f\u00ednal",
+      "c) c\u00e1r ferry",
+      "d) w\u00e8lcome"
+    ],
+    "correct answer(s)": "c) c\u00e1r ferry",
+    "GPT's response": "c) c\u00e1r ferry",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The spelling of compounds in English is not consistent. Some are written as one word (gr\u00e9enhouse), some with a hyphen (w\u00f2rd-f\u00ednal), but the majority are written as two words (c\u00e1r ferry, ge\u00f3graphy teacher, d\u00f2uble ch\u00edn). The latter may be called \u201cinvisible compounds\u201d, since the spelling does not show that they are compounds.2",
+    "question": "Which word is considered an invisible compound?",
+    "category": "cat 518",
+    "answers": [
+      "a) n\u00f3nsense",
+      "b) w\u00f2rd-f\u00ednal",
+      "c) w\u00e9lcome",
+      "d) ge\u00f3graphy teacher"
+    ],
+    "correct answer(s)": "d) ge\u00f3graphy teacher",
+    "GPT's response": "d) ge\u00f3graphy teacher",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The spelling of compounds in English is not consistent. Some are written as one word (gr\u00e9enhouse), some with a hyphen (w\u00f2rd-f\u00ednal), but the majority are written as two words (c\u00e1r ferry, ge\u00f3graphy teacher, d\u00f2uble ch\u00edn). The latter may be called \u201cinvisible compounds\u201d, since the spelling does not show that they are compounds.2",
+    "question": "Which word is NOT considered an \"invisible compound\"?",
+    "category": "cat 519",
+    "answers": [
+      "a) w\u00f2rd-f\u00ednal",
+      "b) c\u00e1r ferry",
+      "c) ge\u00f3graphy teacher",
+      "d) d\u00f2uble chin"
+    ],
+    "correct answer(s)": "a) w\u00f2rd-f\u00ednal",
+    "GPT's response": "a) w\u00f2rd-f\u00ednal",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(3) Compound Stress Rule # 1 # # 1 # \u2192 # 1 # 3 # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level.",
+    "question": "What does the Compound Stress Rule state regarding initially-stressed compounds?",
+    "category": "cat 520",
+    "answers": [
+      "a) Keep both elements equally stressed",
+      "b) Downgrade the first word to secondary stress",
+      "c) Downgrade the primary stress of the second word to strong-unstressed (3ry) level",
+      "d) Elevate the first stress to primary"
+    ],
+    "correct answer(s)": "c) Downgrade the primary stress of the second word to strong-unstressed (3ry) level",
+    "GPT's response": "c) Downgrade the primary stress of the second word to strong-unstressed (3ry) level",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(3) Compound Stress Rule # 1 # # 1 # \u2192 # 1 # 3 # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level.",
+    "question": "What stress pattern is formed according to the Compound Stress Rule for initially-stressed compounds?",
+    "category": "cat 521",
+    "answers": [
+      "a) # 2 # 2 #",
+      "b) # 2 # 1 #",
+      "c) # 3 # 1 #",
+      "d) # 1 # 3 #"
+    ],
+    "correct answer(s)": "d) # 1 # 3 #",
+    "GPT's response": "d) # 1 # 3 #",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(3) Compound Stress Rule # 1 # # 1 # \u2192 # 1 # 3 # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level.",
+    "question": "Which of the following compounds would follow the Compound Stress Rule for initial stress?",
+    "category": "cat 522",
+    "answers": [
+      "a) trade union",
+      "b) gr\u00e9enhouse",
+      "c) Victoria Station",
+      "d) \u00e8asy-g\u00f3ing"
+    ],
+    "correct answer(s)": "b) gr\u00e9enhouse",
+    "GPT's response": "b) gr\u00e9enhouse",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(3) Compound Stress Rule # 1 # # 1 # \u2192 # 1 # 3 # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level.",
+    "question": "According to the Compound Stress Rule, which compound would NOT apply the rule of downgrading the second element to strong-unstressed?",
+    "category": "cat 523",
+    "answers": [
+      "a) w\u00e8lcome",
+      "b) trade union",
+      "c) w\u00f2rd-f\u00ednal",
+      "d) nonsense"
+    ],
+    "correct answer(s)": "b) trade union",
+    "GPT's response": "b) trade union",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(3) Compound Stress Rule # 1 # # 1 # \u2192 # 1 # 3 # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level.",
+    "question": "What rule is described by the pattern # 1 # # 1 # \u2192 # 1 # 3 #?",
+    "category": "cat 524",
+    "answers": [
+      "a) Tonic Assignment Rule",
+      "b) Rhythm Rule",
+      "c) Compound Stress Rule",
+      "d) Stress-Shift Rule"
+    ],
+    "correct answer(s)": "c) Compound Stress Rule",
+    "GPT's response": "c) Compound Stress Rule",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: p\u00f3st|man /-m\u0259n/, w\u00e9l|come /-k\u0259m/, n\u00f3nsense /\u02c8n\u0252ns\u0259ns/, \u00c9ngland /\u02c8\u026a\u014bgl\u0259nd/, J\u00f3hnson /\u02c8d\u0292\u0252nsn/. These are called \u201cobscured\u201d compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word.",
+    "question": "Which word is NOT an obscured compound in English?",
+    "category": "cat 525",
+    "answers": [
+      "a) n\u00f3nsense",
+      "b) p\u00f3stman",
+      "c) \u00c9ngland",
+      "d) w\u00f2rd-f\u00ednal"
+    ],
+    "correct answer(s)": "d) w\u00f2rd-f\u00ednal",
+    "GPT's response": "d) w\u00f2rd-f\u00ednal",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: p\u00f3st|man /-m\u0259n/, w\u00e9l|come /-k\u0259m/, n\u00f3nsense /\u02c8n\u0252ns\u0259ns/, \u00c9ngland /\u02c8\u026a\u014bgl\u0259nd/, J\u00f3hnson /\u02c8d\u0292\u0252nsn/. These are called \u201cobscured\u201d compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word.",
+    "question": "Which of the following words is an example of an obscured compound?",
+    "category": "cat 526",
+    "answers": [
+      "a) w\u00f2rd-f\u00ednal",
+      "b) gr\u00e9enhouse",
+      "c) J\u00f3hnson",
+      "d) c\u00e1r ferry"
+    ],
+    "correct answer(s)": "c) J\u00f3hnson",
+    "GPT's response": "c) J\u00f3hnson",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: p\u00f3st|man /-m\u0259n/, w\u00e9l|come /-k\u0259m/, n\u00f3nsense /\u02c8n\u0252ns\u0259ns/, \u00c9ngland /\u02c8\u026a\u014bgl\u0259nd/, J\u00f3hnson /\u02c8d\u0292\u0252nsn/. These are called \u201cobscured\u201d compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word.",
+    "question": "What is the stress pattern of obscured compounds in English prosody?",
+    "category": "cat 527",
+    "answers": [
+      "a) # 1 # 2 #",
+      "b) # 1 # 3 #",
+      "c) # 2 # 1 #",
+      "d) # 10 #"
+    ],
+    "correct answer(s)": "d) # 10 #",
+    "GPT's response": "d) # 10 #",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: p\u00f3st|man /-m\u0259n/, w\u00e9l|come /-k\u0259m/, n\u00f3nsense /\u02c8n\u0252ns\u0259ns/, \u00c9ngland /\u02c8\u026a\u014bgl\u0259nd/, J\u00f3hnson /\u02c8d\u0292\u0252nsn/. These are called \u201cobscured\u201d compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word.",
+    "question": "What does the stress pattern #10# exemplify in English prosody?",
+    "category": "cat 528",
+    "answers": [
+      "a) Compound Secondary Stress Rule",
+      "b) Tonic Placement",
+      "c) Compound Ambiguity",
+      "d) Obscured compounds"
+    ],
+    "correct answer(s)": "d) Obscured compounds",
+    "GPT's response": "d) Obscured compounds",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\uf0b7 The compound is a NOUN: \u2013 the \u201cY is (made) of X\u201d relationship: br\u00ecck w\u00e1ll, fr it s\u00e1lad, pot\u00e0to cr\u00edsps, r bber b\u00f3ots, g\u00e0s f\u00edre \u2013 the \u201cY is (an) X\u201d relationship: t\u00f2y s\u00f3ldier, tw\u00ecn br\u00f3ther, w\u00f2man wr\u00edter, b\u00f2y sc\u00f3ut, qu\u00e8en b\u00e9e, ch\u00ecld \u00e1ctor \u2013 names of places (but not those ending in \u201cStreet\u201d, which are initially-stressed!): Victoria St\u00e1tion, Cr\u00f2mwell R\u00f3ad, F\u00ecfth \u00c1venue, C\u00e8ntral P\u00e1rk, H\u00e8roes\u2019 Squ\u00e1re \u2013 various others: S\u00f2cial D\u00e9mocrat, bl\u00e0ck m\u00e1rket, l\u00ecving cond\u00edtions, trade \u00fanion, C\u00f2ca C\u00f3la, w\u00e8ek\u00e9nd3 \u2013 \u201cinitialisms\u201d (letters pronounced as their alphabetical names): DJ /\u02ccdi: \u02c8d\u0292e\u026a/, etc.",
+    "question": "What does the \u201cY is (made) of X\u201d relationship entail in terms of stress pattern?",
+    "category": "cat 529",
+    "answers": [
+      "a) An initially-stressed compound",
+      "b) An obscured compound",
+      "c) A tertiary-stressed compound",
+      "d) A finally-stressed compound"
+    ],
+    "correct answer(s)": "d) A finally-stressed compound",
+    "GPT's response": "d) A finally-stressed compound",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\uf0b7 The compound is a NOUN: \u2013 the \u201cY is (made) of X\u201d relationship: br\u00ecck w\u00e1ll, fr it s\u00e1lad, pot\u00e0to cr\u00edsps, r bber b\u00f3ots, g\u00e0s f\u00edre \u2013 the \u201cY is (an) X\u201d relationship: t\u00f2y s\u00f3ldier, tw\u00ecn br\u00f3ther, w\u00f2man wr\u00edter, b\u00f2y sc\u00f3ut, qu\u00e8en b\u00e9e, ch\u00ecld \u00e1ctor \u2013 names of places (but not those ending in \u201cStreet\u201d, which are initially-stressed!): Victoria St\u00e1tion, Cr\u00f2mwell R\u00f3ad, F\u00ecfth \u00c1venue, C\u00e8ntral P\u00e1rk, H\u00e8roes\u2019 Squ\u00e1re \u2013 various others: S\u00f2cial D\u00e9mocrat, bl\u00e0ck m\u00e1rket, l\u00ecving cond\u00edtions, trade \u00fanion, C\u00f2ca C\u00f3la, w\u00e8ek\u00e9nd3 \u2013 \u201cinitialisms\u201d (letters pronounced as their alphabetical names): DJ /\u02ccdi: \u02c8d\u0292e\u026a/, etc.",
+    "question": "What does the \u201cY is (an) X\u201d relationship involve regarding compound stress?",
+    "category": "cat 530",
+    "answers": [
+      "a) An initially-stressed compound",
+      "b) An obscured compound",
+      "c) A tertiary-stressed compound",
+      "d) A finally-stressed compound"
+    ],
+    "correct answer(s)": "d) A finally-stressed compound",
+    "GPT's response": "d) A finally-stressed compound",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\uf0b7 The compound is a NOUN: \u2013 the \u201cY is (made) of X\u201d relationship: br\u00ecck w\u00e1ll, fr it s\u00e1lad, pot\u00e0to cr\u00edsps, r bber b\u00f3ots, g\u00e0s f\u00edre \u2013 the \u201cY is (an) X\u201d relationship: t\u00f2y s\u00f3ldier, tw\u00ecn br\u00f3ther, w\u00f2man wr\u00edter, b\u00f2y sc\u00f3ut, qu\u00e8en b\u00e9e, ch\u00ecld \u00e1ctor \u2013 names of places (but not those ending in \u201cStreet\u201d, which are initially-stressed!): Victoria St\u00e1tion, Cr\u00f2mwell R\u00f3ad, F\u00ecfth \u00c1venue, C\u00e8ntral P\u00e1rk, H\u00e8roes\u2019 Squ\u00e1re \u2013 various others: S\u00f2cial D\u00e9mocrat, bl\u00e0ck m\u00e1rket, l\u00ecving cond\u00edtions, trade \u00fanion, C\u00f2ca C\u00f3la, w\u00e8ek\u00e9nd3 \u2013 \u201cinitialisms\u201d (letters pronounced as their alphabetical names): DJ /\u02ccdi: \u02c8d\u0292e\u026a/, etc.",
+    "question": "What kind of compound stress pattern do names of places typically have, excluding those ending in \"Street\"?",
+    "category": "cat 531",
+    "answers": [
+      "a) Obscured compound",
+      "b) A finally-stressed compound",
+      "c) An initially-stressed compound",
+      "d) Unstressed compound"
+    ],
+    "correct answer(s)": "b) A finally-stressed compound",
+    "GPT's response": "b) A finally-stressed compound",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\uf0b7 The compound is a NOUN: \u2013 the \u201cY is (made) of X\u201d relationship: br\u00ecck w\u00e1ll, fr it s\u00e1lad, pot\u00e0to cr\u00edsps, r bber b\u00f3ots, g\u00e0s f\u00edre \u2013 the \u201cY is (an) X\u201d relationship: t\u00f2y s\u00f3ldier, tw\u00ecn br\u00f3ther, w\u00f2man wr\u00edter, b\u00f2y sc\u00f3ut, qu\u00e8en b\u00e9e, ch\u00ecld \u00e1ctor \u2013 names of places (but not those ending in \u201cStreet\u201d, which are initially-stressed!): Victoria St\u00e1tion, Cr\u00f2mwell R\u00f3ad, F\u00ecfth \u00c1venue, C\u00e8ntral P\u00e1rk, H\u00e8roes\u2019 Squ\u00e1re \u2013 various others: S\u00f2cial D\u00e9mocrat, bl\u00e0ck m\u00e1rket, l\u00ecving cond\u00edtions, trade \u00fanion, C\u00f2ca C\u00f3la, w\u00e8ek\u00e9nd3 \u2013 \u201cinitialisms\u201d (letters pronounced as their alphabetical names): DJ /\u02ccdi: \u02c8d\u0292e\u026a/, etc.",
+    "question": "What kind of compound stress pattern do \u201cinitialisms\u201d, where letters are pronounced as their alphabetical names, exhibit?",
+    "category": "cat 532",
+    "answers": [
+      "a) An initially-stressed compound",
+      "b) An obscured compound",
+      "c) A secondary-stressed compound",
+      "d) A finally-stressed compound"
+    ],
+    "correct answer(s)": "d) A finally-stressed compound",
+    "GPT's response": "d) A finally-stressed compound",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\uf0b7 The compound is a NOUN: \u2013 the \u201cY is (made) of X\u201d relationship: br\u00ecck w\u00e1ll, fr it s\u00e1lad, pot\u00e0to cr\u00edsps, r bber b\u00f3ots, g\u00e0s f\u00edre \u2013 the \u201cY is (an) X\u201d relationship: t\u00f2y s\u00f3ldier, tw\u00ecn br\u00f3ther, w\u00f2man wr\u00edter, b\u00f2y sc\u00f3ut, qu\u00e8en b\u00e9e, ch\u00ecld \u00e1ctor \u2013 names of places (but not those ending in \u201cStreet\u201d, which are initially-stressed!): Victoria St\u00e1tion, Cr\u00f2mwell R\u00f3ad, F\u00ecfth \u00c1venue, C\u00e8ntral P\u00e1rk, H\u00e8roes\u2019 Squ\u00e1re \u2013 various others: S\u00f2cial D\u00e9mocrat, bl\u00e0ck m\u00e1rket, l\u00ecving cond\u00edtions, trade \u00fanion, C\u00f2ca C\u00f3la, w\u00e8ek\u00e9nd3 \u2013 \u201cinitialisms\u201d (letters pronounced as their alphabetical names): DJ /\u02ccdi: \u02c8d\u0292e\u026a/, etc.",
+    "question": "If a compound expresses the idea of \"for...\" (an object relationship), what type of stress does it exhibit?",
+    "category": "cat 533",
+    "answers": [
+      "a) Finally-stressed",
+      "b) Obscured",
+      "c) Initially-stressed",
+      "d) Unstressed"
+    ],
+    "correct answer(s)": "c) Initially-stressed",
+    "GPT's response": "c) Initially-stressed",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\uf0b7 The compound is a NOUN: \u2013 the \u201cY is (made) of X\u201d relationship: br\u00ecck w\u00e1ll, fr it s\u00e1lad, pot\u00e0to cr\u00edsps, r bber b\u00f3ots, g\u00e0s f\u00edre \u2013 the \u201cY is (an) X\u201d relationship: t\u00f2y s\u00f3ldier, tw\u00ecn br\u00f3ther, w\u00f2man wr\u00edter, b\u00f2y sc\u00f3ut, qu\u00e8en b\u00e9e, ch\u00ecld \u00e1ctor \u2013 names of places (but not those ending in \u201cStreet\u201d, which are initially-stressed!): Victoria St\u00e1tion, Cr\u00f2mwell R\u00f3ad, F\u00ecfth \u00c1venue, C\u00e8ntral P\u00e1rk, H\u00e8roes\u2019 Squ\u00e1re \u2013 various others: S\u00f2cial D\u00e9mocrat, bl\u00e0ck m\u00e1rket, l\u00ecving cond\u00edtions, trade \u00fanion, C\u00f2ca C\u00f3la, w\u00e8ek\u00e9nd3 \u2013 \u201cinitialisms\u201d (letters pronounced as their alphabetical names): DJ /\u02ccdi: \u02c8d\u0292e\u026a/, etc.",
+    "question": "If a compound expresses the idea of \"is a...\", \"is made of...\", or \"is characterized by...\" (a subject relationship), what type of stress pattern does it typically have?",
+    "category": "cat 534",
+    "answers": [
+      "a) Obscured",
+      "b) Initially-stressed",
+      "c) Finally-stressed",
+      "d) Unstressed"
+    ],
+    "correct answer(s)": "c) Finally-stressed",
+    "GPT's response": "c) Finally-stressed",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. The tone-unit has the following parts: \u2013 Pre-head: the unstressed syllables before the first stress (We de-). \u2013 Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-).\u2013 Tonic: the last stressed syllable (-to-). \u2013 Tail: anything after the tonic (-ber).",
+    "question": "In a typical tone unit 'We decided to come back in October', what constitutes the pre-head?",
+    "category": "cat 535",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "a) We de-",
+    "GPT's response": "a) We de-",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. The tone-unit has the following parts: \u2013 Pre-head: the unstressed syllables before the first stress (We de-). \u2013 Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-).\u2013 Tonic: the last stressed syllable (-to-). \u2013 Tail: anything after the tonic (-ber).",
+    "question": "In a typical tone unit 'We decided to come back in October', what does the head consist of?",
+    "category": "cat 536",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "b) -cided to come back in Oc-",
+    "GPT's response": "b) -cided to come back in Oc-",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. The tone-unit has the following parts: \u2013 Pre-head: the unstressed syllables before the first stress (We de-). \u2013 Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-).\u2013 Tonic: the last stressed syllable (-to-). \u2013 Tail: anything after the tonic (-ber).",
+    "question": "In the typical tone unit 'We decided to come back in October', which part is considered the tonic?",
+    "category": "cat 537",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "c) -to-",
+    "GPT's response": "c) -to-",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. The tone-unit has the following parts: \u2013 Pre-head: the unstressed syllables before the first stress (We de-). \u2013 Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-).\u2013 Tonic: the last stressed syllable (-to-). \u2013 Tail: anything after the tonic (-ber).",
+    "question": "In a typical tone unit 'We decided to come back in October', what is referred to as the tail?",
+    "category": "cat 538",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "d) -ber",
+    "GPT's response": "d) -ber",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.5.2.1. Rhythmic stress deletion (\u201cnice old lady\u201d rule) When three stresses come closely together, with maximally one unstressed syllable between them (\u02c8nice \u02c8old \u02c8lady), the middle one of the three stresses may optionally be deleted (\u201cdestressed\u201d) to make the rhythm smoother: \u02c8nice old \u02c8lady. Such de-stressing does not depend on the meaning or grammatical role of the word affected, just the rhythmic pattern",
+    "question": "What is the \"nice old lady\" rule in English prosody?",
+    "category": "cat 539",
+    "answers": [
+      "a) Tonic placement",
+      "b) Stress shift",
+      "c) Phonemic distinction",
+      "d) Rhythmic stress deletion"
+    ],
+    "correct answer(s)": "d) Rhythmic stress deletion",
+    "GPT's response": "d) Rhythmic stress deletion",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.5.2.2. Stress-shift (\u201cafternoon tea\u201d rule) If a word with two stresses (e.g. 1after\u2032noon) is immediately followed by a stressed word, three stresses fall closely together: 1after\u2032noon \u2032tea. This is subject to the Rhythm Rule, which deletes the middle stress: \u2032afteronoon \u2032tea. But as a result, the original [2 0 1] stress pattern of the word 1after\u2032noon is replaced by a [2 0 3] stressing \u2032afteronoon. The word\u2019s lexical primarystressed syllable (noon) is degraded to strong-unstressed (tertiary) status.This gives the impression that the major stress in the word has \u201cshifted\u201d leftwards to the place of the secondary, and instead of the normal /\u02cc\u0251:ft\u0259\u02c8nu:n/ we now have /\u02c8\u0251:ft\u0259nu:n/.",
+    "question": "What is the \"afternoon tea\" rule in English prosody?",
+    "category": "cat 540",
+    "answers": [
+      "a) Tonic placement",
+      "b) Phonemic distinction",
+      "c) Stress-shift, resulting from the Rhythm Rule",
+      "d) Compound stress adjustment"
+    ],
+    "correct answer(s)": "c) Stress-shift, resulting from the Rhythm Rule",
+    "GPT's response": "c) Stress-shift, resulting from the Rhythm Rule",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.5.2.2. Stress-shift (\u201cafternoon tea\u201d rule) If a word with two stresses (e.g. 1after\u2032noon) is immediately followed by a stressed word, three stresses fall closely together: 1after\u2032noon \u2032tea. This is subject to the Rhythm Rule, which deletes the middle stress: \u2032afteronoon \u2032tea. But as a result, the original [2 0 1] stress pattern of the word 1after\u2032noon is replaced by a [2 0 3] stressing \u2032afteronoon. The word\u2019s lexical primarystressed syllable (noon) is degraded to strong-unstressed (tertiary) status.This gives the impression that the major stress in the word has \u201cshifted\u201d leftwards to the place of the secondary, and instead of the normal /\u02cc\u0251:ft\u0259\u02c8nu:n/ we now have /\u02c8\u0251:ft\u0259nu:n/.",
+    "question": "Which stress pattern exemplifies the \"afternoon tea\" rule?",
+    "category": "cat 541",
+    "answers": [
+      "a) [1 3 1]",
+      "b) [1 0 2]",
+      "c) [2 1 0]",
+      "d) [2 0 3]"
+    ],
+    "correct answer(s)": "d) [2 0 3]",
+    "GPT's response": "d) [2 0 3]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.5.2.2. Stress-shift (\u201cafternoon tea\u201d rule) If a word with two stresses (e.g. 1after\u2032noon) is immediately followed by a stressed word, three stresses fall closely together: 1after\u2032noon \u2032tea. This is subject to the Rhythm Rule, which deletes the middle stress: \u2032afteronoon \u2032tea. But as a result, the original [2 0 1] stress pattern of the word 1after\u2032noon is replaced by a [2 0 3] stressing \u2032afteronoon. The word\u2019s lexical primarystressed syllable (noon) is degraded to strong-unstressed (tertiary) status.This gives the impression that the major stress in the word has \u201cshifted\u201d leftwards to the place of the secondary, and instead of the normal /\u02cc\u0251:ft\u0259\u02c8nu:n/ we now have /\u02c8\u0251:ft\u0259nu:n/.",
+    "question": "What does the \"afternoon tea\" rule dictate regarding stress patterns?",
+    "category": "cat 542",
+    "answers": [
+      "a) The word\u2019s primary stress moves forward",
+      "b) The secondary stress becomes the new primary",
+      "c) A previously unstressed syllable gains stress",
+      "d) The word\u2019s lexical primary-stressed syllable is degraded to strong-unstressed status"
+    ],
+    "correct answer(s)": "d) The word\u2019s lexical primary-stressed syllable is degraded to strong-unstressed status",
+    "GPT's response": "d) The word\u2019s lexical primary-stressed syllable is degraded to strong-unstressed status",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The neutral tonic falls on the last content-word of the tone-unit. This is the Last Content Word Rule. If the last words are function-words, they remain unstressed because these are not \u201ctonic-bearing\u201d. The neutral tonic is mechanically assigned: the tonic need not be the most \u201cimportant\u201d or communicatively most informative word. ",
+    "question": "Where does the neutral tonic fall?",
+    "category": "cat 543",
+    "answers": [
+      "a) On the last function-word of the tone-unit",
+      "b) On the first content-word of the tone-unit",
+      "c) On the first function-word of the tone-unit",
+      "d) On the last content-word of the tone-unit"
+    ],
+    "correct answer(s)": "d) On the last content-word of the tone-unit",
+    "GPT's response": "d) On the last content-word of the tone-unit",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.6.1.2. On a function-word The neutral tonic may, in well-defined cases, fall on some function word. We will discuss only two of these cases: neutral tonic on an auxiliary, and on an adverbial particle.",
+    "question": "On which function words can the neutral tonic fall?",
+    "category": "cat 544",
+    "answers": [
+      "a) On a determiner and a pronoun",
+      "b) On auxiliary and a preposition",
+      "c) On an article and an adverb",
+      "d) On an auxiliary and on an adverbial particle"
+    ],
+    "correct answer(s)": "d) On an auxiliary and on an adverbial particle",
+    "GPT's response": "d) On an auxiliary and on an adverbial particle",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Neutral tonic and auxiliaries. An auxiliary (including the finite forms of be, do, have) has the tonic if there is no further stressable word in the sentence: \u2032Yes, we \uf0e6may. \u2013 \u2032Jim \u2032always \uf0e6does. \u2013 This includes questions where the auxiliary is followed by its unstressed personal pronoun subject: \u2032How ex\u2032pensive \uf0e6is it? \u2013 \u2032Where \uf0e6am I? \u2013 \u2032How \uf0e6are you?",
+    "question": "When can the neutral tonic fall on an auxiliary?",
+    "category": "cat 545",
+    "answers": [
+      "a) When it is followed by its unstressed personal pronoun subject",
+      "b) When it is followed by a noun",
+      "c) Only when it is part of a subordinate clause",
+      "d) When there is no further stressable word in the sentence"
+    ],
+    "correct answer(s)": "d) When there is no further stressable word in the sentence",
+    "GPT's response": "d) When there is no further stressable word in the sentence",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "However, when a sentence-final auxiliary is preceded by its own stressed subject, the tonic falls on the subject and the auxiliary is unstressed (but strong, i.e. tertiary-stressed!): You \u2032play \u2032better than \uf0e6Joe does. I \u2032wonder \u2032when the e\uf0e6xam will be. \u2032That\u2019s the \u2032pub where my \uf0e6friends are. It \u2032fits me \u2032better than \uf0e6yours would.",
+    "question": "In which case does the tonic not fall on a sentence-final auxiliary?",
+    "category": "cat 546",
+    "answers": [
+      "a) When it is used in an interrogative sentence",
+      "b) When it is preceded by its own stressed subject",
+      "c) When it follows a conjunction",
+      "d) When it is part of a complex verb phrase"
+    ],
+    "correct answer(s)": "b) When it is preceded by its own stressed subject",
+    "GPT's response": "b) When it is preceded by its own stressed subject",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7. INTONATION In the preceding sections we discussed one component of prosody: stress. We now turn to the other prosodic component: intonation. While stress concerns the loudness of syllables, intonation concerns their height, called \u201cpitch\u201d in linguistics. 15 People easily confuse a high pitch with a loud stress: these often appear together, but are not the same (see the examples in 7.1). Intonation includes two things only: the melodies or \u201ctones\u201d (with their meanings and func-tions), and the division of speech into tone-units (that is, where one intonation pattern ends and the next one begins).16",
+    "question": "What is the relationship between intonation and pitch in linguistics?",
+    "category": "cat 547",
+    "answers": [
+      "a) Intonation is about the loudness of syllables",
+      "b) Intonation only relates to rhythm",
+      "c) Pitch is unrelated to intonation",
+      "d) Intonation concerns the height, or pitch, of syllables"
+    ],
+    "correct answer(s)": "d) Intonation concerns the height, or pitch, of syllables",
+    "GPT's response": "d) Intonation concerns the height, or pitch, of syllables",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7. INTONATION In the preceding sections we discussed one component of prosody: stress. We now turn to the other prosodic component: intonation. While stress concerns the loudness of syllables, intonation concerns their height, called \u201cpitch\u201d in linguistics. 15 People easily confuse a high pitch with a loud stress: these often appear together, but are not the same (see the examples in 7.1). Intonation includes two things only: the melodies or \u201ctones\u201d (with their meanings and func-tions), and the division of speech into tone-units (that is, where one intonation pattern ends and the next one begins).16",
+    "question": "What does intonation include in the context of prosody?",
+    "category": "cat 548",
+    "answers": [
+      "a) Only the rhythm of speech",
+      "b) The stress and syllable count",
+      "c) The melodies or \u201ctones\u201d and the division of speech into tone-units",
+      "d) The speed and volume of speech"
+    ],
+    "correct answer(s)": "c) The melodies or \u201ctones\u201d and the division of speech into tone-units",
+    "GPT's response": "c) The melodies or \u201ctones\u201d and the division of speech into tone-units",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "English has four phonologically distinct tones. One is falling, three are rising. Type Name of tone Diagram Example Meaning Falling Fall \uf0e6Blue neutrality, definiteness, finality Rising Fall-rise \\\uf0e4Blue implication; softening; old info Low rise \uf0e4 Blue indifference; encouragement High rise \uf0e4Blue inquiry; Yes/No question",
+    "question": "What does the Falling tone express in English intonation?",
+    "category": "cat 549",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "d) Neutrality, definiteness, finality",
+    "GPT's response": "d) Neutrality, definiteness, finality",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "English has four phonologically distinct tones. One is falling, three are rising. Type Name of tone Diagram Example Meaning Falling Fall \uf0e6Blue neutrality, definiteness, finality Rising Fall-rise \\\uf0e4Blue implication; softening; old info Low rise \uf0e4 Blue indifference; encouragement High rise \uf0e4Blue inquiry; Yes/No question",
+    "question": "What does the Rising Fall-rise tone convey in English intonation?",
+    "category": "cat 550",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "a) Implication; softening; old info",
+    "GPT's response": "a) Implication; softening; old info",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "English has four phonologically distinct tones. One is falling, three are rising. Type Name of tone Diagram Example Meaning Falling Fall \uf0e6Blue neutrality, definiteness, finality Rising Fall-rise \\\uf0e4Blue implication; softening; old info Low rise \uf0e4 Blue indifference; encouragement High rise \uf0e4Blue inquiry; Yes/No question",
+    "question": "What meaning does the Low rise tone hold in English intonation?",
+    "category": "cat 551",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "b) Indifference; encouragement",
+    "GPT's response": "b) Indifference; encouragement",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "English has four phonologically distinct tones. One is falling, three are rising. Type Name of tone Diagram Example Meaning Falling Fall \uf0e6Blue neutrality, definiteness, finality Rising Fall-rise \\\uf0e4Blue implication; softening; old info Low rise \uf0e4 Blue indifference; encouragement High rise \uf0e4Blue inquiry; Yes/No question",
+    "question": "What is expressed by the High rise tone in English intonation?",
+    "category": "cat 552",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "c) Inquiry; Yes/No question",
+    "GPT's response": "c) Inquiry; Yes/No question",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Function The falling tone has the following functions/meanings: (a) Definiteness. The fall is the most neutral intonation. In statements and commands it expresses definiteness and finality. It suggests that what we say is plain new information. \uf0b7 Statements: There \u2032isn\u2019t e\u2032nough \uf0e6time. Her \u2032book was \u2032published in \uf0e6French. \uf0b7 Commands (serious, businesslike, not too polite): \u2032Keep your \u2032door \u2032safely \uf0e6locked. \u2032Open your \u2032books at \u2032page fif\uf0e6teen! \uf0b7 Exclamations (to express surprise, etc.). \u2032What a \u2032marvellous \uf0e6picture! \u2032How \u2032utterly dis\uf0e6gusting! (b) Wh-questions. The fall is used for Wh-questions (i.e. questions beginning with a question-word such as who, what, where, how, etc.): \u2032What\u2019s her \u2032new a\uf0e6ddress? \u2032Who\u2019ll be the \u2032chief \uf0e6editor? \uf0e6When? How \uf0e6much? \u2032What \uf0e6size are they?",
+    "question": "In which context is the falling tone generally used to express definiteness and finality?",
+    "category": "cat 553",
+    "answers": [
+      "a) In song lyrics",
+      "b) In casual conversations only",
+      "c) When expressing hypothetical scenarios",
+      "d) In statements and commands"
+    ],
+    "correct answer(s)": "d) In statements and commands",
+    "GPT's response": "d) In statements and commands",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Function The falling tone has the following functions/meanings: (a) Definiteness. The fall is the most neutral intonation. In statements and commands it expresses definiteness and finality. It suggests that what we say is plain new information. \uf0b7 Statements: There \u2032isn\u2019t e\u2032nough \uf0e6time. Her \u2032book was \u2032published in \uf0e6French. \uf0b7 Commands (serious, businesslike, not too polite): \u2032Keep your \u2032door \u2032safely \uf0e6locked. \u2032Open your \u2032books at \u2032page fif\uf0e6teen! \uf0b7 Exclamations (to express surprise, etc.). \u2032What a \u2032marvellous \uf0e6picture! \u2032How \u2032utterly dis\uf0e6gusting! (b) Wh-questions. The fall is used for Wh-questions (i.e. questions beginning with a question-word such as who, what, where, how, etc.): \u2032What\u2019s her \u2032new a\uf0e6ddress? \u2032Who\u2019ll be the \u2032chief \uf0e6editor? \uf0e6When? How \uf0e6much? \u2032What \uf0e6size are they?",
+    "question": "Which of the following intonations is most commonly used for Wh-questions?",
+    "category": "cat 554",
+    "answers": [
+      "a) High rise",
+      "b) Low rise",
+      "c) Falling tone",
+      "d) Rising Fall-rise"
+    ],
+    "correct answer(s)": "c) Falling tone",
+    "GPT's response": "c) Falling tone",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.2. The falling-rising tone Form The voice falls from high (or mid) to low, then immediately rises to mid-high again. Thus the second half of this tone is a low rise. If there is a tail, its syllables continue to rise to midheight. \u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \\\uf0e4Fine You can \u2032ask the \\\uf0e4porter. The \\\uf0e4first part is interesting. Function The fall-rise has the following functions/meanings: (a) Implications. What we say is not the whole truth. The speaker has reservations, does not agree completely, or is hesitant to plainly say his opinion: \u201cyes, but...\u201d We call it implicational because it implies something that remains unsaid (this is added after three dots in the examples below). (Shall we go by car?) \u2014 \\\uf0e4Fine. (...but I won\u2019t drive) We \u2032like to \\\uf0e4travel. (...but not to silly places like that) Such sentences often have a dislocated tonic: The \\\uf0e4FIRST part is interesting. (...but the rest isn\u2019t) The implication conveyed by the fall-rise is often that something should be done: \\\uf0e4Dinner\u2019s ready! (...so come and sit down) I \u2032can\u2019t \\\uf0e4lift this. (...so please help me) (b) Partial negation. The fall-rise is able to express partial negation (see the (b) sentences below), implying that the thing is true on the whole, but some part of it is negated. While ordinary full negation (a), expressed by the fall, simply means \u201cno\u201d, the partial negation expressed by the fall-rise means \u201cyes, but...\u201d. Compare: (a) I \u2032won\u2019t \u2032eat \uf0e6anything. (full negation; \u2018I will eat nothing\u2019) (b) I \u2032won\u2019t \u2032eat \\\uf0e4anything. (partial negation; \u2018I\u2019ll eat, but not everything\u2019) (a) We \u2032haven\u2019t \u2032heard them \uf0e6once. (full negation; \u2018never heard them\u2019) (b) We \u2032haven\u2019t \u2032heard them \\\uf0e4once. (partial negation; \u2018heard them many times\u2019) (a) It \u2032wasn\u2019t \u2032published because a \uf0e6woman wrote it. (full negation; \u2018it wasn\u2019t published, and the reason was that a woman wrote it\u2019) (b) It \u2032wasn\u2019t \u2032published because a \\\uf0e4woman wrote it. (partial negation; \u2018it was published, though not for this reason\u2019) (c) Softening. Another use of the fall-rise is to soften the directness of commands or questions, which might sound rude or too official with the falling tone. \uf0b7 Polite commands (said rather like requests): \\\uf0e4Wait a minute! \u2032Keep your \\\uf0e4passports ready! \u2032Have a\\\uf0e4nother one! Polite Wh-questions: \u2032What\u2019s your \\\uf0e4name? \u2032How \\\uf0e4old is she? \\\uf0e4When? To sum up: the fall-rise is used for implications (including partial negation); to soften a command or a Wh-question.",
+    "question": "What is a common function of the falling-rising tone when used in sentences?",
+    "category": "cat 555",
+    "answers": [
+      "a) To express enthusiastic agreement",
+      "b) To imply reservations or partial truth",
+      "c) To convey complete certainty",
+      "d) To signal boredom"
+    ],
+    "correct answer(s)": "b) To imply reservations or partial truth",
+    "GPT's response": "b) To imply reservations or partial truth",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.2. The falling-rising tone Form The voice falls from high (or mid) to low, then immediately rises to mid-high again. Thus the second half of this tone is a low rise. If there is a tail, its syllables continue to rise to midheight. \u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \\\uf0e4Fine You can \u2032ask the \\\uf0e4porter. The \\\uf0e4first part is interesting. Function The fall-rise has the following functions/meanings: (a) Implications. What we say is not the whole truth. The speaker has reservations, does not agree completely, or is hesitant to plainly say his opinion: \u201cyes, but...\u201d We call it implicational because it implies something that remains unsaid (this is added after three dots in the examples below). (Shall we go by car?) \u2014 \\\uf0e4Fine. (...but I won\u2019t drive) We \u2032like to \\\uf0e4travel. (...but not to silly places like that) Such sentences often have a dislocated tonic: The \\\uf0e4FIRST part is interesting. (...but the rest isn\u2019t) The implication conveyed by the fall-rise is often that something should be done: \\\uf0e4Dinner\u2019s ready! (...so come and sit down) I \u2032can\u2019t \\\uf0e4lift this. (...so please help me) (b) Partial negation. The fall-rise is able to express partial negation (see the (b) sentences below), implying that the thing is true on the whole, but some part of it is negated. While ordinary full negation (a), expressed by the fall, simply means \u201cno\u201d, the partial negation expressed by the fall-rise means \u201cyes, but...\u201d. Compare: (a) I \u2032won\u2019t \u2032eat \uf0e6anything. (full negation; \u2018I will eat nothing\u2019) (b) I \u2032won\u2019t \u2032eat \\\uf0e4anything. (partial negation; \u2018I\u2019ll eat, but not everything\u2019) (a) We \u2032haven\u2019t \u2032heard them \uf0e6once. (full negation; \u2018never heard them\u2019) (b) We \u2032haven\u2019t \u2032heard them \\\uf0e4once. (partial negation; \u2018heard them many times\u2019) (a) It \u2032wasn\u2019t \u2032published because a \uf0e6woman wrote it. (full negation; \u2018it wasn\u2019t published, and the reason was that a woman wrote it\u2019) (b) It \u2032wasn\u2019t \u2032published because a \\\uf0e4woman wrote it. (partial negation; \u2018it was published, though not for this reason\u2019) (c) Softening. Another use of the fall-rise is to soften the directness of commands or questions, which might sound rude or too official with the falling tone. \uf0b7 Polite commands (said rather like requests): \\\uf0e4Wait a minute! \u2032Keep your \\\uf0e4passports ready! \u2032Have a\\\uf0e4nother one! Polite Wh-questions: \u2032What\u2019s your \\\uf0e4name? \u2032How \\\uf0e4old is she? \\\uf0e4When? To sum up: the fall-rise is used for implications (including partial negation); to soften a command or a Wh-question.",
+    "question": "How does the falling-rising tone act in terms of negation?",
+    "category": "cat 556",
+    "answers": [
+      "a) It confirms full negation",
+      "b) It denies any implication",
+      "c) It expresses partial negation",
+      "d) It reverses the meaning"
+    ],
+    "correct answer(s)": "c) It expresses partial negation",
+    "GPT's response": "c) It expresses partial negation",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.2. The falling-rising tone Form The voice falls from high (or mid) to low, then immediately rises to mid-high again. Thus the second half of this tone is a low rise. If there is a tail, its syllables continue to rise to midheight. \u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \\\uf0e4Fine You can \u2032ask the \\\uf0e4porter. The \\\uf0e4first part is interesting. Function The fall-rise has the following functions/meanings: (a) Implications. What we say is not the whole truth. The speaker has reservations, does not agree completely, or is hesitant to plainly say his opinion: \u201cyes, but...\u201d We call it implicational because it implies something that remains unsaid (this is added after three dots in the examples below). (Shall we go by car?) \u2014 \\\uf0e4Fine. (...but I won\u2019t drive) We \u2032like to \\\uf0e4travel. (...but not to silly places like that) Such sentences often have a dislocated tonic: The \\\uf0e4FIRST part is interesting. (...but the rest isn\u2019t) The implication conveyed by the fall-rise is often that something should be done: \\\uf0e4Dinner\u2019s ready! (...so come and sit down) I \u2032can\u2019t \\\uf0e4lift this. (...so please help me) (b) Partial negation. The fall-rise is able to express partial negation (see the (b) sentences below), implying that the thing is true on the whole, but some part of it is negated. While ordinary full negation (a), expressed by the fall, simply means \u201cno\u201d, the partial negation expressed by the fall-rise means \u201cyes, but...\u201d. Compare: (a) I \u2032won\u2019t \u2032eat \uf0e6anything. (full negation; \u2018I will eat nothing\u2019) (b) I \u2032won\u2019t \u2032eat \\\uf0e4anything. (partial negation; \u2018I\u2019ll eat, but not everything\u2019) (a) We \u2032haven\u2019t \u2032heard them \uf0e6once. (full negation; \u2018never heard them\u2019) (b) We \u2032haven\u2019t \u2032heard them \\\uf0e4once. (partial negation; \u2018heard them many times\u2019) (a) It \u2032wasn\u2019t \u2032published because a \uf0e6woman wrote it. (full negation; \u2018it wasn\u2019t published, and the reason was that a woman wrote it\u2019) (b) It \u2032wasn\u2019t \u2032published because a \\\uf0e4woman wrote it. (partial negation; \u2018it was published, though not for this reason\u2019) (c) Softening. Another use of the fall-rise is to soften the directness of commands or questions, which might sound rude or too official with the falling tone. \uf0b7 Polite commands (said rather like requests): \\\uf0e4Wait a minute! \u2032Keep your \\\uf0e4passports ready! \u2032Have a\\\uf0e4nother one! Polite Wh-questions: \u2032What\u2019s your \\\uf0e4name? \u2032How \\\uf0e4old is she? \\\uf0e4When? To sum up: the fall-rise is used for implications (including partial negation); to soften a command or a Wh-question.",
+    "question": "In what context is the falling-rising tone used to achieve a more polite effect?",
+    "category": "cat 557",
+    "answers": [
+      "a) In dramatic monologues",
+      "b) To soften commands or Wh-questions",
+      "c) In fast-paced conversations",
+      "d) To convey sarcasm"
+    ],
+    "correct answer(s)": "b) To soften commands or Wh-questions",
+    "GPT's response": "b) To soften commands or Wh-questions",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "What is a common function of the low-rising tone in English intonation?",
+    "category": "cat 558",
+    "answers": [
+      "a) To express strong disagreement",
+      "b) To convey urgency",
+      "c) To indicate indifference or lack of importance",
+      "d) To confirm full understanding"
+    ],
+    "correct answer(s)": "c) To indicate indifference or lack of importance",
+    "GPT's response": "c) To indicate indifference or lack of importance",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "Which of the following does the low-rising tone often express?",
+    "category": "cat 559",
+    "answers": [
+      "a) Excitement",
+      "b) Inquiry",
+      "c) Encouragement or reassurance",
+      "d) Sarcasm"
+    ],
+    "correct answer(s)": "c) Encouragement or reassurance",
+    "GPT's response": "c) Encouragement or reassurance",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "In which contexts is the low-rising tone used to display politeness in English?",
+    "category": "cat 560",
+    "answers": [
+      "a) In sarcastic remarks",
+      "b) In questions",
+      "c) In greetings, thanks, and apologies",
+      "d) In explanations"
+    ],
+    "correct answer(s)": "c) In greetings, thanks, and apologies",
+    "GPT's response": "c) In greetings, thanks, and apologies",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "What is the primary function of the high-rising tone in English intonation?",
+    "category": "cat 561",
+    "answers": [
+      "a) To indicate certainty",
+      "b) To express a command",
+      "c) To confirm information",
+      "d) To signal Yes/No questions"
+    ],
+    "correct answer(s)": "d) To signal Yes/No questions",
+    "GPT's response": "d) To signal Yes/No questions",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "In what type of questions is the high-rising tone most commonly used?",
+    "category": "cat 562",
+    "answers": [
+      "a) Hypothetical questions",
+      "b) Informative questions",
+      "c) Yes/No questions",
+      "d) Rhetorical questions"
+    ],
+    "correct answer(s)": "c) Yes/No questions",
+    "GPT's response": "c) Yes/No questions",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "What linguistic challenge might Hungarian learners face with the high-rising tone in English?",
+    "category": "cat 563",
+    "answers": [
+      "a) They tend to use too low a pitch",
+      "b) They might apply it to statements",
+      "c) They might not articulate the words clearly",
+      "d) They tend to use a rise-fall pattern"
+    ],
+    "correct answer(s)": "d) They tend to use a rise-fall pattern",
+    "GPT's response": "b) They might apply it to statements",
+    "correct": false
+  },
+  {
+    "correct_text_chunk": "7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \uf0e4 Blue. She \uf0e4 knows. We could \u2032ask them \u2032over for \uf0e4 coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?: \uf0e4 Really? LOW RISE (just a polite way of saying \u201cI see\u201d or \u201cI heard what you said\u201d) \uf0e4Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an \u201callo-\u201c form of the high rise but a distinct \u201cintonation phoneme\u201d, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. \u201cWhat I\u2019m saying is true but I don\u2019t think it\u2019s important or interesting or relevant.\u201d It sounds as if the speaker was shrugging while saying these sentences. (What\u2019s your favourite colour?) \u2014 \uf0e4 Blue. (What a childish question.) (I suppose you don\u2019t dare to tell your wife.) \u2014 She \uf0e4 knows. (It makes no difference.) (Did you enjoy the performance?) \u2014 It was all \uf0e4 right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, \u201cno problem, nothing serious, relax\u201d. \uf0b7 Encouragement to do something, not to worry, etc. Often used to children. \u2032Don\u2019t \uf0e4 worry. I \u2032don\u2019t \uf0e4mind. We \u2032shouldn\u2019t be a\uf0e4 fraid. \uf0b7 Encouragement to continue speaking (\u201cI\u2019m listening, go on!\u201d): \uf0e4 Yes. Is \u2032that \uf0e4 so? \u2032That\u2019s \uf0e4 interesting. \uf0e4 No. (but tell me) It is also used with the polite tag ...will/won\u2019t you?, attached to imperatives. The imperative base sentence has a falling tone: Help your\uf0e6self, | \uf0e4 won\u2019t you? Come and lend a \uf0e6hand, | \uf0e4 will you? (c) Greetings, thanks, apologies. \u2032Good \uf0e4morning. \u2032No \uf0e4 thanks. \u2032Bye- \uf0e4 bye. I\u2019m \uf0e4 sorry. Ex\uf0e4 cuse me. \u2032See you \uf0e4 soon",
+    "question": "How is the high-rising tone used in \"please-repeat\" questions?",
+    "category": "cat 564",
+    "answers": [
+      "a) It places emphasis on the auxiliary verb",
+      "b) It omits the question word",
+      "c) It places a dislocated tonic on the question word",
+      "d) It maintains the intonation of a declarative sentence"
+    ],
+    "correct answer(s)": "c) It places a dislocated tonic on the question word",
+    "GPT's response": "b) It omits the question word",
+    "correct": false
+  }
+]

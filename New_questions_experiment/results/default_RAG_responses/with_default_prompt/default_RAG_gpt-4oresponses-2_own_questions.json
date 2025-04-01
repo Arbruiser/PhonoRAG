@@ -1,0 +1,665 @@
+[
+  {
+    "question": "What do about half of the world\u2019s languages contrast in terms of laryngeal properties?",
+    "category": "201",
+    "answers": [
+      "a) Vocalic qualities",
+      "b) Two series of obstruents",
+      "c) Syllable structures",
+      "d) Stress patterns"
+    ],
+    "correct answer(s)": "b) Two series of obstruents",
+    "GPT's response": "b) Two series of obstruents",
+    "correct": true
+  },
+  {
+    "question": "What characteristic defines the /b/ in Hun. b\u00e1l?",
+    "category": "202",
+    "answers": [
+      "a) Passive voicing",
+      "b) Fortis articulation",
+      "c) Long-lag VOT",
+      "d) Vocal fold vibration"
+    ],
+    "correct answer(s)": "d) Vocal fold vibration",
+    "GPT's response": "a) Passive voicing",
+    "correct": false
+  },
+  {
+    "question": "What VOT value characterizes voiced plosives where voicing begins prior to the release of the stops?",
+    "category": "203",
+    "answers": [
+      "a) Zero VOT",
+      "b) Long-lag VOT",
+      "c) Positive VOT",
+      "d) Negative VOT"
+    ],
+    "correct answer(s)": "d) Negative VOT",
+    "GPT's response": "d) Negative VOT",
+    "correct": true
+  },
+  {
+    "question": "What VOT value is associated with voiceless unaspirated plosives, where vocal fold vibration begins right around its release?",
+    "category": "204",
+    "answers": [
+      "a) Negative VOT",
+      "b) Long-lag VOT",
+      "c) Positive VOT",
+      "d) Zero VOT"
+    ],
+    "correct answer(s)": "d) Zero VOT",
+    "GPT's response": "d) Zero VOT",
+    "correct": true
+  },
+  {
+    "question": "What VOT value is indicative of voiceless aspirated plosives, where voicing is delayed and lags behind the release of the stop?",
+    "category": "205",
+    "answers": [
+      "a) Negative VOT",
+      "b) Zero VOT",
+      "c) Short-lag VOT",
+      "d) Positive VOT"
+    ],
+    "correct answer(s)": "d) Positive VOT",
+    "GPT's response": "d) Positive VOT",
+    "correct": true
+  },
+  {
+    "question": "What is the term for the unmarked way of articulating sonorant segments, which involves vocal fold vibration?",
+    "category": "206",
+    "answers": [
+      "a) Passive voicing",
+      "b) Breathiness",
+      "c) Fortis articulation",
+      "d) Spontaneous voicing"
+    ],
+    "correct answer(s)": "d) Spontaneous voicing",
+    "GPT's response": "d) Spontaneous voicing",
+    "correct": true
+  },
+  {
+    "question": "In English, how can obstruents become voiced if it is not actively targeted during articulation?",
+    "category": "207",
+    "answers": [
+      "a) Spontaneously voiced",
+      "b) Undervoiced",
+      "c) Passively voiced",
+      "d) Voiced by aspiration"
+    ],
+    "correct answer(s)": "c) Passively voiced",
+    "GPT's response": "c) Passively voiced",
+    "correct": true
+  },
+  {
+    "question": "Where do the English obstruents /b, d, g; v, \u00f0, z, \u0292; \u02a4/ have their voiced allophones?",
+    "category": "208",
+    "answers": [
+      "a) At the end of a phrase",
+      "b) After a nasal sound",
+      "c) At the start of a sentence",
+      "d) In intersonorant position"
+    ],
+    "correct answer(s)": "d) In intersonorant position",
+    "GPT's response": "d) In intersonorant position",
+    "correct": true
+  },
+  {
+    "question": "Where do English obstruents like /b, d, g; v, \u00f0, z, \u0292; \u02a4/ exhibit partially voiced or entirely voiceless allophones?",
+    "category": "209",
+    "answers": [
+      "a) Before a stressed vowel",
+      "b) In word-final position",
+      "c) Not in intersonorant position",
+      "d) Following a liquid consonant"
+    ],
+    "correct answer(s)": "c) Not in intersonorant position",
+    "GPT's response": "c) Not in intersonorant position",
+    "correct": true
+  },
+  {
+    "question": "Why is voicing in obstruents in Hungarian referred to as active voicing?",
+    "category": "210",
+    "answers": [
+      "a) Because it happens involuntarily",
+      "b) As it only occurs in unstressed syllables",
+      "c) Due to the influence of surrounding vowels",
+      "d) Because it's the result of active articulatory gestures"
+    ],
+    "correct answer(s)": "d) Because it's the result of active articulatory gestures",
+    "GPT's response": "d) Because it's the result of active articulatory gestures",
+    "correct": true
+  },
+  {
+    "question": "How is the laryngeal contrast realized in English words like de/k/r\u00e9e vs. de/g/r\u00e9e?",
+    "category": "211",
+    "answers": [
+      "a) The presence vs. absence of nasality",
+      "b) The presence vs. absence of lenis articulation",
+      "c) The presence vs. absence of fortis articulation",
+      "d) The presence vs. absence of aspiration"
+    ],
+    "correct answer(s)": "d) The presence vs. absence of aspiration",
+    "GPT's response": "d) The presence vs. absence of aspiration",
+    "correct": true
+  },
+  {
+    "question": "What happens to the /g/ in English words like de/g/r\u00e9e?",
+    "category": "212",
+    "answers": [
+      "a) It becomes devoiced",
+      "b) It gains aspiration",
+      "c) It undergoes nasalization",
+      "d) It is passively voiced"
+    ],
+    "correct answer(s)": "d) It is passively voiced",
+    "GPT's response": "d) It is passively voiced",
+    "correct": true
+  },
+  {
+    "question": "What phonetic cues are used to encode the opposition in the laryngeal contrast at the end of words?",
+    "category": "213",
+    "answers": [
+      "a) Aspiration and nasalization",
+      "b) Vowel lengthening and nasalization",
+      "c) Prefortis clipping and preglottalization",
+      "d) Voicing and fortis articulation"
+    ],
+    "correct answer(s)": "c) Prefortis clipping and preglottalization",
+    "GPT's response": "c) Prefortis clipping and preglottalization",
+    "correct": true
+  },
+  {
+    "question": "What is preglottalization?",
+    "category": "214",
+    "answers": [
+      "a) The lengthening of the preceding vowel",
+      "b) The nasalization of a vowel before a plosive",
+      "c) The formation of a nasal consonant following a plosive",
+      "d) The pronunciation of the glottal stop [\u0294] before plosives and affricates"
+    ],
+    "correct answer(s)": "d) The pronunciation of the glottal stop [\u0294] before plosives and affricates",
+    "GPT's response": "d) The pronunciation of the glottal stop [\u0294] before plosives and affricates",
+    "correct": true
+  },
+  {
+    "question": "Which of the following languages is considered a true voicing language?",
+    "category": "215",
+    "answers": [
+      "a) Mandarin Chinese",
+      "b) English",
+      "c) Hungarian",
+      "d) Icelandic"
+    ],
+    "correct answer(s)": "c) Hungarian",
+    "GPT's response": "c) Hungarian",
+    "correct": true
+  },
+  {
+    "question": "Which type of laryngeal system does Spanish exemplify?",
+    "category": "216",
+    "answers": [
+      "a) Aspirating language",
+      "b) True voicing language",
+      "c) Nasalizing language",
+      "d) Vowel harmony language"
+    ],
+    "correct answer(s)": "b) True voicing language",
+    "GPT's response": "b) True voicing language",
+    "correct": true
+  },
+  {
+    "question": "Which language is an example of an aspirating language?",
+    "category": "217",
+    "answers": [
+      "a) English",
+      "b) Serbo-Croatian",
+      "c) Italian",
+      "d) French"
+    ],
+    "correct answer(s)": "a) English",
+    "GPT's response": "a) English",
+    "correct": true
+  },
+  {
+    "question": "Which of the following languages does not belong to the aspirating language category?",
+    "category": "218",
+    "answers": [
+      "a) German",
+      "b) Ukrainian",
+      "c) Norwegian",
+      "d) Icelandic"
+    ],
+    "correct answer(s)": "b) Ukrainian",
+    "GPT's response": "b) Ukrainian",
+    "correct": true
+  },
+  {
+    "question": "Which laryngeal system classification applies to Czech?",
+    "category": "219",
+    "answers": [
+      "a) Aspirating language",
+      "b) Tonal language",
+      "c) True voicing language",
+      "d) Reduplicating language"
+    ],
+    "correct answer(s)": "c) True voicing language",
+    "GPT's response": "c) True voicing language",
+    "correct": true
+  },
+  {
+    "question": "German is categorized as which type of laryngeal system?",
+    "category": "220",
+    "answers": [
+      "a) True voicing language",
+      "b) Click language",
+      "c) Aspirating language",
+      "d) Stress-timed language"
+    ],
+    "correct answer(s)": "c) Aspirating language",
+    "GPT's response": "c) Aspirating language",
+    "correct": true
+  },
+  {
+    "question": "Among the following, which language demonstrates a voicing system with negative and zero VOT contrasts?",
+    "category": "221",
+    "answers": [
+      "a) Mandarin Chinese",
+      "b) Serbo-Croatian",
+      "c) Icelandic",
+      "d) English"
+    ],
+    "correct answer(s)": "b) Serbo-Croatian",
+    "GPT's response": "b) Serbo-Croatian",
+    "correct": true
+  },
+  {
+    "question": "In terms of laryngeal systems, how is Icelandic classified?",
+    "category": "222",
+    "answers": [
+      "a) True voicing language",
+      "b) Nasal harmony language",
+      "c) Syllable-timed language",
+      "d) Aspirating language"
+    ],
+    "correct answer(s)": "d) Aspirating language",
+    "GPT's response": "d) Aspirating language",
+    "correct": true
+  },
+  {
+    "question": "What is observed regarding aspiration following /s/?",
+    "category": "223",
+    "answers": [
+      "a) Presence of voicing",
+      "b) Intensified aspiration",
+      "c) Increased nasalization",
+      "d) No aspiration"
+    ],
+    "correct answer(s)": "d) No aspiration",
+    "GPT's response": "d) No aspiration",
+    "correct": true
+  },
+  {
+    "question": "What type of fricatives do not allow aspiration of following plosives in English?",
+    "category": "224",
+    "answers": [
+      "a) Lenis fricatives",
+      "b) Nasal fricatives",
+      "c) Fortis fricatives",
+      "d) Lateral fricatives"
+    ],
+    "correct answer(s)": "c) Fortis fricatives",
+    "GPT's response": "c) Fortis fricatives",
+    "correct": true
+  },
+  {
+    "question": "Why is the /k/ in \"dis[k]\u00f3very\" unaspirated?",
+    "category": "225",
+    "answers": [
+      "a) Because it is at the end of the word",
+      "b) Because it is positioned after a nasal sound",
+      "c) Because it follows a fortis fricative",
+      "d) Because it is followed by a vowel"
+    ],
+    "correct answer(s)": "c) Because it follows a fortis fricative",
+    "GPT's response": "c) Because it follows a fortis fricative",
+    "correct": true
+  },
+  {
+    "question": "In which word is the plosive also unaspirated, due to the position in the word like \"dis[k]\u00f3very\"?",
+    "category": "226",
+    "answers": [
+      "a) nigh<t>mare",
+      "b) trac<t>or",
+      "c) fif<t>een",
+      "d) ma<t>chbox"
+    ],
+    "correct answer(s)": "c) fif<t>een",
+    "GPT's response": "a) nigh<t>mare",
+    "correct": false
+  },
+  {
+    "question": "To account for the absence of aspiration in fortis fricative + plosive clusters, what concept can we refer to?",
+    "category": "227",
+    "answers": [
+      "a) Stress patterns",
+      "b) Nasalization",
+      "c) Vowel length",
+      "d) Syllables"
+    ],
+    "correct answer(s)": "d) Syllables",
+    "GPT's response": "d) Syllables",
+    "correct": true
+  },
+  {
+    "question": "When can a fortis plosive be aspirated?",
+    "category": "228",
+    "answers": [
+      "a) At the beginning of a stressed syllable",
+      "b) After a nasal consonant",
+      "c) In a word-final position",
+      "d) Following a voiced vowel"
+    ],
+    "correct answer(s)": "a) At the beginning of a stressed syllable",
+    "GPT's response": "a) At the beginning of a stressed syllable",
+    "correct": true
+  },
+  {
+    "question": "Which condition for voicing is not fulfilled in words like s[p]eak, s[k]ool, and di.s[k]\u00f3.ve.ry?",
+    "category": "229",
+    "answers": [
+      "a) Fortis obstruent following a nasal",
+      "b) Lenition of the vowel",
+      "c) Aspiration after a voiceless fricative",
+      "d) A fortis plosive can only be aspirated at the beginning of a word or at the beginning of a stressed syllable"
+    ],
+    "correct answer(s)": "d) A fortis plosive can only be aspirated at the beginning of a word or at the beginning of a stressed syllable",
+    "GPT's response": "d) A fortis plosive can only be aspirated at the beginning of a word or at the beginning of a stressed syllable",
+    "correct": true
+  },
+  {
+    "question": "Why is there no aspiration in f\u00edf[t]\u00e9en or k\u00e1f[t]an?",
+    "category": "230",
+    "answers": [
+      "a) They end with a vocalic sound",
+      "b) The preceding vowel is nasalized",
+      "c) Because the plosives are not at the beginning of a word or a stressed syllable",
+      "d) Due to surrounding voiceless fricatives"
+    ],
+    "correct answer(s)": "c) Because the plosives are not at the beginning of a word or a stressed syllable",
+    "GPT's response": "c) Because the plosives are not at the beginning of a word or a stressed syllable",
+    "correct": true
+  },
+  {
+    "question": "What would a native speaker hear in an audio recording of the word \"speak\" with /s/ chopped off from the beginning of the word?",
+    "category": "231",
+    "answers": [
+      "a) Peak",
+      "b) meak",
+      "c) feak",
+      "d) Beak"
+    ],
+    "correct answer(s)": "d) Beak",
+    "GPT's response": "d) Beak",
+    "correct": true
+  },
+  {
+    "question": "Why would a native speaker hear \"beak\" instead of \"peak\" in an audio recording of the word \"speak\" with /s/ chopped off?",
+    "category": "232",
+    "answers": [
+      "a) The vowel is nasalized, altering perception",
+      "b) The plosive undergoes fortition spontaneously",
+      "c) A word-initial plosive pronounced without aspiration is perceived as a lenis segment",
+      "d) The stress pattern causes voicing assimilation"
+    ],
+    "correct answer(s)": "c) A word-initial plosive pronounced without aspiration is perceived as a lenis segment",
+    "GPT's response": "c) A word-initial plosive pronounced without aspiration is perceived as a lenis segment",
+    "correct": true
+  },
+  {
+    "question": "Why do we analyze the unaspirated voiceless plosives in s[p]eak, s[k]ool, dis[k]\u00f3very, f\u00edf[t]\u00e9en, and k\u00e1f[t]an phonologically as lenis plosives?",
+    "category": "233",
+    "answers": [
+      "a) They occur at the end of syllables",
+      "b) They follow nasal consonants",
+      "c) They precede voiced vowels",
+      "d) Because the lack of aspiration leads to their perception as lenis segments"
+    ],
+    "correct answer(s)": "d) Because the lack of aspiration leads to their perception as lenis segments",
+    "GPT's response": "d) Because the lack of aspiration leads to their perception as lenis segments",
+    "correct": true
+  },
+  {
+    "question": "Traditionally, which distinctive feature was used to represent the contrast between obstruents in both Hungarian and English?",
+    "category": "234",
+    "answers": [
+      "a) [Nasal]",
+      "b) [Aspiration]",
+      "c) [Tension]",
+      "d) [Voice]"
+    ],
+    "correct answer(s)": "d) [Voice]",
+    "GPT's response": "d) [Voice]",
+    "correct": true
+  },
+  {
+    "question": "What is the laryngeal specification of obstruents like /b, d, g; v, \u00f0, z, \u0292; \u02a4/ in Hungarian?",
+    "category": "235",
+    "answers": [
+      "a) Fortis",
+      "b) Voiceless",
+      "c) Aspirated",
+      "d) Voice"
+    ],
+    "correct answer(s)": "d) Voice",
+    "GPT's response": "d) Voice",
+    "correct": true
+  },
+  {
+    "question": "What series of obstruents is laryngeally specified in Hungarian?",
+    "category": "236",
+    "answers": [
+      "a) Fortis",
+      "b) Lenis",
+      "c) Aspirated",
+      "d) Voiced"
+    ],
+    "correct answer(s)": "d) Voiced",
+    "GPT's response": "d) Voiced",
+    "correct": true
+  },
+  {
+    "question": "What series of obstruents is laryngeally unspecified in Hungarian?",
+    "category": "237",
+    "answers": [
+      "a) Nasal",
+      "b) Voiceless",
+      "c) Fortis",
+      "d) Glottalized"
+    ],
+    "correct answer(s)": "b) Voiceless",
+    "GPT's response": "b) Voiceless",
+    "correct": true
+  },
+  {
+    "question": "Which series of obstruents is laryngeally unspecified in Hungarian?",
+    "category": "238",
+    "answers": [
+      "a) /m, n, \u014b/",
+      "b) /v, \u00f0, z/",
+      "c) /b, d, g/",
+      "d) /p, t, k; f, \u03b8, s, \u0283, h; \u02a7/"
+    ],
+    "correct answer(s)": "d) /p, t, k; f, \u03b8, s, \u0283, h; \u02a7/",
+    "GPT's response": "d) /p, t, k; f, \u03b8, s, \u0283, h; \u02a7/",
+    "correct": true
+  },
+  {
+    "question": "What series of obstruents is laryngeally unspecified in English?",
+    "category": "239",
+    "answers": [
+      "a) Nasal",
+      "b) Aspirated",
+      "c) Fortis",
+      "d) Lenis"
+    ],
+    "correct answer(s)": "d) Lenis",
+    "GPT's response": "d) Lenis",
+    "correct": true
+  },
+  {
+    "question": "What series of obstruents is laryngeally specified in English?",
+    "category": "240",
+    "answers": [
+      "a) Voiced",
+      "b) Nasal",
+      "c) Aspirated",
+      "d) Fortis"
+    ],
+    "correct answer(s)": "d) Fortis",
+    "GPT's response": "d) Fortis",
+    "correct": true
+  },
+  {
+    "question": "Which series of obstruents is laryngeally unspecified in English?",
+    "category": "241",
+    "answers": [
+      "a) /p, t, k; f, \u03b8, s, \u0283, h; \u02a7/",
+      "b) Nasal sounds like /m, n, \u014b/",
+      "c) Aspirated plosives",
+      "d) /b, d, g; v, \u00f0, z, \u0292; \u02a4/"
+    ],
+    "correct answer(s)": "d) /b, d, g; v, \u00f0, z, \u0292; \u02a4/",
+    "GPT's response": "d) /b, d, g; v, \u00f0, z, \u0292; \u02a4/",
+    "correct": true
+  },
+  {
+    "question": "What happens to /s/ in the Hungarian word /dizgra\u02d0fi\u0254/?",
+    "category": "242",
+    "answers": [
+      "a) It gets deleted",
+      "b) It becomes aspirated",
+      "c) It turns into a nasal sound",
+      "d) It undergoes voicing due to the voiced /g/, becoming /z/"
+    ],
+    "correct answer(s)": "d) It undergoes voicing due to the voiced /g/, becoming /z/",
+    "GPT's response": "d) It undergoes voicing due to the voiced /g/, becoming /z/",
+    "correct": true
+  },
+  {
+    "question": "Why is there no regressive voice assimilation in English?",
+    "category": "243",
+    "answers": [
+      "a) Voicing is not a distinctive property of lenis obstruents",
+      "b) The voiceless obstruents are stronger",
+      "c) English lacks fortis obstruents",
+      "d) The stress pattern prevents assimilation"
+    ],
+    "correct answer(s)": "a) Voicing is not a distinctive property of lenis obstruents",
+    "GPT's response": "a) Voicing is not a distinctive property of lenis obstruents",
+    "correct": true
+  },
+  {
+    "question": "What phenomenon characterizes aspirating languages and involves the spreading of [fortis]?",
+    "category": "244",
+    "answers": [
+      "a) Retroflex articulation shifting",
+      "b) Vowel raising in unstressed syllables",
+      "c) Palatalization of adjacent consonants",
+      "d) Sonorant devoicing after fortis obstruents"
+    ],
+    "correct answer(s)": "d) Sonorant devoicing after fortis obstruents",
+    "GPT's response": "d) Sonorant devoicing after fortis obstruents",
+    "correct": true
+  },
+  {
+    "question": "What is the underlying laryngeal property of the plural/possessive/3rd person singular present tense morpheme -s and the past tense/past participle morpheme -ed?",
+    "category": "245",
+    "answers": [
+      "a) Fortis",
+      "b) Voiceless",
+      "c) Aspirated",
+      "d) Lenis"
+    ],
+    "correct answer(s)": "d) Lenis",
+    "GPT's response": "a) Fortis",
+    "correct": false
+  },
+  {
+    "question": "Why do we say that the underlying laryngeal property of the plural/possessive/3rd person singular present tense morpheme -s and the past tense/past participle morpheme -ed are lenis?",
+    "category": "246",
+    "answers": [
+      "a) Because they undergo deaspiration",
+      "b) Because they are followed by nasal sounds",
+      "c) Because they reveal their lenis nature when not affected by a preceding obstruent",
+      "d) Because they are stressed in pronunciation"
+    ],
+    "correct answer(s)": "c) Because they reveal their lenis nature when not affected by a preceding obstruent",
+    "GPT's response": "c) Because they reveal their lenis nature when not affected by a preceding obstruent",
+    "correct": true
+  },
+  {
+    "question": "What do forms of the 3rd person singular -s and past tense morpheme -ed reveal in words like /pl\u025bjz/ and /pl\u025bjd/?",
+    "category": "247",
+    "answers": [
+      "a) Aspirated plosives in contexts",
+      "b) The influence of vowel quality",
+      "c) Their underlying lenis nature when unaffected by obstruents",
+      "d) The presence of nasal harmony"
+    ],
+    "correct answer(s)": "c) Their underlying lenis nature when unaffected by obstruents",
+    "GPT's response": "c) Their underlying lenis nature when unaffected by obstruents",
+    "correct": true
+  },
+  {
+    "question": "What phenomenon can we observe in /kat/ + /z/ \u2192 /kats/?",
+    "category": "248",
+    "answers": [
+      "a) Retrogressive voicing assimilation",
+      "b) Progressive laryngeal assimilation with the spreading of [fortis]",
+      "c) Vowel raising affecting consonant voicing",
+      "d) Intervocalic voicing neutralization"
+    ],
+    "correct answer(s)": "b) Progressive laryngeal assimilation with the spreading of [fortis]",
+    "GPT's response": "b) Progressive laryngeal assimilation with the spreading of [fortis]",
+    "correct": true
+  },
+  {
+    "question": "What do voiced obstruents trigger in Hungarian?",
+    "category": "249",
+    "answers": [
+      "a) Palatalization",
+      "b) Nasal assimilation",
+      "c) Labialization",
+      "d) Regressive voice assimilation"
+    ],
+    "correct answer(s)": "d) Regressive voice assimilation",
+    "GPT's response": "d) Regressive voice assimilation",
+    "correct": true
+  },
+  {
+    "question": "Which statement is true about fortisness?",
+    "category": "250",
+    "answers": [
+      "a) It is neutralized in unstressed syllables",
+      "b) It is a phonologically active property",
+      "c) It triggers vowel lengthening",
+      "d) It leads to devoicing of all adjacent sounds"
+    ],
+    "correct answer(s)": "b) It is a phonologically active property",
+    "GPT's response": "b) It is a phonologically active property",
+    "correct": true
+  },
+  {
+    "question": "On a phonetic basis, we could argue that which features should be assumed to be present in Swedish?",
+    "category": "251",
+    "answers": [
+      "a) Only [voice]",
+      "b) Only [fortis]",
+      "c) Nasalization and aspiration",
+      "d) Both [voice] and [fortis]"
+    ],
+    "correct answer(s)": "d) Both [voice] and [fortis]",
+    "GPT's response": "d) Both [voice] and [fortis]",
+    "correct": true
+  }
+]

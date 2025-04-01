@@ -1,0 +1,5 @@
+
+4.2.4 	NG-coalescence 
+NG-coalescence simply refers to whether the velar nasal (ŋ) is a phoneme or not. This isogloss shows those areas where the g is no longer found in the original *ŋg sequences word-finally or word-medially before a #-boundary. When g was deleted, a new phoneme came into existence (the velar nasal): long, sing, bring, sing#er all contained *ŋg originally (the velar nasal was not a phoneme then, its appearance having been predictable; recall the Nasal place assimilation rule from Chapter 1). After the loss of the velar voiced stop, ŋ became a phoneme (its presence is now unpredictable and it now distinguishes words, as in sing – sin – sim). The read pocket area shows where the velar nasal is still only found before g, but not on its own. 
+(14) NG-coalescence 
+ 

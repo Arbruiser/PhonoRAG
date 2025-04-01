@@ -1,0 +1,23 @@
+
+1.2 Diphthongs
+There is consensus on what the short vowels of English are, idiosyncrasies of inventories boil down to symbol choice only. As has been shown, using schwa for strut is also a “symbolic” question after all. The case is different with the set of diphthongs Lindsey posits.
+
+The vowels of price, mouth, and choice are analysed (ie transcribed) as diphthongs in most transcription systems of English. The American tradition often has monophthongal symbols for face (e) and goat (o), but the British tradition is also rather consistent in seeing these two vowels as diphthongs too. fleece and goose, on the other hand, are consistently taken to be long monophthongs (iː and uː), from Jones (1918)Daniel Jones, An Outline of English Phonetics, Leipzig: Teubner onwards. Interestingly, these vowels were transcribed as ij and uw by Sweet (1900)Henry Sweet, A New English Grammar: Logical and Historical. Oxford: Clarendon Press. at the end of the 19th century, and Jones and his successors do not fail to mention that these two vowels are often pronounced as diphthongs. As we will see below, there is robust distributional evidence that they are diphthongs.
+
+Accordingly, Lindsey represents them so.
+
+(3)
+fleece	ɪj	goose	ʉw
+face	ɛj	goat	əw
+choice	oj
+price	ɑj	mouth	aw
+Just as in the case of short vowels, we could and will use a set of simpler vowel symbols, shown in (4).
+
+(4)
+fleece	ij	goose	uw
+face	ej	goat	əw
+choice	oj
+price	aj	mouth	aw
+The diphthongs of British English may end in one of two types of offglide, i̯ or u̯. Gimson’s (1962) innovation that these should be transcribed by ɪ and ʊ might have been phonetically exact for Received Pronunciation in the middle of the 20th century, but even then it was unnecessarily overprecise. The vowel symbols i and u are not particularly fortunate either for indicating the offglide of a diphthong, because they represent syllabic segments, which diphthongal offglides are not. Nonsyllabicity can be represented by a diacritic, as i̯ and u̯, but using the phonetically equivalent symbols j and w is an even simpler and just as adequate solution.
+
+Readers familiar with the Jones/Gimson tradition of the transcription of British English may find the set of diphthongs lacking three members, the so called centring diphthongs, the vowels of near, square, and cure. Following Lindsey, we analyse these three vowels as long monophthongs, which we will discuss presently.

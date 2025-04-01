@@ -1,0 +1,377 @@
+﻿== cat 1
+What is the primary function of the End-Weight Principle in English prosody?
+# To place the main stress on the first word of a sentence.
+# To ensure that every syllable is equally stressed.
+# ! To ensure that the last stress in a sequence is the strongest.
+# To reduce the stress on all function words.
+
+== cat 2
+Which of the following is an example of an initially-stressed compound?
+# trade union
+# fruit salad
+# ! car ferry
+# Victoria Station
+
+== cat 3
+What happens to the pitch in the head of a tone-unit in English intonation?
+# It rises steadily until the tonic.
+# It remains constant throughout.
+# It fluctuates randomly.
+# ! It gradually lowers, known as downdrift.
+
+== cat 4
+In which situation is the fall-rise tone typically used?
+# To express enthusiasm.
+# To indicate a Wh-question.
+# ! To imply partial negation or reservation.
+# To command someone directly.
+
+== cat 5
+How does the Rhythm Rule affect the stress pattern in a phrase like "nice old lady"?
+# It emphasizes all three words equally.
+# ! It deletes the middle stress, making it "nice old lady".
+# It shifts the stress to the last word.
+# It reduces all words to tertiary stress.
+
+== cat 6
+What is a characteristic of obscured compounds in English?
+# They always have a high rising tone.
+# They are written with a hyphen.
+# ! The second element has zero stress and a reduced vowel.
+# They have primary stress on the second element.
+
+== cat 7
+Which tone is used to soften commands or Wh-questions in English?
+# Falling tone
+# High-rising tone
+# ! Falling-rising tone
+# Low-rising tone
+
+== cat 8
+What is the function of the low-rising tone in a conversation?
+# To express anger.
+# ! To show indifference or encouragement.
+# To indicate a question.
+# To emphasize a statement.
+
+== cat 9
+Which of the following is an example of a finally-stressed compound?
+# ! Victoria Station
+# greenhouse
+# chocolate coloured
+# baby-sit
+
+== cat 10
+What is the effect of the Tonic Assignment Rule on a sequence of stresses?
+# It strengthens the first stress in the sequence.
+# It eliminates all secondary stresses.
+# ! It downgrades all but the last primary stress to secondary.
+# It places a high pitch on the first stress.
+
+== cat 11
+How is the tonic typically indicated in transcription?
+# By bolding the entire word.
+# By placing an exclamation mark before it.
+# ! By underlining the syllable or word.
+# By capitalizing the entire sentence.
+
+== cat 12
+What is the primary stress pattern of the word "reformation" in isolation?
+# ! /ˌrefəˈmeɪʃən/
+# /ˈrefəˌmeɪʃən/
+# /rɛfəˈmeɪʃən/
+# /ˈrɛfəˌmeɪʃən/
+
+== cat 13
+In a sentence like "I think Amanda should write Jennifer a letter," where does the neutral tonic fall?
+# On "think"
+# On "Amanda"
+# On "write"
+# ! On "letter"
+
+== cat 14
+What is a tone-unit in English prosody?
+# A group of unstressed syllables.
+# ! A stretch of speech with a single tonic.
+# A sequence of falling tones.
+# A phrase with no stress.
+
+== cat 15
+Which type of question typically uses a high-rising tone in English?
+# Commands
+# ! Yes/No questions
+# Wh-questions
+# Exclamations
+
+== cat 17
+How does a phrasal verb like "get up" typically behave in terms of stress?
+# ! Both the verb and particle are stressed.
+# Only the verb is stressed.
+# Only the particle is stressed.
+# Neither the verb nor the particle is stressed.
+
+== cat 18
+Which of the following is an example of an obscured compound?
+# ! postman
+# trade union
+# car ferry
+# chocolate coloured
+
+== cat 19
+What is the typical tonal pattern for Wh-questions in English?
+# High-rising tone
+# ! Falling tone
+# Low-rising tone
+# Falling-rising tone
+
+== cat 20
+What is the primary function of the falling tone in English intonation?
+# To indicate a question.
+# ! To convey definiteness and finality.
+# To show uncertainty.
+# To imply disagreement.
+
+== cat 22
+How is a compound like "fruit salad" stressed?
+# ! Finally-stressed
+# Initially-stressed
+# Equally-stressed
+# Obscured-stressed
+
+== cat 23
+What happens to the pitch in the tail of a tone-unit with a falling tone?
+# It rises to mid-level.
+# ! It continues low.
+# It rises to high.
+# It remains constant.
+
+== cat 25
+In which case does a function word receive the tonic?
+# When it is part of a compound.
+# When it is the first word in a sentence.
+# When it follows a content word.
+# ! When there is no further stressable word in the sentence.
+
+== cat 28
+What is the purpose of downdrift in English intonation?
+# To emphasize the tonic.
+# To raise the pitch of the head.
+# ! To gradually lower the pitch in the head.
+# To make every syllable equally stressed.
+
+== cat 29
+Which of the following is an example of a phrasal verb with a stressed particle?
+# ! put off
+# laugh at
+# deal with
+# sit on
+
+== cat 30
+What is the typical intonation pattern for commands in English?
+# Low-rising tone
+# ! Falling tone
+# High-rising tone
+# Falling-rising tone
+
+== cat 31
+How is the tonic indicated in transcription when needed?
+# By capitalizing the entire sentence.
+# By placing an exclamation mark at the end.
+# By bolding the entire word.
+# ! By underlining the syllable or word.
+
+== cat 32
+Which of the following compounds is stressed initially?
+# trade union
+# fruit salad
+# ! language teaching
+# Victoria Station
+
+== cat 33
+What is the primary effect of the Rhythm Rule in English prosody?
+# To increase the number of stressed syllables.
+# ! To delete a stress between two other stresses.
+# To make every syllable equally stressed.
+# To emphasize the first syllable of each word.
+
+== cat 34
+Which tone is typically used for polite Wh-questions?
+# High-rising tone
+# Low-rising tone
+# ! Falling-rising tone
+# Falling tone
+
+== cat 35
+What is the typical function of the falling-rising tone?
+# To express anger.
+# To indicate a question.
+# ! To imply something unsaid or soften a command.
+# To emphasize a statement.
+
+== cat 37
+What is the function of the pre-head in a tone-unit?
+# To carry the tonic.
+# ! To contain unstressed syllables before the first stress.
+# To emphasize the tonic.
+# To conclude the intonation pattern.
+
+== cat 38
+What is the effect of a tail in a tone-unit with a high-rising tone?
+# It causes the pitch to fall.
+# It causes the pitch to remain constant.
+# ! It continues the rise to a high level.
+# It causes the pitch to drop to mid-level.
+
+== cat 40
+What happens to the stress pattern in a word like "satisfactory" due to the Tonic Assignment Rule?
+# ! The first stress is downgraded to secondary.
+# The last stress is eliminated.
+# All stresses are emphasized equally.
+# The last stress is downgraded to secondary.
+
+== cat 41
+Which of the following phrases is an example of stress-shift?
+# ! afternoon tea
+# new book
+# nice old lady
+# car ferry
+
+== cat 42
+What is the role of the head in a tone-unit?
+# To conclude the intonation pattern.
+# To carry the tonic.
+# ! To lead up to the tonic syllable.
+# To contain only unstressed syllables.
+
+== cat 43
+How does the Rhythm Rule affect the stress pattern in a phrase like "very nice people"?
+# It emphasizes all three words equally.
+# It shifts the stress to the last word.
+# It removes stress from the last word.
+# ! It deletes the middle stress.
+
+== cat 44
+Which type of question typically uses a falling tone in English?
+# Yes/No questions
+# ! Wh-questions
+# Commands
+# Exclamations
+
+== cat 45
+What is the primary function of the high-rising tone in a question?
+# To express finality.
+# To indicate a statement.
+# ! To ask for confirmation or clarification.
+# To express a command.
+
+== cat 46
+What is a feature of finally-stressed compounds?
+# They have primary stress on the first element.
+# ! They have primary stress on the second element.
+# They are always written with a hyphen.
+# The second element is reduced to zero stress.
+
+== cat 48
+How is the tonic typically placed in a neutral statement?
+# On the first word.
+# On the second word.
+# ! On the last content word.
+# On the last function word.
+
+== cat 49
+What is the effect of downdrift on the pitch of the head in a tone-unit?
+# It raises the pitch.
+# It causes the pitch to remain constant.
+# It emphasizes the tonic.
+# ! It gradually lowers the pitch.
+
+== cat 50
+How does a phrasal verb like "break down" typically behave in terms of stress?
+# Only the verb is stressed.
+# ! Both the verb and particle are stressed.
+# Only the particle is stressed.
+# Neither the verb nor the particle is stressed.
+
+== cat 51
+What is the typical intonation pattern for exclamations in English?
+# Low-rising tone
+# High-rising tone
+# ! Falling tone
+# Falling-rising tone
+
+== cat 52
+Which of the following is an example of a compound with obscured stress?
+# trade union
+# chocolate coloured
+# ! nonsense
+# baby-sit
+
+== cat 55
+How is a compound like "language teaching" stressed?
+# ! Initially-stressed
+# Finally-stressed
+# Equally-stressed
+# Obscured-stressed
+
+== cat 56
+What is the effect of a tail in a tone-unit with a falling-rising tone?
+# It causes the pitch to fall.
+# It causes the pitch to remain constant.
+# It causes the pitch to drop to mid-level.
+# ! It continues the rise to mid-height.
+
+== cat 58
+What is the role of the tonic in a tone-unit?
+# To contain only unstressed syllables.
+# To conclude the intonation pattern.
+# ! To carry the main pitch change.
+# To lead up to the head.
+
+== cat 60
+Which type of question typically uses a falling-rising tone in English?
+# Yes/No questions
+# Commands
+# ! Polite Wh-questions
+# Exclamations
+
+== cat 62
+What is the typical stress pattern for a compound like "chocolate coloured"?
+# Finally-stressed
+# ! Initially-stressed
+# Equally-stressed
+# Obscured-stressed
+
+== cat 63
+How does the presence of a tail affect the intonation of a tone-unit with a low-rising tone?
+# It causes the pitch to fall.
+# ! It continues the rise to mid-level.
+# It causes the pitch to remain constant.
+# It causes the pitch to drop to mid-level.
+
+== cat 64
+What is the typical function of the falling tone in English exclamations?
+# To express uncertainty.
+# To indicate a question.
+# ! To convey surprise or emphasis.
+# To imply disagreement.
+
+== cat 65
+How is the tonic typically placed in a command?
+# On the first word.
+# On the second word.
+# On the last content word.
+# ! On the verb or directive word.
+
+== cat 66
+What is the effect of downdrift on the pitch of the head in a tone-unit with a falling-rising tone?
+# It raises the pitch.
+# It causes the pitch to remain constant.
+# It emphasizes the tonic.
+# ! It gradually lowers the pitch before rising.
+
+== cat 67
+Which of the following is an example of a phrasal verb with a stressed verb?
+# put off
+# laugh at
+# ! get up
+# deal with

@@ -1,0 +1,96 @@
+Temperature: 0
+System message: You're an expert in answering quiz questions about phonology. Only answer with the letter and text of the answer which you think is correct. Make sure that the answer is 100% correct because my life depends on it. Answer this question:
+
+itembank-2:		Correct answers 67 / total questions 129 * 100 = 51.94%
+itembank-3-4:		Correct answers 11 / total questions 39 * 100 = 28.21%
+itembank-5-6:		Correct answers 46 / total questions 106 * 100 = 43.4%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 30 / total questions 75 * 100 = 40.0%
+ 
+itembank-2:		Correct answers 66 / total questions 129 * 100 = 51.16%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 45 / total questions 106 * 100 = 42.45%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 31 / total questions 75 * 100 = 41.33%
+ 
+itembank-2:		Correct answers 68 / total questions 129 * 100 = 52.71%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 47 / total questions 106 * 100 = 44.34%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 31 / total questions 75 * 100 = 41.33%
+ 
+
+Overall correct answers 506 / total questions 1185 * 100 = 42.7%
+
+
+------------------------------------------------------------------------
+
+Temperature: 0
+System message: You're an expert in answering quiz questions about phonology. Only answer with the letter and text of the answer which you think is correct. Make sure that the answer is 100% correct because my life depends on it. Answer this question:
+
+itembank-2:		Correct answers 65 / total questions 129 * 100 = 50.39%
+itembank-3-4:		Correct answers 11 / total questions 39 * 100 = 28.21%
+itembank-5-6:		Correct answers 44 / total questions 106 * 100 = 41.51%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 29 / total questions 75 * 100 = 38.67%
+ 
+itembank-2:		Correct answers 68 / total questions 129 * 100 = 52.71%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 47 / total questions 106 * 100 = 44.34%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 27 / total questions 75 * 100 = 36.0%
+ 
+itembank-2:		Correct answers 63 / total questions 129 * 100 = 48.84%
+itembank-3-4:		Correct answers 11 / total questions 39 * 100 = 28.21%
+itembank-5-6:		Correct answers 46 / total questions 106 * 100 = 43.4%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 28 / total questions 75 * 100 = 37.33%
+ 
+itembank-2:		Correct answers 65 / total questions 129 * 100 = 50.39%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 47 / total questions 106 * 100 = 44.34%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 29 / total questions 75 * 100 = 38.67%
+ 
+itembank-2:		Correct answers 64 / total questions 129 * 100 = 49.61%
+itembank-3-4:		Correct answers 11 / total questions 39 * 100 = 28.21%
+itembank-5-6:		Correct answers 47 / total questions 106 * 100 = 44.34%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 29 / total questions 75 * 100 = 38.67%
+ 
+itembank-2:		Correct answers 66 / total questions 129 * 100 = 51.16%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 46 / total questions 106 * 100 = 43.4%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 29 / total questions 75 * 100 = 38.67%
+ 
+itembank-2:		Correct answers 67 / total questions 129 * 100 = 51.94%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 45 / total questions 106 * 100 = 42.45%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 31 / total questions 75 * 100 = 41.33%
+ 
+itembank-2:		Correct answers 66 / total questions 129 * 100 = 51.16%
+itembank-3-4:		Correct answers 11 / total questions 39 * 100 = 28.21%
+itembank-5-6:		Correct answers 48 / total questions 106 * 100 = 45.28%
+itembank-9a:		Correct answers 12 / total questions 46 * 100 = 26.09%
+itembank-9b:		Correct answers 30 / total questions 75 * 100 = 40.0%
+ 
+itembank-2:		Correct answers 67 / total questions 129 * 100 = 51.94%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 48 / total questions 106 * 100 = 45.28%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 27 / total questions 75 * 100 = 36.0%
+ 
+itembank-2:		Correct answers 67 / total questions 129 * 100 = 51.94%
+itembank-3-4:		Correct answers 10 / total questions 39 * 100 = 25.64%
+itembank-5-6:		Correct answers 48 / total questions 106 * 100 = 45.28%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 31 / total questions 75 * 100 = 41.33%
+ 
+
+Overall correct answers 1655 / total questions 3950 * 100 = 41.9%
+
+
+------------------------------------------------------------------------
+

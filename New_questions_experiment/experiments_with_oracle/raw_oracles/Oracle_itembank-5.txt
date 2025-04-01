@@ -1,0 +1,498 @@
+"""It is a general rule of English that if there is a sequence of equal stresses, the last must become the strongest. The prosodic “weight” of an utterance must be at the end: this is the EndWeight Principle. Observe the examples: new bóok Amanda Cóllinder sit dówn considerable expénses utterly destrúctive he criticized everything"""
+
+== cat 501
+If there is a sequence of equal stresses in English, what happens?
+# The first one becomes the strongest
+# They remain equal in strength
+# The middle one becomes the strongest
+# ! The last one becomes the strongest
+
+== cat 502
+Where is the prosodic "weight" of an utterance typically located in English?
+# At the beginning
+# In the middle
+# It varies randomly
+# ! At the end
+
+"""Longer stretches of speech also obey the End-Weight Principle. The last (and therefore strongest!) stress is called the tonic. In the following sentence the tonic is underlined:"""
+
+== cat 503
+What is the tonic stress in the context of English prosody?
+# The first stress in a sentence
+# ! The last and strongest stress in a sentence
+# A stress at the midpoint of a sentence
+# The lightest stress in a sentence
+
+"""Tonic Assignment Rule 1 1 → 2 1 = of several primary stresses, downgrade each to secondary, except the last, which will be the tonic.
+Example: 1 1 1 1 → 2 2 2 1 Rachel was happy to cycle home Rachel was happy to cycle home"""
+
+== cat 504
+What is the 1 1 → 2 1 rule known as in English prosody?
+# ! Tonic assignment rule
+# Stress deletion rule
+# Prosodic adjustment rule
+# Rhythm rule
+
+== cat 505
+What does the tonic assignment rule state in English prosody?
+# All primary stresses become stronger
+# Only the first stress remains primary
+# ! Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic
+# Ignore all secondary stresses
+
+"""It follows that the “secondariness” of secondary stress is predictable: a secondary stress is actually a stress which is followed by another stress and has therefore been downgraded. Secondary stress is thus an “allophone” of primary stress. Lexically, we may represent words like reformation, satisfactory, sardine with two equal “primary” stresses: //ˈrefəˈmeɪʃən// //ˈsætɪsˈfæktəri// //ˈsɑ:ˈdi:n// because the Tonic Assignment Rule will turn the first stress into secondary anyway: /ˌrefəˈmeɪʃən/ /ˌsætɪsˈfæktəri/ /ˌsɑ:ˈdi:n/"""
+
+== cat 506
+Which statement is NOT true regarding secondary stress in English prosody?
+# The “secondariness” of secondary stress is predictable
+# A secondary stress is actually a stress which is followed by another stress and has therefore been downgraded
+# Secondary stress is actually an “allophone” of primary stress
+# ! We cannot represent words like reformation, satisfactory, sardine with two equal “primary” stresses
+
+"""The effects of the End-Weight Principle are well known in the analysis of word stress: – if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1 – strong-unstressed syllables (fórmat /-mæt/, diréct /daɪ-/) are also called “tertiarystressed” because their vowel does not reduce (as it would in completely unstressed syllables like sálad /-ləd/ or Óxford /-fəd/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not “see” them: they can never become 1ry-stressed."""
+
+== cat 507
+Can there be a secondary stress after a primary stress in English prosody according to the End-Weight Principle?
+# ! No, there cannot be a secondary after the primary
+# Yes, it often occurs
+# It depends on the sentence structure
+# Only in certain dialects
+
+== cat 508
+Which word exhibits tertiary-stressed vowels due to a lack of vowel reduction?
+# sálad
+# Óxford
+# ! fórmat
+# cycle
+
+== cat 509
+Which word also exhibits tertiary-stressed vowels due to its non-reduced vowel?
+# sálad
+# cycle
+# ! diréct 
+# fashion
+
+== cat 510
+What type of stressed syllables are referred to as "tertiary-stressed"?
+# Those that are entirely unstressed
+# ! Those that are strong-unstressed because their vowel does not reduce
+# Those that are primary-stressed
+# Those affected by the Rhythm Rule
+
+== cat 511
+Why do 3ry and zero stresses not count as stresses from the prosodic point of view?
+# They are louder than other stresses
+# They dominate the intonation pattern
+# Because they occur at the start of the tone-unit
+# ! Because the End-Weight Principle does not “see” them and they can never become 1ry-stressed
+
+"""We conclude that in prosody there are only two phonologically relevant stress degrees: stressed (1ry or 2ry) and unstressed (3ry or zero)."""
+
+== cat 512
+What are the phonologically relevant stress degrees in English prosody?
+# Stressed, unstressed, tertiary
+# ! Stressed and unstressed
+# Primary, secondary, and tertiary
+# Primary and secondary only
+
+"""From a phonological point of view there are two types of compound:  initially-stressed compounds, pattern # 1 # 3 # primary stress on the first element: gréenhouse, cár ferry, compúter virus  finally-stressed compounds, pattern # 2 # 1 # primary stress on the second element: trade únion, fruit sálad, Victoria Station"""
+
+== cat 513
+What stress pattern do initially-stressed compounds exhibit in English prosody?
+# # 3 # 2 #
+# # 2 # 2 #
+# ! # 1 # 3 #
+# # 3 # 1 #
+
+== cat 514
+What stress pattern do finally-stressed compounds exhibit?
+# # 1 # 3 #
+# ! # 2 # 1 #
+# # 3 # 1 #
+# # 1 # 2 #
+
+== cat 515
+Which of the following compounds is initially-stressed?
+# trade union
+# fruit salad
+# Victoria Station
+# ! car ferry
+
+== cat 516
+Which compound is finally-stressed?
+# greenhouse
+# car ferry
+# ! fruit salad
+# computer virus
+
+"""The spelling of compounds in English is not consistent. Some are written as one word (gréenhouse), some with a hyphen (wòrd-fínal), but the majority are written as two words (cár ferry, geógraphy teacher, dòuble chín). The latter may be called “invisible compounds”, since the spelling does not show that they are compounds.2"""
+
+== cat 517
+Which of the following words is considered an "invisible compound" in English?
+# gréenhouse
+# wòrd-fínal
+# ! cár ferry
+# wèlcome
+
+== cat 518
+Which word is considered an invisible compound?
+# nónsense
+# wòrd-fínal
+# wélcome
+# ! geógraphy teacher
+
+== cat 519
+Which word is NOT considered an "invisible compound"?
+# ! wòrd-fínal
+# cár ferry
+# geógraphy teacher
+# dòuble chin
+
+"""(3) Compound Stress Rule # 1 # # 1 # → # 1 # 3 # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level."""
+
+== cat 520
+What does the Compound Stress Rule state regarding initially-stressed compounds?
+# Keep both elements equally stressed
+# Downgrade the first word to secondary stress
+# ! Downgrade the primary stress of the second word to strong-unstressed (3ry) level
+# Elevate the first stress to primary
+
+== cat 521
+What stress pattern is formed according to the Compound Stress Rule for initially-stressed compounds?
+# # 2 # 2 #
+# # 2 # 1 #
+# # 3 # 1 #
+# ! # 1 # 3 #
+
+== cat 522
+Which of the following compounds would follow the Compound Stress Rule for initial stress?
+# trade union
+# ! gréenhouse
+# Victoria Station
+# èasy-góing
+
+== cat 523
+According to the Compound Stress Rule, which compound would NOT apply the rule of downgrading the second element to strong-unstressed?
+# wèlcome
+# ! trade union
+# wòrd-fínal
+# nonsense
+
+== cat 524
+What rule is described by the pattern # 1 # # 1 # → # 1 # 3 #?
+# Tonic Assignment Rule
+# Rhythm Rule
+# ! Compound Stress Rule
+# Stress-Shift Rule
+
+"""Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: póst|man /-mən/, wél|come /-kəm/, nónsense /ˈnɒnsəns/, Éngland /ˈɪŋglənd/, Jóhnson /ˈdʒɒnsn/. These are called “obscured” compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word."""
+
+== cat 525
+Which word is NOT an obscured compound in English?
+# nónsense
+# póstman
+# Éngland
+# ! wòrd-fínal
+
+== cat 526
+Which of the following words is an example of an obscured compound?
+# wòrd-fínal
+# gréenhouse
+# ! Jóhnson
+# cár ferry
+
+== cat 527
+What is the stress pattern of obscured compounds in English prosody?
+# # 1 # 2 #
+# # 1 # 3 #
+# # 2 # 1 #
+# ! # 10 #
+
+== cat 528
+What does the stress pattern #10# exemplify in English prosody?
+# Compound Secondary Stress Rule
+# Tonic Placement
+# Compound Ambiguity
+# ! Obscured compounds
+
+""" The compound is a NOUN: – the “Y is (made) of X” relationship: brìck wáll, fr it sálad, potàto crísps, r bber bóots, gàs fíre – the “Y is (an) X” relationship: tòy sóldier, twìn bróther, wòman wríter, bòy scóut, quèen bée, chìld áctor – names of places (but not those ending in “Street”, which are initially-stressed!): Victoria Státion, Cròmwell Róad, Fìfth Ávenue, Cèntral Párk, Hèroes’ Squáre – various others: Sòcial Démocrat, blàck márket, lìving condítions, trade únion, Còca Cóla, wèekénd3 – “initialisms” (letters pronounced as their alphabetical names): DJ /ˌdi: ˈdʒeɪ/, etc."""
+
+== cat 529
+What does the “Y is (made) of X” relationship entail in terms of stress pattern?
+# An initially-stressed compound
+# An obscured compound
+# A tertiary-stressed compound
+# ! A finally-stressed compound
+
+== cat 530
+What does the “Y is (an) X” relationship involve regarding compound stress?
+# An initially-stressed compound
+# An obscured compound
+# A tertiary-stressed compound
+# ! A finally-stressed compound
+
+== cat 531
+What kind of compound stress pattern do names of places typically have, excluding those ending in "Street"?
+# Obscured compound
+# ! A finally-stressed compound
+# An initially-stressed compound
+# Unstressed compound
+
+== cat 532
+What kind of compound stress pattern do “initialisms”, where letters are pronounced as their alphabetical names, exhibit?
+# An initially-stressed compound
+# An obscured compound
+# A secondary-stressed compound
+# ! A finally-stressed compound
+
+(a) if the compound expresses the idea of “for...” (an object relationship), it is initiallystressed. (b) if the compound it expresses the idea of “is a...”, “is made of...”, “is characterized by...” (a subject relationship), it is finally-stressed.6
+
+== cat 533
+If a compound expresses the idea of "for..." (an object relationship), what type of stress does it exhibit?
+# Finally-stressed
+# Obscured
+# ! Initially-stressed
+# Unstressed
+
+== cat 534
+If a compound expresses the idea of "is a...", "is made of...", or "is characterized by..." (a subject relationship), what type of stress pattern does it typically have?
+# Obscured
+# Initially-stressed
+# ! Finally-stressed
+# Unstressed
+
+"""A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. The tone-unit has the following parts: – Pre-head: the unstressed syllables before the first stress (We de-). – Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-).– Tonic: the last stressed syllable (-to-). – Tail: anything after the tonic (-ber)."""
+
+== cat 535
+In a typical tone unit 'We decided to come back in October', what constitutes the pre-head?
+# ! We de-
+# -cided to come back in Oc-
+#  -to-
+# -ber
+
+== cat 536
+In a typical tone unit 'We decided to come back in October', what does the head consist of?
+# We de-
+# ! -cided to come back in Oc-
+#  -to-
+# -ber
+
+== cat 537
+In the typical tone unit 'We decided to come back in October', which part is considered the tonic?
+# We de-
+# -cided to come back in Oc-
+# ! -to-
+# -ber
+
+== cat 538
+In a typical tone unit 'We decided to come back in October', what is referred to as the tail?
+# We de-
+# -cided to come back in Oc-
+#  -to-
+# ! -ber
+
+"""7.5.2.1. Rhythmic stress deletion (“nice old lady” rule) When three stresses come closely together, with maximally one unstressed syllable between them (ˈnice ˈold ˈlady), the middle one of the three stresses may optionally be deleted (“destressed”) to make the rhythm smoother: ˈnice old ˈlady. Such de-stressing does not depend on the meaning or grammatical role of the word affected, just the rhythmic pattern"""
+
+== cat 539
+What is the "nice old lady" rule in English prosody?
+# Tonic placement
+# Stress shift
+# Phonemic distinction
+# ! Rhythmic stress deletion
+
+"""7.5.2.2. Stress-shift (“afternoon tea” rule) If a word with two stresses (e.g. 1after′noon) is immediately followed by a stressed word, three stresses fall closely together: 1after′noon ′tea. This is subject to the Rhythm Rule, which deletes the middle stress: ′afteronoon ′tea. But as a result, the original [2 0 1] stress pattern of the word 1after′noon is replaced by a [2 0 3] stressing ′afteronoon. The word’s lexical primarystressed syllable (noon) is degraded to strong-unstressed (tertiary) status.This gives the impression that the major stress in the word has “shifted” leftwards to the place of the secondary, and instead of the normal /ˌɑ:ftəˈnu:n/ we now have /ˈɑ:ftənu:n/."""
+
+== cat 540
+What is the "afternoon tea" rule in English prosody?
+# Tonic placement
+# Phonemic distinction
+# ! Stress-shift, resulting from the Rhythm Rule
+# Compound stress adjustment
+
+== cat 541
+Which stress pattern exemplifies the "afternoon tea" rule?
+# [1 3 1]
+# [1 0 2]
+# [2 1 0]
+# ! [2 0 3]
+
+== cat 542
+What does the "afternoon tea" rule dictate regarding stress patterns?
+# The word’s primary stress moves forward
+# The secondary stress becomes the new primary
+# A previously unstressed syllable gains stress
+# ! The word’s lexical primary-stressed syllable is degraded to strong-unstressed status
+
+"""The neutral tonic falls on the last content-word of the tone-unit. This is the Last Content Word Rule. If the last words are function-words, they remain unstressed because these are not “tonic-bearing”. The neutral tonic is mechanically assigned: the tonic need not be the most “important” or communicatively most informative word. """
+
+== cat 543
+Where does the neutral tonic fall?
+# On the last function-word of the tone-unit
+# On the first content-word of the tone-unit
+# On the first function-word of the tone-unit
+# ! On the last content-word of the tone-unit
+
+"""7.6.1.2. On a function-word The neutral tonic may, in well-defined cases, fall on some function word. We will discuss only two of these cases: neutral tonic on an auxiliary, and on an adverbial particle."""
+
+== cat 544
+On which function words can the neutral tonic fall?
+# On a determiner and a pronoun
+# On auxiliary and a preposition
+# On an article and an adverb
+# ! On an auxiliary and on an adverbial particle
+
+"""Neutral tonic and auxiliaries. An auxiliary (including the finite forms of be, do, have) has the tonic if there is no further stressable word in the sentence: ′Yes, we may. – ′Jim ′always does. – This includes questions where the auxiliary is followed by its unstressed personal pronoun subject: ′How ex′pensive is it? – ′Where am I? – ′How are you?"""
+
+== cat 545
+When can the neutral tonic fall on an auxiliary?
+# When it is followed by its unstressed personal pronoun subject
+# When it is followed by a noun
+# Only when it is part of a subordinate clause
+# ! When there is no further stressable word in the sentence
+
+"""However, when a sentence-final auxiliary is preceded by its own stressed subject, the tonic falls on the subject and the auxiliary is unstressed (but strong, i.e. tertiary-stressed!): You ′play ′better than Joe does. I ′wonder ′when the exam will be. ′That’s the ′pub where my friends are. It ′fits me ′better than yours would."""
+
+== cat 546
+In which case does the tonic not fall on a sentence-final auxiliary?
+# When it is used in an interrogative sentence
+# ! When it is preceded by its own stressed subject
+# When it follows a conjunction
+# When it is part of a complex verb phrase
+
+"""7.7. INTONATION In the preceding sections we discussed one component of prosody: stress. We now turn to the other prosodic component: intonation. While stress concerns the loudness of syllables, intonation concerns their height, called “pitch” in linguistics. 15 People easily confuse a high pitch with a loud stress: these often appear together, but are not the same (see the examples in 7.1). Intonation includes two things only: the melodies or “tones” (with their meanings and func-tions), and the division of speech into tone-units (that is, where one intonation pattern ends and the next one begins).16"""
+
+== cat 547
+What is the relationship between intonation and pitch in linguistics?
+# Intonation is about the loudness of syllables
+# Intonation only relates to rhythm
+# Pitch is unrelated to intonation
+# ! Intonation concerns the height, or pitch, of syllables
+
+== cat 548
+What does intonation include in the context of prosody?
+# Only the rhythm of speech
+# The stress and syllable count
+# ! The melodies or “tones” and the division of speech into tone-units
+# The speed and volume of speech
+
+"""English has four phonologically distinct tones. One is falling, three are rising. Type Name of tone Diagram Example Meaning Falling Fall Blue neutrality, definiteness, finality Rising Fall-rise \Blue implication; softening; old info Low rise  Blue indifference; encouragement High rise Blue inquiry; Yes/No question"""
+
+== cat 549
+What does the Falling tone express in English intonation?
+# Implication; softening; old info
+# Indifference; encouragement
+# Inquiry; Yes/No question
+# ! Neutrality, definiteness, finality
+
+== cat 550
+What does the Rising Fall-rise tone convey in English intonation?
+# ! Implication; softening; old info
+# Indifference; encouragement
+# Inquiry; Yes/No question
+# Neutrality, definiteness, finality
+
+== cat 551
+What meaning does the Low rise tone hold in English intonation?
+# Implication; softening; old info
+# ! Indifference; encouragement
+# Inquiry; Yes/No question
+# Neutrality, definiteness, finality
+
+== cat 552
+What is expressed by the High rise tone in English intonation?
+# Implication; softening; old info
+# Indifference; encouragement
+# ! Inquiry; Yes/No question
+# Neutrality, definiteness, finality
+
+"""Function The falling tone has the following functions/meanings: (a) Definiteness. The fall is the most neutral intonation. In statements and commands it expresses definiteness and finality. It suggests that what we say is plain new information.  Statements: There ′isn’t e′nough time. Her ′book was ′published in French.  Commands (serious, businesslike, not too polite): ′Keep your ′door ′safely locked. ′Open your ′books at ′page fifteen!  Exclamations (to express surprise, etc.). ′What a ′marvellous picture! ′How ′utterly disgusting! (b) Wh-questions. The fall is used for Wh-questions (i.e. questions beginning with a question-word such as who, what, where, how, etc.): ′What’s her ′new address? ′Who’ll be the ′chief editor? When? How much? ′What size are they?"""
+
+== cat 553
+In which context is the falling tone generally used to express definiteness and finality?
+# In song lyrics
+# In casual conversations only
+# When expressing hypothetical scenarios
+# ! In statements and commands
+
+== cat 554
+Which of the following intonations is most commonly used for Wh-questions?
+# High rise
+# Low rise
+# ! Falling tone
+# Rising Fall-rise
+
+"""7.7.2.2. The falling-rising tone Form The voice falls from high (or mid) to low, then immediately rises to mid-high again. Thus the second half of this tone is a low rise. If there is a tail, its syllables continue to rise to midheight. ——— —————————— ———————————— ——— —————————— ———————————— \Fine You can ′ask the \porter. The \first part is interesting. Function The fall-rise has the following functions/meanings: (a) Implications. What we say is not the whole truth. The speaker has reservations, does not agree completely, or is hesitant to plainly say his opinion: “yes, but...” We call it implicational because it implies something that remains unsaid (this is added after three dots in the examples below). (Shall we go by car?) — \Fine. (...but I won’t drive) We ′like to \travel. (...but not to silly places like that) Such sentences often have a dislocated tonic: The \FIRST part is interesting. (...but the rest isn’t) The implication conveyed by the fall-rise is often that something should be done: \Dinner’s ready! (...so come and sit down) I ′can’t \lift this. (...so please help me) (b) Partial negation. The fall-rise is able to express partial negation (see the (b) sentences below), implying that the thing is true on the whole, but some part of it is negated. While ordinary full negation (a), expressed by the fall, simply means “no”, the partial negation expressed by the fall-rise means “yes, but...”. Compare: (a) I ′won’t ′eat anything. (full negation; ‘I will eat nothing’) (b) I ′won’t ′eat \anything. (partial negation; ‘I’ll eat, but not everything’) (a) We ′haven’t ′heard them once. (full negation; ‘never heard them’) (b) We ′haven’t ′heard them \once. (partial negation; ‘heard them many times’) (a) It ′wasn’t ′published because a woman wrote it. (full negation; ‘it wasn’t published, and the reason was that a woman wrote it’) (b) It ′wasn’t ′published because a \woman wrote it. (partial negation; ‘it was published, though not for this reason’) (c) Softening. Another use of the fall-rise is to soften the directness of commands or questions, which might sound rude or too official with the falling tone.  Polite commands (said rather like requests): \Wait a minute! ′Keep your \passports ready! ′Have a\nother one! Polite Wh-questions: ′What’s your \name? ′How \old is she? \When? To sum up: the fall-rise is used for implications (including partial negation); to soften a command or a Wh-question."""
+
+== cat 555
+What is a common function of the falling-rising tone when used in sentences?
+# To express enthusiastic agreement
+# ! To imply reservations or partial truth
+# To convey complete certainty
+# To signal boredom
+
+== cat 556
+How does the falling-rising tone act in terms of negation?
+# It confirms full negation
+# It denies any implication
+# ! It expresses partial negation
+# It reverses the meaning
+
+== cat 557
+In what context is the falling-rising tone used to achieve a more polite effect?
+# In dramatic monologues
+# ! To soften commands or Wh-questions
+# In fast-paced conversations
+# To convey sarcasm
+
+"""7.7.2.3. The low-rising tone Form The voice rises from low to mid. If there is a tail, its syllables continue at mid-height. Examples in diagrammatic notation: ———— ————— ——————————————— ———— ————— ———————————————  Blue. She  knows. We could ′ask them ′over for  coffee. The low rise does not indicate a question, as opposed to the high rise, which does. Compare these two pronunciations of Really?:  Really? LOW RISE (just a polite way of saying “I see” or “I heard what you said”) Really? HIGH RISE (a true question asking for confirmation of something surprising) These two tone-units are a prosodic minimal pair, whose meaning difference is expressed by the intonation difference. Tthe low rise is not an “allo-“ form of the high rise but a distinct “intonation phoneme”, an independent tone of English. Function The low rise is mostly used in response to what someone else has said. It expresses the following meanings or attitudes: (a) Indifference. “What I’m saying is true but I don’t think it’s important or interesting or relevant.” It sounds as if the speaker was shrugging while saying these sentences. (What’s your favourite colour?) —  Blue. (What a childish question.) (I suppose you don’t dare to tell your wife.) — She  knows. (It makes no difference.) (Did you enjoy the performance?) — It was all  right. (Nothing special.) (b) Encouragement. The low rise is used to encourage or comfort the hearer and to sound reassuring. It sounds as if the speaker meant, “no problem, nothing serious, relax”.  Encouragement to do something, not to worry, etc. Often used to children. ′Don’t  worry. I ′don’t mind. We ′shouldn’t be a fraid.  Encouragement to continue speaking (“I’m listening, go on!”):  Yes. Is ′that  so? ′That’s  interesting.  No. (but tell me) It is also used with the polite tag ...will/won’t you?, attached to imperatives. The imperative base sentence has a falling tone: Help yourself, |  won’t you? Come and lend a hand, |  will you? (c) Greetings, thanks, apologies. ′Good morning. ′No  thanks. ′Bye-  bye. I’m  sorry. Ex cuse me. ′See you  soon"""
+
+== cat 558
+What is a common function of the low-rising tone in English intonation?
+# To express strong disagreement
+# To convey urgency
+# ! To indicate indifference or lack of importance
+# To confirm full understanding
+
+== cat 559
+Which of the following does the low-rising tone often express?
+# Excitement
+# Inquiry
+# ! Encouragement or reassurance
+# Sarcasm
+
+== cat 560
+In which contexts is the low-rising tone used to display politeness in English?
+# In sarcastic remarks
+# In questions
+# ! In greetings, thanks, and apologies
+# In explanations
+
+7.7.2.4. The high-rising tone Form The voice rises to a high pitch. ———— ————— ——————————————— ———— ————— ——————————————— You? To Jennifer? And ′is she permanently there? The English high rise is distributed over the tonic plus the tail, so sometimes five or six syllables keep rising steadily (as above in ...permanently there?). If there is a tail in the English high rise, Hungarian learners will tend to use their rise-fall. This is dangerous for communication as the English ear will only hear the fall at the end, and interpret the intonation as falling, i.e. not a question. Function (a) The high rise is mostly used in Yes/No questions, whether they are grammatically wellformed interrogative sentences or not. ′Did you ′park the car? ′Could I ′bring it ′back on Saturday? ′One of the editors? Are you? Birmingham? (b) “Please-repeat” questions. These are Wh-questions asking for the repetition of something just heard. Such “please-repeat” questions have a dislocated tonic on the question word. (Jennifer is in Kuala Lumpur.) — WHERE’s Jennifer?? (Watson will be the new chief editor.) — WHO’ll be the new chief editor?? (My girlfriend is thirteen.) — HOW old is she?? The question-word bearing the tonic can also remain in the syntactic place where the questioned element stands in the statement. In this case the word order is not question-like: (She bought herself a platypus.) — She bought herself a WHAT?? (We’ve got tickets for the 2am performance.) — You’ve got tickets for WHICH performance??
+
+== cat 561
+What is the primary function of the high-rising tone in English intonation?
+# To indicate certainty
+# To express a command
+# To confirm information
+# ! To signal Yes/No questions
+
+== cat 562
+In what type of questions is the high-rising tone most commonly used?
+# Hypothetical questions
+# Informative questions
+# ! Yes/No questions
+# Rhetorical questions
+
+== cat 563
+What linguistic challenge might Hungarian learners face with the high-rising tone in English?
+# They tend to use too low a pitch
+# They might apply it to statements
+# They might not articulate the words clearly
+# ! They tend to use a rise-fall pattern
+
+== cat 564
+How is the high-rising tone used in "please-repeat" questions?
+# It places emphasis on the auxiliary verb
+# It omits the question word
+# ! It places a dislocated tonic on the question word
+# It maintains the intonation of a declarative sentence

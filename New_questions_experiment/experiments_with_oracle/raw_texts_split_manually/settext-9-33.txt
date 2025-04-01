@@ -1,0 +1,11 @@
+
+(38) Vowel contrasts of CuBE 
+ 
+Let’s analyse the data step by step.  CuBE, and SSBE in general, has diphthongs instead of tense vowels that we saw in SSE and GA (observe the __C environment). Diphthongs historically come from tense vowels. 
+      What happens if historically lax (short) vowels are followed by coda R? Here the modern vowels are long and there is no coda R (spirt, serf, tar, port, burn). This is because of R-dropping (see (48 below), and the chapter on syllables in this course). However, coda R did not only drop (with compensatory lengthening), it also affected the quality of the preceding lax vowel in a process we have already discussed for GA (first nurse merging) plus backing of a to ɑ, and raising of ɔ to o. All these changes can collectively be referred to as pre-R broadening. This change is shared by SSBE and GA, which for a historical linguist means that American English and SSBE are closely related. As always, languages introduce new rules. SSBE, starting in the 18th century, started applying a rule known as Rdropping. After R was dropped, the vowels underwent compensatory lengthening, resulting in long broad vowels (as opposed to GA, where there was no R-dropping and hence the lax vowels are still short, and followed by R, of course). This is why SSBE and GA are still very closely related, but by no means identical. It also follows that if R was not dropped, the vowel is expected to be short. We’ll see if this is borne out by the data. 
+      It also seems that no diphthongs are possible before R (and r). In BrE R-vowels (= the long monophthongs) can only rarely be motivated synchronically by r. Look at some of the facts in (39). 
+(39) Vowels and R in BrE 
+ 
+It seems when R is not pronounced, the vowel before it lengthens. The opposite also holds: if the R is pronounced, the vowel is short. This is informally known as the ‘carrot-rule’: if R was not deleted, the vowel before it is short (the word carrot exemplifies this phenomenon). Can we ever find a r before an R-vowel? See (40). The answer is in the positive. 
+(40) R and R-vowels 
+ 

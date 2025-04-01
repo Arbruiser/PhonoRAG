@@ -1,0 +1,447 @@
+== cat 1
+What is the main argument for analyzing diphthongs as sequences of a short vowel and a glide in British English?
+# The historical development of English vowels.
+# The influence of spelling conventions.
+# ! The phonotactic distribution of vowels and glides.
+# The presence of geminates in English.
+
+== cat 2
+Which of the following is NOT considered a short vowel in the simplified vowel system of British English?
+# i
+# e
+# ! ɪ
+# a
+
+== cat 3
+In the proposed analysis, what is the role of the glide in a diphthong?
+# To lengthen the preceding vowel.
+# To create a new syllable.
+# ! To act as a consonant following a short vowel.
+# To indicate stress on the preceding vowel.
+
+== cat 4
+Which of the following words contains a diphthong that is analyzed as a vowel followed by a glide?
+# ! Price
+# Kit
+# Dress
+# Lot
+
+== cat 5
+What is the phonotactic pattern for short vowels in British English according to the analysis?
+# They can occur word-finally.
+# They can occur before another vowel.
+# ! They can only occur before a consonant.
+# They can occur in any position.
+
+== cat 6
+Which glide is analyzed as following the vowel in the word "fleece"?
+# w
+# ! j
+# h
+# r
+
+== cat 7
+What is the phonotactic gap noted in the distribution of glides j, w, and h?
+# They cannot occur before a stressed vowel.
+# They cannot occur after a long vowel.
+# ! They do not occur after a short stressed vowel.
+# They do not occur word-finally.
+
+== cat 8
+How does the analysis treat the vowel in the word "square"?
+# As a diphthong.
+# As a short vowel.
+# ! As a long monophthong.
+# As a glide.
+
+== cat 9
+What phenomenon is described by the Poor–Cure Split?
+# The merger of cure and force vowels.
+# The distinction between long and short vowels.
+# ! The split of the cure vowel into different vowels after palatal consonants.
+# The fronting of the glides in goose and goat.
+
+== cat 10
+Which of the following words exemplifies the epenthesis of ə between a diphthong and a liquid?
+# ! Heel
+# Kit
+# Lot
+# Dress
+
+== cat 11
+What is the significance of the word "mitre" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a diphthong.
+# It highlights the presence of a long vowel.
+
+== cat 13
+What is the main reason for the traditional classification of diphthongs as "long vowels"?
+# The influence of modern phonetic studies.
+# The presence of geminates in English.
+# ! The historical development and spelling conventions.
+# The phonotactic distribution of glides.
+
+== cat 14
+Which of the following words contains a glide that is analyzed as a consonant in the proposed system?
+# ! Ice
+# Kit
+# Dress
+# Lot
+
+== cat 15
+What is the role of the glide in the word "goat" according to the analysis?
+# To lengthen the preceding vowel.
+# To create a new syllable.
+# ! To act as a consonant following a short vowel.
+# To indicate stress on the preceding vowel.
+
+== cat 16
+How does the analysis treat the vowel in the word "near"?
+# As a diphthong.
+# As a short vowel.
+# ! As a long monophthong.
+# As a glide.
+
+== cat 17
+What is the significance of the word "arcade" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates stress on a final syllable with a "diphthong."
+# It highlights the presence of a long vowel.
+
+== cat 18
+Which of the following words exemplifies the epenthesis of ə between a diphthong and a liquid?
+# ! Fire
+# Kit
+# Lot
+# Dress
+
+== cat 19
+What is the significance of the word "mitre" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a diphthong.
+# It highlights the presence of a long vowel.
+
+== cat 22
+Which of the following words contains a glide that is analyzed as a consonant in the proposed system?
+# ! Toe
+# Kit
+# Dress
+# Lot
+
+== cat 23
+What is the role of the glide in the word "goose" according to the analysis?
+# To lengthen the preceding vowel.
+# To create a new syllable.
+# ! To act as a consonant following a short vowel.
+# To indicate stress on the preceding vowel.
+
+== cat 24
+How does the analysis treat the vowel in the word "cure"?
+# As a diphthong.
+# As a short vowel.
+# ! As a long monophthong.
+# As a glide.
+
+== cat 25
+What is the significance of the word "stipend" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates an unstressed final syllable with a "diphthong."
+# It highlights the presence of a long vowel.
+
+== cat 26
+Which of the following words exemplifies the epenthesis of ə between a diphthong and a liquid?
+# ! Coil
+# Kit
+# Lot
+# Dress
+
+== cat 27
+What is the significance of the word "martyr" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a long vowel.
+# It highlights the presence of a short vowel.
+
+== cat 31
+What is the role of the glide in the word "mouth" according to the analysis?
+# To lengthen the preceding vowel.
+# To create a new syllable.
+# ! To act as a consonant following a short vowel.
+# To indicate stress on the preceding vowel.
+
+== cat 32
+How does the analysis treat the vowel in the word "force"?
+# As a diphthong.
+# As a short vowel.
+# ! As a long monophthong.
+# As a glide.
+
+== cat 33
+What is the significance of the word "defence" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates stress on a final syllable with a VCC sequence.
+# It highlights the presence of a long vowel.
+
+== cat 34
+Which of the following words exemplifies the epenthesis of ə between a diphthong and a liquid?
+# ! Flour
+# Kit
+# Lot
+# Dress
+
+== cat 35
+What is the significance of the word "actor" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a short vowel.
+# It highlights the presence of a long vowel.
+
+== cat 39
+What is the role of the glide in the word "choice" according to the analysis?
+# To lengthen the preceding vowel.
+# To create a new syllable.
+# ! To act as a consonant following a short vowel.
+# To indicate stress on the preceding vowel.
+
+== cat 40
+How does the analysis treat the vowel in the word "north"?
+# As a diphthong.
+# As a short vowel.
+# ! As a long monophthong.
+# As a glide.
+
+== cat 41
+What is the significance of the word "regimen" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates an unstressed penultimate syllable with a V$C sequence.
+# It highlights the presence of a long vowel.
+
+== cat 42
+Which of the following words exemplifies the epenthesis of ə between a diphthong and a liquid?
+# ! Moor
+# Kit
+# Lot
+# Dress
+
+== cat 43
+What is the significance of the word "Yalta" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a consonant.
+# It highlights the presence of a long vowel.
+
+== cat 46
+Which of the following words contains a glide that is analyzed as a consonant in the proposed system?
+# ! Eye
+# Kit
+# Dress
+# Lot
+
+== cat 47
+What is the role of the glide in the word "price" according to the analysis?
+# To lengthen the preceding vowel.
+# To create a new syllable.
+# ! To act as a consonant following a short vowel.
+# To indicate stress on the preceding vowel.
+
+== cat 48
+How does the analysis treat the vowel in the word "thought"?
+# As a diphthong.
+# As a short vowel.
+# ! As a long monophthong.
+# As a glide.
+
+== cat 49
+What is the significance of the word "Cyclopean" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates stress on the antepenult with a V$C sequence.
+# It highlights the presence of a long vowel.
+
+== cat 50
+Which of the following words exemplifies the epenthesis of ə between a diphthong and a liquid?
+# ! Coir
+# Kit
+# Lot
+# Dress
+
+== cat 51
+What is the significance of the word "master" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a short vowel.
+# It highlights the presence of a long vowel.
+
+== cat 52
+How are long vowels represented in the proposed analysis?
+# As branching nuclei.
+# As sequences of two identical vowels.
+# ! As a vowel followed by a consonantal position.
+# As a vowel followed by a glide.
+
+== cat 57
+What is the significance of the word "scorpion" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates stress on the antepenult with a V$C sequence.
+# It highlights the presence of a long vowel.
+
+== cat 59
+What is the significance of the word "actor" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a short vowel.
+# It highlights the presence of a long vowel.
+
+== cat 65
+What is the significance of the word "Cyclopean" in the analysis of stress patterns?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates stress on the antepenult with a V$C sequence.
+# It highlights the presence of a long vowel.
+
+== cat 67
+What is the significance of the word "master" in the analysis of diphthongs?
+# It shows a lack of stress on the diphthong.
+# It demonstrates the presence of a geminate.
+# ! It illustrates the absence of flapping after a short vowel.
+# It highlights the presence of a long vowel.
+
+== cat 71
+What is the phonotactic justification for categorizing "fleece" and "goose" as diphthongs rather than long monophthongs?
+# They occur only in unstressed syllables.
+# They are always followed by a consonant.
+# ! They can occur before a vowel or at the end of a word.
+# They are historically derived from short vowels.
+
+== cat 72
+How does the analysis explain the occurrence of epenthesis in words like "heel" and "fire"?
+# The presence of a long vowel.
+# The influence of historical spelling.
+# ! The close sonority between a glide and a following liquid.
+# The need to maintain a syllable structure.
+
+== cat 73
+What is the significance of the Poor-Cure Split in the analysis of British English vowels?
+# It introduces a new set of short vowels.
+# It affects the distribution of glides.
+# ! It results in different categorizations of "cure" and "poor" as long monophthongs.
+# It merges all centring diphthongs into a single category.
+
+== cat 74
+Which phonotactic environment is unique to diphthongs in the proposed analysis?
+# Occurrence before a consonant.
+# Occurrence in unstressed syllables.
+# ! Occurrence before another vowel or at the end of a word.
+# Occurrence in word-initial position.
+
+== cat 75
+What is the role of the glide in the analysis of the vowel in "price"?
+# It lengthens the vowel.
+# It changes the vowel's stress pattern.
+# ! It forms a consonant cluster with the following sound.
+# It merges with the preceding vowel to form a monophthong.
+
+== cat 76
+How does the analysis account for the absence of flapping after long vowels in certain accents?
+# Long vowels are considered branching nuclei.
+# Long vowels are always followed by a consonant.
+# ! Long vowels are analyzed as a vowel followed by a consonantal position.
+# Long vowels are treated as sequences of two identical vowels.
+
+== cat 78
+How does the analysis explain the distribution of the glides j, w, and h in English?
+# They occur only in unstressed syllables.
+# They are always followed by a consonant.
+# ! They typically do not occur after a short stressed vowel.
+# They are restricted to word-final position.
+
+== cat 79
+What is the significance of the Great Vowel Shift in the analysis of English diphthongs?
+# It introduced new short vowels.
+# It eliminated all centring diphthongs.
+# ! It transformed Middle English long vowels into diphthongs.
+# It merged all long monophthongs into a single category.
+
+== cat 80
+How does the analysis account for the variability in the pronunciation of "near" and "cure"?
+# They are always pronounced as short vowels.
+# They are influenced by historical spelling.
+# ! They are categorized as long monophthongs with variable realizations.
+# They are treated as sequences of two identical vowels.
+
+== cat 81
+What is the proposed representation of the vowel in "thought" in the analysis?
+# A short vowel.
+# A centring diphthong.
+# ! A long monophthong.
+# A diphthong with a glide.
+
+== cat 82
+How does the analysis explain the occurrence of intervocalic lenition in words like "mitre"?
+# It occurs only after short vowels.
+# It is influenced by historical spelling.
+# ! It is restricted to environments where the consonant is truly intervocalic.
+# It occurs only in unstressed syllables.
+
+== cat 83
+What is the role of the glide in the analysis of the vowel in "mouth"?
+# It lengthens the vowel.
+# It changes the vowel's stress pattern.
+# ! It forms a consonant cluster with the following sound.
+# It merges with the preceding vowel to form a monophthong.
+
+== cat 84
+How does the analysis account for the distribution of the vowel in "force"?
+# It is always a short vowel.
+# It is influenced by historical spelling.
+# ! It is categorized as a long monophthong.
+# It is treated as a centring diphthong.
+
+== cat 85
+What is the significance of the Poor-Cure Split in the analysis of British English vowels?
+# It introduces a new set of short vowels.
+# It affects the distribution of glides.
+# ! It results in different categorizations of "cure" and "poor" as long monophthongs.
+# It merges all centring diphthongs into a single category.
+
+== cat 86
+How does the analysis explain the occurrence of epenthesis in words like "heel" and "fire"?
+# The presence of a long vowel.
+# The influence of historical spelling.
+# ! The close sonority between a glide and a following liquid.
+# The need to maintain a syllable structure.
+
+== cat 87
+What is the phonotactic justification for categorizing "fleece" and "goose" as diphthongs rather than long monophthongs?
+# They occur only in unstressed syllables.
+# They are always followed by a consonant.
+# ! They can occur before a vowel or at the end of a word.
+# They are historically derived from short vowels.
+
+== cat 88
+How does the analysis account for the absence of flapping after long vowels in certain accents?
+# Long vowels are considered branching nuclei.
+# Long vowels are always followed by a consonant.
+# ! Long vowels are analyzed as a vowel followed by a consonantal position.
+# Long vowels are treated as sequences of two identical vowels.
+
+== cat 89
+What is the proposed explanation for the lack of true geminates in English?
+# The influence of French phonology.
+# The historical development of English spelling.
+# ! The analysis of diphthongs as vowel+consonant sequences.
+# The presence of intervocalic lenition.
+
+== cat 90
+How does the analysis explain the distribution of the glides j, w, and h in English?
+# They occur only in unstressed syllables.
+# They are always followed by a consonant.
+# ! They typically do not occur after a short stressed vowel.
+# They are restricted to word-final position.

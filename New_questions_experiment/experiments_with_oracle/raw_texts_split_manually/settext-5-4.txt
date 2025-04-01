@@ -1,0 +1,14 @@
+
+7.3.1. Initially-stressed compounds  
+These sound like one word: the first element carries the stress. This pattern is the same as in Hungarian, German, and many languages (e.g. telefonnévjegyzék). The second element is downgraded to 3ry stress. This is expressed by the following rule: 
+(3) Compound Stress Rule 
+#  1  #  #  1  #  →  #  1  #  3  # = when compounding two words, downgrade the primary stress of the second word to strongunstressed (3ry) level. 
+ 
+Examples for initially-stressed compounds, with the stressed element underlined: 
+• NOUNS: gréenhouse, cár ferry, scréensaver, cán-opener, a búyout, a wríte-off, shóplifting, Cánon Street, páperback, páperback writer, lánguage teaching,  nemplóyment benefit 
+• ADJECTIVES: wáterproof, fún-loving, chócolate coloured, súnlit 
+• VERBS: to báby-sit, to héadhunt, to bélly-dance, to áir-condition, to whítewash 
+ 
+Obscured compounds. In a small group of initially-stressed compounds the second element has zero stress, a reduced vowel: póst|man /-mən/, wél|come /-kəm/, nónsense /ˈnɒnsəns/,  Éngland /ˈɪŋglənd/,  Jóhnson /ˈdʒɒnsn/. These are called “obscured” compounds. Their stress pattern is #10# and not #1#3#. They are always spelt as one word. 
+ 
+ 

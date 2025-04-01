@@ -1,0 +1,63 @@
+
+(5) English and German 
+En 
+(a) 
+ 
+ 
+ 
+G 	 	 	 
+Old English (ca. 10th c CE) 
+five 
+ 
+ 
+ 
+fünf 	 	 	 
+fīf 
+soft 
+ 
+ 
+ 
+sanft 	 	 	 
+sōft 
+goos 
+ 
+ 
+ 
+Gans 	 	 	 
+gōs 
+dust 
+ 
+ 
+ 
+Dunst ‘vapour’  	 
+dūst 
+us 
+ 
+ 
+ 
+uns 	 	 	 
+ūs 
+tooth 
+(b) 
+ 
+ 
+ 
+Zahn (originally Zahnd) 
+tōþ  
+(þ = Old English for <th>, known as thorn) 
+find 
+ 
+ 
+ 
+finden  	 	 
+findan 
+timber  
+ 
+ 
+Zimmer ‘room’  	 
+timber 
+ 
+(5) offers a fascinating window into a possible case of genealogical relatedness between English and German. To be able to ascertain what happened here the analyst must be able to form generalisations along the if this i then that / _under this and that condition_ continuum; after all, one wants to demonstrate that when we have this in English, we expect to find that in German under this and that condition. So what are these components? As far as the set of limited data in (5a) shows English seems to have no nasals when these are followed by a voiceless fricative. German seems to have pre-fricative nasals, but seems to lack θ (for which it has d, as in Zahnd). Some words have lost this final d (Zahn). English has long vowels (more precisely diphthongs) today in five, goos and tooth (but not in soft, dust and us). Old English has long monophthnogs. These details are missed by the casual observer. 
+ What do we make of all this? Is this haphazard? The answer must be in the negative. We can propose that at some time in its history English developed a tendency for deleting its nasals before a voiceless fricative. Phonologically this can be explained as the loss of a non-continuant (= stop) nasal before a continuant (here fricative) sound. After the loss of the nasals, their positions did not disappear, however. Through a process of compensatory lengthening the vowels before these now-lost nasals were lengthened. If the nasals were followed by another non-continuant (= stop), they were preserved (see examples in (5b)). This explains half the data for English in (5a), as measured against (5b). 
+      What about those words that have a short vowel nowadays? If our analysis is any good, we will have to provide (or at least attempt) an explanation for this. In us the vowel is short because in this language function words have no lexical stress (but may acquire it at sentence level) and may also lose contrastive length (that is, they may end up with a lexical short vowel, which doesn’t alternate with a long one, not even if it is stressed emphatically). This is what happened here: us used to have a long vowel (for which we have textual evidence from Old and Middle English: in Old English it was ūs, in Middle English ous with <ou> showing a long vowel, similarly to <ou> in house). In modern English us has a short vowel, both when it is unstressed (əs) and emphatically stressed (əs ), see Chapter on intonation on this. We must say that we have no evidence for us containing a long vowel in modern English (at some point the word lost its long vowel and was relexicalised with a short vowel). 
+      In soft we can invoke a phonotactic constraint: in English, only short vowels can be found before a non-coronal consonant cluster, which is still true today (ŏctopus, lĭmp, trŭmp, ŏptical, ămber, etc.) with very few counterexamples (chāmber, Cāmbridge, sēīsmograph, trăipse, etc.). See Chapter 1 for more explanation on this. 

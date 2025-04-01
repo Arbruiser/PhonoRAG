@@ -1,0 +1,171 @@
+breakpoint percentile: 95
+top_k: 2
+itembank-2:		Correct answers 93 / total questions 129 * 100 = 72.09%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 78 / total questions 106 * 100 = 73.58%
+itembank-9a:		Correct answers 25 / total questions 46 * 100 = 54.35%
+itembank-9b:		Correct answers 49 / total questions 75 * 100 = 65.33%
+
+Overall correct answers 261 / total questions 395 * 100 = 66.08%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 95
+top_k: 4
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 13 / total questions 39 * 100 = 33.33%
+itembank-5-6:		Correct answers 76 / total questions 106 * 100 = 71.7%
+itembank-9a:		Correct answers 22 / total questions 46 * 100 = 47.83%
+itembank-9b:		Correct answers 45 / total questions 75 * 100 = 60.0%
+
+Overall correct answers 238 / total questions 395 * 100 = 60.25%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 5
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 71 / total questions 106 * 100 = 66.98%
+itembank-9a:		Correct answers 21 / total questions 46 * 100 = 45.65%
+itembank-9b:		Correct answers 36 / total questions 75 * 100 = 48.0%
+
+Overall correct answers 231 / total questions 395 * 100 = 58.48%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 18 / total questions 39 * 100 = 46.15%
+itembank-5-6:		Correct answers 73 / total questions 106 * 100 = 68.87%
+itembank-9a:		Correct answers 25 / total questions 46 * 100 = 54.35%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+
+Overall correct answers 243 / total questions 395 * 100 = 61.52%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 30
+top_k: 12
+itembank-2:		Correct answers 75 / total questions 129 * 100 = 58.14%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 76 / total questions 106 * 100 = 71.7%
+itembank-9a:		Correct answers 23 / total questions 46 * 100 = 50.0%
+itembank-9b:		Correct answers 39 / total questions 75 * 100 = 52.0%
+
+Overall correct answers 229 / total questions 395 * 100 = 57.97%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 30
+top_k: 24
+itembank-2:		Correct answers 80 / total questions 129 * 100 = 62.02%
+itembank-3-4:		Correct answers 15 / total questions 39 * 100 = 38.46%
+itembank-5-6:		Correct answers 78 / total questions 106 * 100 = 73.58%
+itembank-9a:		Correct answers 20 / total questions 46 * 100 = 43.48%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+
+Overall correct answers 236 / total questions 395 * 100 = 59.75%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-ada-002
+itembank-2:		Correct answers 96 / total questions 129 * 100 = 74.42%
+itembank-3-4:		Correct answers 25 / total questions 39 * 100 = 64.1%
+itembank-5-6:		Correct answers 79 / total questions 106 * 100 = 74.53%
+itembank-9a:		Correct answers 27 / total questions 46 * 100 = 58.7%
+itembank-9b:		Correct answers 52 / total questions 75 * 100 = 69.33%
+
+Overall correct answers 279 / total questions 395 * 100 = 70.63%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0
+itembank-2:		Correct answers 95 / total questions 129 * 100 = 73.64%
+itembank-3-4:		Correct answers 25 / total questions 39 * 100 = 64.1%
+itembank-5-6:		Correct answers 85 / total questions 106 * 100 = 80.19%
+itembank-9a:		Correct answers 30 / total questions 46 * 100 = 65.22%
+itembank-9b:		Correct answers 51 / total questions 75 * 100 = 68.0%
+
+Overall correct answers 286 / total questions 395 * 100 = 72.41%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.8
+itembank-2:		Correct answers 89 / total questions 129 * 100 = 68.99%
+itembank-3-4:		Correct answers 22 / total questions 39 * 100 = 56.41%
+itembank-5-6:		Correct answers 79 / total questions 106 * 100 = 74.53%
+itembank-9a:		Correct answers 30 / total questions 46 * 100 = 65.22%
+itembank-9b:		Correct answers 47 / total questions 75 * 100 = 62.67%
+
+Overall correct answers 267 / total questions 395 * 100 = 67.59%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.9
+itembank-2:		Correct answers 1 / total questions 129 * 100 = 0.78%
+itembank-3-4:		Correct answers 0 / total questions 39 * 100 = 0.0%
+itembank-5-6:		Correct answers 3 / total questions 106 * 100 = 2.83%
+itembank-9a:		Correct answers 0 / total questions 46 * 100 = 0.0%
+itembank-9b:		Correct answers 0 / total questions 75 * 100 = 0.0%
+
+Overall correct answers 4 / total questions 395 * 100 = 1.01%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.6
+itembank-2:		Correct answers 96 / total questions 129 * 100 = 74.42%
+itembank-3-4:		Correct answers 26 / total questions 39 * 100 = 66.67%
+itembank-5-6:		Correct answers 84 / total questions 106 * 100 = 79.25%
+itembank-9a:		Correct answers 30 / total questions 46 * 100 = 65.22%
+itembank-9b:		Correct answers 53 / total questions 75 * 100 = 70.67%
+
+Overall correct answers 289 / total questions 395 * 100 = 73.16%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.5
+itembank-2:		Correct answers 94 / total questions 129 * 100 = 72.87%
+itembank-3-4:		Correct answers 27 / total questions 39 * 100 = 69.23%
+itembank-5-6:		Correct answers 85 / total questions 106 * 100 = 80.19%
+itembank-9a:		Correct answers 30 / total questions 46 * 100 = 65.22%
+itembank-9b:		Correct answers 54 / total questions 75 * 100 = 72.0%
+
+Overall correct answers 290 / total questions 395 * 100 = 73.42%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.4
+itembank-2:		Correct answers 94 / total questions 129 * 100 = 72.87%
+itembank-3-4:		Correct answers 28 / total questions 39 * 100 = 71.79%
+itembank-5-6:		Correct answers 84 / total questions 106 * 100 = 79.25%
+itembank-9a:		Correct answers 27 / total questions 46 * 100 = 58.7%
+itembank-9b:		Correct answers 54 / total questions 75 * 100 = 72.0%
+
+Overall correct answers 287 / total questions 395 * 100 = 72.66%
+
+------------------------------------------------------------------------
+
+
+

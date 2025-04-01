@@ -1,0 +1,10 @@
+      
+For a casual observer, words as they appear at first sight are the most easily graspable points of similarities (and differences) between languages. For this to happen you don’t even need bilingual speakers. Observe the short sentence below taken from the dialect of Hungarian spoken in Vojvodina (Vajdaság) in Serbia. 
+(2) Hungarian of Vojvodina 
+A feleségem a második szmenába dolgozik, és zsurbába volt, amikor láttam lejönni a szolitérből a tursival a kezébe. 
+Unless you speak Serbian (or a Slavonic language), it is hard work deciphering the meaning of the sentence in (2). You still feel it is Hungarian. It seems to have Hungarian sounds (or at least the spelled version of the original above suggests so), it exemplifies well-known processes: the suffix -ba requires the vowel of the stem to lengthen, giving you the base words szmena, zsurba, keze, there is no lengthening if the final vowel is a high vowel (tursi), vowel harmony seems to be working (szmenába, not szmenábe), past tense marking is the usual -t- (láttam ‘I saw her’). Well, what does this mean? For this you have to know the words, unfortunately. This is not structural knowledge, but lexical: despite the words, this is still Hungarian because it behaves like Hungarian (the one you are more familiar with as far as the words go). A translation follows in (3).2 
+(3) Hungarian as spoken in Hungary 
+A feleségem a második műszakba dolgozik, és sietett (= sietségben volt), amikor láttam lejönni a panelházból a savanyúsággal a kezébe. 
+‘My wife works in the second shift and she was in a hurry as she was leaving the block of flats with the pickled vegetables in her hands’ 
+For those who speak French a similar situation arises in English (or the other way around), see (4) below for a sentence with sounds ‘perfectly’ English although only a handful of function words (the, are, by and in, to be more precise) is English. 
+ 

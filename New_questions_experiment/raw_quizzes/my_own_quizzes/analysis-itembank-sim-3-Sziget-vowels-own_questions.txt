@@ -1,0 +1,467 @@
+== cat 301
+What do words like "lie", "like", "low", or "load" suggest about English glides?
+# They appear exclusively at the beginning of words.
+# They are always followed by a vowel.
+# ! They can occur word-finally or preconsonantally.
+# They only appear in stressed syllables.
+
+== cat 302
+Traditionally, the vowel system of British English is composed of which sets of vowels?
+# Resonant vowels, mixed tones, and glottal stops
+# Close vowels, open vowels, and mid vowels
+# ! Short monophthongs, diphthongs, and long monophthongs
+# Front vowels, central vowels, and back vowels
+
+== cat 303
+Traditionally, how many vowels are there in the British English vowel system?
+# ! 18 or 19
+# 12 or 13
+# 10 or 11
+# 21 or 22
+
+== cat 304
+According to our analysis, how many vowels are in the British English vowel system?
+# 8
+# ! 6
+# 10
+# 12
+
+== cat 305
+Which vowels are identified in the system of British English according to our analysis?
+# ɔ æ ə aɪ eɪ
+# ! i e a o u ə
+# ɛ ɪ aʊ oʊ ə
+# ʌ ʊ æ i ə
+
+== cat 306
+If we say that there are only 6 vowels in Englsih (i e a o u and ə), how can we account for long vowels and diphthongs?
+# As completely separate vowel categories
+# As stress variations of short vowels
+# As tonal variations within the vowel system
+# ! As combinations of one of the six short vowels and a glide, i.e., a consonant
+
+== cat 307
+According to Lindsey (2012), which vowel is present in the word "kit"?
+# ɛ
+# ɔ
+# a
+# ! ɪ
+
+== cat 308
+According to Lindsey (2012), which vowel is present in the word "foot"?
+# ɪ
+# ! ɵ
+# ɛ
+# ə
+
+== cat 309
+According to Lindsey (2012), which vowel is present in the word "dress"?
+# a
+# ɔ
+# ! ɛ
+# ɵ
+
+== cat 310
+According to Lindsey (2012), which vowel is present in the word "lot"?
+# ə
+# ! ɔ
+# ɪ
+# ɵ
+
+== cat 311
+According to Lindsey (2012), which vowel is present in the word "trap"?
+# ! a
+# ɪ
+# ɔ
+# ɛ
+
+== cat 312
+According to Lindsey (2012), which vowel is present in the word "strut"?
+# ɵ
+# a
+# ! ə
+# ɪ
+
+== cat 313
+What is true about Lindsey's transcription?
+# Schwa is transcribed with a completely unique symbol.
+# Schwa and the vowel of strut are separated by vowel length differences.
+# ! Schwa and the vowel of strut are transcribed using the same symbol.
+# The vowel of strut is ignored in transcription.
+
+== cat 314
+Why are schwa and the vowel of strut transcribed using the same symbol in Lindsey's approach?
+# ! These two vowels do not contrast.
+# They both occur exclusively in unstressed syllables.
+# The vowel of strut occurs only in initial syllables.
+# Schwa is always stressed, making distinction unnecessary.
+
+== cat 315
+What is the difference between the vowels of "blunderers" and "blunderbuss" according to our analysis?
+# Voicing
+# Vowel length
+# ! Stress
+# Aspiration
+
+== cat 316
+Which statement is true regarding schwa and strut?
+# Schwa never occurs at the end of words.
+# ! A schwa, especially word finally, can be phonetically equivalent to strut.
+# Strut always contrasts with schwa in all environments.
+# Schwa can only be found in monosyllabic words.
+
+== cat  317
+In the context of British English diphthongs, why is the transcription of the second element of diphthongs in words like 'fleece' using vowel symbols such as /i/ criticized?  
+# They are not phonetically accurate.  
+# They are not commonly used in modern phonetics.  
+# ! They represent syllabic segments, which diphthongal offglides are not.  
+# They do not visually differentiate between diphthongs and monophthongs.
+
+== cat 318
+According to Lindsey's analysis, how are the vowels of the words 'fleece' and 'goose' categorized?
+# As short monophthongs
+# As long monophthongs
+# ! Vowel + glide
+# As centring diphthongs
+
+== cat 319
+How are the vowels of the words 'near', 'square', and 'cure' analyzed in Lindsey's system?
+# As short monophthongs
+# As diphthongs
+# As centring diphthongs
+# ! As long monophthongs
+
+== cat 320
+Who first transcribed the vowel of the word 'square' as a monophthong?
+# Gimson
+# ! Upton
+# Jones
+# Lindsey
+
+== cat 321
+Why can't the words 'mourning' and 'morning' be transcribed differently in British English phonetics?
+# They share the same spelling tradition despite differing pronunciations.
+# They exhibit different stress patterns but share a common vowel sound.
+# ! They are homophonous and their vowels merged, eliminating distinct transcription symbols.
+# They represent a case of phonetic convergence unique to regional accents.
+
+== cat 322
+How is the vowel in 'near' typically pronounced before a consonant, especially before 'r'?
+# As a diphthong ending in /j/
+# As the vowel /eː/
+# As part of a falling diphthong
+# ! As a monophthong
+
+== cat 323
+What happens to the vowel in 'near' when it occurs at the end of an utterance?
+# It merges with a following fricative
+# It remains a monophthong
+# ! It splits into a diphthong followed by schwa
+# It is replaced by a back vowel sound
+
+== cat 324
+Which of the following words exhibits a similar vowel variation to 'near' in utterance-final position?
+# ! Fire
+# Bear
+# Soil
+# Heard
+
+== cat 325
+For some speakers, into which two different vowel sounds has 'cure' split after palatal consonants?
+# The vowel in 'lot' and the vowel in 'nurse'
+# A diphthong beginning with /j/ and the vowel in 'strut'
+# The vowel in 'trap' and an unstressed schwa
+# ! The long version of 'foot' and the vowel merged with 'nurse'
+
+== cat 326
+How has the vowel in 'cure' merged for some speakers in non-palatal contexts?
+# With the vowel in 'fleece'
+# With the vowel in 'north'
+# ! With the vowel in 'force'
+# With the vowel in 'bath'
+
+== cat 327
+What term is used to describe the phenomenon where 'cure' is pronounced differently based on the phonetic environment?
+# ! The Poor-Cure Split
+# The Cure-Mergers
+# The Palatal-Cure Contrast
+# The Cure-North Merger
+
+== cat 328
+Why do we analyse diphthongs as diphthongs and long monophthongs as long monophthongs?
+# They differ significantly in stress patterns.
+# They have exclusive phonetic properties.
+# They influence morphological structures distinctly.
+# ! They form natural classes with respect to the environments they occur in.
+
+== cat 329
+Which environments can short vowels (i, e, a, o, u) occur in according to the given phonological analysis?
+# ! Only before a consonant (__C)
+# At the end of a word (__#) and before a vowel (__V)
+# Before a consonant (__C) and at the end of a word (__#)
+# Only before another vowel (__V)
+
+== cat 330
+In which environments are long monophthongs (iː, eː, aː, oː, (uː), ə) allowed to occur?
+# Only before a vowel (__V)
+# At the end of a word (__#) and before another vowel (__V)
+# Only before a consonant (__C)
+# ! Before a consonant (__C) and at the end of a word (__#)
+
+== cat 331
+Where can diphthongs (ij, ej, aj, aw, oj, uw, əw) occur in the distribution of speech sounds?
+# Only before another vowel (__V)
+# At the end of a word (__#) but not before a consonant (__C)
+# Before a consonant (__C) and only at the end of a word (__#)
+# ! Before a consonant (__C), at the end of a word (__#), and before another vowel (__V) 
+
+== cat 332
+In which environment are short vowels (i e a o u) specifically excluded from occurring?
+# Before a consonant (__C)
+# ! At the end of a word (__#) and before another vowel (__V)
+# Only before a glide
+# In unstressed syllables
+
+== cat 333
+Which category of vowels is able to appear before a vowel (__V), according to the analysis presented?
+# Short monophthongs
+# Long monophthongs
+# ! Diphthongs
+# Long nasal vowels
+
+== cat 334
+For long monophthongs (iː, eː, aː, oː, (uː), ə), which environment can they not appear in?
+# Before a consonant (__C)
+# At the end of a word (__#)
+# ! Before another vowel (__V)
+# They can occur in all environments
+
+== cat 335
+Which set of vowels can occur in all three environments: before a consonant (__C), at the end of a word (__#), and before a vowel (__V)?
+# Short vowels (i e a o u)
+# Only unstressed schwa
+# ! Diphthongs (ij ej aj aw oj uw əw)
+# Long monophthongs only in accented syllables
+
+== cat 336
+In the example "draw out" (droːr awt), why is the consonant inserted?
+# To change the vowel quality
+# To emphasize the following word
+# ! To prevent a hiatus between vowels
+# To mark a stressed syllable
+
+== cat 337
+What phonological phenomenon occurs in "drawing" (droːriŋ) that involves the adaptation of long monophthongs or schwa?
+# Elision of the final vowel
+# ! Insertion of a consonant before a following vowel
+# Reduction of the preceding syllable
+# Assimilation of vowel quality
+
+== cat 338
+Which vowel can occur in a diphthong with both j and w?
+# i
+# e
+# ! a
+# o
+
+== cat 339
+In terms of phonetic properties, how do the vowels in 'price' (aj) and 'mouth' (aw) differ?
+# aj is higher and rounded, aw is lower and unrounded
+# ! aj is more back, while aw is more front
+# aj is nasalized, aw is voiced
+# aj is unstressed, aw is stressed
+
+== cat 340
+Which of the following consonant pairs can occur with the glide /j/?
+# t, d, θ
+# ! p, b, f
+# t, θ, b
+# d, θ, f
+
+== cat 341
+What argument is made about the treatment of diphthongs versus consonant clusters?
+# Diphthongs are always considered more phonetically complex.
+# Consonant clusters form the basis of new morphological structures.
+# ! Both diphthongs and consonant clusters consist of independently existing elements.
+# Consonant clusters require different stress patterns than diphthongs.
+
+== cat 342
+How has the vocalization of nonprevocalic l impacted the occurrence of the glide /w/ in British English?
+# It has restricted /w/ to occur only after low vowels.
+# It has eliminated /w/ from most dialects.
+# ! It has allowed /w/ to occur after any vowel.
+# It has caused /w/ to merge with /j/ in certain contexts.
+
+== cat 343
+Which new diphthongal combinations involving the glide /w/ have emerged as potential outcomes of changes in British English?
+# uw becomes iw, and ew becomes uw
+# ! iw occurs as in "bill", and ow as in "ball"
+# ew merges with iw, forming a new sound
+# iw disappears while ow remains stable
+
+== cat 344
+What potential new diphthongs must be recognized in a developing British English system due to the fronting of glides?
+# ij and aj
+# ! iw, ew, and ow
+# uj and aw
+# əj and ij
+
+== cat 345
+What recent phonetic development in British English has affected the lexical sets of 'goose' and 'goat'?
+# Merging of vowel sounds
+# ! Fronting of the glides
+# Monophthongization of diphthongs
+# Backing of the vowel nuclei
+
+== cat 346
+How do changes in L vocalization affect the occurrence of the diphthongs uw and əw?
+# ! They preserve uw and əw despite the fronting of glides.
+# They lead to the elimination of uw and əw.
+# They cause uw and əw to merge with uj and əj.
+# They result in new centralized vowel sounds.
+
+== cat 347
+In L vocalizing accents, which nonnasal sonorants occur exclusively in prevocalic positions?
+# p t k 
+# m n ŋ
+# ! l r j w h
+# s z f v
+
+== cat 348
+What condition allows for the occurrence of /h/ before /j/ in English?
+# The preceding consonant must be voiced.
+# The preceding vowel must be unstressed.
+# ! The following vowel must be stressed.
+# The /j/ must be part of a suffix.
+
+== cat 349
+Under what condition can /l/ occur before /j/ in English?
+# The preceding vowel must be long.
+# The preceding consonant must be nasal.
+# The preceding vowel must be stressed.
+# ! The following vowel must be unstressed.
+
+== cat 350
+Which nonnasal sonorant is notably absent from occurring after a consonant and before a vowel (C__V)?
+# j
+# ! h
+# r
+
+== cat 351
+In English, which sonorants have limited occurrence after a stressed vowel but before an unstressed vowel?
+# l and r
+# ! j, w, and h
+# l and h
+# r and j
+
+== cat 352
+According to our analysis, what type of vowel typically precedes j, w, and h when they occur before an unstressed vowel?
+# Short and stressed
+# ! Long or unstressed
+# Short and unstressed
+# Long and stressed
+
+== cat 353
+Which examples are cited as exceptions to the restriction against short and stressed vowels preceding j, w, and h?
+# Darwin and Ottawa
+# ! Dewi and Drogheda
+# Malawi and yahoo
+# Monahan and sawyer
+
+== cat 354
+Which word is an example of epenthesis due to sonority?
+# Middle English crown > kraun
+# Old Norse knifr > knife
+# Old High German bratan > roast
+# ! French mètre mɛtr > mijtər
+
+== cat 355
+Which word is an example of epenthesis due to sonority?
+# Old English sceadu > shade
+# Middle English bren > burn
+# ! Old French temple > tempəl
+# Latin stella > star
+
+== cat 356
+According to our analysis, which is the correct order of sonority?
+# m < l < n < r
+# l < r < m = n
+# r < l < m = n
+# ! m = n < l < r
+
+== cat 357
+Why is epenthesis sometimes used by speakers for certain consonant clusters?
+# Because the clusters end in a vowel
+# Because there is excessive sonority distance between the sounds
+# Because the clusters are followed by a glide
+# ! Because the sonority distance between the sounds is not sufficient to maintain the cluster
+
+== cat 358
+Epenthesis occurs before which consonant, specifically after diphthongs with a front offglide?
+# k
+# t
+# ! l
+# s
+
+== cat 359
+Which consonant clusters are noted to induce epenthesis?
+# kr, kl, kw
+# fl, fr, fw
+# sn, sl, sw
+# ! jl, jr, wr
+
+== cat 360
+What makes the wl cluster more stable compared to others, at least for some speakers?
+# The cluster appears frequently in the English language
+# ! Its members are homorganic, particularly for speakers with a velarized l
+# It is followed by a vowel in most cases
+# It is rarely used, so it avoids common epenthetic processes
+
+== cat 361
+Traditionally, how was the stress pattern typically determined for final VV and VC sequences?
+# Both are usually stressed
+# Both are usually unstressed
+# VV is unstressed; VC is stressed
+# ! VV is stressed; VC is not stressed
+
+== cat 362
+Which verbs exemplify a VC-final sequence where the final syllable is stressed?
+# Carry and argue
+# Rebel and continue
+# Omit and ferment
+# ! Omit and rebel
+
+== cat 363
+What does the analysis of diphthongs as VC sequences reveal about verbs like "ferment" and "cremate"?
+# They are always pronounced with a long vowel
+# They lose stress on their last syllable
+# ! They are stressed on their last syllable similarly to verbs ending in two consonants
+# They inherently avoid stress patterns completely
+
+== cat 364
+What does Chomsky & Halle (1968) claim regarding the stress patterns of words?
+# Vowels in the first syllable are always stressed
+# Diphthongs in the medial syllable attract stress
+# ! A “long vowel” in the last syllable of a word is always stressed
+# Consonant clusters never affect stress placement
+
+== cat 365
+According to Hayes (1982), what is the typical stress pattern for polysyllabic nouns?
+# They are always stressed on the penultimate syllable
+# ! Polysyllabic nouns are not usually stressed on their ult — which is extrametrical
+# They always receive primary stress on the first syllable
+# Stress patterns are highly irregular and unpredictable
+
+== cat 366
+When does flapping occur in New Zealand Acrolect?
+# After any vowel regardless of type
+# After long vowels and diphthongs
+# ! Between two vowels only if the first vowel is short
+# Between two vowels only if the first vowel is long
+
+== cat 367
+Which statement is false about flapping in New Zealand Acrolect?
+# Flapping does not occur after diphthongs
+# Flapping does not occur after long vowels
+# ! Flapping occurs consistently after all vowel types
+# Flapping requires the first vowel to be short for it to occur

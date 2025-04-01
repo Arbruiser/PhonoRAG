@@ -1,0 +1,45 @@
+
+ We have arrived at an important crossroads. Phonological analysis is the only possible way that we can use to compare and reconstruct languages in an attempt to show that they are related to each other thorough common inheritance (= a mother language from where they developed through phonological changes that can be conceived of as a rule along the lines of if A, then B in the environment of C, that is A , B / __C, which is our well-known rule format; see Chapter 1 on this). We can also understand this as the mother language being the UR from which we have the SR (the daughter languages) with the help of rules: we map a UR to its SR with rules (see (7) for English; the same can be done for German). 
+(7) UR (mother language) and SR (daughter language) 
+ 
+ 	UR: West-Germanic  
+ 
+tanθ ‘tooth’ 
+• 
+nasalisation 	 	 
+ 
+tãnθ 
+• 
+nasal loss and 	 	 
+ 
+ 
+
+compensatory lengthening 
+ 
+tãːθ 
+• 
+quality change (raising) due to 
+
+
+
+nasalisation 	 	 
+ 
+tõːθ 
+• 
+loss of nasalisation 	 
+ 
+toːθ 
+
+SR: Old English  
+ 
+toːθ (tōþ) 
+• 
+additional changes 	 
+ 
+tuːθ  
+(raising happening after the 15th century, and diphthongisation in latter part of the 20th century) 
+	SR: Modern English 	 	tʉwθ (tooth) 
+Historical linguistics is reconstructive phonological analysis taking the regularity principle for one of its fundamental pillars: change (exemplified here with phonological change) can only be regular, there is no other way in which it can be conceived of. The other pillar is the uniformitarian principle, which says that whatever we observe nowadays must have existed in the past as well, there can be no novel phonological rules never seen before, every rule we observe nowadays must (or may) also have worked in the past. These are important cornerstones in any analysis. 
+ As you can see, by comparing words (phonological bodies of morphemes) that are cognates we arrive at a common proto-language provided that the two languages are related, of course. In historical linguistics the deeper we go in time, the less likely it is that words will be (superficially) similar. Actually, the more different the languages are, the more likely it is that they can be ultimately related through inheriting these words from a common mother language. It is important to understand that the notion ‘the more different they are’ means ‘if the difference between two languages can be showed to regularly derive from the application of ordered phonological rules’. Having two wildly different words is no proof of their relatedness. As we have seen, having two wildly similar words is no proof of relatedness either. This is a piece of wisdom that all historical linguists must take to heart at some point. Phonological variation between languages, as well as between accents of the same language, revolves around a phonological feature (or features) and a phonological position (coda, onset, etc.) and a phonological response to such a conditioning set of features and positions. 
+ The language ‘gene’ that underlies related languages can be understood as regular phonological change applying to an underlying representation. In historical linguistics not just any two languages can be compared, they must be genetically related through phonological changes revealing their common ancient ancestry through cognates. Of course, to know what can be compared, you must first do phonological comparison and discard what does not belong to your frame of comparison. This is why French and English are not immediately related and cannot be directly compared: there is no phonological rule that would reveal there was a common language from which these two developed through phonological change. English and French are ultimately related, but at the level of Germanic and Italic (of which French is a remote daughter through Latin), both of them descending from Indo-European. English and Hungarian are not immediately related, but not even ultimately; there is no genetic relatedness between the two. This is an important consequence of historical analysis. This, of course, doesn’t mean that English and Hungarian cannot be compared typologically or through contact (areal) linguistics (we have seen that Hungarian has extensively borrowed from English, but for a historical linguist this is skin deep). 
+ Historical linguistics will ultimately come up with an understanding of what the Indo-European family of languages looks like (see below in (8) for a somewhat romantic representation including cats and birds and a gnarled tree for the cuteness effect). 

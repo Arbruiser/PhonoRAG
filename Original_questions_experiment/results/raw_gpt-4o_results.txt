@@ -1,0 +1,372 @@
+
+System message: Answer this question about phonology, but make sure that you're correct. Don't jump into conclusions, analyse the question from different perspective. Only answer with the letter and text of the answer which you think is correct.
+
+itembank-2:	Correct answers 80 / total questions 129 * 100 = 62.02%
+itembank-3-4:	Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:	Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:	Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:	Correct answers 41 / total questions 75 * 100 = 54.67%
+itembank-2:	Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:	Correct answers 19 / total questions 39 * 100 = 48.72%
+itembank-5-6:	Correct answers 52 / total questions 106 * 100 = 49.06%
+itembank-9a:	Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:	Correct answers 41 / total questions 75 * 100 = 54.67%
+itembank-2:	Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:	Correct answers 18 / total questions 39 * 100 = 46.15%
+itembank-5-6:	Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:	Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:	Correct answers 40 / total questions 75 * 100 = 53.33%
+
+Overall correct answers 619 / total questions 1185 * 100 = 52.24%
+
+
+
+-------------------------------
+System message: Answer this question about phonology, but make sure that you're correct. Don't jump into conclusions, analyse the question from different perspective. Only answer with the letter and text of the answer which you think is correct.
+
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+itembank-2:		Correct answers 80 / total questions 129 * 100 = 62.02%
+itembank-3-4:		Correct answers 18 / total questions 39 * 100 = 46.15%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+itembank-2:		Correct answers 80 / total questions 129 * 100 = 62.02%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+
+Overall correct answers 614 / total questions 1185 * 100 = 51.81%
+
+------------------------------------------------------------------------
+System message: You're a professional of answering questions about phonology. You only answer with the letter and text of the answer which you think is correct. Answer this question:
+
+itembank-2:		Correct answers 78 / total questions 129 * 100 = 60.47%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 39 / total questions 75 * 100 = 52.0%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 38 / total questions 75 * 100 = 50.67%
+ 
+itembank-2:		Correct answers 79 / total questions 129 * 100 = 61.24%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 48 / total questions 106 * 100 = 45.28%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+
+Overall correct answers 600 / total questions 1185 * 100 = 50.63%
+
+------------------------------------------------------------------------
+System message: You're an expert in answering quiz questions about phonology. Only answer with the letter and text of the answer which you think is correct. Make sure that the answer is 100% correct because my life depends on it. Answer this question:
+
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 46 / total questions 75 * 100 = 61.33%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 46 / total questions 75 * 100 = 61.33%
+ 
+
+Overall correct answers 631 / total questions 1185 * 100 = 53.25%
+
+------------------------------------------------------------------------
+System message: You're an expert in answering quiz questions about phonology. Only answer with the letter and text of the answer which you think is correct. Make sure that the answer is 100% correct because my life depends on it. Answer this question:
+
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 49 / total questions 106 * 100 = 46.23%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 44 / total questions 75 * 100 = 58.67%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 45 / total questions 75 * 100 = 60.0%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 52 / total questions 106 * 100 = 49.06%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 44 / total questions 75 * 100 = 58.67%
+ 
+
+Overall correct answers 633 / total questions 1185 * 100 = 53.42%
+
+------------------------------------------------------------------------
+System message: You are the world's best professional at answering questions about phonology. Please, only answer with the letter and text of the answer which you think is correct. Answer this question:
+
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 49 / total questions 106 * 100 = 46.23%
+itembank-9a:		Correct answers 18 / total questions 46 * 100 = 39.13%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 18 / total questions 46 * 100 = 39.13%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 84 / total questions 129 * 100 = 65.12%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 52 / total questions 106 * 100 = 49.06%
+itembank-9a:		Correct answers 18 / total questions 46 * 100 = 39.13%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+
+Overall correct answers 634 / total questions 1185 * 100 = 53.5%
+
+------------------------------------------------------------------------
+System message: You are the world's best professional at answering questions about phonology. Please, only answer with the letter and text of the answer which you think is correct. Answer this question:
+TEMPERATURE 1.0
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 49 / total questions 106 * 100 = 46.23%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 38 / total questions 75 * 100 = 50.67%
+ 
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 54 / total questions 106 * 100 = 50.94%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 38 / total questions 75 * 100 = 50.67%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 9 / total questions 46 * 100 = 19.57%
+itembank-9b:		Correct answers 44 / total questions 75 * 100 = 58.67%
+ 
+
+Overall correct answers 608 / total questions 1185 * 100 = 51.31%
+
+------------------------------------------------------------------------
+System message: You are the world's best professional at answering questions about phonology. Please, only answer with the letter and text of the answer which you think is correct. Answer this question:
+TEMPERATURE 0.5
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+itembank-2:		Correct answers 79 / total questions 129 * 100 = 61.24%
+itembank-3-4:		Correct answers 15 / total questions 39 * 100 = 38.46%
+itembank-5-6:		Correct answers 55 / total questions 106 * 100 = 51.89%
+itembank-9a:		Correct answers 18 / total questions 46 * 100 = 39.13%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+
+Overall correct answers 618 / total questions 1185 * 100 = 52.15%
+
+------------------------------------------------------------------------System message: You are an expert in the field of phonology with extensive knowledge and experience. Your task is to answer multiple-choice questions accurately and concisely. Please provide only the letter corresponding to your chosen answer, followed by the text of that answer. Do not include any additional information or explanation. Answer the following question:
+
+itembank-2:		Correct answers 84 / total questions 129 * 100 = 65.12%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 52 / total questions 106 * 100 = 49.06%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+itembank-2:		Correct answers 85 / total questions 129 * 100 = 65.89%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 52 / total questions 106 * 100 = 49.06%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+ 
+itembank-2:		Correct answers 85 / total questions 129 * 100 = 65.89%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+
+Overall correct answers 625 / total questions 1185 * 100 = 52.74%
+
+------------------------------------------------------------------------System message: You are an expert in the field of phonology with extensive knowledge and experience. Your task is to answer multiple-choice questions accurately and concisely. Please provide only the letter corresponding to your chosen answer, followed by the text of that answer. Do not include any additional information or explanation. Answer the following question:
+
+itembank-2:		Correct answers 84 / total questions 129 * 100 = 65.12%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+itembank-2:		Correct answers 85 / total questions 129 * 100 = 65.89%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 49 / total questions 106 * 100 = 46.23%
+itembank-9a:		Correct answers 17 / total questions 46 * 100 = 36.96%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+ 
+
+Overall correct answers 622 / total questions 1185 * 100 = 52.49%
+
+------------------------------------------------------------------------Temperature: 0
+
+System message: You are an expert in the field of phonology with extensive knowledge and experience. Your task is to answer multiple-choice questions accurately and concisely. Please provide only the letter corresponding to your chosen answer, followed by the text of that answer. Do not include any additional information or explanation. Answer the following question:
+
+itembank-2:		Correct answers 87 / total questions 129 * 100 = 67.44%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 17 / total questions 46 * 100 = 36.96%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+
+Overall correct answers 211 / total questions 395 * 100 = 53.42%
+
+------------------------------------------------------------------------
+
+Temperature: 0
+
+System message: You are an expert in the field of phonology with extensive knowledge and experience. Your task is to answer multiple-choice questions accurately and concisely. Please provide only the letter corresponding to your chosen answer, followed by the text of that answer. Do not include any additional information or explanation. Answer the following question:
+
+itembank-2:		Correct answers 84 / total questions 129 * 100 = 65.12%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 17 / total questions 46 * 100 = 36.96%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+itembank-2:		Correct answers 84 / total questions 129 * 100 = 65.12%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 53 / total questions 106 * 100 = 50.0%
+itembank-9a:		Correct answers 18 / total questions 46 * 100 = 39.13%
+itembank-9b:		Correct answers 40 / total questions 75 * 100 = 53.33%
+ 
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 53 / total questions 106 * 100 = 50.0%
+itembank-9a:		Correct answers 17 / total questions 46 * 100 = 36.96%
+itembank-9b:		Correct answers 41 / total questions 75 * 100 = 54.67%
+ 
+
+Overall correct answers 632 / total questions 1185 * 100 = 53.33%
+
+
+------------------------------------------------------------------------
+Temperature: 0
+System message: You're an expert in answering quiz questions about phonology. Only answer with the letter and text of the answer which you think is correct. Make sure that the answer is 100% correct because my life depends on it. Answer this question:
+
+itembank-2:		Correct answers 84 / total questions 129 * 100 = 65.12%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 44 / total questions 75 * 100 = 58.67%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 53 / total questions 106 * 100 = 50.0%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+
+Overall correct answers 630 / total questions 1185 * 100 = 53.16%
+
+
+------------------------------------------------------------------------
+
+Temperature: 0
+System message: You're an expert in answering quiz questions about phonology. Only answer with the letter and text of the answer which you think is correct. Make sure that the answer is 100% correct because my life depends on it. Answer this question:
+
+itembank-2:		Correct answers 85 / total questions 129 * 100 = 65.89%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 13 / total questions 46 * 100 = 28.26%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+itembank-2:		Correct answers 83 / total questions 129 * 100 = 64.34%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 47 / total questions 106 * 100 = 44.34%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+itembank-2:		Correct answers 79 / total questions 129 * 100 = 61.24%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 48 / total questions 106 * 100 = 45.28%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 46 / total questions 75 * 100 = 61.33%
+ 
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 15 / total questions 39 * 100 = 38.46%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 80 / total questions 129 * 100 = 62.02%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 45 / total questions 75 * 100 = 60.0%
+ 
+itembank-2:		Correct answers 81 / total questions 129 * 100 = 62.79%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 15 / total questions 46 * 100 = 32.61%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 86 / total questions 129 * 100 = 66.67%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 48 / total questions 106 * 100 = 45.28%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 43 / total questions 75 * 100 = 57.33%
+ 
+itembank-2:		Correct answers 85 / total questions 129 * 100 = 65.89%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 50 / total questions 106 * 100 = 47.17%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 45 / total questions 75 * 100 = 60.0%
+ 
+itembank-2:		Correct answers 82 / total questions 129 * 100 = 63.57%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 14 / total questions 46 * 100 = 30.43%
+itembank-9b:		Correct answers 44 / total questions 75 * 100 = 58.67%
+ 
+itembank-2:		Correct answers 81 / total questions 129 * 100 = 62.79%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 51 / total questions 106 * 100 = 48.11%
+itembank-9a:		Correct answers 16 / total questions 46 * 100 = 34.78%
+itembank-9b:		Correct answers 42 / total questions 75 * 100 = 56.0%
+ 
+
+Overall correct answers 2073 / total questions 3950 * 100 = 52.48%
+
+
+------------------------------------------------------------------------
+

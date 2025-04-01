@@ -1,0 +1,22 @@
+
+On several occasions I have hinted at the fact that while in HAPPY-tensing a short vowel turned into a diphthong, or rather, as we now see, a short vowel, [i], followed by a consonant, [j], in VALUE-tensing it is a diphthong, that is, the short vowel [u] followed by the consonant [w] that did not lose its glide. The same holds for unstressed GOAT: this vowel is [əw] (or, rather, [ow]) historically, and it may lose its [w]. But this loss may never occur prevocalically, and even word finally, it is a rare event (e.g., fellow [feləw] ]). However, both unstressed GOOSE and unstressed GOAT may lose their glide before a consonant. So unite may be [juwnajt] or [junajt],volume may be [voljuwm] or [voljum]. We find similar alternations with unstressed GOAT (as we have already seen above in the case of Jones’s variable [ou]): obey [ə(w)bej], Eothen [ıjə(w)qen]. In fact, the glide is obligatorily dropped before an unstressed syllable: while stimulate varies, [stımju(w)lejt], stimulus does not, [stımju(pw)ləs]; advocaat [advə(w)kaː] vs. advocate [advə(pw)kət]. The distribution of the three unstressed free vowels is shown in (10).
+	(10)	The distribution of the unstressed free vowels
+
+_C
+_#
+_V
+ij
+no
+yes
+yes
+əw
+variable/no
+yes
+yes
+uw
+variable/no
+yes
+yes
+All members of the vowel inventory of English may occur before a consonant. In fact, it is probably universally true that the distribution of vowels may be curtailed word finally or prevocalically, but not preconsonantally. Yet, unstressed FLEECE fails to occur in this position and unstressed GOOSE and GOAT also may or must lose their offglide in preconsonantal position. Why should that be so?
+   I argue that this follows from the unstressability scale presented in (7). The three “diphthongs” [ij], [əw], and [uw] are heavy before a consonant, but light before a vowel and word finally only if they are vowelþconsonant sequences. Since the strings under discussion are expected to be high on the unstressability scale, but diphthongs, which are VV, are at the bottom of that scale, they had better not be analysed as diphthongs.
+

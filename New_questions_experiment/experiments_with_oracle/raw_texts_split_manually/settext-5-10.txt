@@ -1,0 +1,41 @@
+
+7.6. TONIC PLACEMENT 
+ 
+This section will examine the rules for tonic placement, that is, choosing the word that receives the strongest (= last major) stress in a tone unit.10 The place of the tonic can be neutral11 (i.e. unmarked), or dislocated (i.e. marked, typically contrastive). The neutral tonic has no special communicative value, and is prescribed by general rules. The dislocated tonic is placed by the speaker on some other word than where it would normally fall, in order to express some communicative surplus by highlighting some element. 
+
+7.6.1. Neutral Tonic 
+ 
+7.6.1.1. On the last content word 
+The neutral tonic falls on the last content-word of the tone-unit. This is the Last ContentWord Rule. If the last words are function-words, they remain unstressed because these are not “tonic-bearing”. The neutral tonic is mechanically assigned: the tonic need not be the most “important” or communicatively most informative word. For example: 
+ 
+ 	′Pat’s ′father is an ex′tremely ′rich  man. 	 	I ′hope you can rermember them. 
+ 	A′manda ′made some de′licious ′fruit fsalad.  	′What was your umubrella like?  	′Turn ′left towards the  car ferry. 	 	 	They ′couldn’t .wait for us. 
+ 
+ 
+7.6.1.2. On a function-word 
+The neutral tonic may, in well-defined cases, fall on some function word. We will discuss only two of these cases: neutral tonic on an auxiliary, and on an adverbial particle. 
+
+ Neutral tonic and auxiliaries. An auxiliary (including the finite forms of be, do, have) has the tonic if there is no further stressable word in the sentence: ′Yes, we )may.  –  ′Jim ′always .does. – This includes questions where the auxiliary is followed by its unstressed personal pronoun subject: ′How ex′pensive .is it?  –  ′Where  am I?  –  ′How  are you? 
+However, when a sentence-final auxiliary is preceded by its own stressed subject, the tonic falls on the subject and the auxiliary is unstressed (but strong, i.e. tertiary-stressed!): 
+ 	You ′play ′better than  Joe does. 	 	I ′wonder ′when the eexam will be. 
+ 	′That’s the ′pub where my  friends are. 	It ′fits me ′better than .yours would. 
+A final auxiliary is never reduced to zero stress.  
+ 
+Neutral tonic and adverbial particles. An adverbial particle12 forms part of a phrasal verb: 
+get up, put off. The particle has no weak form, and is usually stressed:  
+ 	You should ′get ′up before  six. – I ′couldn’t ′ring you ′back on  Tuesday. 
+ Sentence-finally (possibly followed by non-stressable words), it can have two kinds of stressing: 
+(a) It is tonic-bearing after a verb or after an unstressed pronoun: 
+ 	′Get  up! 	 	′Please ′put that !down. 	    The ′meeting was ′called .off.  	′It’ ˈhard to ˈget .out of it. 	 	′Shall I ′wrap one  up for you? 
+(b) It is unstressed after a noun. This is the only case when a final adverbial particle is unstressed: 
+ 	′Take your  coat off! 	 	 	 	′Tim’s ′got to ′call his !mother back. 
+ 	′Please ′put that  gun down. 	 	 	′Liz ′promised to ′put the .children up. 
+The verb before the particle may lose its stress due to Medial Stress-Deletion, as break in The ′car ′didn’t obreak  down. A phrasal verb is thus stressed either on both components (′get 
+′up), or on the particle only (get ′up). 
+ Let us remark that prepositions behave differently from adverbial particles in syntax as well as in prosody. Laugh at, deal with, sit on are Prepositional verbs13 (verbs requiring a prepositional complement), while call off, break up, put on are Phrasal Verbs (Verb + Adverbial Particle). There is a syntactic differene: I [put on] the hat – I sat [on the hat]. A preposition normally appears in a reduced (“weak”) form, while adverbial particles have no weak form. The words at, for, from, of, to, with, without are only used as prepositions, never as adverbial particles, while other words (up, off, etc.) can function as either. 
+ 	A phrasal verb may be followed by a preposition, e.g. hang on to (‘insist’), get away with 
+(‘escape’), go in for (‘enjoy’). The stress of such combinations follows the rules outlined so far: the adverbial particle is stressed, the preposition unstressed. Examples: 
+ 	′Don’t hang ′on to this ′stupid iidea. 	 	′Don’t hang .on to it. 
+ 	′What is he ′hanging  on to? 	 	 	′Don’t hang ′on to  THAT! 
+ 
+ 

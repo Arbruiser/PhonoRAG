@@ -1,0 +1,50 @@
+
+5.4 Current status of vowel contrasts of CuBE 
+We have now discussed a fair number of historical vowel changes to be able to see their effect on CuBE from a synchronic point of view. As phonologists, we have to ask ourselves how these changes impacted on the distribution of vowels and what generalisations we can draw from this. Look (53) where we have collected all the possible environments where checked (short) vowels and R-vowels can occur. (53) Checked vowels vs R-vowels in CUBE 
+ 
+In (53) you can see that the checked vowels a o ɪ ə and the R-vowels ɑː oː ɪː əː can be found in the same set of environments, both before any consonant that is not R and before R/r. From a synchronic point of view, we must say that the checked vowels a o ɪ ə and the R-vowels ɑː oː ɪː əː are phonemes of the language (= you can have minimal pairs with them; they are contrastive in CuBE). Before onset R both long and short vowels can be found (Várro a vs Guevára ɑː), before coda consonants both short and long vowels can be found (van a vs vase ɑː), before onset Cs other than R both short and long vowels can be found (vanish a vs varnish ɑː). There are no constraints on the vowels. A constraint that remains to this day is the one preventing R from occurring in the coda (= R-dropping), which is why we can’t have any of the free vowels/diphthongs, checked vowels or R-vowels of CuBE before coda R (*bɑːrn, *koːrn, *pɛːr, *barn, *kɔrn, *pɛrk, *kɛjr, *təwr, *lɑjrt, etc.). Of the free vowels (= diphthongs) of 
+CuBE only ɛj and əw can’t be found before onset R (*kəwrɪj, *mɛjrə), the rest of the diphthongs can (see (54)). 
+(54) Distribution of vowels before R in CuBE 
+Classes of Vs 
+__R{#, C} 
+__RV 
+checked Vs 
+NO 
+YES 
+(barrow a) 
+R-vowels 
+NO 
+YES 
+(tiara ɑː) 
+Free Vs 
+(diphthongs) 
+NO 
+YES 
+(serious ɪj, fiery ɑj, Moira oj, rural ʉw) 
+NO 
+*əwrV 
+*ɛjrV 
+ 
+(55) Distribution of vowels before Cs other than R in CuBE 
+Classes of Vs 
+__C# (C ≠ R/r) 
+__CV 
+(C ≠ R/r) 
+checked Vs 
+YES 
+(cat a) 
+YES 
+(callous a) 
+R-vowels 
+YES 
+(vase ɑː) 
+YES 
+(tomato ɑː) 
+Free Vs 
+(diphthongs) 
+YES 
+(late ɛj) 
+YES 
+(caper ɛj) 
+ 
+Tables (54) and (55) summarise what we can say about the distribution of vowels in CuBE before R from a synchronic point of view. This is where a synchronic analysis stops. We have, however, untangled some of the diachronic reasons that lie behind this synchronic distribution in this chapter. You have had a taste of how diachronic linguistics work. Observe (56) for a summary of the rules that we discussed in connection with SSE, GA and SSBE (CuBE). 

@@ -1,0 +1,17 @@
+
+6 Long vowels
+We do not intend to take a firm stand on the status of long vowels in this paper. The following observations seem to be worth pointing out though.
+
+In accent D (New Zealand Acrolect) flapping occurs between two vowels only if the first vowel is short: it occurs neither after diphthongs (eg mitre *májɾə), nor after long vowels (eg martyr *máːɾə). We have argued that the absence of flapping after diphthongs is explainable if diphthongs are taken to be VC sequences, ie if a t is not in intervocalic position after a diphthongal offglide. If flapping also fails to occur after a long vowel then one may think this is also because such a consonant is not between two vowels, ie a long vowel is also a vowel followed by a consonant.
+
+The absurdity of this claim is lessened by two considerations: (i) most long vowels of current British English are the result of compensatory lengthening accompanying the loss of an earlier r (eg fort foːt) or h (eg fought foːt), (ii) these two consonants and the length mark, ː, are in complementary distribution.
+
+However, we do not need to assume that current British English foːt is in fact fort or foht, it is enough to postulate that the second part of a long vowel is associated to a consonantal position in the skeleton, assuming an autosegmental representation. Thus the representation of oː in English would not be that shown in (20a), but that shown in (20b).
+
+(20)
+a.	V  V		b.	V  C
+	| /			| /
+	o			o	
+In other words, a long vowel is not a “branching nucleus”, but a nucleus followed by a “coda”. This explains the lack of flapping in accent D.
+
+We will use the symbol h to represent the vowel associated with a consonantal position. Note that this is the standard practice in the case of prevocalic “h”: the symbol h represents a sound that is phonetically a vowel, but phonologically a consonant in transcriptions like hit, hen, hat, etc. Thus oh is used to transcribe a long vowel which is linked to both a vocalic and a following consonantal position. The second part of this entity is also phonetically a vowel, phonologically a consonant.

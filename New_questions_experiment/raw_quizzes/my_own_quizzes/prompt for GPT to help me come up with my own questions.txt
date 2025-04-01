@@ -1,0 +1,111 @@
+*pasted article*
+This is a phonological article. I need to come up with difficult quiz questions that you can only answer after reading the article. I will be pasting you parts of this article now together with questions and correct answers. Your task is to correct spelling and punctuation mistakes, add wrong answers and to format the question accordingly. Make sure that the options don't make it obvious which answer is correct.
+
+The format is like this:
+== cat 100
+In English, what is the underlying laryngeal property of the past tense morpheme -ed?
+# Voiceless
+# ! Lenis
+# Fortis
+# Nasalized
+
+Where == cat is the number of questions (start with 101)
+then question
+then options introduced with # . Correct answer marked with !
+
+Do you understand?
+
+
+
+
+Questions were corrected, with redundancies removed (like "What is preglottalization *in the context of phonetic cues for laryngeal contrast*"), questions with two possible correct answers changed to have only one.
+
+
+
+
+Example of prompting GPT with questions/answers:
+To account for the absence of aspiration in fortis fricative + plosive clusters, we may resort to referring to syllables. Note that we said earlier that a fortis plosive can be aspirated at the beginning of a word or at the beginning of a stressed syllable. This condition is not fulfilled in s[p]eak, s[k]ool and di.s[k]ó.ve.ry, as their plosives are not word- or syllable-initial, so we indeed expect them not to be aspirated. However, there is no aspiration in words like fíf[t]éen or káf[t]an either. The absence of aspiration could fall out of our syllable-based analysis only if we assumed the following syllabifications: fí.f[t]éen or ká.f[t]an, ending up with a syllable-initial /ft/ cluster, which does not occur word-initially. This leads to a peculiar situation since the occurrence of a consonant cluster in syllable-initial position is generally taken to imply the occurrence of that cluster in word-initial position too (therefore, e.g., atlas is to be syllabified as at.las and not as *a.tlas because /tl/ is not a possible word-initial cluster).
+
+question 1 answer: syllables
+question 2: when can a fortis plosive be aspirated? - at the beginning of a stressed syllable
+question 3: which condition for voicing is not fulfilled in words like s[p]eak, s[k]ool and di.s[k]ó.ve.ry? - a fortis plosive can only be aspirated at the beginning of a word or at the beginning of a stressed syllable
+question 4: why is there no aspiration in fíf[t]éen or káf[t]an? 
+
+GPT's response:
+== cat 127
+To account for the absence of aspiration in fortis fricative + plosive clusters, what concept can we refer to?
+# Stress patterns
+# Nasalization
+# Vowel length
+# ! Syllables
+
+== cat 128
+When can a fortis plosive be aspirated?
+# ! At the beginning of a stressed syllable
+# After a nasal consonant
+# In a word-final position
+# Following a voiced vowel
+
+== cat 129
+Which condition for voicing is not fulfilled in words like s[p]eak, s[k]ool, and di.s[k]ó.ve.ry?
+# Fortis obstruent following a nasal
+# Lenition of the vowel
+# Aspiration after a voiceless fricative
+# ! A fortis plosive can only be aspirated at the beginning of a word or at the beginning of a stressed syllable
+
+== cat 130
+Why is there no aspiration in fíf[t]éen or káf[t]an?
+# They end with a vocalic sound
+# The preceding vowel is nasalized
+# ! Because they form syllable-initial /ft/ clusters that do not appear word-initially
+# Due to surrounding voiceless fricatives
+
+Then question 130 was corrected to have a more clear correct answer:
+== cat 130
+Why is there no aspiration in fíf[t]éen or káf[t]an?
+# They end with a vocalic sound
+# The preceding vowel is nasalized
+# ! Because the plosives are not at the beginning of a word or a stressed syllable
+# Due to surrounding voiceless fricatives
+
+---------
+
+Another example: 
+
+Prompt:
+Sets of vowels potentially categorized as diphthongs in English a. PRICE, MOUTH, CHOICE b. FACE, GOAT c. FLEECE, GOOSE d. NEAR, SQUARE, FORCE, CURE
+Practically all accounts of English take the vowels in (1a) to be diphthongs.1 Accounts of British English2 count the vowels in (1b) to be diphthongs too, those of American English are varied (diphthongs in Chomsky & Halle 1968; monophthongs in Kenyon & Knott 1953 or Giegerich 1992). Sweet (1900) transcribes FLEECE and GOOSE as [flijs] and [guws], it is only Jones (1917) who (wrongly, as I will argue) alters the British tradition, and introduces the currently prevalent monophthongal symbols [iː] and [uː] for the vowels in (1c). American accounts again vary, the typical case is to lump the vowels in (1b) and (1c) together, either as diphthongs ([ey], [ow]; [iy], [uw]) or as (tense) monophthongs ([e], [o]; [i], [u], respectively). The vowels of the last group, (1d), are vowelþ[r] sequences in rhotic American English, occasionally centring diphthongs. In British English they were diphthongs at the beginning of the last century, but have all gradually monophthongized. This is reflected in the transcription of FORCE by Jones (1917): [fɔːs] (vs. Sweet’s [fɔəs]); CURE and SQUARE by Upton (1995): [kjɔː] (vs. Gimson’s [kjʊə], 1962; already mentioned in Jones 1917) and [skwɛː] (vs. Gimson’s [skweə]), and also NEAR by Lindsey (2012a, 2019): [nɪː] (vs. Upton’s [nɪə]). I take all the vowels of (1d) to be long monophthongs, and all the vowels of (1a–c) to be “diphthongs”, or more precisely, not single monophthongal vowels. This categorization is based on the distribution of these vowels, to which we turn presently
+
+Practically all accounts of English take the vowels in which set to be diphthongs? - price, mouth
+Which English accent counts the vowels of face, goat to be diphthongs? - British English
+Who first transcribed fleece and goose with a V+glide? - Sweet (1900) 
+Who alters the British tradition, and introduces the currently prevalent monophthongal symbols [iː] and [uː] for the vowels in fleece and goose? - Jones (1917)
+
+GPT's response that didn't need correction: 
+== cat 401
+Practically all accounts of English take the vowels in which set to be diphthongs?
+# NEAR, SQUARE
+# FACE, GOAT
+# ! PRICE, MOUTH
+# FLEECE, GOOSE
+
+== cat 402
+Which English accent counts the vowels of FACE, GOAT as diphthongs?
+# ! British English
+# Australian English
+# American English
+# Canadian English
+
+== cat 403
+Who first transcribed FLEECE and GOOSE with a V+glide?
+# Chomsky & Halle (1968)
+# ! Sweet (1900)
+# Gimson (1962)
+# Kenyon & Knott (1953)
+
+== cat 404
+Who alters the British tradition and introduces the currently prevalent monophthongal symbols [iː] and [uː] for the vowels in FLEECE and GOOSE?
+# Upton (1995)
+# ! Jones (1917)
+# Lindsey (2012a, 2019)
+# Giegerich (1992)

@@ -1,0 +1,293 @@
+﻿No diphthong, no problem
+
+“Glides only occur prevocalically in English” is a claim very often made by people teaching English phonology. There always are smart students who soon object: “what about lie or like, low or load?” It is not easy to convincingly argue that these words do not contain a word-final or a preconsonantal glide. Perhaps this is because they do.
+
+According to a recent description, the vowel system of British English consists of three sets of vowels: short monophthongs, diphthongs, and long monophthongs. Each set contains five, six, or seven members, totalling 18 or 19 vowel types. In this paper my aim is to show that the vowel system of British English is way simpler than that, it consists of no more than six short vowels, i e a o u and ə. Anything beyond that, ie long vowels and diphthongs, are simply combinations of one of the six short vowels and a glide, ie a consonant. The analysis revives an unjustly forgotten idea, originally presented by Trager & Bloch (1941).
+
+We will first get acquainted with the three sets of vowels Lindsey distinguishes, including a phonotactic justification for these sets (§1). This is followed by an examination of the diphthongs, whether it is indeed the case that the two parts of a diphthong are phonotactically dependent, and whether this would be relevant if it were true (§2). The next section (§3) looks at a curious phonotactic gap in English, namely, three glides, j w h, appear not to occur after a short stressed vowel. We will then look at epenthesis in English, which seems to treat diphthong+liquid sequences as consonant clusters (§4). Potential counterarguments against our proposal are listed in §5. The last but one section (§6) tentatively extends the analysis of diphthongs to long vowels. Conclusions end the paper (§7).
+
+1 Three sets of vowels
+We begin by introducing the three sets of vowels: short monophthongs (§1.1), diphthongs (§1.2), and long monophthongs (§1.3). As we will see these are not only phonetic categories, but — more importantly — phonological, ie phonotactic ones (§1.4). The vowel inventory of British English may be divided by the most general phonotactic patterns.
+^^^
+1.1 Short monophthongs
+Lindsey (2012) distinguishes the six short vowels shown in (1).
+
+(1)
+kit	ɪ	foot	ɵ
+dress	ɛ	lot	ɔ
+trap	a	strut	ə
+Contrary to the British transcribing tradition, Lindsey does not necessarily use separate symbols for schwa and the vowel of strut. This is justifiable because these two vowels do not contrast: schwa only occurs in unstressed syllables, strut only in stressed syllables. The difference between the vowels of blunderers and blunderbuss may be seen as one of stress: blə́ndərəz vs blə́ndəbə̀s. It is exactly because of this difference in their distribution that pedagogically oriented works employ the symbol ʌ for strut, despite the fact that a schwa, especially word finally, can be phonetically equivalent to strut (Jones 1922: §493, 1960: §362).
+
+Lindsey’s symbols — like most other symbol sets used for transcribing British English — aim to be phonetically precise. The advantages of this practice are clear, but there are certain disadvantages too. The inventory in (1) looks quite alien, in fact the totally unfamiliar symbols do not help the everyday language learner, who form the vast majority of the consumers of these transcriptions. If one has to explain how a symbol like ɵ ought to be pronounced anyway, one might consider using something simpler. This simplification is also desirable in a theoretically oriented approach, because it lets the analyst posit a system. This is why we are going to use alternative, but very familiar symbols in this paper. (2) is a recoded version of (1).
+
+(2)
+kit	i	foot	u
+dress	e	lot	o
+trap	a	strut	ə
+The symbols in (2) enable a fairly broad transcription, but in return they show that English may be seen as yet another language having the wide-spread five-vowel system supplemented with schwa. Finally, let us quote Bloomfield: “The shapes of the graphic symbols scarcely deserve discussion. The reader who prefers the symbol [æ] where I use [ɛ] does not need any factual basis to justify his preference” (1935: 98). Mutatis mutandis, this consideration is valid for all of our symbol replacements.
+^^^
+1.2 Diphthongs
+There is consensus on what the short vowels of English are, idiosyncrasies of inventories boil down to symbol choice only. As has been shown, using schwa for strut is also a “symbolic” question after all. The case is different with the set of diphthongs Lindsey posits.
+
+The vowels of price, mouth, and choice are analysed (ie transcribed) as diphthongs in most transcription systems of English. The American tradition often has monophthongal symbols for face (e) and goat (o), but the British tradition is also rather consistent in seeing these two vowels as diphthongs too. fleece and goose, on the other hand, are consistently taken to be long monophthongs (iː and uː), from Jones (1918)Daniel Jones, An Outline of English Phonetics, Leipzig: Teubner onwards. Interestingly, these vowels were transcribed as ij and uw by Sweet (1900)Henry Sweet, A New English Grammar: Logical and Historical. Oxford: Clarendon Press. at the end of the 19th century, and Jones and his successors do not fail to mention that these two vowels are often pronounced as diphthongs. As we will see below, there is robust distributional evidence that they are diphthongs.
+
+Accordingly, Lindsey represents them so.
+
+(3)
+fleece	ɪj	goose	ʉw
+face	ɛj	goat	əw
+choice	oj
+price	ɑj	mouth	aw
+Just as in the case of short vowels, we could and will use a set of simpler vowel symbols, shown in (4).
+
+(4)
+fleece	ij	goose	uw
+face	ej	goat	əw
+choice	oj
+price	aj	mouth	aw
+The diphthongs of British English may end in one of two types of offglide, i̯ or u̯. Gimson’s (1962) innovation that these should be transcribed by ɪ and ʊ might have been phonetically exact for Received Pronunciation in the middle of the 20th century, but even then it was unnecessarily overprecise. The vowel symbols i and u are not particularly fortunate either for indicating the offglide of a diphthong, because they represent syllabic segments, which diphthongal offglides are not. Nonsyllabicity can be represented by a diacritic, as i̯ and u̯, but using the phonetically equivalent symbols j and w is an even simpler and just as adequate solution.
+
+Readers familiar with the Jones/Gimson tradition of the transcription of British English may find the set of diphthongs lacking three members, the so called centring diphthongs, the vowels of near, square, and cure. Following Lindsey, we analyse these three vowels as long monophthongs, which we will discuss presently.
+^^^
+1.3 Long monophthongs
+We have already seen that Lindsey departs from the traditional classification of the nonshort vowels: fleece and goose are analysed as diphthongs, near, square, and cure as long monophthongs. square is clearly a monophthong, and began to be transcribed as such by Upton (1995). Its status is rather similar to that of force, for which Jones records a diphthongal ɔə pronunciation almost a century ago, but he deems it obsolete already in those days. The reason force became established as a monophthong is that separate symbols for it and north could not be maintained once the two vowels ceased to contrast. The homophonous pair mourning and morning cannot be transcribed differently, with ɔə and ɔː. On the other hand, nothing forced the introduction of the monophthongal symbol for square, since this vowel did not merge with any other vowel of the British inventory, so the “phonetically precise” symbol ɛː turned up only at the end of the 20th century.
+
+Both near and cure are more variable than square, but in different ways. near is usually monophthongal before a consonant, especially before r: eg hero hɪːrəw, nearer nɪːrə, pierce pɪːs, here you are hɪː juw ɑː. Utterance finally this vowel may split up into two syllables, the diphthong ij followed by schwa: you're here joː hijə. This kind of variation is found in other vowels too: eg fire fajə vs fire brigade faː brəgejd, sour sawə vs sour sauce saː soːs.
+
+cure, on the other hand, has split into two different vowels for some speakers. After palatal consonants these speakers pronounce either the long version of foot (eg cure kjɵː, jury ʤɵːrij, sure ʃɵː), or they merge this vowel with nurse (kjəː, ʤəːrij, ʃəː). Elsewhere cure has merged with force: eg poor poː, tour toː, gourmand goːmənd. Let us call this phenomenon the Poor–Cure Split. Speakers who do not have the Poor–Cure Split have cure and force merged in all environments: eg cure kjoː, jury ʤoːrij, sure ʃoː, poor poː.
+
+The rest of the long monophthongs have been analysed as such in the British tradition throughout the 20th century. (5) gives Lindsey’s list of long monophthongs.
+
+(5)
+near	ɪː	(cure	ɵː)
+square	ɛː	force/north/thought/cure	oː
+start/bath/palm	ɑː	nurse(/cure)	əː
+Just as in the case of short vowels and diphthongs, the transcription of long monophthongs could also be simplified by using mostly standard orthographical symbols, as shown in (6).
+
+(6)
+near	iː	(cure	uː)
+square	eː	force/north/thought/cure	oː
+start/bath/palm	aː	nurse(/cure)	əː
+Some speakers with the Poor-Cure Split have six long monophthongs, others with the split (who merge cure and nurse after palatals) and those without the split (who merge cure and force unconditionally) have only five.
+
+The chart in (7) summarizes the long vowels of the three accents, comparing them to “classical RP”, the system of Jones. It can be seen that “split” accents are those that have distinct vowels in cure and poor. The last two accents, split 2 and no split, both have the same five long vowels, but their lexical incidence differs in cure.
+
+(7)
+		near	square	start	nurse	cure	poor	force
+“RP”		iə	ɛə	ɑː	əː	uə	uə	ɔː
+split 1		iː	eː	aː	əː	uː	oː	oː
+split 2		iː	eː	aː	əː	əː	oː	oː
+no split	iː	eː	aː	əː	oː	oː	oː
+1.4 Vowel phonotactics
+It has already been hinted at that the main reason for analysing diphthongs as diphthongs and long monophthongs as long monophthongs is not because they are pronounced so, but because they form natural classes with respect to the environments they occur in. We will now look at these environments.
+
+The broadest categories of speech sounds are consonant and vowel. To this we may add a third, morphological category, the end of the word, ie a free morpheme. The three kinds of vowel mentioned above behave differently in whether they may occur before a consonant, before another vowel, or at the end of a word. The distribution is shown in (8).
+
+
+(8)
+			__C	__#	__V
+i e a o u			✓	✗	✗
+iː eː aː oː (uː) ə		✓	✓	✗
+ij ej aj aw oj uw əw	✓	✓	✓
+The short vowels with the exception of unstressed schwa may only occur before a consonant, they are never found either word finally, or before another vowel. Stressed “schwa”, ie strut, is like the other short vowels, it cannot occur word finally.
+
+Interestingly, unstressed schwa patterns with long monophthongs: these vowels may occur at the end of a word, but not before another vowel (cf the a similar pattern in Dutch, noted by Trommelen 1989, cited by Cyran 2010: 273). Many speakers even insert a consonant, r, after a word-final long monophthong or a schwa if the next word or suffix begins with a vowel: eg draw out droːr awt, drawing droːriŋ.
+
+It is only the diphthongs that occur unconstrained in these three types of environment, ie we can find diphthongs before a consonant, before a vowel, or at the end of a word. There are some constraints on diphthongs before consonant clusters, but while two of the long monophthongs, iː and eː,» never occur before a cluster, all of the diphthongs do. Also uː for those speakers who have it.
+
+We now turn to examining the nonshort vowels of British English, to see if they really constitute complex vowels that are part of the vowel inventory.
+^^^
+2 Parts of a diphthong
+One argument for the integrity of the sequence of a vowel followed by a glide is that not any glide may follow any vowel, ie the two parts of a diphthong are phonotactically related. This may easily be verified if we take another look at the diphthongs of English, shown in (9).
+
+(9)
+
+	j		w
+i	ij fleece	
+e	ej face	
+a	aj price	aw mouth
+o	oj choice	
+u			uw goose
+ə			əw goat
+The distribution of the two glides after the short vowels is almost complementary, there is one exception: both glides occur with a as their first element. Phonetically these two low vowels are different, the one in aj is more back (hence Lindsey’s symbol ɑj), the other one in aw is more front. We believe that such detail need not be indicated in phonological transcription, which is not concerned with the precise phonetic content of its symbols.»
+Note, for example, that the symbol r is widely used for sounds that are very different from an alveolar trill.
+
+However, very similar charts can be produced about consonants, yet they are not used for arguing for the integrity of these clusters. Consider the facts in (10). (The clusters tj and dj have almost become obsolete in British English, yielding ʧ and ʤ, respectively: tube ʧuwb, during ʤoːriŋ, cf Cruttenden 2014: 83.)
+
+
+
+(10)
+	j		w
+p	pj pure	
+b	bj beauty	
+f	fj few	
+t			tw twin
+d			dw dwell
+θ			θw thwack
+One could argue that these consonants also exist independently of each other in English, so that we have contrasting triplets like pure pjoː, poor poː, and your joː or twin, tin, and win. But the same is true of the two parts of a diphthong: meet mijt vs mint, mate mejt vs melt. So why should diphthongs be treated differently from consonant clusters?
+
+In addition, recent changes in British English are leading towards a system where the gaps of the diphthong space are gradually filled in. A very important development in this direction is the vocalization of nonprevocalic l. As a result of this change, the glide w may occur after any vowel, as (11) shows.
+
+
+(11)
+
+	j			w
+i	ij fleece		iw bill
+e	ej face			ew bell
+a	aj price		aw mouth
+o	oj choice		ow ball
+u				uw goose
+ə				əw goat
+In such a system either one must recognize three further “diphthongs”, iw ew ow, or else mouth cannot be seen as a diphthong. An even more recent development in British English is the fronting of the glides of goose and goat. This change results in these lexical sets having vowel+glide sequences that could be transcribed as uj and əj, respectively (Altendorf & Watt 2004: 191). But, as a result of L vocalization, we are not left without uw and əw as the examples in (12) show.
+
+
+(12)
+	j			w
+i	ij fleece		iw bill
+e	ej face			ew bell
+a	aj price		aw mouth
+o	oj choice		ow ball
+u	uj goose		uw bull
+ə	əj goat			əw dull
+Crucially, however, we do not need a fully saturated vowel+glide chart, like the one in (12), to argue for treating the two parts of a diphthong as separate entities. That is, vowel+glide sequences are not necessarily diphthongs even in accents that only have those listed in (9).
+
+
+
+3 Gaps in glide distribution?
+If we examine the distribution of nonnasal sonorants in English, ie l r j w h, we see that they typically occur in prevocalic environments. In fact, in L vocalizing accents, all these consonants occur exclusively prevocalically. They are, however largely insensitive to the environment that precedes them. This is shown in (13). Note that h occurs before the consonant j (and for some before w too), but only if a stressed vowel follows (eg huge hjúwʤ, what (h)wót). On the other hand, l (and for some r) may also be followed by j, but this time only if an unstressed vowel follows (eg value váljuw, virulent vír(j)ələnt).
+
+
+
+(13)
+
+	l	r	j	w	h
+#__V	lay	ray	yet	wit	hit
+C__V	clay	grey	cute	quit	?
+V__V	allay	array	beyond	away	ahead
+
+If we look at the vowels these consonants occur after in more detail, we find a further difference between them. The distibutions diverge after stressed and after unstressed vowels. This is shown in (14).
+
+(14)
+	l	r	j	w	h
+V__V́	alláy	arráy	beyónd	awáy	ahéad
+V́__V	álly	árrow		(Déwi)	(Drógheda)
+
+We see that while l and r freely occur before unstressed vowels as well as stressed ones, the occurrence of j, w, and h is limited. All three marginally occur before an unstressed vowel, but with various restrictions: typically the preceding vowel must be long or unstressed (eg Darwin dáːwin, Malawi məláːwij, narwhal náːwəl, Ottawa ótəwə; yahoo jáːhuw, Monahan mónəhən; sawyer sóːjə). The vowel before these three consonants, however, cannot be short and stressed (cf Polgárdi 2015 ), we have found only some Celtic names that go against this restriction: Dewi déwij, Drogheda dróhədə, Mulcahy məlkáhij.
+
+Instead of asking why j, w, and h may not occur after a short vowel, let us ask — like our smart students — if this is really the case. We contend that this impression is a result of analysing vowel+glide sequences as diphthongs. In fact, if we take them to be what they are, vowel+glide sequences, then the gap in the distribution of glides disappears. In (15) we list a small subset of the many words that contain a short vowel followed by j or w.
+
+(15)
+neon níjon, crayon kréjən, lion lájən, royal rójəl, vowel váwəl, Noah nə́wə, fuel fjúwəl
+In fact, if we analyse diphthongs in this way, glides will not be impossible word finally or preconsonantally any more. Words like eye aj or toe təw now end in a glide, while others like ice ajs or toad təwd contain preconsonantal glides.
+^^^
+4 Epenthesis
+English has consonant clusters word finally (eg lamp, sink, list, risk, lift, pact). However, not any combination of two consonants is possible at the end of a word. One limiting factor is sonority: the second member of a word-final consonant cluster is typically less sonorous than the first. Many words that entered English with a cluster that conflicted with this requirement were amended by epenthesizing ə between the two consonants: eg French mètre mɛtr > mijtər, Old French temple > tempəl, Late Latin prisma > prizəm. In other cases we find two word-final consonants that are not “different enough” to form a cluster: eg matches maʧ+z > maʧəz or fitted fit+d > fitəd. These are again broken up by epenthesis.
+
+While the clusters mentioned so far are invariably broken up by speakers of English, others are variable in this respect: eg elm elm or eləm, farm faɹm or faɹəm, earn əːɹn or əːɹən, girl gəːɹl or gəːɹəl (Trawick-Smith 2015, also Wells 1982: 435). Standard versions of the sonority hierarchy order these consonants as m = n < l < r (cf Szigetvári 2008 : 95f and references there), so these clusters look acceptable falling sonority clusters. Nevertheless, it seems that the sonority distance between these sounds is not enough for some speakers to maintain the clusters (cf Steriade 1982), which again is cured by epenthesis.
+
+It is remarkable in this light that many speakers of English epenthesize ə between a diphthong and a following r or l, too. Some examples are given in (16).
+
+(16) 
+heed hijd vs heel hijəl, here hijə(r)/hiː/hɪr
+fade fejd vs fail fejəl
+fine fajn vs file fajəl, fire fajə(r)/faː
+coin kojn vs coil kojəl, coir kojə(r)
+down dawn, foul fawl vs flour flawə(r)/flaː
+foam fəwm, foal fəwl/fowl
+moon muwn, fool fuwl vs moor muwə(r)/moː/mʊr
+The sequences of the narrow diphthongs ej and ow/əw plus ə have monophthongized earlier (ejə > eː, as in fair, and owə > oː, as in more), hence we find no bisyllabic examples for them with r in (16b) and (16f). (Such monophthongization is also possible, but not obligatory for most of the other diphthongs, as shown by the variant pronunciations.) The r itself at the end of these words is variably present or absent in different varieties of English. We see that epenthesis always applies before r, but only after a subset of the diphthongs before l. Notably, it is only after diphthongs with a front offglide that we have epenthesis before l. This distribution makes sense if we analyse diphthongs as vowel+consonant sequences. Thus it is the consonant clusters jl, as well as jr and wr that induce epenthesis. We could argue that wl is more stable a cluster because its members are homorganic — at least for speakers who have a velarized l. In any case, it is not easy to see what would force epenthesis between a vowel and a consonant, if diphthongs were seen as vowels. If, however, they are analysed as a vowel and a consonant as here, then epenthesis is expected because a glide and a following liquid are very close to each other in sonority.
+^^^
+5 Counterarguments
+If diphthongs are indeed sequences of a short vowel and a glide (a consonant), then why is there an almost uniform opinion in the literature on English phonology that these sequences are diphthongs? There must be some reason other than the phonotactic interdependence of the vowel and the glide, which, as we have seen, is not necessarily relevant on the one hand, and is disappearing on the other. We will now take a brief look at some further potential reasons.
+
+5.1 History and spelling
+Middle English had seven long vowels, iː eː ɛː aː ɔː oː uː. The quality of these vowels changed considerably in the Great Vowel Shift, and they all became diphthongs: aj ij ij/ej ej əw uw aw, respectively. Diphthongs of Middle English have either merged with these “new” diphthongs (eg the ow of grow with the ɔː > ow/əw of go), or monophthongized (eg the aw > oː of thaw), or remained as is (eg the oj of choice).
+
+English spelling still reflects Middle English in many respects, so diphthongs are often spelled by a single vowel letter, in fact, only two diphthongs, oj and aw, cannot be spelled in this way. Many Middle English long–short alternations developed into a diphthong–short vowel alternation in current English: eg keep kijp–kept, grave grejv–gravity gravətij, mime majm–mimic mimik, south sawθ–southern səðən, holy həwlij–holiday holidej, fool fuwl–folly folij, etc.
+
+Because of this historical burden there is a strong tradition of calling diphthongs “long vowels”: ie ej as “long A”, ij as “long E”, etc. With this background the reluctance of analysing these “vowels” as vowel+consonant sequences is hardly surprising.
+^^^
+5.2 Stress patterns
+There is some reason to believe that the location of word stress in English can be calculated from segmental patterns.
+
+Analysing diphthongs as VC (as opposed to VV) sequences influences stress-calculating algorithms in three cases. Firstly, in verbs final VV and VC is distinguished: the former is stressed, the latter is not (eg agree əgríj vs habit hábit. In fact, this distinction was not clear even in the time of its statement: word-final “long U” had to be listed as an exception (as in argue áːgjuw, continue kəntínjuw). In current English ij and əw also occur in final position in verbs without “attracting” stress (eg carry kárij, follow fóləw). Furthermore, there are VC-final verbs whose final syllable is stressed (eg omit əmít, rebel rəbél). Verbs that end in a diphthong followed by a consonant are stressed on their last syllable exactly like verbs that end in two consonants, so it makes no difference in this case if diphthongs are analysed as VC: both ferment fəmént and cremate krəméjt are stressed on their ult.
+
+Secondly, Chomsky & Halle (1968: 72, 78) claim that a “long vowel” in the last syllable of a word is always stressed. Thus, although polysyllabic nouns are not usually stressed on their ult — which is extrametrical, says Hayes (1982) —, they are when this syllable contains a long vowel: cf arcade aːkéjd vs stipend stájpend. Burzio shows that “there is […] no reason to suppose that long vowels in final syllables are always stressed” (1994: 48–52). The “diphthong” in arcade is stressed like the VCC sequence in defence dəféns and the VCC sequence in stipend is unstressed like the “diphthong” (or, as claimed here, VCC sequence) in decade dékejd.
+
+Thirdly, nouns and adjectives seem to distinguish VV$ and V$C in their penult: a “diphthong” is tautosyllabic, hence it attracts stress, but a vowel followed by a heterosyllabic consonant does not. Since both parts of a diphthong belong to the penult, but a single consonant belongs to the last syllable here, the penult is light in the latter case: cf European jóːrəpíjən vs regimen réʤimən. If the ij in European were a VC sequence, one might argue, then onset maximization would syllabify the j into the last syllable, therefore the CV structure of the last two syllables of these two words would be the same (ijən and imən). Note, however, that there are plenty of words that have the same sequence in their last two syllables, but are stressed on their antepenult (eg Cyclopean sajklə́wpijən, scorpion skóːpijən), what’s more other words that have the latter sequence are stressed on their penult (eg persimmon pəsímən).
+
+We may conclude that “stress rules” cannot be used convincingly to argue for analysing diphthongs either as “long vowels” or as VC sequences.
+^^^
+5.3 “Intervocalic” lenition
+In many accents of English consonants do not retain all their properties in intervocalic position. T-flapping is a well-known example of this phenomenon. Within morphemes in many flapping accents of English t-flapping is restricted to the nonpretonic environment (eg matter máɾə). However, the same kind of lenition also occurs after diphthongs (eg mitre májɾə), which is a problem if diphthongs are to be seen as vowel+consonant sequences, because in this case, the consonant undergoing lenition is not intervocalic.
+
+It is not the case, however, that this type of lenition categorically occurs after vowels, but not after consonants. Let us compare the four types of accent of English shown in (17).
+
+(17)
+	accent
+	A	B	C	D
+matter	ɾ	ɾ	ɾ	ɾ
+martyr	ɾ	ɾ	ɾ	t
+mitre	ɾ	ɾ	ɾ	t
+mantle	ɾ	ɾ	t	t
+Yalta	ɾ	t	t	t
+master	t	t	t	t
+actor	t	t	t	t
+
+Although an overall description of the variation in the distribution of flaps is still to be produced (although see Vaux 2000),  it is clear that there is a graduality in the distribution of the phenomenon. “After a short vowel” appears to be the only environment where flapping occurs for all the accents where it occurs in the first place. What is crucial for us is the difference between accents C and D in (17). This contrast is manifested by New Zealand English Basilect (C) and Acrolect (D) flapping (Bye & de Lacy 2008: 195ff).
+
+We contend that in accent D flapping occurs exclusively in intervocalic position, whereas in accents A, B, and C it may also occur after consonants: the more sonorous the consonant before the flapping site is, the more likely flapping is to occur. It is accent D that categorizes diphthongal offglides — and the second half of long vowels too(!) — together with (other) consonants. The importance of this pattern is that the difference between matter máɾə and mitre májtə (*májɾə) is easily captured if j is a consonant, like s in master mástə (*másɾə).
+^^^
+5.4 “Geminates”
+The last potential argument against VC diphthongs in English that we mention here concerns the constraint on true, ie morpheme-internal, geminates (eg Harris 1994: 18): English lacks this kind of consonant. Long consonants only occur if separated by a strong morpheme boundary, ie there are only fake geminates in the language (like in un#nerved ə́nnə́ːvd, cf Harris 1994: 38).
+
+If we take the offglides of diphthongs to be the same object as the prevocalic glides of yet and wet, then a j-final diphthong followed by j or a w-final diphthong followed by w within a morpheme would create a true geminate, which is not supposed to exist in English. In fact, very few such items are found. (18) contains a list extracted from an online transcription dictionary. The list intends to be exhaustive.
+
+(18)
+jj: dasyure, diuresis, maieutic, pyuria, Shijiazhuang, sukiyaki, Taiyuan, triune
+ww: Beowulf, Hluhluwe, powwow
+Some of the words in (18) are arguably not monomorphemic (eg Beowulf, powwow), others are not nativized (eg Shijiazhuang), yet others may be transcribed by jj because of their spelling, but pronounced with a single j (eg dasyure, diuresis, etc), but most certainly none of these words occur with any significant frequency in English.
+
+Now, it must be admitted that glide+glide sequences are not common in English anyway, we list nonidentical glide clusters in (19).
+
+(19)
+jw: Awacs, Blawith, Chichewa, Ewok, Iwo, kiwi, pewit, Taiwan, Tewa
+wj: alleluia, bouillon, cocoyam, Gruyere, Kikuyu, thuya yoyo
+The scarcity of such clusters may be blamed on the fact that there is very little sonority distance between these two consonants, but crucially the fact that there are constraints here justifies the suspicion that these are consonant clusters.
+^^^
+6 Long vowels
+We do not intend to take a firm stand on the status of long vowels in this paper. The following observations seem to be worth pointing out though.
+
+In accent D (New Zealand Acrolect) flapping occurs between two vowels only if the first vowel is short: it occurs neither after diphthongs (eg mitre *májɾə), nor after long vowels (eg martyr *máːɾə). We have argued that the absence of flapping after diphthongs is explainable if diphthongs are taken to be VC sequences, ie if a t is not in intervocalic position after a diphthongal offglide. If flapping also fails to occur after a long vowel then one may think this is also because such a consonant is not between two vowels, ie a long vowel is also a vowel followed by a consonant.
+
+The absurdity of this claim is lessened by two considerations: (i) most long vowels of current British English are the result of compensatory lengthening accompanying the loss of an earlier r (eg fort foːt) or h (eg fought foːt), (ii) these two consonants and the length mark, ː, are in complementary distribution.
+
+However, we do not need to assume that current British English foːt is in fact fort or foht, it is enough to postulate that the second part of a long vowel is associated to a consonantal position in the skeleton, assuming an autosegmental representation. Thus the representation of oː in English would not be that shown in (20a), but that shown in (20b).
+
+(20)
+a.	V  V		b.	V  C
+	| /			| /
+	o			o	
+In other words, a long vowel is not a “branching nucleus”, but a nucleus followed by a “coda”. This explains the lack of flapping in accent D.
+
+We will use the symbol h to represent the vowel associated with a consonantal position. Note that this is the standard practice in the case of prevocalic “h”: the symbol h represents a sound that is phonetically a vowel, but phonologically a consonant in transcriptions like hit, hen, hat, etc. Thus oh is used to transcribe a long vowel which is linked to both a vocalic and a following consonantal position. The second part of this entity is also phonetically a vowel, phonologically a consonant.
+^^^
+7 Conclusions
+Analysing diphthongs and long vowels as vowel+consonant sequences has a very radical consequence: the vowel inventory of current British English is reduced to six short vowels, namely, i e a o u and ə. Therefore the first column of the following chart contains all the vowels of current British English. The rest of the columns contain the same vowels followed by h, j, and w, respectively.
+
+(21)
+i	kit	ih	near	ij	fleece	iw	bill
+e	dress	eh	square	ej	face	ew	bell
+a	trap	ah	start	aj	price	aw	mouth
+o	lot	oh	north	oj	choice	ow	ball
+u	foot	uh	cure	uj	(goose)	uw	goose(/bull)
+ə	strut	əh	nurse	əj	(goat)	əw	goat(/dull)
+Of the six vowels only one, unstressed ə may occur word finally. None of the vowels may occur before another vowel, ie there is no hiatus in English as analysed here.
+
+Three of the six vowels may occur in an unstressed syllable: ə, i, and u. Of these unstressed u is always followed by w (eg argue áhgjuw). Unstressed ə and i are in near complementary distribution with i occurring typically before “coda” j, ʤ, ʧ, and ŋ (eg carry kárij, carriage káriʤ, ostrich óstriʧ, gosling gózliŋ) and ə in other positions. These two unstressed vowels are freely variable in many positions.
+
+The view of the vowel system of current British English presented above is significantly simpler than the currently accepted alternatives, it is nevertheless phonologically tenable in all respects we have had the chance to examine up to now.
+
+
+
+

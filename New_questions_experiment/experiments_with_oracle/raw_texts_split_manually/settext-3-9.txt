@@ -1,0 +1,17 @@
+
+5.4 “Geminates”
+The last potential argument against VC diphthongs in English that we mention here concerns the constraint on true, ie morpheme-internal, geminates (eg Harris 1994: 18): English lacks this kind of consonant. Long consonants only occur if separated by a strong morpheme boundary, ie there are only fake geminates in the language (like in un#nerved ə́nnə́ːvd, cf Harris 1994: 38).
+
+If we take the offglides of diphthongs to be the same object as the prevocalic glides of yet and wet, then a j-final diphthong followed by j or a w-final diphthong followed by w within a morpheme would create a true geminate, which is not supposed to exist in English. In fact, very few such items are found. (18) contains a list extracted from an online transcription dictionary. The list intends to be exhaustive.
+
+(18)
+jj: dasyure, diuresis, maieutic, pyuria, Shijiazhuang, sukiyaki, Taiyuan, triune
+ww: Beowulf, Hluhluwe, powwow
+Some of the words in (18) are arguably not monomorphemic (eg Beowulf, powwow), others are not nativized (eg Shijiazhuang), yet others may be transcribed by jj because of their spelling, but pronounced with a single j (eg dasyure, diuresis, etc), but most certainly none of these words occur with any significant frequency in English.
+
+Now, it must be admitted that glide+glide sequences are not common in English anyway, we list nonidentical glide clusters in (19).
+
+(19)
+jw: Awacs, Blawith, Chichewa, Ewok, Iwo, kiwi, pewit, Taiwan, Tewa
+wj: alleluia, bouillon, cocoyam, Gruyere, Kikuyu, thuya yoyo
+The scarcity of such clusters may be blamed on the fact that there is very little sonority distance between these two consonants, but crucially the fact that there are constraints here justifies the suspicion that these are consonant clusters.

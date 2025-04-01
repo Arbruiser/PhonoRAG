@@ -1,0 +1,5 @@
+
+4.2.2 	H-dropping 
+This change deletes word-initial h (e.g., house) and h found before a stressed vowel word-internally (e.g., behave) giving us an accent of English with no h at all. This change when plotted against a map gives us (12). 
+(12) H-dropping shown with an isogloss 
+ 

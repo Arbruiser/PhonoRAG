@@ -1,0 +1,108 @@
+
+ 
+7.4. THE TONE-UNIT 
+ 
+A tone-unit is a stretch of speech whose last stress is a tonic (the stressed syllable on which the voice begins to fall or rise). The tone-unit usually corresponds to a sentence. If a sentence is longer, the speaker usually breaks it up into several tone-units. A typical tone-unit is We decided to come back in October. 
+ 	The tone-unit has the following parts:  
+– Pre-head: the unstressed syllables before the first stress (We de-). 
+– Head: the part beginning with the first stress and leading up to the tonic syllable (-cided to come back in Oc-). 
+
+– Tonic: the last stressed syllable (-to-). – Tail: anything after the tonic (-ber).
+We de- 
+′cided to ′come ′back in Oc- 
+
+to- 
+ber. 
+Pre-head 
+Head 
+Tonic 
+Tail 
+non-obligatory 
+non-obligatory 
+obligatory 
+non-oblig. 
+no stress 
+stress(es) 
+stress 
+no stress 
+incomplete foot 
+one or more feet 
+one foot 
+T O N E - U N I T 
+
+Many tone-units are not complete sentences. In the list below; each row is a tone-unit. Observe their parts. Only the tonic is obligatory, the other parts may be missing. 
+Pre-head 
+Head 
+Tonic 
+Tail 
+We de- 
+′cided to ′come ′back in Oc- 
+
+to- 
+ber. 
+
+′Jeremy ′played the gui- 
+
+tar, 
+
+but the 
+′others ′weren’t 
+
+li- 
+stening. 
+I re- 
+
+
+mem- 
+ber. 
+In 
+′front of the ′Swan 
+
+The- 
+atre, 
+there’s an in- 
+′credibly ′ugly 
+
+pe- 
+trol station. 
+
+′Not on ′top of the 
+
+car, 
+please! 
+
+′Jim was ′interested in 1inter′national 
+
+law. 
+
+
+
+
+No. 
+
+I 
+′think A′manda should ′write ′Jennifer a 
+
+le- 
+tter. 
+
+′Unbe- 
+
+lie- 
+vable! 
+A- 
+′manda was up′set because ′John had ˌdisa- 
+
+ppeared. 
+
+In connected speech the general rule is to stress every content-word, and leave function-words unstressed. For example: 
+I ′think A′manda should ′write ′Jennifer a ′letter. 
+/aI 0FINk ə0mAndə Səd 0raIt 0dZenIfər ə 0letə/ 
+When we say that “a word is stressed”, we mean that the primary-stressed syllable of that word is stressed. The place of stress within the word is not important now, that is a lexical question (Chapter 6). In this chapter it will be practical to indicate stress with separate stress marks (as in transcription), rather than with accent marks above vowels. So instead of  mánda, Jénnifer we will write  ′manda, ′Jennifer, etc. Of course the two notations are equivalent. 
+English Phonological Analysis  Chapter 7  PROSODY (Autumn 2013)
+    While in isolation (as in a dictionary) one-syllable words (think, write) need not get a stress-mark, in connected speech they, too, must be stress-marked if actually stressed. Certain unstressed function-words have their “weak form” (here should /ʃʊd/ weakens to /ʃəd/). 
+    Punctuation (dots, commas, apostrophes, etc.) and capital letters are not shown in transcription. The only thing shown is the space between words. 
+    Content-words are the four major word classes: nouns, verbs, adjectives, and adverbs (including adverbial particles like up in get up). Numerals (e.g. two), interrogative and demonstrative pronouns (e.g. who?, this), and negative words (e.g. not, couldn’t) are stressed like content-words. Function-words are all others: auxiliaries, most pronouns, articles, and conjunctions. Note that prepositions (e.g. with, along) also behave like function-words.6
+The tonic 
+We have seen the working of the End-Weight Principle: if a longer word has several stresses, the last one is the strongest (the primary, as in j stificátion). Similarly, in an English sentence the last stressed word has the strongest stress, called the tonic. The tonic is, properly speaking, a syllable (since stress is always attached to a syllable), but we will often refer to the tonic-bearing word as “the tonic word” or simply “the tonic”.7 For example, in We met in October, the tonic is really the syllable -to-, but we may also express this by saying that October is the tonic: We met in October. 
+    In transcription it is not necessary to show the tonic specially, since it is by definition the last stress. If necessary, the tonic can be highlighted by underlining the syllable (or the word that contains it), and by placing an arrow in front of the tonic syllable (I or  , depending on whether the voice falls or rises there). 

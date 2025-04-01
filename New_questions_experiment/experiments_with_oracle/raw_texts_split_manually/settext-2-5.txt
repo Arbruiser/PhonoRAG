@@ -1,0 +1,18 @@
+
+(5) 
+ 
+As an illustration, the chart in (6) shows the distinctive features necessary for unambiguously defining all the consonants of English. 
+ 
+(6) 
+ 
+The features marked with a plus sign can be thought of as being present in the segment while the minus sign signifies the absence of a feature, e.g., /m/ is specified for the feature [nasal] while /b/ is unspecified for this feature: 
+ 
+(7) 
+ 
+2.3.2 The phonological representation of laryngeal contrasts 
+As for the laryngeal specification of segments, traditionally the distinctive feature [voice] was used to represent the contrast between obstruents in both Hungarian and English: 
+ 
+(8) 
+ 
+More recently though, in nontraditional analyses, the laryngeal contrast has been represented differently in the two language types: 
+ 

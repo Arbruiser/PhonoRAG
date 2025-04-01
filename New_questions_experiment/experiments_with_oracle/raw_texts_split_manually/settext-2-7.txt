@@ -1,0 +1,10 @@
+
+(10) 
+ 
+What characterizes aspirating languages and can be analyzed as the spreading of [fortis] in the phonological representation is the case of sonorant devoicing after fortis obstruents. This feature spreading is illustrated in (11). 
+ 
+(11) 
+ 
+Another phenomenon supporting the specification of English obstruents for [fortis] concerns the behavior of the plural/possessive/3rd person singular present tense morpheme -s and the past tense/past participle morpheme -ed—for details, please read “Voicing assimilation”13 in Phonolec notes. We can see that both of these morphemes have three allomorphs, which alternate depending on the obstruents they follow: /z/~/s/~/ɪz/ and /d/~/t/~/ɪd/ (e.g., /dɔgz/, /kats/ and /bʌsɪz/; /stabd/, /stɔpt/ and /stɑːtɪd/). First, to find out what the underlying laryngeal properties of these morphemes are, we have to find an environment in which the preceding sound is not an obstruent, i.e., an environment in which there is nothing that could affect their laryngeal identity. Forms like /plɛjz/ and /plɛjd/ reveal that these morphemes are underlyingly lenis obstruents, and they may become fortis if preceded by a fortis obstruent. Then, the process /kat/ + /z/ → /kats/ can be analyzed as the forwards spreading of the feature [fortis] from the /t/ of /kat/ to the plural morpheme 
+ 
+/z/, turning it into a fortis /s/. This is an instance of laryngeal assimilation, and as its direction is left-to-right, it is progressive laryngeal assimilation. You can see the phonological representation of the morpheme alternation /d/~/t/ in (12). 

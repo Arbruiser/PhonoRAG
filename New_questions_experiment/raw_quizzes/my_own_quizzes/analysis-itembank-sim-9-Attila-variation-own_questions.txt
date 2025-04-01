@@ -1,0 +1,405 @@
+== cat 901
+What is the reason behind the phonological change of languages?
+# To make languages more complex
+# To make languages simpler
+# ! There is no obvious reason
+# To increase vocabulary
+
+== cat 902
+Which statement is true?
+# Language changes are predictable and easy to understand
+# Language changes are random and make languages simpler
+# Language changes happen rarely, but can be controlled
+# ! Language changes are part of a complex web that is still too complex for us to comprehend
+
+== cat 903
+What parallel is drawn between linguistics and sciences like physics or biology?
+# Linguistics aims to quantify languages like mathematics
+# Linguists often make predictions about language evolution
+# ! Linguistics observes and analyses without making value judgments
+# Linguistics ranks languages based on complexity and age
+
+== cat 904
+When do linguists say that a language is better or worse than another language?
+# When a language has more speakers
+# When a language is older
+# When a language is geographically widespread
+# ! Never, such statements are nonsensical in sciences
+
+== cat 905
+What is the parallel drawn between the function of human lungs and the movement of tides?
+# Both lungs and tides can flow in multiple directions
+# Lungs can forcefully empty air just as tides can reverse
+# ! Both lungs and tides can only move in one direction at a time
+# Lungs are adaptable to rapid changes, just like incoming tides
+
+== cat 906
+Where does the structural analysis of the human anatomy of lungs stop?
+# At explaining the evolutionary development of lungs
+# At predicting future changes in lung function
+# ! At describing the function and limitations without explaining their origins
+# At comparing lungs with other organ systems
+
+== cat 907
+Out of what do evolutionary biologists think human lungs developed?
+# A separate respiratory organ evolved later in humans
+# The heart's circulatory system
+# The skin's ability to absorb oxygen directly
+# ! An air bladder that is part of the fish's digestive system
+
+== cat 908
+What may explain the reason for why air can only be inhaled and exhaled in one direction?
+# It optimizes energy consumption
+# It prevents air from returning to the mouth
+# It improves the efficiency of oxygen absorption
+# ! Air is basically food, and food is normally only transported in one direction
+
+== cat 909
+How do fish's air bladders relate to human lungs from a historical perspective?
+# Fish bladders evolved independently of lungs
+# Fish bladders show no functional similarity to human lungs
+# ! Fish air bladders were a part of the digestive system and are ancestors of human lungs
+# Fish air bladders are larger capacity storage than human lungs
+
+== cat 910
+What evolutionary development is considered to be an innovation in human respiratory function?
+# The ability to cough and clear airways
+# ! Exhaling air as a separate action from inhalation
+# The presence of two distinct lung lobes
+# Capacity to hold breath underwater for extended periods
+
+== cat 911
+What does the language system of contrastive building blocks consist of?
+# Syntax and semantics
+# Cultural influences and usage patterns
+# Dialectical variations and slang
+# ! Features like voice, nasality, place of articulation, manner of articulation
+
+== cat 912
+What does synchronic linguistics focus on?
+# The evolutionary history of languages
+# ! The analysis of language units present at a specific point in time
+# The influence of languages on human society
+# The historical development of writing systems
+
+== cat 913
+Why might synchronic linguistics be unaware of its own limitations?
+# It considers all historical changes within its analysis
+# ! It does not assess the historical development of language units
+# It relies heavily on historical data
+# It incorporates all possible perspectives on language evolution
+
+== cat 914
+What does historical linguistics say about the phoneme ɛː?
+# It is a borrowed sound from other languages
+# It has always existed in its current form
+# ! It is an innovation derived from previous phonemes
+# It is unrelated to phonological development
+
+== cat 915
+How did the phoneme ɛː develop historically?
+# It originated directly from contemporary English sounds
+# It was created by blending unrelated phonemes
+# ! It evolved through a sequence of changes: aː -> eː -> ɛj -> ɛː
+# It was introduced as an entirely new phoneme in modern times
+
+== cat 916
+What do verb-final voiced fricatives indicate (house hawz, graze, heave hɪjv, loathe ləwð)?
+# They were once nouns that became verbs over time
+# They have always been used without any suffixes
+# ! There used to be an infinitive suffix after them, such as in housen and grasen
+# They evolved from different word roots without any suffixes
+
+== cat 917
+What does the historical evolution of the words 'grass' and 'graze' tell us about their vowels? 
+# Both 'grass' and 'graze' originally had short vowels
+# 'Grass' retains its original vowel length in CuBE 
+# 'Graze' has always had the diphthong ɛj since its origin
+# ! 'Grass' had a historically short vowel, while 'graze' originally had a long vowel
+
+== cat 918
+What questions should historical linguists always consider when analyzing languages?
+# What does similarity mean at all?
+# What can be compared with what?
+# How far can similarity extend?
+# ! All of these
+
+== cat 919
+Which language is considered to be stem-based?
+# Hungarian
+# Turkish
+# ! Latin
+# Finnish
+
+== cat 920
+Which language is considered to be stem-based?
+# English
+# ! Greek
+# Spanish
+# French
+
+== cat 921
+How can the logico-semantic concept of possibility be expressed in Hungarian?
+# Only through the addition of a suffix
+# Only by rearranging sentence structure
+# Only by an independent word/auxiliary
+# ! In two ways: by either using a suffix or a syntactically independent word/auxiliary
+
+== cat 922
+What is generally claimed about the Hungarian complex system of verbal prefixation?
+# It was borrowed from Latin
+# It developed independently without external influences
+# ! It developed through extended contact with languages such as German and Russian
+# It was primarily influenced by ancient Hungarian tribes
+
+== cat 923
+What kind of knowledge is required to decipher the meaning of the Hungarian sentence "A feleségem a második szmenába dolgozik, és zsurbába volt, amikor láttam lejönni a szolitérből a tursival a kezébe"?
+# Structural knowledge
+# Phonological knowledge
+# Morphological knowledge
+# ! Lexical knowledge
+
+== cat 924
+Which language is English most genetically related to?
+# French
+# Ukrainian
+# ! German
+# Spanish
+
+== cat 925
+Which language is Indo-European?
+# ! Farsi
+# Hungarian
+# Finnish
+# Turkish
+
+== cat 926
+Why isn't diachronic linguistics commonly referred to as genealogical linguistics?
+# It mainly focuses on phonology, syntax and semantics
+# It only analyzes language structures
+# ! It does not deal with genes or biological inheritance
+# It studies the evolution of language phonemes
+
+== cat 927
+Genetically speaking, what language can a Caucasoid child learn the easiest?
+# Russian
+# Chinese
+# Spanish
+# ! There is no difference
+
+== cat 928
+What is relevant for historical analysis according to a diachronic approach?
+# Phonetic similarities
+# The frequency of word usage
+# The complexity of language syntax
+# ! Relationships between phonological changes in words
+
+== cat 929
+In German, what was every θ regularly displaced by?
+# n
+# t
+# k
+# ! d
+
+== cat 930
+What happened to every historical *mb cluster in German?
+# It turned into <m>
+# It became <nd>
+# It remained as <mb>
+# ! It turned into <mm>
+
+== cat 931
+How is ungrammatical data shown in historical linguistics?
+# With an asterisk
+# With an exclamation mark
+# With underscores
+# ! With double asterisks
+
+== cat 932
+How come we still have nasals before fricatives in English if there was a nasal loss rule?
+# Nasal loss rule only applied temporarily during the medieval period 
+# Nasals evolved back into certain words
+# Some dialects never followed the nasal loss rule
+# ! The rule appeared, then disappeared, and stopped working
+
+== cat 933
+What is the nasal loss rule?
+# The rule that requires nasals to precede fricatives persistently
+# ! The rule that states all nasals before fricatives are deleted
+# The rule stating that nasals are lost if they are preceded by a consonant
+# The rule mandating the loss of nasality
+
+== cat 934
+When did the nasal loss rule operate?
+# 200 years ago
+# 500 years ago
+# ! 1500 years ago
+# 50 years ago
+
+== cat 935
+How do we know that a word like 'anthem' entered English after the nasal loss rule?
+# Old English scribes intentionally omitted words with nasals before fricatives
+# 'Anthem' evolved from a different English dialect that did not follow the rule
+# ! In Old English texts, 'anthem', 'pansy', and similar words are never found, indicating they entered later
+# Historical records show 'anthem' was replaced with alternative words during that period
+
+== cat 936
+How far back in time can we go when reconstructing Indo-European language?
+# 1000-2000 years
+# ! 4000-4500 years
+# 6000-7000 years
+# 2000-3000 years
+
+== cat 937
+Why is claiming that Indo-European and Ugro-Finnic are related considered weak?
+# They have too few similar syntactic structures
+# There is no extensive vocabulary overlap beyond basic elements
+# Cultural similarities skew linguistic analysis
+# ! They are only compared based on 5 vowels and 9 consonants, which are common in most languages
+
+== cat 938
+What does the regularity principle in historical linguistics state?
+# ! Language changes can only be regular, there is no other way in which it can be conceived of
+# Language changes in language are often arbitrary and unpredictable
+# Language changes are regularized by phonologists
+# Language changes primarily result from societal influences
+
+== cat 939
+What does the uniformitarian principle in historical linguistics state?
+# Language changes often introduces completely new phonological rules
+# Current language features are novel developments without historical precedent
+# Language rules from the present have evolved significantly and bear no resemblance to the past
+# ! Whatever we observe nowadays must have existed in the past as well
+
+== cat 940
+What does the presence of two wildly similar words in two languages indicate about their relatedness?
+# They are likely to have evolved independently
+# Shared vocabulary indicates only cultural exchange, not linguistic descent
+# They are almost certainly related
+# ! There is no proof of relatedness based solely on their similarity
+
+== cat 941
+In historical linguistics, what can be thought of as the 'language genes' that underlie related languages?
+# Shared vocabulary
+# Grammatical structures
+# Writing systems
+# ! Regular phonological changes
+
+== cat 942
+Which of the following pairs of languages are related only ultimately?
+# English and German
+# ! English and French
+# French and Spanish
+# English and Hungarian
+
+== cat 943
+Which two languages are immediately related?
+# English and Spanish
+# ! English and German
+# French and Hungarian
+# French and Dutch
+
+== cat 944
+Which pair of languages are not genetically related at all?
+# English and Farsi
+# Ukrainian and Sanskrit
+# English and French
+# ! English and Hungarian
+
+== cat 945
+What does a historical linguist consider to be the primary difference between a language and a dialect?
+# The number of speakers using each variety
+# A language is a dialect with an army and navy
+# ! There is virtually no difference
+# The written forms and scripts they use
+
+== cat 946
+On what basis is the distinction between language and dialect primarily established, according to non-linguistic perspectives?
+# The age and historical depth of the dialects
+# The phonological and syntactic complexity
+# ! Social, cultural, military, naval, or other supremacy differences
+# The number of phonemes each dialect contains
+
+== cat 947
+Which of the following words entered GA and SSBE together?
+# ! Bath, sun, course
+# Banana, basil, quesadilla
+# Sushi, sachet, gateau
+# Jalapeno, chinchilla, chihuahua
+
+== cat 948
+Which of the following words entered GA and SSBE separately?
+# Bath, sun, course
+# ! Banana, basil, sushi
+# Sun, course, chihuahua
+# Bath, jalapeno, quesadilla
+
+== cat 949
+What is the rule for R-dropping in phonology?
+# r → Ø / #__
+# r → f / __V
+# ! r → Ø / __#, __C
+# r → Ø / V__, __C
+
+== cat 950
+What does NG-coalescence refer to in phonology?
+# The process by which the velar nasal (ŋ) becomes a vowel
+# The assimilation of nasals to following fricatives
+# The loss of velar sounds in all environments
+# ! Whether the velar nasal (ŋ) is a phoneme or not
+
+== cat 951
+In which case did the BATH-TRAP vowel lengthening fail according to the historical phonological change?
+# If the short vowel was followed by a pause
+# If the short vowel was followed by silence
+# If the fricative was followed by a glottal stop
+# ! If the fricative was followed by a vowel in the same morpheme
+
+== cat 952
+In which instance did the BATH-TRAP vowel lengthening fail?
+# If the short vowel was followed by a fricative
+# ! If the short vowel was followed by any consonant that is not a fricative
+# If the short vowel appeared at the end of a word
+# If the short vowel was preceded by a voiced fricative
+
+== cat 953
+What is the rule for BATH-lengthening in phonology?
+# a → aː / __Stop(−voi)C#, __Vowel(+high)
+# a → aː / __Fric(−voi)V, __Nasal(+voi)C
+# a → aː / __NasalC__, __C#
+# ! a → aː / __ Fric(−voi)#, __Fric(−voi)C
+
+== cat 954
+What is the possible explanation for why we have words like mass and Basque that can have either long or short vowel? Also words like lass, bass ‘perch’, ass ‘donkey’ have a short vowel, while ass ‘backside’ usually has a long vowel, as does moustache.
+# These words underwent a new vowel lengthening process after BATH-lengthening
+# Vowel length varies due to a general phonetic shift affecting all vowels in English
+# These words are influenced by modern pronunciation trends
+# ! These words were 'reborrowed' from accents where BATH-lengthening never occurred
+
+== cat 955
+Which is the formula for the r-insertion rule?
+# 0 → r  / V__V
+# 0 → r / #_V
+# r → 0 / Vː#__
+# ! 0 → r / Vː# __ V
+
+== cat 956
+What is the traditional name for the combined effects of the first nurse merger and the backing of the historical a vowel before coda r?
+# Vowel harmony
+# Final-obstruent devoicing
+# Palatalization
+# ! Pre-R broadening
+
+== cat 957
+What changes can collectively be referred to as pre-R broadening?
+# Lowering of e to ɛ and centralizing of a to ə before coda R
+# ! First nurse merging, backing of a to ɑ, and raising of ɔ to o before coda R
+# Fronting of a to æ and reduction of u to ʊ before coda R
+# Merging of i and e with subsequent vowel lengthening before coda R
+
+== cat 958
+Which sources can R-vowels come from?
+# Pre-R broadening
+# ! Pre-R broadening and pre-R breaking
+# pre-R breaking
+# Post-vocalic lengthening and consonant fronting

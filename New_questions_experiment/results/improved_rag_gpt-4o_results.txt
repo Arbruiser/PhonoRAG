@@ -1,0 +1,155 @@
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.6
+
+Prompt:
+ Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Make sure that the answer is 100% correct because my life depends on it. Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2_GPT-made_questions:		Correct answers 47 / total questions 50 * 100 = 94.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 39 / total questions 42 * 100 = 92.86%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 23 / total questions 24 * 100 = 95.83%
+itembank-2_own_questions:		Correct answers 51 / total questions 51 * 100 = 100.0%
+itembank-3_own_questions:		Correct answers 63 / total questions 67 * 100 = 94.03%
+itembank-4_own_questions:		Correct answers 57 / total questions 60 * 100 = 95.0%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 58 / total questions 58 * 100 = 100.0%
+
+Overall correct answers for GPT-made 204 / total questions 219 * 100 = 93.15%
+Overall correct answers for own 288 / total questions 300 * 100 = 96.0%
+
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.6
+
+Prompt:
+ Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Make sure that the answer is 100% correct because my life depends on it. Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2_GPT-made_questions:		Correct answers 47 / total questions 50 * 100 = 94.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 39 / total questions 42 * 100 = 92.86%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 23 / total questions 24 * 100 = 95.83%
+itembank-2_own_questions:		Correct answers 51 / total questions 51 * 100 = 100.0%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 57 / total questions 60 * 100 = 95.0%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 58 / total questions 58 * 100 = 100.0%
+
+Overall correct answers for GPT-made 204 / total questions 219 * 100 = 93.15%
+Overall correct answers for own 286 / total questions 300 * 100 = 95.33%
+
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.6
+
+Prompt:
+ Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Make sure that the answer is 100% correct because my life depends on it. Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2_GPT-made_questions:		Correct answers 47 / total questions 50 * 100 = 94.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 39 / total questions 42 * 100 = 92.86%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 23 / total questions 24 * 100 = 95.83%
+itembank-2_own_questions:		Correct answers 51 / total questions 51 * 100 = 100.0%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 57 / total questions 60 * 100 = 95.0%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 58 / total questions 58 * 100 = 100.0%
+
+Overall correct answers for GPT-made 204 / total questions 219 * 100 = 93.15%
+Overall correct answers for own 286 / total questions 300 * 100 = 95.33%
+
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.6
+
+Prompt:
+ Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Make sure that the answer is 100% correct because my life depends on it. Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2_GPT-made_questions:		Correct answers 47 / total questions 50 * 100 = 94.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 39 / total questions 42 * 100 = 92.86%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 23 / total questions 24 * 100 = 95.83%
+itembank-2_own_questions:		Correct answers 51 / total questions 51 * 100 = 100.0%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 57 / total questions 60 * 100 = 95.0%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 58 / total questions 58 * 100 = 100.0%
+
+Overall correct answers for GPT-made 204 / total questions 219 * 100 = 93.15%
+Overall correct answers for own 286 / total questions 300 * 100 = 95.33%
+
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-3-large
+similarity cutoff: 0.6
+
+Prompt:
+ Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Make sure that the answer is 100% correct because my life depends on it. Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2_GPT-made_questions:		Correct answers 46 / total questions 50 * 100 = 92.0%
+itembank-3_GPT-made_questions:		Correct answers 44 / total questions 49 * 100 = 89.8%
+itembank-4_GPT-made_questions:		Correct answers 39 / total questions 42 * 100 = 92.86%
+itembank-5_GPT-made_questions:		Correct answers 51 / total questions 54 * 100 = 94.44%
+itembank-9_GPT-made_questions:		Correct answers 23 / total questions 24 * 100 = 95.83%
+itembank-2_own_questions:		Correct answers 51 / total questions 51 * 100 = 100.0%
+itembank-3_own_questions:		Correct answers 61 / total questions 67 * 100 = 91.04%
+itembank-4_own_questions:		Correct answers 57 / total questions 60 * 100 = 95.0%
+itembank-5_own_questions:		Correct answers 59 / total questions 64 * 100 = 92.19%
+itembank-9_own_questions:		Correct answers 58 / total questions 58 * 100 = 100.0%
+
+Overall correct answers for GPT-made 203 / total questions 219 * 100 = 92.69%
+Overall correct answers for own 286 / total questions 300 * 100 = 95.33%
+
+
+------------------------------------------------------------------------
+

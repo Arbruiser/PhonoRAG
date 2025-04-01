@@ -1,0 +1,48 @@
+
+1.3 Long monophthongs
+We have already seen that Lindsey departs from the traditional classification of the nonshort vowels: fleece and goose are analysed as diphthongs, near, square, and cure as long monophthongs. square is clearly a monophthong, and began to be transcribed as such by Upton (1995). Its status is rather similar to that of force, for which Jones records a diphthongal ɔə pronunciation almost a century ago, but he deems it obsolete already in those days. The reason force became established as a monophthong is that separate symbols for it and north could not be maintained once the two vowels ceased to contrast. The homophonous pair mourning and morning cannot be transcribed differently, with ɔə and ɔː. On the other hand, nothing forced the introduction of the monophthongal symbol for square, since this vowel did not merge with any other vowel of the British inventory, so the “phonetically precise” symbol ɛː turned up only at the end of the 20th century.
+
+Both near and cure are more variable than square, but in different ways. near is usually monophthongal before a consonant, especially before r: eg hero hɪːrəw, nearer nɪːrə, pierce pɪːs, here you are hɪː juw ɑː. Utterance finally this vowel may split up into two syllables, the diphthong ij followed by schwa: you're here joː hijə. This kind of variation is found in other vowels too: eg fire fajə vs fire brigade faː brəgejd, sour sawə vs sour sauce saː soːs.
+
+cure, on the other hand, has split into two different vowels for some speakers. After palatal consonants these speakers pronounce either the long version of foot (eg cure kjɵː, jury ʤɵːrij, sure ʃɵː), or they merge this vowel with nurse (kjəː, ʤəːrij, ʃəː). Elsewhere cure has merged with force: eg poor poː, tour toː, gourmand goːmənd. Let us call this phenomenon the Poor–Cure Split. Speakers who do not have the Poor–Cure Split have cure and force merged in all environments: eg cure kjoː, jury ʤoːrij, sure ʃoː, poor poː.
+
+The rest of the long monophthongs have been analysed as such in the British tradition throughout the 20th century. (5) gives Lindsey’s list of long monophthongs.
+
+(5)
+near	ɪː	(cure	ɵː)
+square	ɛː	force/north/thought/cure	oː
+start/bath/palm	ɑː	nurse(/cure)	əː
+Just as in the case of short vowels and diphthongs, the transcription of long monophthongs could also be simplified by using mostly standard orthographical symbols, as shown in (6).
+
+(6)
+near	iː	(cure	uː)
+square	eː	force/north/thought/cure	oː
+start/bath/palm	aː	nurse(/cure)	əː
+Some speakers with the Poor-Cure Split have six long monophthongs, others with the split (who merge cure and nurse after palatals) and those without the split (who merge cure and force unconditionally) have only five.
+
+The chart in (7) summarizes the long vowels of the three accents, comparing them to “classical RP”, the system of Jones. It can be seen that “split” accents are those that have distinct vowels in cure and poor. The last two accents, split 2 and no split, both have the same five long vowels, but their lexical incidence differs in cure.
+
+(7)
+		near	square	start	nurse	cure	poor	force
+“RP”		iə	ɛə	ɑː	əː	uə	uə	ɔː
+split 1		iː	eː	aː	əː	uː	oː	oː
+split 2		iː	eː	aː	əː	əː	oː	oː
+no split	iː	eː	aː	əː	oː	oː	oː
+1.4 Vowel phonotactics
+It has already been hinted at that the main reason for analysing diphthongs as diphthongs and long monophthongs as long monophthongs is not because they are pronounced so, but because they form natural classes with respect to the environments they occur in. We will now look at these environments.
+
+The broadest categories of speech sounds are consonant and vowel. To this we may add a third, morphological category, the end of the word, ie a free morpheme. The three kinds of vowel mentioned above behave differently in whether they may occur before a consonant, before another vowel, or at the end of a word. The distribution is shown in (8).
+
+
+(8)
+			__C	__#	__V
+i e a o u			✓	✗	✗
+iː eː aː oː (uː) ə		✓	✓	✗
+ij ej aj aw oj uw əw	✓	✓	✓
+The short vowels with the exception of unstressed schwa may only occur before a consonant, they are never found either word finally, or before another vowel. Stressed “schwa”, ie strut, is like the other short vowels, it cannot occur word finally.
+
+Interestingly, unstressed schwa patterns with long monophthongs: these vowels may occur at the end of a word, but not before another vowel (cf the a similar pattern in Dutch, noted by Trommelen 1989, cited by Cyran 2010: 273). Many speakers even insert a consonant, r, after a word-final long monophthong or a schwa if the next word or suffix begins with a vowel: eg draw out droːr awt, drawing droːriŋ.
+
+It is only the diphthongs that occur unconstrained in these three types of environment, ie we can find diphthongs before a consonant, before a vowel, or at the end of a word. There are some constraints on diphthongs before consonant clusters, but while two of the long monophthongs, iː and eː,» never occur before a cluster, all of the diphthongs do. Also uː for those speakers who have it.
+
+We now turn to examining the nonshort vowels of British English, to see if they really constitute complex vowels that are part of the vowel inventory.

@@ -1,0 +1,842 @@
+[
+  {
+    "correct_text_chunk": "\"\"\"Sets of vowels potentially categorized as diphthongs in English a. PRICE, MOUTH, CHOICE b. FACE, GOAT c. FLEECE, GOOSE d. NEAR, SQUARE, FORCE, CURE\nPractically all accounts of English take the vowels in (1a) to be diphthongs.1 Accounts of British English2 count the vowels in (1b) to be diphthongs too, those of American English are varied (diphthongs in Chomsky & Halle 1968; monophthongs in Kenyon & Knott 1953 or Giegerich 1992). Sweet (1900) transcribes FLEECE and GOOSE as [flijs] and [guws], it is only Jones (1917) who (wrongly, as I will argue) alters the British tradition, and introduces the currently prevalent monophthongal symbols [i\u02d0] and [u\u02d0] for the vowels in (1c). American accounts again vary, the typical case is to lump the vowels in (1b) and (1c) together, either as diphthongs ([ey], [ow]; [iy], [uw]) or as (tense) monophthongs ([e], [o]; [i], [u], respectively). The vowels of the last group, (1d), are vowel\u00fe[r] sequences in rhotic American English, occasionally centring diphthongs. In British English they were diphthongs at the beginning of the last century, but have all gradually monophthongized. This is reflected in the transcription of FORCE by Jones (1917): [f\u0254\u02d0s] (vs. Sweet\u2019s [f\u0254\u0259s]); CURE and SQUARE by Upton (1995): [kj\u0254\u02d0] (vs. Gimson\u2019s [kj\u028a\u0259], 1962; already mentioned in Jones 1917) and [skw\u025b\u02d0] (vs. Gimson\u2019s [skwe\u0259]), and also NEAR by Lindsey (2012a, 2019): [n\u026a\u02d0] (vs. Upton\u2019s [n\u026a\u0259]). I take all the vowels of (1d) to be long monophthongs, and all the vowels of (1a\u2013c) to be \u201cdiphthongs\u201d, or more precisely, not single monophthongal vowels. This categorization is based on the distribution of these vowels, to which we turn presently",
+    "question": "Practically all accounts of English take the vowels in which set to be diphthongs?",
+    "category": "cat 401",
+    "answers": [
+      "a) NEAR, SQUARE",
+      "b) FACE, GOAT",
+      "c) PRICE, MOUTH",
+      "d) FLEECE, GOOSE"
+    ],
+    "correct answer(s)": "c) PRICE, MOUTH",
+    "GPT's response": "c) PRICE, MOUTH",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\"\"\"Sets of vowels potentially categorized as diphthongs in English a. PRICE, MOUTH, CHOICE b. FACE, GOAT c. FLEECE, GOOSE d. NEAR, SQUARE, FORCE, CURE\nPractically all accounts of English take the vowels in (1a) to be diphthongs.1 Accounts of British English2 count the vowels in (1b) to be diphthongs too, those of American English are varied (diphthongs in Chomsky & Halle 1968; monophthongs in Kenyon & Knott 1953 or Giegerich 1992). Sweet (1900) transcribes FLEECE and GOOSE as [flijs] and [guws], it is only Jones (1917) who (wrongly, as I will argue) alters the British tradition, and introduces the currently prevalent monophthongal symbols [i\u02d0] and [u\u02d0] for the vowels in (1c). American accounts again vary, the typical case is to lump the vowels in (1b) and (1c) together, either as diphthongs ([ey], [ow]; [iy], [uw]) or as (tense) monophthongs ([e], [o]; [i], [u], respectively). The vowels of the last group, (1d), are vowel\u00fe[r] sequences in rhotic American English, occasionally centring diphthongs. In British English they were diphthongs at the beginning of the last century, but have all gradually monophthongized. This is reflected in the transcription of FORCE by Jones (1917): [f\u0254\u02d0s] (vs. Sweet\u2019s [f\u0254\u0259s]); CURE and SQUARE by Upton (1995): [kj\u0254\u02d0] (vs. Gimson\u2019s [kj\u028a\u0259], 1962; already mentioned in Jones 1917) and [skw\u025b\u02d0] (vs. Gimson\u2019s [skwe\u0259]), and also NEAR by Lindsey (2012a, 2019): [n\u026a\u02d0] (vs. Upton\u2019s [n\u026a\u0259]). I take all the vowels of (1d) to be long monophthongs, and all the vowels of (1a\u2013c) to be \u201cdiphthongs\u201d, or more precisely, not single monophthongal vowels. This categorization is based on the distribution of these vowels, to which we turn presently",
+    "question": "Which English accent counts the vowels of FACE, GOAT as diphthongs?",
+    "category": "cat 402",
+    "answers": [
+      "a) British English",
+      "b) Australian English",
+      "c) American English",
+      "d) Canadian English"
+    ],
+    "correct answer(s)": "a) British English",
+    "GPT's response": "a) British English",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\"\"\"Sets of vowels potentially categorized as diphthongs in English a. PRICE, MOUTH, CHOICE b. FACE, GOAT c. FLEECE, GOOSE d. NEAR, SQUARE, FORCE, CURE\nPractically all accounts of English take the vowels in (1a) to be diphthongs.1 Accounts of British English2 count the vowels in (1b) to be diphthongs too, those of American English are varied (diphthongs in Chomsky & Halle 1968; monophthongs in Kenyon & Knott 1953 or Giegerich 1992). Sweet (1900) transcribes FLEECE and GOOSE as [flijs] and [guws], it is only Jones (1917) who (wrongly, as I will argue) alters the British tradition, and introduces the currently prevalent monophthongal symbols [i\u02d0] and [u\u02d0] for the vowels in (1c). American accounts again vary, the typical case is to lump the vowels in (1b) and (1c) together, either as diphthongs ([ey], [ow]; [iy], [uw]) or as (tense) monophthongs ([e], [o]; [i], [u], respectively). The vowels of the last group, (1d), are vowel\u00fe[r] sequences in rhotic American English, occasionally centring diphthongs. In British English they were diphthongs at the beginning of the last century, but have all gradually monophthongized. This is reflected in the transcription of FORCE by Jones (1917): [f\u0254\u02d0s] (vs. Sweet\u2019s [f\u0254\u0259s]); CURE and SQUARE by Upton (1995): [kj\u0254\u02d0] (vs. Gimson\u2019s [kj\u028a\u0259], 1962; already mentioned in Jones 1917) and [skw\u025b\u02d0] (vs. Gimson\u2019s [skwe\u0259]), and also NEAR by Lindsey (2012a, 2019): [n\u026a\u02d0] (vs. Upton\u2019s [n\u026a\u0259]). I take all the vowels of (1d) to be long monophthongs, and all the vowels of (1a\u2013c) to be \u201cdiphthongs\u201d, or more precisely, not single monophthongal vowels. This categorization is based on the distribution of these vowels, to which we turn presently",
+    "question": "Who first transcribed FLEECE and GOOSE with a V+glide?",
+    "category": "cat 403",
+    "answers": [
+      "a) Chomsky & Halle (1968)",
+      "b) Sweet (1900)",
+      "c) Gimson (1962)",
+      "d) Kenyon & Knott (1953)"
+    ],
+    "correct answer(s)": "b) Sweet (1900)",
+    "GPT's response": "b) Sweet (1900)",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "\"\"\"Sets of vowels potentially categorized as diphthongs in English a. PRICE, MOUTH, CHOICE b. FACE, GOAT c. FLEECE, GOOSE d. NEAR, SQUARE, FORCE, CURE\nPractically all accounts of English take the vowels in (1a) to be diphthongs.1 Accounts of British English2 count the vowels in (1b) to be diphthongs too, those of American English are varied (diphthongs in Chomsky & Halle 1968; monophthongs in Kenyon & Knott 1953 or Giegerich 1992). Sweet (1900) transcribes FLEECE and GOOSE as [flijs] and [guws], it is only Jones (1917) who (wrongly, as I will argue) alters the British tradition, and introduces the currently prevalent monophthongal symbols [i\u02d0] and [u\u02d0] for the vowels in (1c). American accounts again vary, the typical case is to lump the vowels in (1b) and (1c) together, either as diphthongs ([ey], [ow]; [iy], [uw]) or as (tense) monophthongs ([e], [o]; [i], [u], respectively). The vowels of the last group, (1d), are vowel\u00fe[r] sequences in rhotic American English, occasionally centring diphthongs. In British English they were diphthongs at the beginning of the last century, but have all gradually monophthongized. This is reflected in the transcription of FORCE by Jones (1917): [f\u0254\u02d0s] (vs. Sweet\u2019s [f\u0254\u0259s]); CURE and SQUARE by Upton (1995): [kj\u0254\u02d0] (vs. Gimson\u2019s [kj\u028a\u0259], 1962; already mentioned in Jones 1917) and [skw\u025b\u02d0] (vs. Gimson\u2019s [skwe\u0259]), and also NEAR by Lindsey (2012a, 2019): [n\u026a\u02d0] (vs. Upton\u2019s [n\u026a\u0259]). I take all the vowels of (1d) to be long monophthongs, and all the vowels of (1a\u2013c) to be \u201cdiphthongs\u201d, or more precisely, not single monophthongal vowels. This categorization is based on the distribution of these vowels, to which we turn presently",
+    "question": "Who alters the British tradition and introduces the currently prevalent monophthongal symbols [i\u02d0] and [u\u02d0] for the vowels in FLEECE and GOOSE?",
+    "category": "cat 404",
+    "answers": [
+      "a) Upton (1995)",
+      "b) Jones (1917)",
+      "c) Lindsey (2012a, 2019)",
+      "d) Giegerich (1992)"
+    ],
+    "correct answer(s)": "b) Jones (1917)",
+    "GPT's response": "b) Jones (1917)",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of [\u0259] produced long vowels merging these two categories (e.g., far [far] > [fa\u02d0]; fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]), the tense vs. lax split is partly merged, and so it is not meaningful any more. Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).3 (2) The distribution of BrE vowels _C _# _V a. KIT, DRESS, TRAP, STRUT, LOT, FOOT yes no no b. NEAR, SQUARE, START, NURSE, FORCE, CURE yes yes no c. FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE yes yes yes",
+    "question": "The vowel inventory of English is often split into which two categories based on historical origin?",
+    "category": "cat 405",
+    "answers": [
+      "a) Tense and lax vowels",
+      "b) Stressed and unstressed vowels",
+      "c) Short and long vowels",
+      "d) Open and closed vowels"
+    ],
+    "correct answer(s)": "a) Tense and lax vowels",
+    "GPT's response": "a) Tense and lax vowels",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of [\u0259] produced long vowels merging these two categories (e.g., far [far] > [fa\u02d0]; fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]), the tense vs. lax split is partly merged, and so it is not meaningful any more. Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).3 (2) The distribution of BrE vowels _C _# _V a. KIT, DRESS, TRAP, STRUT, LOT, FOOT yes no no b. NEAR, SQUARE, START, NURSE, FORCE, CURE yes yes no c. FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE yes yes yes",
+    "question": "Which development of the word \"fire\" is described in British English phonological history?",
+    "category": "cat 406",
+    "answers": [
+      "a) fire [fa\u02d0] > [faj\u0259] > [fajr] > [fa\u0259] > [faj\u0259r]",
+      "b) fire [fa\u0259] > [fa\u02d0] > [faj\u0259] > [fajr] > [faj\u0259r]",
+      "c) fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]",
+      "d) fire [faj\u0259] > [fajr] > [fa\u02d0] > [fa\u0259] > [faj\u0259r]"
+    ],
+    "correct answer(s)": "c) fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]",
+    "GPT's response": "c) fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of [\u0259] produced long vowels merging these two categories (e.g., far [far] > [fa\u02d0]; fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]), the tense vs. lax split is partly merged, and so it is not meaningful any more. Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).3 (2) The distribution of BrE vowels _C _# _V a. KIT, DRESS, TRAP, STRUT, LOT, FOOT yes no no b. NEAR, SQUARE, START, NURSE, FORCE, CURE yes yes no c. FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE yes yes yes",
+    "question": "Which set of vowels can only occur before a consonant in British English?",
+    "category": "cat 407",
+    "answers": [
+      "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+      "b) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+      "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE",
+      "d) FACE, PRICE, MOUTH, CHOICE"
+    ],
+    "correct answer(s)": "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+    "GPT's response": "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of [\u0259] produced long vowels merging these two categories (e.g., far [far] > [fa\u02d0]; fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]), the tense vs. lax split is partly merged, and so it is not meaningful any more. Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).3 (2) The distribution of BrE vowels _C _# _V a. KIT, DRESS, TRAP, STRUT, LOT, FOOT yes no no b. NEAR, SQUARE, START, NURSE, FORCE, CURE yes yes no c. FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE yes yes yes",
+    "question": "Which set of vowels cannot occur at the end of a word or before another vowel in British English?",
+    "category": "cat 408",
+    "answers": [
+      "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+      "b) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+      "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE",
+      "d) MOUTH, GOAT, CHOICE, GOOSE"
+    ],
+    "correct answer(s)": "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+    "GPT's response": "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of [\u0259] produced long vowels merging these two categories (e.g., far [far] > [fa\u02d0]; fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]), the tense vs. lax split is partly merged, and so it is not meaningful any more. Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).3 (2) The distribution of BrE vowels _C _# _V a. KIT, DRESS, TRAP, STRUT, LOT, FOOT yes no no b. NEAR, SQUARE, START, NURSE, FORCE, CURE yes yes no c. FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE yes yes yes",
+    "question": "Which set of vowels can occur before a consonant or at the end of a word in British English?",
+    "category": "cat 409",
+    "answers": [
+      "a) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+      "b) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE",
+      "c) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+      "d) START, NURSE, FORCE, CURE, FACE"
+    ],
+    "correct answer(s)": "c) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+    "GPT's response": "c) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowel inventory of English is often split into tense and lax vowels. This distinction reflects that some vowels can be traced back to Middle English long vowels and diphthongs (these are tense), others to Middle English short vowels (these are lax). However, in nonrhotic British English, where compensatory lengthening ensuing the loss of historical [r] and the later loss of [\u0259] produced long vowels merging these two categories (e.g., far [far] > [fa\u02d0]; fire [fajr] > [faj\u0259r] > [faj\u0259] > [fa\u0259] > [fa\u02d0]), the tense vs. lax split is partly merged, and so it is not meaningful any more. Instead, we will classify vowels by the environments in which they occur. Some vowels may only occur before a consonant, others also word finally, and yet others in any position, including prevocalic position. This is shown in (2).3 (2) The distribution of BrE vowels _C _# _V a. KIT, DRESS, TRAP, STRUT, LOT, FOOT yes no no b. NEAR, SQUARE, START, NURSE, FORCE, CURE yes yes no c. FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE yes yes yes",
+    "question": "Which set of vowels can occur in any environment in British English?",
+    "category": "cat 410",
+    "answers": [
+      "a) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+      "b) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+      "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE",
+      "d) GOAT, CHOICE, GOOSE, FOOT"
+    ],
+    "correct answer(s)": "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE",
+    "GPT's response": "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE, GOOSE",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowels in (2a) are often called checked vowels, since they are obligatorily followed by a consonant.4 This set is analysed and transcribed as \u201cshort5 monophthongs\u201d in the British tradition (Jones 1917; Gimson 1977). The second set, the members of which are listed in (2b), are referred to as R vowels by Kreidler (1989). In the present analysis they are all \u201clong\u201d monophthongs. The last set contains vowels that may occur in all three environments, (2c). Following Trubetzkoy (1968) this set will be called free vowels. They are considered to be diphthongs by most analysts (or not, as we have seen above), although there are notable exceptions, like Batchelor (1809), 6 Trager & Bloch (1941); Trager & Smith (1957), who take these sequences to be a short vowel followed by a glide, an analysis I support with some evidence in this paper. Since the tense\u2013lax contrast does not characterize British English, there is no reason to distinguish vowel symbols along this dimension. Accordingly and also for the sake of simplicity, I will use the six vowel symbols [i e a \u0259 o u] as in (3), although \u201clax\u201d symbols like [\u026a \u00ab \u0254 \u028a], or distinct front and back [a \u0251\u02d0], or a centralized symbol [\u0289] for the last vowel of each category, would perhaps be more appropriate if our aim were to be phonetically precise.",
+    "question": "Why are checked vowels called checked vowels?",
+    "category": "cat 411",
+    "answers": [
+      "a) Because they can occur in any position",
+      "b) Because they are always stressed",
+      "c) Because they are obligatorily followed by a consonant",
+      "d) Because they are always long"
+    ],
+    "correct answer(s)": "c) Because they are obligatorily followed by a consonant",
+    "GPT's response": "c) Because they are obligatorily followed by a consonant",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowels in (2a) are often called checked vowels, since they are obligatorily followed by a consonant.4 This set is analysed and transcribed as \u201cshort5 monophthongs\u201d in the British tradition (Jones 1917; Gimson 1977). The second set, the members of which are listed in (2b), are referred to as R vowels by Kreidler (1989). In the present analysis they are all \u201clong\u201d monophthongs. The last set contains vowels that may occur in all three environments, (2c). Following Trubetzkoy (1968) this set will be called free vowels. They are considered to be diphthongs by most analysts (or not, as we have seen above), although there are notable exceptions, like Batchelor (1809), 6 Trager & Bloch (1941); Trager & Smith (1957), who take these sequences to be a short vowel followed by a glide, an analysis I support with some evidence in this paper. Since the tense\u2013lax contrast does not characterize British English, there is no reason to distinguish vowel symbols along this dimension. Accordingly and also for the sake of simplicity, I will use the six vowel symbols [i e a \u0259 o u] as in (3), although \u201clax\u201d symbols like [\u026a \u00ab \u0254 \u028a], or distinct front and back [a \u0251\u02d0], or a centralized symbol [\u0289] for the last vowel of each category, would perhaps be more appropriate if our aim were to be phonetically precise.",
+    "question": "How are checked vowels analyzed and transcribed in the British tradition?",
+    "category": "cat 412",
+    "answers": [
+      "a) As diphthongs",
+      "b) As long monophthongs",
+      "c) As unstressed vowels",
+      "d) As \u201cshort monophthongs\u201d"
+    ],
+    "correct answer(s)": "d) As \u201cshort monophthongs\u201d",
+    "GPT's response": "d) As \u201cshort monophthongs\u201d",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The vowels in (2a) are often called checked vowels, since they are obligatorily followed by a consonant.4 This set is analysed and transcribed as \u201cshort5 monophthongs\u201d in the British tradition (Jones 1917; Gimson 1977). The second set, the members of which are listed in (2b), are referred to as R vowels by Kreidler (1989). In the present analysis they are all \u201clong\u201d monophthongs. The last set contains vowels that may occur in all three environments, (2c). Following Trubetzkoy (1968) this set will be called free vowels. They are considered to be diphthongs by most analysts (or not, as we have seen above), although there are notable exceptions, like Batchelor (1809), 6 Trager & Bloch (1941); Trager & Smith (1957), who take these sequences to be a short vowel followed by a glide, an analysis I support with some evidence in this paper. Since the tense\u2013lax contrast does not characterize British English, there is no reason to distinguish vowel symbols along this dimension. Accordingly and also for the sake of simplicity, I will use the six vowel symbols [i e a \u0259 o u] as in (3), although \u201clax\u201d symbols like [\u026a \u00ab \u0254 \u028a], or distinct front and back [a \u0251\u02d0], or a centralized symbol [\u0289] for the last vowel of each category, would perhaps be more appropriate if our aim were to be phonetically precise.",
+    "question": "What are R vowels?",
+    "category": "cat 413",
+    "answers": [
+      "a) Short monophthongs",
+      "b) Diphthongs",
+      "c) Free vowels",
+      "d) Long monophthongs"
+    ],
+    "correct answer(s)": "d) Long monophthongs",
+    "GPT's response": "d) Long monophthongs",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Some of the R vowels, most notably [i\u02d0], [a\u02d0], and [u\u02d0] vary with free vowel\u00feschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [ni\u02d0 juw] we have you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]; beside fire fighter [fa\u02d0 fajt\u0259] we have fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]; beside cure them [kju\u02d0 \u00f0\u0259m]7 we have the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]. In the case of two [r]-influenced vowels, [e\u02d0] and [o\u02d0], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [be\u02d0] (\u2020[be(j)\u0259]), boar [bo\u02d0] (\u2020[bo(w)\u0259]). On the other hand, in the rare sequence [oj\u0259] monophthongization is not possible at all: coir [koj\u0259] (p[ko\u02d0]).",
+    "question": "Why do some of the R vowels, most notably [i\u02d0], [a\u02d0], and [u\u02d0], vary with free vowel+schwa sequences?",
+    "category": "cat 414",
+    "answers": [
+      "a) Because they are always unstressed",
+      "b) Because they occur before consonants",
+      "c) In these words, the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]",
+      "d) Because they are always followed by a vowel"
+    ],
+    "correct answer(s)": "c) In these words, the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]",
+    "GPT's response": "c) In these words, the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Some of the R vowels, most notably [i\u02d0], [a\u02d0], and [u\u02d0] vary with free vowel\u00feschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [ni\u02d0 juw] we have you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]; beside fire fighter [fa\u02d0 fajt\u0259] we have fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]; beside cure them [kju\u02d0 \u00f0\u0259m]7 we have the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]. In the case of two [r]-influenced vowels, [e\u02d0] and [o\u02d0], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [be\u02d0] (\u2020[be(j)\u0259]), boar [bo\u02d0] (\u2020[bo(w)\u0259]). On the other hand, in the rare sequence [oj\u0259] monophthongization is not possible at all: coir [koj\u0259] (p[ko\u02d0]).",
+    "question": "How does the pronunciation of \"near\" achange?",
+    "category": "cat 415",
+    "answers": [
+      "a) Near you [ni\u02d0 juw] or you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]",
+      "b) Near you [nej\u0259 ju] or you\u2019re near [nj\u0259 j\u0259]",
+      "c) Near you [nu\u02d0 ju] or you\u2019re near [ji\u02d0 nu]",
+      "d) Near you [na\u02d0 yu] or you\u2019re near [ja\u02d0 nu]"
+    ],
+    "correct answer(s)": "a) Near you [ni\u02d0 juw] or you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]",
+    "GPT's response": "a) Near you [ni\u02d0 juw] or you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Some of the R vowels, most notably [i\u02d0], [a\u02d0], and [u\u02d0] vary with free vowel\u00feschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [ni\u02d0 juw] we have you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]; beside fire fighter [fa\u02d0 fajt\u0259] we have fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]; beside cure them [kju\u02d0 \u00f0\u0259m]7 we have the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]. In the case of two [r]-influenced vowels, [e\u02d0] and [o\u02d0], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [be\u02d0] (\u2020[be(j)\u0259]), boar [bo\u02d0] (\u2020[bo(w)\u0259]). On the other hand, in the rare sequence [oj\u0259] monophthongization is not possible at all: coir [koj\u0259] (p[ko\u02d0]).",
+    "question": "How does the pronunciation of \"fire\" achange?",
+    "category": "cat 416",
+    "answers": [
+      "a) Fire fighter [fa\u02d0 fajt\u0259] or fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]",
+      "b) Fire fighter [fej\u0259 fat\u0259] or fight the fire [fa\u02d0t f\u0259 faj\u0259]",
+      "c) Fire fighter [fi\u02d0 fj\u0259t\u0259] or fight the fire [faj\u0259t fa \u0259\u02d0 f\u0259t]",
+      "d) Fire fighter [f\u0259j\u0259 fajt\u0259] or fight the fire [fj\u0259t\u0259n f\u0259 faj\u0259]"
+    ],
+    "correct answer(s)": "a) Fire fighter [fa\u02d0 fajt\u0259] or fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]",
+    "GPT's response": "a) Fire fighter [fa\u02d0 fajt\u0259] or fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Some of the R vowels, most notably [i\u02d0], [a\u02d0], and [u\u02d0] vary with free vowel\u00feschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [ni\u02d0 juw] we have you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]; beside fire fighter [fa\u02d0 fajt\u0259] we have fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]; beside cure them [kju\u02d0 \u00f0\u0259m]7 we have the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]. In the case of two [r]-influenced vowels, [e\u02d0] and [o\u02d0], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [be\u02d0] (\u2020[be(j)\u0259]), boar [bo\u02d0] (\u2020[bo(w)\u0259]). On the other hand, in the rare sequence [oj\u0259] monophthongization is not possible at all: coir [koj\u0259] (p[ko\u02d0]).",
+    "question": "How does the pronunciation of \"cure\" change?",
+    "category": "cat 417",
+    "answers": [
+      "a) Cure them [kju\u02d0 \u00f0\u0259m] or heal the cure [kju \u00f0o\u02d0]",
+      "b) Cure them [kju\u02d0 \u00f0\u0259m] or the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]",
+      "c) Cure them [kj\u0259w \u00f0\u0259m] or healing [k\u0259j \u00f0\u0259 k\u0259ju]",
+      "d) Cure them [k\u0259j \u00f0um] or treat the cure [t\u0259 ku\u02d0]"
+    ],
+    "correct answer(s)": "b) Cure them [kju\u02d0 \u00f0\u0259m] or the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]",
+    "GPT's response": "b) Cure them [kju\u02d0 \u00f0\u0259m] or the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Some of the R vowels, most notably [i\u02d0], [a\u02d0], and [u\u02d0] vary with free vowel\u00feschwa sequences. In these words the schwa was epenthesized earlier between the glide [j] or [w] and the historical [r]. The two-vowel alternant is especially common before a pause, so beside near you [ni\u02d0 juw] we have you\u2019re near [jo\u02d0 ni\u02d0] or [-nij\u0259]; beside fire fighter [fa\u02d0 fajt\u0259] we have fight the fire [fajt \u00f0\u0259 faj\u0259] or [-fa\u02d0]; beside cure them [kju\u02d0 \u00f0\u0259m]7 we have the cure [\u00f0\u0259 kju\u02d0] or [-kjuw\u0259]. In the case of two [r]-influenced vowels, [e\u02d0] and [o\u02d0], the monophthongization process has completed, that is, the two-vowel variant became obsolete decades ago: bear [be\u02d0] (\u2020[be(j)\u0259]), boar [bo\u02d0] (\u2020[bo(w)\u0259]). On the other hand, in the rare sequence [oj\u0259] monophthongization is not possible at all: coir [koj\u0259] (p[ko\u02d0]).",
+    "question": "In the case of which [r]-influenced vowels has the monophthongization process completed?",
+    "category": "cat 418",
+    "answers": [
+      "a) [i\u02d0] and [a\u02d0]",
+      "b) [e\u02d0] and [o\u02d0]",
+      "c) [u\u02d0] and [a\u02d0]",
+      "d) [e\u02d0] and [u\u02d0]"
+    ],
+    "correct answer(s)": "b) [e\u02d0] and [o\u02d0]",
+    "GPT's response": "b) [e\u02d0] and [o\u02d0]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "It can even be argued that the status of a glide\u00fevowel sequence may differ from word to word. With respect to article selection, the French word [jatys] \u2018hiatus\u2019, for example, behaves as a vowelinitial word: it selects the vowelless form of the singular definite article, [ljatys],8 which is typical of words that begin with a vowel. The beginning of the word [jau\u0281t] \u2018yoghurt\u2019 is rather similar, yet it selects the vowelful form of the singular definite article, like consonant-initial words do: [l\u0259jau\u0281t]. Digging a bit deeper, we find some facts that may make us wary. On the one hand, [jatys] has an alternative form [iatys], which begins with a \u201creal\u201d vowel, but [jau\u0281t] does not have such an alternative form. Yet [wat] \u2018watt\u2019 selects the vowelful singular definite article [l\u0259wat], while [wat] \u2018cotton\u2019 may also select the vowelless allomorph, [lwat], although the latter word has no vowel-initial variant, p[uat]. On the other hand, there exist numerous French words that begin with a \u201creal\u201d vowel, and yet select the preconsonantal, vowelful variant of the singular definite article: for example, [\u025bn] \u2018hatred\u2019, [la\u025bn]. Many (though not all) of these words have a [h]-initial etymon: [\u025bn], for example, is a descendant of the same Proto-Germanic word as English hate, which did indeed begin with a consonant",
+    "question": "How does the French word [jatys] 'hiatus' behave with respect to article selection?",
+    "category": "cat 419",
+    "answers": [
+      "a) It selects the vowelful form of the singular definite article",
+      "b) It selects the consonantal form of the singular definite article",
+      "c) It selects the vowelless form of the singular definite article",
+      "d) It does not select any form of the singular definite article"
+    ],
+    "correct answer(s)": "c) It selects the vowelless form of the singular definite article",
+    "GPT's response": "c) It selects the vowelless form of the singular definite article",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "It can even be argued that the status of a glide\u00fevowel sequence may differ from word to word. With respect to article selection, the French word [jatys] \u2018hiatus\u2019, for example, behaves as a vowelinitial word: it selects the vowelless form of the singular definite article, [ljatys],8 which is typical of words that begin with a vowel. The beginning of the word [jau\u0281t] \u2018yoghurt\u2019 is rather similar, yet it selects the vowelful form of the singular definite article, like consonant-initial words do: [l\u0259jau\u0281t]. Digging a bit deeper, we find some facts that may make us wary. On the one hand, [jatys] has an alternative form [iatys], which begins with a \u201creal\u201d vowel, but [jau\u0281t] does not have such an alternative form. Yet [wat] \u2018watt\u2019 selects the vowelful singular definite article [l\u0259wat], while [wat] \u2018cotton\u2019 may also select the vowelless allomorph, [lwat], although the latter word has no vowel-initial variant, p[uat]. On the other hand, there exist numerous French words that begin with a \u201creal\u201d vowel, and yet select the preconsonantal, vowelful variant of the singular definite article: for example, [\u025bn] \u2018hatred\u2019, [la\u025bn]. Many (though not all) of these words have a [h]-initial etymon: [\u025bn], for example, is a descendant of the same Proto-Germanic word as English hate, which did indeed begin with a consonant",
+    "question": "What is the peculiarity of the French word [jau\u0281t] 'yoghurt' in terms of article selection?",
+    "category": "cat 420",
+    "answers": [
+      "a) It selects the vowelless form, like vowel-initial words",
+      "b) It does not require a definite article",
+      "c) It can select both vowelless and vowelful forms",
+      "d) It selects the vowelful form, like consonant-initial words"
+    ],
+    "correct answer(s)": "d) It selects the vowelful form, like consonant-initial words",
+    "GPT's response": "d) It selects the vowelful form, like consonant-initial words",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "It can even be argued that the status of a glide\u00fevowel sequence may differ from word to word. With respect to article selection, the French word [jatys] \u2018hiatus\u2019, for example, behaves as a vowelinitial word: it selects the vowelless form of the singular definite article, [ljatys],8 which is typical of words that begin with a vowel. The beginning of the word [jau\u0281t] \u2018yoghurt\u2019 is rather similar, yet it selects the vowelful form of the singular definite article, like consonant-initial words do: [l\u0259jau\u0281t]. Digging a bit deeper, we find some facts that may make us wary. On the one hand, [jatys] has an alternative form [iatys], which begins with a \u201creal\u201d vowel, but [jau\u0281t] does not have such an alternative form. Yet [wat] \u2018watt\u2019 selects the vowelful singular definite article [l\u0259wat], while [wat] \u2018cotton\u2019 may also select the vowelless allomorph, [lwat], although the latter word has no vowel-initial variant, p[uat]. On the other hand, there exist numerous French words that begin with a \u201creal\u201d vowel, and yet select the preconsonantal, vowelful variant of the singular definite article: for example, [\u025bn] \u2018hatred\u2019, [la\u025bn]. Many (though not all) of these words have a [h]-initial etymon: [\u025bn], for example, is a descendant of the same Proto-Germanic word as English hate, which did indeed begin with a consonant",
+    "question": "What alternative form does the French word [jatys] 'hiatus' have that begins with a vowel?",
+    "category": "cat 421",
+    "answers": [
+      "a) [jautys]",
+      "b) [yjatys]",
+      "c) [iatys]",
+      "d) [watys]"
+    ],
+    "correct answer(s)": "c) [iatys]",
+    "GPT's response": "c) [iatys]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "It can even be argued that the status of a glide\u00fevowel sequence may differ from word to word. With respect to article selection, the French word [jatys] \u2018hiatus\u2019, for example, behaves as a vowelinitial word: it selects the vowelless form of the singular definite article, [ljatys],8 which is typical of words that begin with a vowel. The beginning of the word [jau\u0281t] \u2018yoghurt\u2019 is rather similar, yet it selects the vowelful form of the singular definite article, like consonant-initial words do: [l\u0259jau\u0281t]. Digging a bit deeper, we find some facts that may make us wary. On the one hand, [jatys] has an alternative form [iatys], which begins with a \u201creal\u201d vowel, but [jau\u0281t] does not have such an alternative form. Yet [wat] \u2018watt\u2019 selects the vowelful singular definite article [l\u0259wat], while [wat] \u2018cotton\u2019 may also select the vowelless allomorph, [lwat], although the latter word has no vowel-initial variant, p[uat]. On the other hand, there exist numerous French words that begin with a \u201creal\u201d vowel, and yet select the preconsonantal, vowelful variant of the singular definite article: for example, [\u025bn] \u2018hatred\u2019, [la\u025bn]. Many (though not all) of these words have a [h]-initial etymon: [\u025bn], for example, is a descendant of the same Proto-Germanic word as English hate, which did indeed begin with a consonant",
+    "question": "Which form of the singular definite article does the French word 'watt' [wat] select?",
+    "category": "cat 422",
+    "answers": [
+      "a) The vowelless form",
+      "b) No article",
+      "c) The vowelful form",
+      "d) The stressed form"
+    ],
+    "correct answer(s)": "c) The vowelful form",
+    "GPT's response": "c) The vowelful form",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "It can even be argued that the status of a glide\u00fevowel sequence may differ from word to word. With respect to article selection, the French word [jatys] \u2018hiatus\u2019, for example, behaves as a vowelinitial word: it selects the vowelless form of the singular definite article, [ljatys],8 which is typical of words that begin with a vowel. The beginning of the word [jau\u0281t] \u2018yoghurt\u2019 is rather similar, yet it selects the vowelful form of the singular definite article, like consonant-initial words do: [l\u0259jau\u0281t]. Digging a bit deeper, we find some facts that may make us wary. On the one hand, [jatys] has an alternative form [iatys], which begins with a \u201creal\u201d vowel, but [jau\u0281t] does not have such an alternative form. Yet [wat] \u2018watt\u2019 selects the vowelful singular definite article [l\u0259wat], while [wat] \u2018cotton\u2019 may also select the vowelless allomorph, [lwat], although the latter word has no vowel-initial variant, p[uat]. On the other hand, there exist numerous French words that begin with a \u201creal\u201d vowel, and yet select the preconsonantal, vowelful variant of the singular definite article: for example, [\u025bn] \u2018hatred\u2019, [la\u025bn]. Many (though not all) of these words have a [h]-initial etymon: [\u025bn], for example, is a descendant of the same Proto-Germanic word as English hate, which did indeed begin with a consonant",
+    "question": "What is a characteristic of some French words that begin with a \"real\" vowel in relation to article selection?",
+    "category": "cat 423",
+    "answers": [
+      "a) They uniformly select the vowelless form",
+      "b) They may select the preconsonantal, vowelful variant of the singular definite article",
+      "c) They never require a definite article",
+      "d) They always follow the glide+vowel rule"
+    ],
+    "correct answer(s)": "b) They may select the preconsonantal, vowelful variant of the singular definite article",
+    "GPT's response": "b) They may select the preconsonantal, vowelful variant of the singular definite article",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "With its phonetically stable article selection, English provides us with a criterion for analysing \u201cdiphthongs\u201d that begin with the glide. Words like yak or wax cannot begin with a diphthong, because they do not behave like vowel-initial words: pan yak, pan wax figure. In fact, no glide\u00fevowel sequence can be analysed as a diphthong in English: even words that were historically vowel initial behave as (5 are) consonant initial today when they begin with a glide (e.g., a ewe, a eulogy, a unit, a Uyghur).10 That is, the article test neatly distinguishes consonantand vowel-initial words in English, and uniformly categorizes glides with consonants and, consequently, glide\u00fevowel sequences as clusters, not diphthongs",
+    "question": "How can we test and ensure that words like \"yak\" or \"wax\" do not begin with a diphthong?",
+    "category": "cat 424",
+    "answers": [
+      "a) They are often used with the definite article",
+      "b) They have alternative vowel-initial forms",
+      "c) They do not take the indefinite article form \"an\": *an yak, *an wax",
+      "d) They always appear at the start of a sentence"
+    ],
+    "correct answer(s)": "c) They do not take the indefinite article form \"an\": *an yak, *an wax",
+    "GPT's response": "c) They do not take the indefinite article form \"an\": *an yak, *an wax",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "With its phonetically stable article selection, English provides us with a criterion for analysing \u201cdiphthongs\u201d that begin with the glide. Words like yak or wax cannot begin with a diphthong, because they do not behave like vowel-initial words: pan yak, pan wax figure. In fact, no glide\u00fevowel sequence can be analysed as a diphthong in English: even words that were historically vowel initial behave as (5 are) consonant initial today when they begin with a glide (e.g., a ewe, a eulogy, a unit, a Uyghur).10 That is, the article test neatly distinguishes consonantand vowel-initial words in English, and uniformly categorizes glides with consonants and, consequently, glide\u00fevowel sequences as clusters, not diphthongs",
+    "question": "What does the English analysis suggest about glide+vowel sequences in words historically starting with a vowel?",
+    "category": "cat 425",
+    "answers": [
+      "a) They are considered to be vowel-initial",
+      "b) They have changed to become diphthongs",
+      "c) They always take the form \"an\" in article selection",
+      "d) They behave as consonant-initial words with the glide considered a consonant"
+    ],
+    "correct answer(s)": "d) They behave as consonant-initial words with the glide considered a consonant",
+    "GPT's response": "d) They behave as consonant-initial words with the glide considered a consonant",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "With its phonetically stable article selection, English provides us with a criterion for analysing \u201cdiphthongs\u201d that begin with the glide. Words like yak or wax cannot begin with a diphthong, because they do not behave like vowel-initial words: pan yak, pan wax figure. In fact, no glide\u00fevowel sequence can be analysed as a diphthong in English: even words that were historically vowel initial behave as (5 are) consonant initial today when they begin with a glide (e.g., a ewe, a eulogy, a unit, a Uyghur).10 That is, the article test neatly distinguishes consonantand vowel-initial words in English, and uniformly categorizes glides with consonants and, consequently, glide\u00fevowel sequences as clusters, not diphthongs",
+    "question": "Why can't words like \"yak\" or \"wax\" be analyzed as beginning with a diphthong in English?",
+    "category": "cat 426",
+    "answers": [
+      "a) Because they always take the definite article",
+      "b) Because they behave as consonant-initial words, not taking the indefinite article \"an\"",
+      "c) Because they lack historical vowel alternatives",
+      "d) Because they represent a special class of vowels"
+    ],
+    "correct answer(s)": "b) Because they behave as consonant-initial words, not taking the indefinite article \"an\"",
+    "GPT's response": "b) Because they behave as consonant-initial words, not taking the indefinite article \"an\"",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "With its phonetically stable article selection, English provides us with a criterion for analysing \u201cdiphthongs\u201d that begin with the glide. Words like yak or wax cannot begin with a diphthong, because they do not behave like vowel-initial words: pan yak, pan wax figure. In fact, no glide\u00fevowel sequence can be analysed as a diphthong in English: even words that were historically vowel initial behave as (5 are) consonant initial today when they begin with a glide (e.g., a ewe, a eulogy, a unit, a Uyghur).10 That is, the article test neatly distinguishes consonantand vowel-initial words in English, and uniformly categorizes glides with consonants and, consequently, glide\u00fevowel sequences as clusters, not diphthongs",
+    "question": "What example does the text provide to show that historical vowel-initial English words now behave as consonant-initial?",
+    "category": "cat 427",
+    "answers": [
+      "a) A eagle, a unit",
+      "b) An ox, an hour",
+      "c) A ewe, a eulogy",
+      "d) An apple, an instrument"
+    ],
+    "correct answer(s)": "c) A ewe, a eulogy",
+    "GPT's response": "c) A ewe, a eulogy",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The situation is less obvious word finally. The distributions of the allomorphs of the past tense ([d] \u223c [id]) and the nominal plural suffix ([z] \u223c [iz]) do not distinguish between vowels and consonants, but between some set of consonants (alveolar plosives and sibilants, respectively) and the set comprising all other consonants and vowels. The ordinal suffix [q] has a vowelful allomorph only after [ij] (as in twentieth [twentij\u0259q]), but not after any other segment, be it a vowel (as in fourth [fo:q]) or any consonant (as in tenth [tenq], eighth [ejtq]) or consonant cluster (as in thousandth [qawz\u0259ndq] or sixth [siksq]). So there is no suffix test in English for separating vowel- and consonant-final words.",
+    "question": "The ordinal suffix [\u03b8] has a vowelful allomorph only after which sound(s)?",
+    "category": "cat 428",
+    "answers": [
+      "a) [d]",
+      "b) [z]",
+      "c) [\u0259]",
+      "d) [ij]"
+    ],
+    "correct answer(s)": "d) [ij]",
+    "GPT's response": "d) [ij]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The situation is less obvious word finally. The distributions of the allomorphs of the past tense ([d] \u223c [id]) and the nominal plural suffix ([z] \u223c [iz]) do not distinguish between vowels and consonants, but between some set of consonants (alveolar plosives and sibilants, respectively) and the set comprising all other consonants and vowels. The ordinal suffix [q] has a vowelful allomorph only after [ij] (as in twentieth [twentij\u0259q]), but not after any other segment, be it a vowel (as in fourth [fo:q]) or any consonant (as in tenth [tenq], eighth [ejtq]) or consonant cluster (as in thousandth [qawz\u0259ndq] or sixth [siksq]). So there is no suffix test in English for separating vowel- and consonant-final words.",
+    "question": "Why is there no suffix test for distinguishing vowel- and consonant-final words in English?",
+    "category": "cat 429",
+    "answers": [
+      "a) Because all words behave the same way regardless of ending.",
+      "b) Because suffixes never attach to consonant-final words.",
+      "c) Because the suffix distributions only distinguish between specific sets of consonants, not vowels and consonants.",
+      "d) Because English words typically end in consonants."
+    ],
+    "correct answer(s)": "c) Because the suffix distributions only distinguish between specific sets of consonants, not vowels and consonants.",
+    "GPT's response": "c) Because the suffix distributions only distinguish between specific sets of consonants, not vowels and consonants.",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The situation is less obvious word finally. The distributions of the allomorphs of the past tense ([d] \u223c [id]) and the nominal plural suffix ([z] \u223c [iz]) do not distinguish between vowels and consonants, but between some set of consonants (alveolar plosives and sibilants, respectively) and the set comprising all other consonants and vowels. The ordinal suffix [q] has a vowelful allomorph only after [ij] (as in twentieth [twentij\u0259q]), but not after any other segment, be it a vowel (as in fourth [fo:q]) or any consonant (as in tenth [tenq], eighth [ejtq]) or consonant cluster (as in thousandth [qawz\u0259ndq] or sixth [siksq]). So there is no suffix test in English for separating vowel- and consonant-final words.",
+    "question": "In the example \"twentieth [twentij\u0259\u03b8]\", why does the ordinal suffix appear in its vowelful form?",
+    "category": "cat 430",
+    "answers": [
+      "a) Because it follows a nasal sound.",
+      "b) Because it immediately precedes a vowel.",
+      "c) Because of historical pronunciation rules.",
+      "d) Because it follows the glide sound [ij]."
+    ],
+    "correct answer(s)": "d) Because it follows the glide sound [ij].",
+    "GPT's response": "d) Because it follows the glide sound [ij].",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Vowel quality in English is related to stress. The general wisdom is that one vowel, schwa, only occurs unstressed, the other vowels may either be stressed or unstressed. There is some confusion about the use of the term \u201cstress\u201d, however. In many descriptions of English, this term is used synonymously with accent.13 It is certainly true that any vowel may occur without accent in English, but if we avoid the conflation of \u201cstress\u201d and \u201caccent\u201d, then a stressed vowel will be identical to a full vowel (and an unstressed vowel to a reduced vowel). In this terminology, which is what I follow in this paper, it is not the case that any vowel may be unstressed in English. In fact, all vowels in the inventory introduced in (3) occur stressed, but only a subset of that inventory occurs unstressed.",
+    "question": "What is the only vowel that can occur only unstressed in English?",
+    "category": "cat 431",
+    "answers": [
+      "a) [i\u02d0]",
+      "b) [u\u02d0]",
+      "c) [\u0259]",
+      "d) [e\u02d0]"
+    ],
+    "correct answer(s)": "c) [\u0259]",
+    "GPT's response": "c) [\u0259]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Vowel quality in English is related to stress. The general wisdom is that one vowel, schwa, only occurs unstressed, the other vowels may either be stressed or unstressed. There is some confusion about the use of the term \u201cstress\u201d, however. In many descriptions of English, this term is used synonymously with accent.13 It is certainly true that any vowel may occur without accent in English, but if we avoid the conflation of \u201cstress\u201d and \u201caccent\u201d, then a stressed vowel will be identical to a full vowel (and an unstressed vowel to a reduced vowel). In this terminology, which is what I follow in this paper, it is not the case that any vowel may be unstressed in English. In fact, all vowels in the inventory introduced in (3) occur stressed, but only a subset of that inventory occurs unstressed.",
+    "question": "What term is often used synonymously with \"stress\" in descriptions of English, and potentially causing confusion?",
+    "category": "cat 432",
+    "answers": [
+      "a) Tone",
+      "b) Accent",
+      "c) Intonation",
+      "d) Pitch"
+    ],
+    "correct answer(s)": "b) Accent",
+    "GPT's response": "b) Accent",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Vowel quality in English is related to stress. The general wisdom is that one vowel, schwa, only occurs unstressed, the other vowels may either be stressed or unstressed. There is some confusion about the use of the term \u201cstress\u201d, however. In many descriptions of English, this term is used synonymously with accent.13 It is certainly true that any vowel may occur without accent in English, but if we avoid the conflation of \u201cstress\u201d and \u201caccent\u201d, then a stressed vowel will be identical to a full vowel (and an unstressed vowel to a reduced vowel). In this terminology, which is what I follow in this paper, it is not the case that any vowel may be unstressed in English. In fact, all vowels in the inventory introduced in (3) occur stressed, but only a subset of that inventory occurs unstressed.",
+    "question": "Is it true that any vowel may be unstressed in English according to our analysis?",
+    "category": "cat 433",
+    "answers": [
+      "a) Yes, all vowels can be unstressed",
+      "b) No, only a subset of vowels can be unstressed",
+      "c) Yes, but only in certain dialects",
+      "d) Yes, all vowels are unstressed at the end of sentences"
+    ],
+    "correct answer(s)": "b) No, only a subset of vowels can be unstressed",
+    "GPT's response": "b) No, only a subset of vowels can be unstressed",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The set of reduced (or unstressed) vowels includes schwa and two further vowels, KIT and FOOT, transcribed as [i] and [u], respectively, by Jones (1917), and as [\u026a] and [\u028a] by Gimson (1962). The second vowel in each of the following words is unstressed and together they illustrate all the possibilities: comet [k\u0001om\u0259t], comic [k\u0001omik], communal [k\u0001omjun\u0259l]. All three vowels occur preconsonantally, as in these examples.",
+    "question": "Which two vowels, besides schwa, can be reduced in English?",
+    "category": "cat 434",
+    "answers": [
+      "a) [e] and [o]",
+      "b) [i] and [u]",
+      "c) [a] and [\u0259]",
+      "d) [\u025b] and [\u0251]"
+    ],
+    "correct answer(s)": "b) [i] and [u]",
+    "GPT's response": "b) [i] and [u]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The set of reduced (or unstressed) vowels includes schwa and two further vowels, KIT and FOOT, transcribed as [i] and [u], respectively, by Jones (1917), and as [\u026a] and [\u028a] by Gimson (1962). The second vowel in each of the following words is unstressed and together they illustrate all the possibilities: comet [k\u0001om\u0259t], comic [k\u0001omik], communal [k\u0001omjun\u0259l]. All three vowels occur preconsonantally, as in these examples.",
+    "question": "How are the reduced vowels KIT and FOOT transcribed by Jones (1917)?",
+    "category": "cat 435",
+    "answers": [
+      "a) [e] and [o]",
+      "b) [i] and [u]",
+      "c) [a] and [\u0259]",
+      "d) [\u026a] and [\u028a]"
+    ],
+    "correct answer(s)": "b) [i] and [u]",
+    "GPT's response": "b) [i] and [u]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The set of reduced (or unstressed) vowels includes schwa and two further vowels, KIT and FOOT, transcribed as [i] and [u], respectively, by Jones (1917), and as [\u026a] and [\u028a] by Gimson (1962). The second vowel in each of the following words is unstressed and together they illustrate all the possibilities: comet [k\u0001om\u0259t], comic [k\u0001omik], communal [k\u0001omjun\u0259l]. All three vowels occur preconsonantally, as in these examples.",
+    "question": "In which examples do KIT and FOOT appear as reduced vowels in unstressed positions?",
+    "category": "cat 436",
+    "answers": [
+      "a) mountain [\u02c8ma\u028ant\u026an], fountain [\u02c8fa\u028ant\u0259n]",
+      "b) comet [\u02c8kom\u0259t], comic [\u02c8komik], communal [\u02c8komjun\u0259l]",
+      "c) silent [\u02c8sa\u026al\u0259nt], engineer [\u025bn\u02a4\u026a\u02c8n\u026ar]",
+      "d) alphabet [\u02c8\u00e6lf\u0259b\u025bt], quiet [\u02c8kwa\u026a\u0259t]"
+    ],
+    "correct answer(s)": "b) comet [\u02c8kom\u0259t], comic [\u02c8komik], communal [\u02c8komjun\u0259l]",
+    "GPT's response": "b) comet [\u02c8kom\u0259t], comic [\u02c8komik], communal [\u02c8komjun\u0259l]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Word-final reduced KIT has also been replaced by a long vowel, FLEECE. This change is called HAPPY-tensing (Wells 1982). To parallel the name, let us call the former change VALUE-tensing.14 HAPPY- and VALUE-tensing are claimed to take place not only word finally, but in prevocalic position, too. Wells (1990), who uses the redundant Gimsonian system [\u026a]/[i\u02d0] and [\u028a]/[u\u02d0] for transcribing the high vowels KIT/FLEECE and FOOT/GOOSE, applies two further symbols to represent the transition from the pre-HAPPY/VALUE-tensing state of the language (where these words have [\u026a] and [\u028a]) to the post-tensing state (with [i\u02d0] and [u\u02d0]), the \u201ctransitional\u201d symbols are [i] and [u].15 Accordingly, he has create [kri\u02c8e\u026at], where [i] is an abbreviation for \u201cmore conservative speakers may have [\u026a] here, others have [i\u02d0]\u201d, and statuette [\u02ccst\u00e6t\u0283u\u02c8et], where [u] is similarly an abbreviation for FOOT or GOOSE. Since these symbols only occur in unstressed position, that is, they represent reduced vowels, they could be called schwee and schwoo, respectively (Lindsey 2012b). Word finally Wells does not apply schwoo, since, as we have noted above, VALUE-tensing has completed in standard British English in this position. It is important to emphasize that [i] and [u] are not members of the vowel inventory, they are transcriptional abbreviations or, from a different point of view, archiphonemes.",
+    "question": "What is HAPPY-tensing?",
+    "category": "cat 437",
+    "answers": [
+      "a) The process of making stressed vowels shorter",
+      "b) The change of unstressed [\u026a] to [\u028a]",
+      "c) The replacement of word-final reduced KIT by the long vowel FLEECE",
+      "d) A pronunciation shift affecting stressed vowels"
+    ],
+    "correct answer(s)": "c) The replacement of word-final reduced KIT by the long vowel FLEECE",
+    "GPT's response": "c) The replacement of word-final reduced KIT by the long vowel FLEECE",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Word-final reduced KIT has also been replaced by a long vowel, FLEECE. This change is called HAPPY-tensing (Wells 1982). To parallel the name, let us call the former change VALUE-tensing.14 HAPPY- and VALUE-tensing are claimed to take place not only word finally, but in prevocalic position, too. Wells (1990), who uses the redundant Gimsonian system [\u026a]/[i\u02d0] and [\u028a]/[u\u02d0] for transcribing the high vowels KIT/FLEECE and FOOT/GOOSE, applies two further symbols to represent the transition from the pre-HAPPY/VALUE-tensing state of the language (where these words have [\u026a] and [\u028a]) to the post-tensing state (with [i\u02d0] and [u\u02d0]), the \u201ctransitional\u201d symbols are [i] and [u].15 Accordingly, he has create [kri\u02c8e\u026at], where [i] is an abbreviation for \u201cmore conservative speakers may have [\u026a] here, others have [i\u02d0]\u201d, and statuette [\u02ccst\u00e6t\u0283u\u02c8et], where [u] is similarly an abbreviation for FOOT or GOOSE. Since these symbols only occur in unstressed position, that is, they represent reduced vowels, they could be called schwee and schwoo, respectively (Lindsey 2012b). Word finally Wells does not apply schwoo, since, as we have noted above, VALUE-tensing has completed in standard British English in this position. It is important to emphasize that [i] and [u] are not members of the vowel inventory, they are transcriptional abbreviations or, from a different point of view, archiphonemes.",
+    "question": "What is a schwee?",
+    "category": "cat 438",
+    "answers": [
+      "a) A diphthong in the vowel system",
+      "b) A transcriptional symbol ([i]) representing a transitional vowel associated with HAPPY-tensing",
+      "c) An alternate name for all reduced vowels",
+      "d) A stressed form of vowel [e]"
+    ],
+    "correct answer(s)": "b) A transcriptional symbol ([i]) representing a transitional vowel associated with HAPPY-tensing",
+    "GPT's response": "b) A transcriptional symbol ([i]) representing a transitional vowel associated with HAPPY-tensing",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "Word-final reduced KIT has also been replaced by a long vowel, FLEECE. This change is called HAPPY-tensing (Wells 1982). To parallel the name, let us call the former change VALUE-tensing.14 HAPPY- and VALUE-tensing are claimed to take place not only word finally, but in prevocalic position, too. Wells (1990), who uses the redundant Gimsonian system [\u026a]/[i\u02d0] and [\u028a]/[u\u02d0] for transcribing the high vowels KIT/FLEECE and FOOT/GOOSE, applies two further symbols to represent the transition from the pre-HAPPY/VALUE-tensing state of the language (where these words have [\u026a] and [\u028a]) to the post-tensing state (with [i\u02d0] and [u\u02d0]), the \u201ctransitional\u201d symbols are [i] and [u].15 Accordingly, he has create [kri\u02c8e\u026at], where [i] is an abbreviation for \u201cmore conservative speakers may have [\u026a] here, others have [i\u02d0]\u201d, and statuette [\u02ccst\u00e6t\u0283u\u02c8et], where [u] is similarly an abbreviation for FOOT or GOOSE. Since these symbols only occur in unstressed position, that is, they represent reduced vowels, they could be called schwee and schwoo, respectively (Lindsey 2012b). Word finally Wells does not apply schwoo, since, as we have noted above, VALUE-tensing has completed in standard British English in this position. It is important to emphasize that [i] and [u] are not members of the vowel inventory, they are transcriptional abbreviations or, from a different point of view, archiphonemes.",
+    "question": "What is a schwoo?",
+    "category": "cat 439",
+    "answers": [
+      "a) A non-existent concept in linguistics",
+      "b) A short form of the diphthong [\u0259\u028a]",
+      "c) A vowel used only in stressed positions",
+      "d) A transcriptional symbol ([u]) representing a transitional vowel associated with VALUE-tensing"
+    ],
+    "correct answer(s)": "d) A transcriptional symbol ([u]) representing a transitional vowel associated with VALUE-tensing",
+    "GPT's response": "d) A transcriptional symbol ([u]) representing a transitional vowel associated with VALUE-tensing",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "British English underwent a vowel change that is relevant from our point of view, GOATfronting (or advancement, Wells 1982, 237). The shift of the first part of earlier [ou] into [\u0259u] is already mentioned by Jones (1917), but it is given graphical recognition only much later by Gimson (1962), as [\u0259\u028a], and Jones (1967), as [\u0259u]. With this change, the marginal reduced vowel [o], which was in free variation with [\u0259], has disappeared from dictionaries. It has been replaced by the canonical reduced vowel, [\u0259].",
+    "question": "What is GOAT-fronting?",
+    "category": "cat 440",
+    "answers": [
+      "a) The process of replacing [\u0259] with [o] in stressed positions",
+      "b) A change involving the shortening of long vowels",
+      "c) A vowel change where the first part of the diphthong [ou] shifted to [\u0259u], later recognized as [\u0259\u028a]",
+      "d) The addition of a glide before the vowel [o]"
+    ],
+    "correct answer(s)": "c) A vowel change where the first part of the diphthong [ou] shifted to [\u0259u], later recognized as [\u0259\u028a]",
+    "GPT's response": "c) A vowel change where the first part of the diphthong [ou] shifted to [\u0259u], later recognized as [\u0259\u028a]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "None of the R vowels, that is, the long monophthongs, may occur unstressed. This follows from universal tendencies of stressability. For example, Hayes claims that \u201cCV counts as a light syllable. It is probable that long-vowelled syllables universally count as heavy; [... b]ut CVC syllables vary: in some languages they are heavy, in others light\u201d (1995, 120).18 Accordingly, we can set up the stressability scale in (6), where \u201c>\u201d means the item on the left is more stressable than the one on the right.",
+    "question": "Why can R vowels, or long monophthongs, never occur unstressed?",
+    "category": "cat 441",
+    "answers": [
+      "a) Because they are always pronounced at the end of words",
+      "b) Because they are reserved for diphthongs",
+      "c) Because they universally count as heavy and follow tendencies of stressability, making them unsuitable for unstressed positions",
+      "d) Because they are only used in specific vocabulary words"
+    ],
+    "correct answer(s)": "c) Because they universally count as heavy and follow tendencies of stressability, making them unsuitable for unstressed positions",
+    "GPT's response": "c) Because they universally count as heavy and follow tendencies of stressability, making them unsuitable for unstressed positions",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The scale shows that the R vowels (VV) are the least unstressable vowels, and indeed, in English they only occur stressed. We have mentioned above that free vowel\u00feschwa sequences alternate with R vowels. However, this only occurs in stressed position, so idea may be [ajd\u0001\u0131\u02d0], but India may not be p[\u0001\u0131ndi\u02d0], secure may be [sikju\u0001\u02d0], but jaguar may not be p[d\u0292\u0001a\u0261ju\u02d0]. This follows from the nonoccurrence of long vowels in unstressed position.",
+    "question": "What does the scale indicate about the stressability of R vowels (VV) in English?",
+    "category": "cat 442",
+    "answers": [
+      "a) They are equally unstressable as short vowels",
+      "b) They can occur unstressed in some dialects",
+      "c) They are the least unstressable vowels and only occur stressed",
+      "d) They frequently alternate between stressed and unstressed roles"
+    ],
+    "correct answer(s)": "c) They are the least unstressable vowels and only occur stressed",
+    "GPT's response": "c) They are the least unstressable vowels and only occur stressed",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The scale shows that the R vowels (VV) are the least unstressable vowels, and indeed, in English they only occur stressed. We have mentioned above that free vowel\u00feschwa sequences alternate with R vowels. However, this only occurs in stressed position, so idea may be [ajd\u0001\u0131\u02d0], but India may not be p[\u0001\u0131ndi\u02d0], secure may be [sikju\u0001\u02d0], but jaguar may not be p[d\u0292\u0001a\u0261ju\u02d0]. This follows from the nonoccurrence of long vowels in unstressed position.",
+    "question": "What happens to free vowel+schwa sequences in relation to R vowels?",
+    "category": "cat 443",
+    "answers": [
+      "a) They always convert to short vowels",
+      "b) They alternate with R vowels but only in stressed positions",
+      "c) They occur primarily in unstressed positions",
+      "d) They are exclusively used in British English"
+    ],
+    "correct answer(s)": "b) They alternate with R vowels but only in stressed positions",
+    "GPT's response": "b) They alternate with R vowels but only in stressed positions",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The scale shows that the R vowels (VV) are the least unstressable vowels, and indeed, in English they only occur stressed. We have mentioned above that free vowel\u00feschwa sequences alternate with R vowels. However, this only occurs in stressed position, so idea may be [ajd\u0001\u0131\u02d0], but India may not be p[\u0001\u0131ndi\u02d0], secure may be [sikju\u0001\u02d0], but jaguar may not be p[d\u0292\u0001a\u0261ju\u02d0]. This follows from the nonoccurrence of long vowels in unstressed position.",
+    "question": "Why can the word \"idea\" be pronounced as [ajdi\u02d0], but \"India\" cannot be pronounced as [\u026andi\u02d0]?",
+    "category": "cat 444",
+    "answers": [
+      "a) Because \"India\" is always pronounced with an initial stress",
+      "b) Because \"idea\" is a more frequently used word",
+      "c) Because long vowels like [i\u02d0] cannot occur in unstressed syllables",
+      "d) Because \"India\" follows different phonological rules"
+    ],
+    "correct answer(s)": "c) Because long vowels like [i\u02d0] cannot occur in unstressed syllables",
+    "GPT's response": "c) Because long vowels like [i\u02d0] cannot occur in unstressed syllables",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "The scale shows that the R vowels (VV) are the least unstressable vowels, and indeed, in English they only occur stressed. We have mentioned above that free vowel\u00feschwa sequences alternate with R vowels. However, this only occurs in stressed position, so idea may be [ajd\u0001\u0131\u02d0], but India may not be p[\u0001\u0131ndi\u02d0], secure may be [sikju\u0001\u02d0], but jaguar may not be p[d\u0292\u0001a\u0261ju\u02d0]. This follows from the nonoccurrence of long vowels in unstressed position.",
+    "question": "Why can't \"jaguar\" be pronounced with a final [u\u02d0] like \"secure\"?",
+    "category": "cat 445",
+    "answers": [
+      "a) Because \"secure\" follows an American English rule",
+      "b) Because \"jaguar\" ends with a vowel",
+      "c) Because long vowels like [u\u02d0] do not occur in unstressed position",
+      "d) Because \"jaguar\" has a unique stress pattern"
+    ],
+    "correct answer(s)": "c) Because long vowels like [u\u02d0] do not occur in unstressed position",
+    "GPT's response": "c) Because long vowels like [u\u02d0] do not occur in unstressed position",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(8) The checked vowels\n\u201cnonlow\u201d i \u0259 u unstressable\n\u201cnonhigh\u201d e a o not unstressable",
+    "question": "Which checked vowels are unstressable in English?",
+    "category": "cat 446",
+    "answers": [
+      "a) e, a, o",
+      "b) i, \u0259, u",
+      "c) u, a, e",
+      "d) o, e, i"
+    ],
+    "correct answer(s)": "b) i, \u0259, u",
+    "GPT's response": "b) i, \u0259, u",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(8) The checked vowels\n\u201cnonlow\u201d i \u0259 u unstressable\n\u201cnonhigh\u201d e a o not unstressable",
+    "question": "Which checked vowels are not unstressable in English?",
+    "category": "cat 447",
+    "answers": [
+      "a) i, \u0259, u",
+      "b) e, a, o",
+      "c) i, o, a",
+      "d) u, e, \u0259"
+    ],
+    "correct answer(s)": "b) e, a, o",
+    "GPT's response": "b) e, a, o",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(8) The checked vowels\n\u201cnonlow\u201d i \u0259 u unstressable\n\u201cnonhigh\u201d e a o not unstressable",
+    "question": "Which checked vowels are classified as unstressable?",
+    "category": "cat 448",
+    "answers": [
+      "a) Nonhigh",
+      "b) High",
+      "c) All of them",
+      "d) Nonlow"
+    ],
+    "correct answer(s)": "d) Nonlow",
+    "GPT's response": "b) High",
+    "correct": false
+  },
+  {
+    "correct_text_chunk": "(8) The checked vowels\n\u201cnonlow\u201d i \u0259 u unstressable\n\u201cnonhigh\u201d e a o not unstressable",
+    "question": "Which checked vowels are classified as not unstressable?",
+    "category": "cat 449",
+    "answers": [
+      "a) Low",
+      "b) All of them",
+      "c) Nonhigh",
+      "d) Short"
+    ],
+    "correct answer(s)": "c) Nonhigh",
+    "GPT's response": "c) Nonhigh",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(9) The free vowels\n\u201cnonlow\u201d ij \u0259w uw unstressable\n\u201cnonhigh\u201d ej aj aw oj not unstressable",
+    "question": "Which free vowels are unstressable in English?",
+    "category": "cat 450",
+    "answers": [
+      "a) ej, aj, aw, oj",
+      "b) High",
+      "c) ij, \u0259w, uw",
+      "d) Low"
+    ],
+    "correct answer(s)": "c) ij, \u0259w, uw",
+    "GPT's response": "c) ij, \u0259w, uw",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(9) The free vowels\n\u201cnonlow\u201d ij \u0259w uw unstressable\n\u201cnonhigh\u201d ej aj aw oj not unstressable",
+    "question": "Which free vowels are not unstressable in English?",
+    "category": "cat 451",
+    "answers": [
+      "a) ij, \u0259w, uw",
+      "b) High",
+      "c) ej, aj, aw, oj",
+      "d) All vowels"
+    ],
+    "correct answer(s)": "c) ej, aj, aw, oj",
+    "GPT's response": "c) ej, aj, aw, oj",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(9) The free vowels\n\u201cnonlow\u201d ij \u0259w uw unstressable\n\u201cnonhigh\u201d ej aj aw oj not unstressable",
+    "question": "Which free vowels are classified as unstressable?",
+    "category": "cat 452",
+    "answers": [
+      "a) Nonhigh",
+      "b) Low",
+      "c) Nonlow",
+      "d) All of them"
+    ],
+    "correct answer(s)": "c) Nonlow",
+    "GPT's response": "c) Nonlow",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "(9) The free vowels\n\u201cnonlow\u201d ij \u0259w uw unstressable\n\u201cnonhigh\u201d ej aj aw oj not unstressable",
+    "question": "Which free vowels are classified as not unstressable?",
+    "category": "cat 453",
+    "answers": [
+      "a) Nonlow",
+      "b) High",
+      "c) All of them",
+      "d) Nonhigh"
+    ],
+    "correct answer(s)": "d) Nonhigh",
+    "GPT's response": "d) Nonhigh",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "In the interpretation advocated in this paper, the input of this change is [i] and the output is [ij]. This change is the \u201cfortition\u201d of the vowel, only if [ij] is a diphthong, that is, a single unit. If, however, it is the short vowel, [i], followed by a consonant, [j], then this change is the epenthesis of a consonant. Word finally this consonant is epenthesized because word-final short vowels are dispreferred in English. Prevocalically, this consonant is epenthesized because prevocalic vowels (that is, hiatus) are also strongly dispreferred in English.",
+    "question": "What does the change from [i] to [ij] represent if [ij] is not considered a diphthong?",
+    "category": "cat 454",
+    "answers": [
+      "a) A vowel deletion",
+      "b) A shortening of the vowel",
+      "c) The epenthesis of a consonant, where [j] is added after the short vowel [i]",
+      "d) A vowel fronting process"
+    ],
+    "correct answer(s)": "c) The epenthesis of a consonant, where [j] is added after the short vowel [i]",
+    "GPT's response": "c) The epenthesis of a consonant, where [j] is added after the short vowel [i]",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "In the interpretation advocated in this paper, the input of this change is [i] and the output is [ij]. This change is the \u201cfortition\u201d of the vowel, only if [ij] is a diphthong, that is, a single unit. If, however, it is the short vowel, [i], followed by a consonant, [j], then this change is the epenthesis of a consonant. Word finally this consonant is epenthesized because word-final short vowels are dispreferred in English. Prevocalically, this consonant is epenthesized because prevocalic vowels (that is, hiatus) are also strongly dispreferred in English.",
+    "question": "Why is the consonant [j] epenthesized word-finally in English according to the paper's interpretation?",
+    "category": "cat 455",
+    "answers": [
+      "a) To lengthen the word's ending",
+      "b) To emphasize the stress on the vowel",
+      "c) To avoid confusion with similar-sounding words",
+      "d) Because word-final short vowels are dispreferred in English"
+    ],
+    "correct answer(s)": "d) Because word-final short vowels are dispreferred in English",
+    "GPT's response": "d) Because word-final short vowels are dispreferred in English",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "In the interpretation advocated in this paper, the input of this change is [i] and the output is [ij]. This change is the \u201cfortition\u201d of the vowel, only if [ij] is a diphthong, that is, a single unit. If, however, it is the short vowel, [i], followed by a consonant, [j], then this change is the epenthesis of a consonant. Word finally this consonant is epenthesized because word-final short vowels are dispreferred in English. Prevocalically, this consonant is epenthesized because prevocalic vowels (that is, hiatus) are also strongly dispreferred in English.",
+    "question": "What linguistic preference leads to the epenthesis of a consonant prevocalically?",
+    "category": "cat 456",
+    "answers": [
+      "a) A preference for longer vowels",
+      "b) The need for lexical variety",
+      "c) The strong dispreference for prevocalic vowels or hiatus",
+      "d) The demand for emphasis on the prevocalic sound"
+    ],
+    "correct answer(s)": "c) The strong dispreference for prevocalic vowels or hiatus",
+    "GPT's response": "c) The strong dispreference for prevocalic vowels or hiatus",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "We have seen that stressed short vowels do not occur either word finally or prevocalically. In the accent described by Jones and Gimson, the unstressed short vowels [i] and [u] could occur in these positions: happy [h\u0001api], India [\u0001\u0131ndi\u0259], value [v\u0001alju], jaguar [d\u0292\u0001a\u0261ju\u0259], and unstressed [\u0259] can occur word finally, but not prevocalically. The constraint against short vowels in word-final and prevocalic position has been generalized to unstressed position, which triggers the insertion (or, in the case of [uw], the retention) of the glide after these two short unstressed vowels. Most importantly, in neither case does this change make the syllable heavy, which would entail that it is less unstressable. It is well-known that word-final consonants are not moraic in English,19 so the glide does not add to the weight of the final syllable in the changes from [h\u0001api] to [h\u0001apij] or [v\u0001alju] to [v\u0001aljuw]. The glide that appears between two vowels, as in the changes from [\u0001\u0131ndi\u0259] to [\u0001\u0131ndij\u0259] or [d\u0292\u0001a\u0261ju\u0259] to [d\u0292\u0001a\u0261juw\u0259], is an onset, hence it does not contribute to weight either. That is, the unstressed syllables involved in HAPPY-tensing and VALUE-tensing remain light, hence fully unstressable.",
+    "question": "Why do stressed short vowels not occur either word finally or prevocalically in English?",
+    "category": "cat 457",
+    "answers": [
+      "a) Because there is a constraint against short vowels in these positions",
+      "b) Because they are always replaced by long vowels",
+      "c) Because they are considered ungrammatical",
+      "d) Because they undergo deletion in modern English"
+    ],
+    "correct answer(s)": "a) Because there is a constraint against short vowels in these positions",
+    "GPT's response": "a) Because there is a constraint against short vowels in these positions",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "We have seen that stressed short vowels do not occur either word finally or prevocalically. In the accent described by Jones and Gimson, the unstressed short vowels [i] and [u] could occur in these positions: happy [h\u0001api], India [\u0001\u0131ndi\u0259], value [v\u0001alju], jaguar [d\u0292\u0001a\u0261ju\u0259], and unstressed [\u0259] can occur word finally, but not prevocalically. The constraint against short vowels in word-final and prevocalic position has been generalized to unstressed position, which triggers the insertion (or, in the case of [uw], the retention) of the glide after these two short unstressed vowels. Most importantly, in neither case does this change make the syllable heavy, which would entail that it is less unstressable. It is well-known that word-final consonants are not moraic in English,19 so the glide does not add to the weight of the final syllable in the changes from [h\u0001api] to [h\u0001apij] or [v\u0001alju] to [v\u0001aljuw]. The glide that appears between two vowels, as in the changes from [\u0001\u0131ndi\u0259] to [\u0001\u0131ndij\u0259] or [d\u0292\u0001a\u0261ju\u0259] to [d\u0292\u0001a\u0261juw\u0259], is an onset, hence it does not contribute to weight either. That is, the unstressed syllables involved in HAPPY-tensing and VALUE-tensing remain light, hence fully unstressable.",
+    "question": "In what context do the unstressed short vowels [i] and [u] occur in the accent described by Jones and Gimson?",
+    "category": "cat 458",
+    "answers": [
+      "a) At the beginning of a word",
+      "b) In all syllable positions",
+      "c) Word finally and prevocalically",
+      "d) Only in stressed positions"
+    ],
+    "correct answer(s)": "c) Word finally and prevocalically",
+    "GPT's response": "c) Word finally and prevocalically",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "We have seen that stressed short vowels do not occur either word finally or prevocalically. In the accent described by Jones and Gimson, the unstressed short vowels [i] and [u] could occur in these positions: happy [h\u0001api], India [\u0001\u0131ndi\u0259], value [v\u0001alju], jaguar [d\u0292\u0001a\u0261ju\u0259], and unstressed [\u0259] can occur word finally, but not prevocalically. The constraint against short vowels in word-final and prevocalic position has been generalized to unstressed position, which triggers the insertion (or, in the case of [uw], the retention) of the glide after these two short unstressed vowels. Most importantly, in neither case does this change make the syllable heavy, which would entail that it is less unstressable. It is well-known that word-final consonants are not moraic in English,19 so the glide does not add to the weight of the final syllable in the changes from [h\u0001api] to [h\u0001apij] or [v\u0001alju] to [v\u0001aljuw]. The glide that appears between two vowels, as in the changes from [\u0001\u0131ndi\u0259] to [\u0001\u0131ndij\u0259] or [d\u0292\u0001a\u0261ju\u0259] to [d\u0292\u0001a\u0261juw\u0259], is an onset, hence it does not contribute to weight either. That is, the unstressed syllables involved in HAPPY-tensing and VALUE-tensing remain light, hence fully unstressable.",
+    "question": "What is the effect of inserting a glide after unstressed short vowels in processes like HAPPY-tensing and VALUE-tensing?",
+    "category": "cat 459",
+    "answers": [
+      "a) It creates a new stressed syllable",
+      "b) It adds weight to the syllable making it heavy",
+      "c) It does not add weight to the final syllable, keeping it light and unstressable",
+      "d) It shortens the duration of the surrounding vowels"
+    ],
+    "correct answer(s)": "c) It does not add weight to the final syllable, keeping it light and unstressable",
+    "GPT's response": "c) It does not add weight to the final syllable, keeping it light and unstressable",
+    "correct": true
+  },
+  {
+    "correct_text_chunk": "We have seen that stressed short vowels do not occur either word finally or prevocalically. In the accent described by Jones and Gimson, the unstressed short vowels [i] and [u] could occur in these positions: happy [h\u0001api], India [\u0001\u0131ndi\u0259], value [v\u0001alju], jaguar [d\u0292\u0001a\u0261ju\u0259], and unstressed [\u0259] can occur word finally, but not prevocalically. The constraint against short vowels in word-final and prevocalic position has been generalized to unstressed position, which triggers the insertion (or, in the case of [uw], the retention) of the glide after these two short unstressed vowels. Most importantly, in neither case does this change make the syllable heavy, which would entail that it is less unstressable. It is well-known that word-final consonants are not moraic in English,19 so the glide does not add to the weight of the final syllable in the changes from [h\u0001api] to [h\u0001apij] or [v\u0001alju] to [v\u0001aljuw]. The glide that appears between two vowels, as in the changes from [\u0001\u0131ndi\u0259] to [\u0001\u0131ndij\u0259] or [d\u0292\u0001a\u0261ju\u0259] to [d\u0292\u0001a\u0261juw\u0259], is an onset, hence it does not contribute to weight either. That is, the unstressed syllables involved in HAPPY-tensing and VALUE-tensing remain light, hence fully unstressable.",
+    "question": "Why do the glides that appear between two vowels, like in [\u026andi\u0259] to [\u026andij\u0259], not contribute to syllable weight?",
+    "category": "cat 460",
+    "answers": [
+      "a) Because they are considered diphthongs",
+      "b) Because they replace the vowel completely",
+      "c) Because they serve as onsets, not adding to moraic weight",
+      "d) Because they follow a long vowel, making them irrelevant"
+    ],
+    "correct answer(s)": "c) Because they serve as onsets, not adding to moraic weight",
+    "GPT's response": "c) Because they serve as onsets, not adding to moraic weight",
+    "correct": true
+  }
+]

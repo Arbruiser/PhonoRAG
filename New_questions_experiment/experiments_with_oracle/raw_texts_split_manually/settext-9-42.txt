@@ -1,0 +1,39 @@
+
+(59) Diachronic rules in the three major accents of English 
+ 
+Standard 
+Scottish 
+English 
+General American 
+Southern 
+Standard 
+British 
+English/CUBE 
+Inheritance of early Modern English wide diphthongs: ɑj oj aw 
+YES 
+YES 
+YES 
+Broadening 
+(collective term for first nurse merger and quality change of a and ɔ)  
+NO 
+YES 
+YES 
+Diphthongisation of i e o u > ɪj ɛj ow (later əw) uw  
+NO 
+NO 
+YES 
+R-dropping 
+NO 
+NO 
+YES 
+Compensatory lengthening 
+NO 
+NO 
+YES 
+Breaking 
+NO 
+NO 
+YES 
+ 
+As you can see, SSBE is the most innovative accent of English, SSE is the most conservative one. GA is halfway. This is why we say that the closest relative (sister) of SSBE is GA, not SSE. This, of course, is not an all-inclusive list of differences between the three accents. 
+ For some of the extreme specialists: the diphthongisation of the tense vowels referred to above actually happened in two steps: first the Mid Vowel Diphthongisation (of e and o), or MVD, then the High Vowel Diphthongisation (of i u), or HVD. MVD is responsible for the accentual differences between Southern and Northern English (referred to as FACE GOAT Diphthonging). We can also see that MVD is historically older than HVD because its results are categorical. This is why ɛj and əw can never be followed by r in SSBE (care, Mary, more, notorious), as opposed to ɪj and uw which can (optionally) if the following R is in onset position (serious ɪjr, lurid uwr). This free variation shows that HVD is historically more recent than MVD. This is a very fine-grained analysis, but this is how a historical linguist sets about explaining some of the accentual differences (see 60)). 

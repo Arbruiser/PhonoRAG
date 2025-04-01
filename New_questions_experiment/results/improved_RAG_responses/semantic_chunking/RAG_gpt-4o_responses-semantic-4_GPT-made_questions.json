@@ -1,0 +1,548 @@
+[
+  {
+    "question": "In British English, which vowels are traditionally analyzed as diphthongs?",
+    "category": "\ufeff1",
+    "answers": [
+      "a) KIT, DRESS, TRAP",
+      "b) START, NURSE, FORCE",
+      "c) PRICE, MOUTH, CHOICE",
+      "d) NEAR, SQUARE, CURE"
+    ],
+    "correct answer(s)": "c) PRICE, MOUTH, CHOICE",
+    "GPT's response": "c) PRICE, MOUTH, CHOICE",
+    "correct": true
+  },
+  {
+    "question": "What is the unstressability scale proposed for English vowels?",
+    "category": "2",
+    "answers": [
+      "a) VV > VC > V",
+      "b) V > VC > VV",
+      "c) VC > V > VV",
+      "d) V > VV > VC"
+    ],
+    "correct answer(s)": "b) V > VC > VV",
+    "GPT's response": "b) V > VC > VV",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the glide [j] in the analysis of unstressed FLEECE?",
+    "category": "3",
+    "answers": [
+      "a) It indicates vowel lengthening.",
+      "b) It represents a new vowel category.",
+      "c) It is a placeholder for schwa.",
+      "d) It acts as a consonant following the vowel [i]."
+    ],
+    "correct answer(s)": "d) It acts as a consonant following the vowel [i].",
+    "GPT's response": "d) It acts as a consonant following the vowel [i].",
+    "correct": true
+  },
+  {
+    "question": "Which vowel was traditionally transcribed as [i\u02d0] by Jones but argued to be a diphthong by Szigetv\u00e1ri?",
+    "category": "4",
+    "answers": [
+      "a) FLEECE",
+      "b) STRUT",
+      "c) LOT",
+      "d) FOOT"
+    ],
+    "correct answer(s)": "a) FLEECE",
+    "GPT's response": "a) FLEECE",
+    "correct": true
+  },
+  {
+    "question": "In the context of the article, what is \"HAPPY-tensing\"?",
+    "category": "5",
+    "answers": [
+      "a) The process of shortening a vowel in stressed syllables.",
+      "b) The epenthesis of a glide [j] after [i] in unstressed syllables.",
+      "c) The deletion of a final consonant.",
+      "d) The merger of two diphthongs."
+    ],
+    "correct answer(s)": "b) The epenthesis of a glide [j] after [i] in unstressed syllables.",
+    "GPT's response": "b) The epenthesis of a glide [j] after [i] in unstressed syllables.",
+    "correct": true
+  },
+  {
+    "question": "What was the historical change described as \"VALUE-tensing\"?",
+    "category": "6",
+    "answers": [
+      "a) The deletion of the glide [w].",
+      "b) The transition from FOOT to GOOSE in unstressed word-final positions.",
+      "c) The lengthening of the vowel [a].",
+      "d) The fronting of the vowel [o]."
+    ],
+    "correct answer(s)": "b) The transition from FOOT to GOOSE in unstressed word-final positions.",
+    "GPT's response": "b) The transition from FOOT to GOOSE in unstressed word-final positions.",
+    "correct": true
+  },
+  {
+    "question": "Which set of vowels is referred to as \"R vowels\" in the article?",
+    "category": "7",
+    "answers": [
+      "a) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+      "b) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE",
+      "c) KIT, DRESS, TRAP, STRUT, LOT, FOOT",
+      "d) PRICE, MOUTH, CHOICE"
+    ],
+    "correct answer(s)": "a) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+    "GPT's response": "a) NEAR, SQUARE, START, NURSE, FORCE, CURE",
+    "correct": true
+  },
+  {
+    "question": "What is a key argument against analyzing English diphthongs as single units?",
+    "category": "8",
+    "answers": [
+      "a) They are always followed by a consonant.",
+      "b) They occur only in unstressed syllables.",
+      "c) They consist of two skeletal slots with melody associated to each.",
+      "d) They do not appear in word-final positions."
+    ],
+    "correct answer(s)": "c) They consist of two skeletal slots with melody associated to each.",
+    "GPT's response": "c) They consist of two skeletal slots with melody associated to each.",
+    "correct": true
+  },
+  {
+    "question": "How does the article explain the occurrence of [ij] in unstressed syllables in British English?",
+    "category": "9",
+    "answers": [
+      "a) As a result of vowel deletion.",
+      "b) As an epenthesis to avoid short vowels in word-final and prevocalic positions.",
+      "c) As a merger with another diphthong.",
+      "d) As a result of consonant weakening."
+    ],
+    "correct answer(s)": "b) As an epenthesis to avoid short vowels in word-final and prevocalic positions.",
+    "GPT's response": "b) As an epenthesis to avoid short vowels in word-final and prevocalic positions.",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel alternation is described as being blocked by certain final consonants?",
+    "category": "10",
+    "answers": [
+      "a) The alternation of [i] and [\u0259] before palatal and velar consonants.",
+      "b) The alternation of [u] and [o] before labial consonants.",
+      "c) The alternation of [e] and [a] before coronal consonants.",
+      "d) The alternation of [\u0259] and [i] before nasal consonants."
+    ],
+    "correct answer(s)": "a) The alternation of [i] and [\u0259] before palatal and velar consonants.",
+    "GPT's response": "a) The alternation of [i] and [\u0259] before palatal and velar consonants.",
+    "correct": true
+  },
+  {
+    "question": "What is the proposed analysis of unstressed GOAT in the article?",
+    "category": "11",
+    "answers": [
+      "a) As a long monophthong.",
+      "b) As a diphthong with a variable offglide.",
+      "c) As a short vowel [\u0259] followed by a consonant [w].",
+      "d) As a monophthong with a schwa."
+    ],
+    "correct answer(s)": "c) As a short vowel [\u0259] followed by a consonant [w].",
+    "GPT's response": "c) As a short vowel [\u0259] followed by a consonant [w].",
+    "correct": true
+  },
+  {
+    "question": "What is the relationship between vowel stressability and sonority according to the article?",
+    "category": "12",
+    "answers": [
+      "a) More sonorous vowels are less stressable.",
+      "b) More sonorous vowels are more stressable.",
+      "c) Sonority does not affect stressability.",
+      "d) Less sonorous vowels are more stressable."
+    ],
+    "correct answer(s)": "b) More sonorous vowels are more stressable.",
+    "GPT's response": "b) More sonorous vowels are more stressable.",
+    "correct": true
+  },
+  {
+    "question": "Which vowel is described as having an allophone [o] in unstressed positions historically?",
+    "category": "13",
+    "answers": [
+      "a) FLEECE",
+      "b) GOAT",
+      "c) GOOSE",
+      "d) STRUT"
+    ],
+    "correct answer(s)": "b) GOAT",
+    "GPT's response": "b) GOAT",
+    "correct": true
+  },
+  {
+    "question": "How does the article describe the distribution of unstressed FLEECE in British English?",
+    "category": "14",
+    "answers": [
+      "a) It occurs only before a consonant.",
+      "b) It occurs only in stressed syllables.",
+      "c) It occurs word-finally and prevocalically.",
+      "d) It occurs only in compound words."
+    ],
+    "correct answer(s)": "c) It occurs word-finally and prevocalically.",
+    "GPT's response": "c) It occurs word-finally and prevocalically.",
+    "correct": true
+  },
+  {
+    "question": "What is the implication of the analysis that unstressed [ij], [\u0259w], and [uw] are VC sequences?",
+    "category": "15",
+    "answers": [
+      "a) They are heavier than diphthongs.",
+      "b) They are more stressable than R vowels.",
+      "c) They are light syllables, hence unstressable.",
+      "d) They are less common in English."
+    ],
+    "correct answer(s)": "c) They are light syllables, hence unstressable.",
+    "GPT's response": "c) They are light syllables, hence unstressable.",
+    "correct": true
+  },
+  {
+    "question": "Which phonetic symbol is used by Wells to indicate a transitional state of high vowels in unstressed position?",
+    "category": "16",
+    "answers": [
+      "a) [\u026a] and [\u028a]",
+      "b) [i\u02d0] and [u\u02d0]",
+      "c) [i] and [u]",
+      "d) [\u0259] and [o]"
+    ],
+    "correct answer(s)": "c) [i] and [u]",
+    "GPT's response": "c) [i] and [u]",
+    "correct": true
+  },
+  {
+    "question": "What phonological change in British English is responsible for the disappearance of [o] from dictionaries?",
+    "category": "17",
+    "answers": [
+      "a) GOAT-fronting",
+      "b) HAPPY-tensing",
+      "c) VALUE-laxing",
+      "d) STRUT-raising"
+    ],
+    "correct answer(s)": "a) GOAT-fronting",
+    "GPT's response": "a) GOAT-fronting",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel is described as variable before a consonant in British English?",
+    "category": "18",
+    "answers": [
+      "a) GOOSE",
+      "b) KIT",
+      "c) STRUT",
+      "d) FACE"
+    ],
+    "correct answer(s)": "a) GOOSE",
+    "GPT's response": "a) GOOSE",
+    "correct": true
+  },
+  {
+    "question": "What is the key factor in determining whether a vowel can occur unstressed in English?",
+    "category": "19",
+    "answers": [
+      "a) Its position in a word.",
+      "b) Its historical origin.",
+      "c) Its length.",
+      "d) Its sonority and closeness."
+    ],
+    "correct answer(s)": "d) Its sonority and closeness.",
+    "GPT's response": "d) Its sonority and closeness.",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of unstressed GOAT in current British English?",
+    "category": "20",
+    "answers": [
+      "a) [ou]",
+      "b) [o]",
+      "c) [\u0259]",
+      "d) [\u0259w] or [ow]"
+    ],
+    "correct answer(s)": "d) [\u0259w] or [ow]",
+    "GPT's response": "d) [\u0259w] or [ow]",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel is described as \"epenthesized\" in the context of HAPPY-tensing?",
+    "category": "21",
+    "answers": [
+      "a) [\u0259]",
+      "b) [j]",
+      "c) [w]",
+      "d) [o]"
+    ],
+    "correct answer(s)": "b) [j]",
+    "GPT's response": "b) [j]",
+    "correct": true
+  },
+  {
+    "question": "How does the article explain the stability of unstressed [i] before certain final consonants?",
+    "category": "22",
+    "answers": [
+      "a) It is due to vowel harmony.",
+      "b) It is a result of historical vowel lengthening.",
+      "c) It is protected by homorganic consonants.",
+      "d) It is influenced by stress patterns."
+    ],
+    "correct answer(s)": "c) It is protected by homorganic consonants.",
+    "GPT's response": "c) It is protected by homorganic consonants.",
+    "correct": true
+  },
+  {
+    "question": "What is the relationship between the glides [j] and [w] and the vowels they follow in unstressed syllables?",
+    "category": "23",
+    "answers": [
+      "a) They lengthen the preceding vowel.",
+      "b) They create a new diphthong.",
+      "c) They act as consonants, not part of the vowel.",
+      "d) They reduce the sonority of the vowel."
+    ],
+    "correct answer(s)": "c) They act as consonants, not part of the vowel.",
+    "GPT's response": "c) They act as consonants, not part of the vowel.",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel alternation is described as occurring before a labial consonant?",
+    "category": "24",
+    "answers": [
+      "a) The alternation of [e] and [i]",
+      "b) The alternation of [o] and [u]",
+      "c) The alternation of [a] and [\u0259]",
+      "d) The alternation of [u] and [\u0259]"
+    ],
+    "correct answer(s)": "d) The alternation of [u] and [\u0259]",
+    "GPT's response": "d) The alternation of [u] and [\u0259]",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the unstressability scale in analyzing English vowels?",
+    "category": "25",
+    "answers": [
+      "a) It explains vowel harmony.",
+      "b) It predicts vowel alternations in compound words.",
+      "c) It accounts for the occurrence of diphthongs in stressed syllables.",
+      "d) It determines which vowels can occur unstressed."
+    ],
+    "correct answer(s)": "d) It determines which vowels can occur unstressed.",
+    "GPT's response": "d) It determines which vowels can occur unstressed.",
+    "correct": true
+  },
+  {
+    "question": "Which set of vowels is described as \"checked vowels\" in the article?",
+    "category": "26",
+    "answers": [
+      "a) NEAR, SQUARE, START",
+      "b) KIT, DRESS, TRAP",
+      "c) PRICE, MOUTH, CHOICE",
+      "d) FLEECE, FACE, GOAT"
+    ],
+    "correct answer(s)": "b) KIT, DRESS, TRAP",
+    "GPT's response": "b) KIT, DRESS, TRAP",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel is described as having a variable offglide before a consonant?",
+    "category": "28",
+    "answers": [
+      "a) GOOSE",
+      "b) FLEECE",
+      "c) STRUT",
+      "d) FACE"
+    ],
+    "correct answer(s)": "a) GOOSE",
+    "GPT's response": "a) GOOSE",
+    "correct": true
+  },
+  {
+    "question": "What is the proposed analysis of unstressed FLEECE in the article?",
+    "category": "29",
+    "answers": [
+      "a) As a long monophthong.",
+      "b) As a diphthong with a fixed offglide.",
+      "c) As a monophthong with schwa.",
+      "d) As a short vowel [i] followed by a consonant [j]."
+    ],
+    "correct answer(s)": "d) As a short vowel [i] followed by a consonant [j].",
+    "GPT's response": "d) As a short vowel [i] followed by a consonant [j].",
+    "correct": true
+  },
+  {
+    "question": "How does the article describe the alternation of unstressed [u] and [\u0259] in British English?",
+    "category": "30",
+    "answers": [
+      "a) It is a result of vowel harmony.",
+      "b) It occurs only in stressed syllables.",
+      "c) It is influenced by the following consonant.",
+      "d) It is a historical change with no current examples."
+    ],
+    "correct answer(s)": "c) It is influenced by the following consonant.",
+    "GPT's response": "c) It is influenced by the following consonant.",
+    "correct": true
+  },
+  {
+    "question": "What is the implication of the analysis that unstressed [ij], [\u0259w], and [uw] are not diphthongs?",
+    "category": "31",
+    "answers": [
+      "a) They are less common in English.",
+      "b) They are more stressable than other vowels.",
+      "c) They are heavier than other vowels.",
+      "d) They remain light and unstressable."
+    ],
+    "correct answer(s)": "d) They remain light and unstressable.",
+    "GPT's response": "d) They remain light and unstressable.",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of unstressed GOOSE in current British English?",
+    "category": "32",
+    "answers": [
+      "a) [o]",
+      "b) [\u0259]",
+      "c) [u]",
+      "d) [uw]"
+    ],
+    "correct answer(s)": "d) [uw]",
+    "GPT's response": "c) [u]",
+    "correct": false
+  },
+  {
+    "question": "Which unstressed vowel is described as having an allophone in certain unstressed positions historically?",
+    "category": "33",
+    "answers": [
+      "a) FLEECE",
+      "b) GOAT",
+      "c) GOOSE",
+      "d) STRUT"
+    ],
+    "correct answer(s)": "b) GOAT",
+    "GPT's response": "b) GOAT",
+    "correct": true
+  },
+  {
+    "question": "Which vowel is described as having undergone \"HAPPY-tensing\" in unstressed word-final positions?",
+    "category": "35",
+    "answers": [
+      "a) FOOT",
+      "b) KIT",
+      "c) TRAP",
+      "d) STRUT"
+    ],
+    "correct answer(s)": "b) KIT",
+    "GPT's response": "b) KIT",
+    "correct": true
+  },
+  {
+    "question": "What is the function of the glide [w] in the analysis of unstressed GOOSE?",
+    "category": "36",
+    "answers": [
+      "a) It lengthens the vowel.",
+      "b) It creates a diphthong.",
+      "c) It acts as a consonant following the vowel [u].",
+      "d) It reduces the vowel's sonority."
+    ],
+    "correct answer(s)": "c) It acts as a consonant following the vowel [u].",
+    "GPT's response": "c) It acts as a consonant following the vowel [u].",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel is described as undergoing a change to avoid short vowels in prevocalic positions?",
+    "category": "38",
+    "answers": [
+      "a) FLEECE",
+      "b) STRUT",
+      "c) LOT",
+      "d) FACE"
+    ],
+    "correct answer(s)": "a) FLEECE",
+    "GPT's response": "a) FLEECE",
+    "correct": true
+  },
+  {
+    "question": "Which set of vowels is considered \"free vowels\" in the article?",
+    "category": "40",
+    "answers": [
+      "a) KIT, DRESS, TRAP",
+      "b) NEAR, SQUARE, START",
+      "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE",
+      "d) STRUT, LOT, FOOT"
+    ],
+    "correct answer(s)": "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE",
+    "GPT's response": "c) FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE",
+    "correct": true
+  },
+  {
+    "question": "What is the historical phonetic symbol used by Jones for unstressed GOAT?",
+    "category": "43",
+    "answers": [
+      "a) [\u0259]",
+      "b) [o]",
+      "c) [u]",
+      "d) [ou]"
+    ],
+    "correct answer(s)": "d) [ou]",
+    "GPT's response": "d) [ou]",
+    "correct": true
+  },
+  {
+    "question": "What is the proposed analysis of unstressed [ij] in the article?",
+    "category": "45",
+    "answers": [
+      "a) As a long monophthong.",
+      "b) As a diphthong with a variable offglide.",
+      "c) As a short vowel [i] followed by a consonant [j].",
+      "d) As a monophthong with schwa."
+    ],
+    "correct answer(s)": "c) As a short vowel [i] followed by a consonant [j].",
+    "GPT's response": "c) As a short vowel [i] followed by a consonant [j].",
+    "correct": true
+  },
+  {
+    "question": "How does the article explain the occurrence of [\u0259w] in unstressed syllables in British English?",
+    "category": "46",
+    "answers": [
+      "a) As a result of vowel deletion.",
+      "b) As a merger with another diphthong.",
+      "c) As a short vowel [\u0259] followed by a consonant [w].",
+      "d) As a result of consonant weakening."
+    ],
+    "correct answer(s)": "c) As a short vowel [\u0259] followed by a consonant [w].",
+    "GPT's response": "c) As a short vowel [\u0259] followed by a consonant [w].",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel is described as having a fixed offglide in the article?",
+    "category": "47",
+    "answers": [
+      "a) GOAT",
+      "b) FLEECE",
+      "c) STRUT",
+      "d) FACE"
+    ],
+    "correct answer(s)": "a) GOAT",
+    "GPT's response": "a) GOAT",
+    "correct": true
+  },
+  {
+    "question": "What is the significance of the glide [j] in the analysis of unstressed FLEECE?",
+    "category": "48",
+    "answers": [
+      "a) It lengthens the vowel.",
+      "b) It creates a new diphthong.",
+      "c) It acts as a consonant following the vowel [i].",
+      "d) It reduces the vowel's sonority."
+    ],
+    "correct answer(s)": "c) It acts as a consonant following the vowel [i].",
+    "GPT's response": "c) It acts as a consonant following the vowel [i].",
+    "correct": true
+  },
+  {
+    "question": "Which unstressed vowel is described as having undergone \"HAPPY-tensing\" in unstressed word-final positions?",
+    "category": "64",
+    "answers": [
+      "a) FOOT",
+      "b) KIT",
+      "c) TRAP",
+      "d) STRUT"
+    ],
+    "correct answer(s)": "b) KIT",
+    "GPT's response": "b) KIT",
+    "correct": true
+  }
+]

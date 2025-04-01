@@ -1,0 +1,872 @@
+[
+  {
+    "question": "What do words like \"lie\", \"like\", \"low\", or \"load\" suggest about English glides?",
+    "category": "301",
+    "answers": [
+      "a) They appear exclusively at the beginning of words.",
+      "b) They are always followed by a vowel.",
+      "c) They can occur word-finally or preconsonantally.",
+      "d) They only appear in stressed syllables."
+    ],
+    "correct answer(s)": "c) They can occur word-finally or preconsonantally.",
+    "GPT's response": "c) They can occur word-finally or preconsonantally.",
+    "correct": true
+  },
+  {
+    "question": "Traditionally, the vowel system of British English is composed of which sets of vowels?",
+    "category": "302",
+    "answers": [
+      "a) Resonant vowels, mixed tones, and glottal stops",
+      "b) Close vowels, open vowels, and mid vowels",
+      "c) Short monophthongs, diphthongs, and long monophthongs",
+      "d) Front vowels, central vowels, and back vowels"
+    ],
+    "correct answer(s)": "c) Short monophthongs, diphthongs, and long monophthongs",
+    "GPT's response": "c) Short monophthongs, diphthongs, and long monophthongs",
+    "correct": true
+  },
+  {
+    "question": "Traditionally, how many vowels are there in the British English vowel system?",
+    "category": "303",
+    "answers": [
+      "a) 18 or 19",
+      "b) 12 or 13",
+      "c) 10 or 11",
+      "d) 21 or 22"
+    ],
+    "correct answer(s)": "a) 18 or 19",
+    "GPT's response": "b) 12 or 13",
+    "correct": false
+  },
+  {
+    "question": "According to our analysis, how many vowels are in the British English vowel system?",
+    "category": "304",
+    "answers": [
+      "a) 8",
+      "b) 6",
+      "c) 10",
+      "d) 12"
+    ],
+    "correct answer(s)": "b) 6",
+    "GPT's response": "b) 6",
+    "correct": true
+  },
+  {
+    "question": "Which vowels are identified in the system of British English according to our analysis?",
+    "category": "305",
+    "answers": [
+      "a) \u0254 \u00e6 \u0259 a\u026a e\u026a",
+      "b) i e a o u \u0259",
+      "c) \u025b \u026a a\u028a o\u028a \u0259",
+      "d) \u028c \u028a \u00e6 i \u0259"
+    ],
+    "correct answer(s)": "b) i e a o u \u0259",
+    "GPT's response": "b) i e a o u \u0259",
+    "correct": true
+  },
+  {
+    "question": "If we say that there are only 6 vowels in Englsih (i e a o u and \u0259), how can we account for long vowels and diphthongs?",
+    "category": "306",
+    "answers": [
+      "a) As completely separate vowel categories",
+      "b) As stress variations of short vowels",
+      "c) As tonal variations within the vowel system",
+      "d) As combinations of one of the six short vowels and a glide, i.e., a consonant"
+    ],
+    "correct answer(s)": "d) As combinations of one of the six short vowels and a glide, i.e., a consonant",
+    "GPT's response": "d) As combinations of one of the six short vowels and a glide, i.e., a consonant",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey (2012), which vowel is present in the word \"kit\"?",
+    "category": "307",
+    "answers": [
+      "a) \u025b",
+      "b) \u0254",
+      "c) a",
+      "d) \u026a"
+    ],
+    "correct answer(s)": "d) \u026a",
+    "GPT's response": "d) \u026a",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey (2012), which vowel is present in the word \"foot\"?",
+    "category": "308",
+    "answers": [
+      "a) \u026a",
+      "b) \u0275",
+      "c) \u025b",
+      "d) \u0259"
+    ],
+    "correct answer(s)": "b) \u0275",
+    "GPT's response": "b) \u0275",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey (2012), which vowel is present in the word \"dress\"?",
+    "category": "309",
+    "answers": [
+      "a) a",
+      "b) \u0254",
+      "c) \u025b",
+      "d) \u0275"
+    ],
+    "correct answer(s)": "c) \u025b",
+    "GPT's response": "c) \u025b",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey (2012), which vowel is present in the word \"lot\"?",
+    "category": "310",
+    "answers": [
+      "a) \u0259",
+      "b) \u0254",
+      "c) \u026a",
+      "d) \u0275"
+    ],
+    "correct answer(s)": "b) \u0254",
+    "GPT's response": "b) \u0254",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey (2012), which vowel is present in the word \"trap\"?",
+    "category": "311",
+    "answers": [
+      "a) a",
+      "b) \u026a",
+      "c) \u0254",
+      "d) \u025b"
+    ],
+    "correct answer(s)": "a) a",
+    "GPT's response": "a) a",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey (2012), which vowel is present in the word \"strut\"?",
+    "category": "312",
+    "answers": [
+      "a) \u0275",
+      "b) a",
+      "c) \u0259",
+      "d) \u026a"
+    ],
+    "correct answer(s)": "c) \u0259",
+    "GPT's response": "c) \u0259",
+    "correct": true
+  },
+  {
+    "question": "What is true about Lindsey's transcription?",
+    "category": "313",
+    "answers": [
+      "a) Schwa is transcribed with a completely unique symbol.",
+      "b) Schwa and the vowel of strut are separated by vowel length differences.",
+      "c) Schwa and the vowel of strut are transcribed using the same symbol.",
+      "d) The vowel of strut is ignored in transcription."
+    ],
+    "correct answer(s)": "c) Schwa and the vowel of strut are transcribed using the same symbol.",
+    "GPT's response": "c) Schwa and the vowel of strut are transcribed using the same symbol.",
+    "correct": true
+  },
+  {
+    "question": "Why are schwa and the vowel of strut transcribed using the same symbol in Lindsey's approach?",
+    "category": "314",
+    "answers": [
+      "a) These two vowels do not contrast.",
+      "b) They both occur exclusively in unstressed syllables.",
+      "c) The vowel of strut occurs only in initial syllables.",
+      "d) Schwa is always stressed, making distinction unnecessary."
+    ],
+    "correct answer(s)": "a) These two vowels do not contrast.",
+    "GPT's response": "a) These two vowels do not contrast.",
+    "correct": true
+  },
+  {
+    "question": "What is the difference between the vowels of \"blunderers\" and \"blunderbuss\" according to our analysis?",
+    "category": "315",
+    "answers": [
+      "a) Voicing",
+      "b) Vowel length",
+      "c) Stress",
+      "d) Aspiration"
+    ],
+    "correct answer(s)": "c) Stress",
+    "GPT's response": "c) Stress",
+    "correct": true
+  },
+  {
+    "question": "Which statement is true regarding schwa and strut?",
+    "category": "316",
+    "answers": [
+      "a) Schwa never occurs at the end of words.",
+      "b) A schwa, especially word finally, can be phonetically equivalent to strut.",
+      "c) Strut always contrasts with schwa in all environments.",
+      "d) Schwa can only be found in monosyllabic words."
+    ],
+    "correct answer(s)": "b) A schwa, especially word finally, can be phonetically equivalent to strut.",
+    "GPT's response": "b) A schwa, especially word finally, can be phonetically equivalent to strut.",
+    "correct": true
+  },
+  {
+    "question": "In the context of British English diphthongs, why is the transcription of the second element of diphthongs in words like 'fleece' using vowel symbols such as /i/ criticized?",
+    "category": "317",
+    "answers": [
+      "a) They are not phonetically accurate.",
+      "b) They are not commonly used in modern phonetics.",
+      "c) They represent syllabic segments, which diphthongal offglides are not.",
+      "d) They do not visually differentiate between diphthongs and monophthongs."
+    ],
+    "correct answer(s)": "c) They represent syllabic segments, which diphthongal offglides are not.",
+    "GPT's response": "c) They represent syllabic segments, which diphthongal offglides are not.",
+    "correct": true
+  },
+  {
+    "question": "According to Lindsey's analysis, how are the vowels of the words 'fleece' and 'goose' categorized?",
+    "category": "318",
+    "answers": [
+      "a) As short monophthongs",
+      "b) As long monophthongs",
+      "c) Vowel + glide",
+      "d) As centring diphthongs"
+    ],
+    "correct answer(s)": "c) Vowel + glide",
+    "GPT's response": "b) As long monophthongs",
+    "correct": false
+  },
+  {
+    "question": "How are the vowels of the words 'near', 'square', and 'cure' analyzed in Lindsey's system?",
+    "category": "319",
+    "answers": [
+      "a) As short monophthongs",
+      "b) As diphthongs",
+      "c) As centring diphthongs",
+      "d) As long monophthongs"
+    ],
+    "correct answer(s)": "d) As long monophthongs",
+    "GPT's response": "d) As long monophthongs",
+    "correct": true
+  },
+  {
+    "question": "Who first transcribed the vowel of the word 'square' as a monophthong?",
+    "category": "320",
+    "answers": [
+      "a) Gimson",
+      "b) Upton",
+      "c) Jones",
+      "d) Lindsey"
+    ],
+    "correct answer(s)": "b) Upton",
+    "GPT's response": "b) Upton",
+    "correct": true
+  },
+  {
+    "question": "Why can't the words 'mourning' and 'morning' be transcribed differently in British English phonetics?",
+    "category": "321",
+    "answers": [
+      "a) They share the same spelling tradition despite differing pronunciations.",
+      "b) They exhibit different stress patterns but share a common vowel sound.",
+      "c) They are homophonous and their vowels merged, eliminating distinct transcription symbols.",
+      "d) They represent a case of phonetic convergence unique to regional accents."
+    ],
+    "correct answer(s)": "c) They are homophonous and their vowels merged, eliminating distinct transcription symbols.",
+    "GPT's response": "c) They are homophonous and their vowels merged, eliminating distinct transcription symbols.",
+    "correct": true
+  },
+  {
+    "question": "How is the vowel in 'near' typically pronounced before a consonant, especially before 'r'?",
+    "category": "322",
+    "answers": [
+      "a) As a diphthong ending in /j/",
+      "b) As the vowel /e\u02d0/",
+      "c) As part of a falling diphthong",
+      "d) As a monophthong"
+    ],
+    "correct answer(s)": "d) As a monophthong",
+    "GPT's response": "a) As a diphthong ending in /j/",
+    "correct": false
+  },
+  {
+    "question": "What happens to the vowel in 'near' when it occurs at the end of an utterance?",
+    "category": "323",
+    "answers": [
+      "a) It merges with a following fricative",
+      "b) It remains a monophthong",
+      "c) It splits into a diphthong followed by schwa",
+      "d) It is replaced by a back vowel sound"
+    ],
+    "correct answer(s)": "c) It splits into a diphthong followed by schwa",
+    "GPT's response": "b) It remains a monophthong",
+    "correct": false
+  },
+  {
+    "question": "Which of the following words exhibits a similar vowel variation to 'near' in utterance-final position?",
+    "category": "324",
+    "answers": [
+      "a) Fire",
+      "b) Bear",
+      "c) Soil",
+      "d) Heard"
+    ],
+    "correct answer(s)": "a) Fire",
+    "GPT's response": "b) Bear",
+    "correct": false
+  },
+  {
+    "question": "For some speakers, into which two different vowel sounds has 'cure' split after palatal consonants?",
+    "category": "325",
+    "answers": [
+      "a) The vowel in 'lot' and the vowel in 'nurse'",
+      "b) A diphthong beginning with /j/ and the vowel in 'strut'",
+      "c) The vowel in 'trap' and an unstressed schwa",
+      "d) The long version of 'foot' and the vowel merged with 'nurse'"
+    ],
+    "correct answer(s)": "d) The long version of 'foot' and the vowel merged with 'nurse'",
+    "GPT's response": "d) The long version of 'foot' and the vowel merged with 'nurse'",
+    "correct": true
+  },
+  {
+    "question": "How has the vowel in 'cure' merged for some speakers in non-palatal contexts?",
+    "category": "326",
+    "answers": [
+      "a) With the vowel in 'fleece'",
+      "b) With the vowel in 'north'",
+      "c) With the vowel in 'force'",
+      "d) With the vowel in 'bath'"
+    ],
+    "correct answer(s)": "c) With the vowel in 'force'",
+    "GPT's response": "c) With the vowel in 'force'",
+    "correct": true
+  },
+  {
+    "question": "What term is used to describe the phenomenon where 'cure' is pronounced differently based on the phonetic environment?",
+    "category": "327",
+    "answers": [
+      "a) The Poor-Cure Split",
+      "b) The Cure-Mergers",
+      "c) The Palatal-Cure Contrast",
+      "d) The Cure-North Merger"
+    ],
+    "correct answer(s)": "a) The Poor-Cure Split",
+    "GPT's response": "a) The Poor-Cure Split",
+    "correct": true
+  },
+  {
+    "question": "Why do we analyse diphthongs as diphthongs and long monophthongs as long monophthongs?",
+    "category": "328",
+    "answers": [
+      "a) They differ significantly in stress patterns.",
+      "b) They have exclusive phonetic properties.",
+      "c) They influence morphological structures distinctly.",
+      "d) They form natural classes with respect to the environments they occur in."
+    ],
+    "correct answer(s)": "d) They form natural classes with respect to the environments they occur in.",
+    "GPT's response": "d) They form natural classes with respect to the environments they occur in.",
+    "correct": true
+  },
+  {
+    "question": "Which environments can short vowels (i, e, a, o, u) occur in according to the given phonological analysis?",
+    "category": "329",
+    "answers": [
+      "a) Only before a consonant (__C)",
+      "b) At the end of a word (__#) and before a vowel (__V)",
+      "c) Before a consonant (__C) and at the end of a word (__#)",
+      "d) Only before another vowel (__V)"
+    ],
+    "correct answer(s)": "a) Only before a consonant (__C)",
+    "GPT's response": "a) Only before a consonant (__C)",
+    "correct": true
+  },
+  {
+    "question": "In which environments are long monophthongs (i\u02d0, e\u02d0, a\u02d0, o\u02d0, (u\u02d0), \u0259) allowed to occur?",
+    "category": "330",
+    "answers": [
+      "a) Only before a vowel (__V)",
+      "b) At the end of a word (__#) and before another vowel (__V)",
+      "c) Only before a consonant (__C)",
+      "d) Before a consonant (__C) and at the end of a word (__#)"
+    ],
+    "correct answer(s)": "d) Before a consonant (__C) and at the end of a word (__#)",
+    "GPT's response": "b) At the end of a word (__#) and before another vowel (__V)",
+    "correct": false
+  },
+  {
+    "question": "Where can diphthongs (ij, ej, aj, aw, oj, uw, \u0259w) occur in the distribution of speech sounds?",
+    "category": "331",
+    "answers": [
+      "a) Only before another vowel (__V)",
+      "b) At the end of a word (__#) but not before a consonant (__C)",
+      "c) Before a consonant (__C) and only at the end of a word (__#)",
+      "d) Before a consonant (__C), at the end of a word (__#), and before another vowel (__V)"
+    ],
+    "correct answer(s)": "d) Before a consonant (__C), at the end of a word (__#), and before another vowel (__V)",
+    "GPT's response": "d) Before a consonant (__C), at the end of a word (__#), and before another vowel (__V)",
+    "correct": true
+  },
+  {
+    "question": "In which environment are short vowels (i e a o u) specifically excluded from occurring?",
+    "category": "332",
+    "answers": [
+      "a) Before a consonant (__C)",
+      "b) At the end of a word (__#) and before another vowel (__V)",
+      "c) Only before a glide",
+      "d) In unstressed syllables"
+    ],
+    "correct answer(s)": "b) At the end of a word (__#) and before another vowel (__V)",
+    "GPT's response": "b) At the end of a word (__#) and before another vowel (__V)",
+    "correct": true
+  },
+  {
+    "question": "Which category of vowels is able to appear before a vowel (__V), according to the analysis presented?",
+    "category": "333",
+    "answers": [
+      "a) Short monophthongs",
+      "b) Long monophthongs",
+      "c) Diphthongs",
+      "d) Long nasal vowels"
+    ],
+    "correct answer(s)": "c) Diphthongs",
+    "GPT's response": "b) Long monophthongs",
+    "correct": false
+  },
+  {
+    "question": "For long monophthongs (i\u02d0, e\u02d0, a\u02d0, o\u02d0, (u\u02d0), \u0259), which environment can they not appear in?",
+    "category": "334",
+    "answers": [
+      "a) Before a consonant (__C)",
+      "b) At the end of a word (__#)",
+      "c) Before another vowel (__V)",
+      "d) They can occur in all environments"
+    ],
+    "correct answer(s)": "c) Before another vowel (__V)",
+    "GPT's response": "c) Before another vowel (__V)",
+    "correct": true
+  },
+  {
+    "question": "Which set of vowels can occur in all three environments: before a consonant (__C), at the end of a word (__#), and before a vowel (__V)?",
+    "category": "335",
+    "answers": [
+      "a) Short vowels (i e a o u)",
+      "b) Only unstressed schwa",
+      "c) Diphthongs (ij ej aj aw oj uw \u0259w)",
+      "d) Long monophthongs only in accented syllables"
+    ],
+    "correct answer(s)": "c) Diphthongs (ij ej aj aw oj uw \u0259w)",
+    "GPT's response": "c) Diphthongs (ij ej aj aw oj uw \u0259w)",
+    "correct": true
+  },
+  {
+    "question": "In the example \"draw out\" (dro\u02d0r awt), why is the consonant inserted?",
+    "category": "336",
+    "answers": [
+      "a) To change the vowel quality",
+      "b) To emphasize the following word",
+      "c) To prevent a hiatus between vowels",
+      "d) To mark a stressed syllable"
+    ],
+    "correct answer(s)": "c) To prevent a hiatus between vowels",
+    "GPT's response": "c) To prevent a hiatus between vowels",
+    "correct": true
+  },
+  {
+    "question": "What phonological phenomenon occurs in \"drawing\" (dro\u02d0ri\u014b) that involves the adaptation of long monophthongs or schwa?",
+    "category": "337",
+    "answers": [
+      "a) Elision of the final vowel",
+      "b) Insertion of a consonant before a following vowel",
+      "c) Reduction of the preceding syllable",
+      "d) Assimilation of vowel quality"
+    ],
+    "correct answer(s)": "b) Insertion of a consonant before a following vowel",
+    "GPT's response": "b) Insertion of a consonant before a following vowel",
+    "correct": true
+  },
+  {
+    "question": "Which vowel can occur in a diphthong with both j and w?",
+    "category": "338",
+    "answers": [
+      "a) i",
+      "b) e",
+      "c) a",
+      "d) o"
+    ],
+    "correct answer(s)": "c) a",
+    "GPT's response": "c) a",
+    "correct": true
+  },
+  {
+    "question": "In terms of phonetic properties, how do the vowels in 'price' (aj) and 'mouth' (aw) differ?",
+    "category": "339",
+    "answers": [
+      "a) aj is higher and rounded, aw is lower and unrounded",
+      "b) aj is more back, while aw is more front",
+      "c) aj is nasalized, aw is voiced",
+      "d) aj is unstressed, aw is stressed"
+    ],
+    "correct answer(s)": "b) aj is more back, while aw is more front",
+    "GPT's response": "a) aj is higher and rounded, aw is lower and unrounded",
+    "correct": false
+  },
+  {
+    "question": "Which of the following consonant pairs can occur with the glide /j/?",
+    "category": "340",
+    "answers": [
+      "a) t, d, \u03b8",
+      "b) p, b, f",
+      "c) t, \u03b8, b",
+      "d) d, \u03b8, f"
+    ],
+    "correct answer(s)": "b) p, b, f",
+    "GPT's response": "c) t, \u03b8, b",
+    "correct": false
+  },
+  {
+    "question": "What argument is made about the treatment of diphthongs versus consonant clusters?",
+    "category": "341",
+    "answers": [
+      "a) Diphthongs are always considered more phonetically complex.",
+      "b) Consonant clusters form the basis of new morphological structures.",
+      "c) Both diphthongs and consonant clusters consist of independently existing elements.",
+      "d) Consonant clusters require different stress patterns than diphthongs."
+    ],
+    "correct answer(s)": "c) Both diphthongs and consonant clusters consist of independently existing elements.",
+    "GPT's response": "c) Both diphthongs and consonant clusters consist of independently existing elements.",
+    "correct": true
+  },
+  {
+    "question": "How has the vocalization of nonprevocalic l impacted the occurrence of the glide /w/ in British English?",
+    "category": "342",
+    "answers": [
+      "a) It has restricted /w/ to occur only after low vowels.",
+      "b) It has eliminated /w/ from most dialects.",
+      "c) It has allowed /w/ to occur after any vowel.",
+      "d) It has caused /w/ to merge with /j/ in certain contexts."
+    ],
+    "correct answer(s)": "c) It has allowed /w/ to occur after any vowel.",
+    "GPT's response": "b) It has eliminated /w/ from most dialects.",
+    "correct": false
+  },
+  {
+    "question": "Which new diphthongal combinations involving the glide /w/ have emerged as potential outcomes of changes in British English?",
+    "category": "343",
+    "answers": [
+      "a) uw becomes iw, and ew becomes uw",
+      "b) iw occurs as in \"bill\", and ow as in \"ball\"",
+      "c) ew merges with iw, forming a new sound",
+      "d) iw disappears while ow remains stable"
+    ],
+    "correct answer(s)": "b) iw occurs as in \"bill\", and ow as in \"ball\"",
+    "GPT's response": "b) iw occurs as in \"bill\", and ow as in \"ball\"",
+    "correct": true
+  },
+  {
+    "question": "What potential new diphthongs must be recognized in a developing British English system due to the fronting of glides?",
+    "category": "344",
+    "answers": [
+      "a) ij and aj",
+      "b) iw, ew, and ow",
+      "c) uj and aw",
+      "d) \u0259j and ij"
+    ],
+    "correct answer(s)": "b) iw, ew, and ow",
+    "GPT's response": "b) iw, ew, and ow",
+    "correct": true
+  },
+  {
+    "question": "What recent phonetic development in British English has affected the lexical sets of 'goose' and 'goat'?",
+    "category": "345",
+    "answers": [
+      "a) Merging of vowel sounds",
+      "b) Fronting of the glides",
+      "c) Monophthongization of diphthongs",
+      "d) Backing of the vowel nuclei"
+    ],
+    "correct answer(s)": "b) Fronting of the glides",
+    "GPT's response": "c) Monophthongization of diphthongs",
+    "correct": false
+  },
+  {
+    "question": "How do changes in L vocalization affect the occurrence of the diphthongs uw and \u0259w?",
+    "category": "346",
+    "answers": [
+      "a) They preserve uw and \u0259w despite the fronting of glides.",
+      "b) They lead to the elimination of uw and \u0259w.",
+      "c) They cause uw and \u0259w to merge with uj and \u0259j.",
+      "d) They result in new centralized vowel sounds."
+    ],
+    "correct answer(s)": "a) They preserve uw and \u0259w despite the fronting of glides.",
+    "GPT's response": "a) They preserve uw and \u0259w despite the fronting of glides.",
+    "correct": true
+  },
+  {
+    "question": "In L vocalizing accents, which nonnasal sonorants occur exclusively in prevocalic positions?",
+    "category": "347",
+    "answers": [
+      "a) p t k",
+      "b) m n \u014b",
+      "c) l r j w h",
+      "d) s z f v"
+    ],
+    "correct answer(s)": "c) l r j w h",
+    "GPT's response": "c) l r j w h",
+    "correct": true
+  },
+  {
+    "question": "What condition allows for the occurrence of /h/ before /j/ in English?",
+    "category": "348",
+    "answers": [
+      "a) The preceding consonant must be voiced.",
+      "b) The preceding vowel must be unstressed.",
+      "c) The following vowel must be stressed.",
+      "d) The /j/ must be part of a suffix."
+    ],
+    "correct answer(s)": "c) The following vowel must be stressed.",
+    "GPT's response": "b) The preceding vowel must be unstressed.",
+    "correct": false
+  },
+  {
+    "question": "Under what condition can /l/ occur before /j/ in English?",
+    "category": "349",
+    "answers": [
+      "a) The preceding vowel must be long.",
+      "b) The preceding consonant must be nasal.",
+      "c) The preceding vowel must be stressed.",
+      "d) The following vowel must be unstressed."
+    ],
+    "correct answer(s)": "d) The following vowel must be unstressed.",
+    "GPT's response": "d) The following vowel must be unstressed.",
+    "correct": true
+  },
+  {
+    "question": "Which nonnasal sonorant is notably absent from occurring after a consonant and before a vowel (C__V)?",
+    "category": "350",
+    "answers": [
+      "a) j",
+      "b) h",
+      "c) r"
+    ],
+    "correct answer(s)": "b) h",
+    "GPT's response": "b) h",
+    "correct": true
+  },
+  {
+    "question": "In English, which sonorants have limited occurrence after a stressed vowel but before an unstressed vowel?",
+    "category": "351",
+    "answers": [
+      "a) l and r",
+      "b) j, w, and h",
+      "c) l and h",
+      "d) r and j"
+    ],
+    "correct answer(s)": "b) j, w, and h",
+    "GPT's response": "b) j, w, and h",
+    "correct": true
+  },
+  {
+    "question": "According to our analysis, what type of vowel typically precedes j, w, and h when they occur before an unstressed vowel?",
+    "category": "352",
+    "answers": [
+      "a) Short and stressed",
+      "b) Long or unstressed",
+      "c) Short and unstressed",
+      "d) Long and stressed"
+    ],
+    "correct answer(s)": "b) Long or unstressed",
+    "GPT's response": "c) Short and unstressed",
+    "correct": false
+  },
+  {
+    "question": "Which examples are cited as exceptions to the restriction against short and stressed vowels preceding j, w, and h?",
+    "category": "353",
+    "answers": [
+      "a) Darwin and Ottawa",
+      "b) Dewi and Drogheda",
+      "c) Malawi and yahoo",
+      "d) Monahan and sawyer"
+    ],
+    "correct answer(s)": "b) Dewi and Drogheda",
+    "GPT's response": "b) Dewi and Drogheda",
+    "correct": true
+  },
+  {
+    "question": "Which word is an example of epenthesis due to sonority?",
+    "category": "354",
+    "answers": [
+      "a) Middle English crown > kraun",
+      "b) Old Norse knifr > knife",
+      "c) Old High German bratan > roast",
+      "d) French m\u00e8tre m\u025btr > mijt\u0259r"
+    ],
+    "correct answer(s)": "d) French m\u00e8tre m\u025btr > mijt\u0259r",
+    "GPT's response": "d) French m\u00e8tre m\u025btr > mijt\u0259r",
+    "correct": true
+  },
+  {
+    "question": "Which word is an example of epenthesis due to sonority?",
+    "category": "355",
+    "answers": [
+      "a) Old English sceadu > shade",
+      "b) Middle English bren > burn",
+      "c) Old French temple > temp\u0259l",
+      "d) Latin stella > star"
+    ],
+    "correct answer(s)": "c) Old French temple > temp\u0259l",
+    "GPT's response": "c) Old French temple > temp\u0259l",
+    "correct": true
+  },
+  {
+    "question": "According to our analysis, which is the correct order of sonority?",
+    "category": "356",
+    "answers": [
+      "a) m < l < n < r",
+      "b) l < r < m = n",
+      "c) r < l < m = n",
+      "d) m = n < l < r"
+    ],
+    "correct answer(s)": "d) m = n < l < r",
+    "GPT's response": "d) m = n < l < r",
+    "correct": true
+  },
+  {
+    "question": "Why is epenthesis sometimes used by speakers for certain consonant clusters?",
+    "category": "357",
+    "answers": [
+      "a) Because the clusters end in a vowel",
+      "b) Because there is excessive sonority distance between the sounds",
+      "c) Because the clusters are followed by a glide",
+      "d) Because the sonority distance between the sounds is not sufficient to maintain the cluster"
+    ],
+    "correct answer(s)": "d) Because the sonority distance between the sounds is not sufficient to maintain the cluster",
+    "GPT's response": "d) Because the sonority distance between the sounds is not sufficient to maintain the cluster",
+    "correct": true
+  },
+  {
+    "question": "Epenthesis occurs before which consonant, specifically after diphthongs with a front offglide?",
+    "category": "358",
+    "answers": [
+      "a) k",
+      "b) t",
+      "c) l",
+      "d) s"
+    ],
+    "correct answer(s)": "c) l",
+    "GPT's response": "c) l",
+    "correct": true
+  },
+  {
+    "question": "Which consonant clusters are noted to induce epenthesis?",
+    "category": "359",
+    "answers": [
+      "a) kr, kl, kw",
+      "b) fl, fr, fw",
+      "c) sn, sl, sw",
+      "d) jl, jr, wr"
+    ],
+    "correct answer(s)": "d) jl, jr, wr",
+    "GPT's response": "d) jl, jr, wr",
+    "correct": true
+  },
+  {
+    "question": "What makes the wl cluster more stable compared to others, at least for some speakers?",
+    "category": "360",
+    "answers": [
+      "a) The cluster appears frequently in the English language",
+      "b) Its members are homorganic, particularly for speakers with a velarized l",
+      "c) It is followed by a vowel in most cases",
+      "d) It is rarely used, so it avoids common epenthetic processes"
+    ],
+    "correct answer(s)": "b) Its members are homorganic, particularly for speakers with a velarized l",
+    "GPT's response": "b) Its members are homorganic, particularly for speakers with a velarized l",
+    "correct": true
+  },
+  {
+    "question": "Traditionally, how was the stress pattern typically determined for final VV and VC sequences?",
+    "category": "361",
+    "answers": [
+      "a) Both are usually stressed",
+      "b) Both are usually unstressed",
+      "c) VV is unstressed; VC is stressed",
+      "d) VV is stressed; VC is not stressed"
+    ],
+    "correct answer(s)": "d) VV is stressed; VC is not stressed",
+    "GPT's response": "d) VV is stressed; VC is not stressed",
+    "correct": true
+  },
+  {
+    "question": "Which verbs exemplify a VC-final sequence where the final syllable is stressed?",
+    "category": "362",
+    "answers": [
+      "a) Carry and argue",
+      "b) Rebel and continue",
+      "c) Omit and ferment",
+      "d) Omit and rebel"
+    ],
+    "correct answer(s)": "d) Omit and rebel",
+    "GPT's response": "d) Omit and rebel",
+    "correct": true
+  },
+  {
+    "question": "What does the analysis of diphthongs as VC sequences reveal about verbs like \"ferment\" and \"cremate\"?",
+    "category": "363",
+    "answers": [
+      "a) They are always pronounced with a long vowel",
+      "b) They lose stress on their last syllable",
+      "c) They are stressed on their last syllable similarly to verbs ending in two consonants",
+      "d) They inherently avoid stress patterns completely"
+    ],
+    "correct answer(s)": "c) They are stressed on their last syllable similarly to verbs ending in two consonants",
+    "GPT's response": "c) They are stressed on their last syllable similarly to verbs ending in two consonants",
+    "correct": true
+  },
+  {
+    "question": "What does Chomsky & Halle (1968) claim regarding the stress patterns of words?",
+    "category": "364",
+    "answers": [
+      "a) Vowels in the first syllable are always stressed",
+      "b) Diphthongs in the medial syllable attract stress",
+      "c) A \u201clong vowel\u201d in the last syllable of a word is always stressed",
+      "d) Consonant clusters never affect stress placement"
+    ],
+    "correct answer(s)": "c) A \u201clong vowel\u201d in the last syllable of a word is always stressed",
+    "GPT's response": "c) A \u201clong vowel\u201d in the last syllable of a word is always stressed",
+    "correct": true
+  },
+  {
+    "question": "According to Hayes (1982), what is the typical stress pattern for polysyllabic nouns?",
+    "category": "365",
+    "answers": [
+      "a) They are always stressed on the penultimate syllable",
+      "b) Polysyllabic nouns are not usually stressed on their ult \u2014 which is extrametrical",
+      "c) They always receive primary stress on the first syllable",
+      "d) Stress patterns are highly irregular and unpredictable"
+    ],
+    "correct answer(s)": "b) Polysyllabic nouns are not usually stressed on their ult \u2014 which is extrametrical",
+    "GPT's response": "b) Polysyllabic nouns are not usually stressed on their ult \u2014 which is extrametrical",
+    "correct": true
+  },
+  {
+    "question": "When does flapping occur in New Zealand Acrolect?",
+    "category": "366",
+    "answers": [
+      "a) After any vowel regardless of type",
+      "b) After long vowels and diphthongs",
+      "c) Between two vowels only if the first vowel is short",
+      "d) Between two vowels only if the first vowel is long"
+    ],
+    "correct answer(s)": "c) Between two vowels only if the first vowel is short",
+    "GPT's response": "c) Between two vowels only if the first vowel is short",
+    "correct": true
+  },
+  {
+    "question": "Which statement is false about flapping in New Zealand Acrolect?",
+    "category": "367",
+    "answers": [
+      "a) Flapping does not occur after diphthongs",
+      "b) Flapping does not occur after long vowels",
+      "c) Flapping occurs consistently after all vowel types",
+      "d) Flapping requires the first vowel to be short for it to occur"
+    ],
+    "correct answer(s)": "c) Flapping occurs consistently after all vowel types",
+    "GPT's response": "c) Flapping occurs consistently after all vowel types",
+    "correct": true
+  }
+]

@@ -1,0 +1,10 @@
+
+5 Counterarguments
+If diphthongs are indeed sequences of a short vowel and a glide (a consonant), then why is there an almost uniform opinion in the literature on English phonology that these sequences are diphthongs? There must be some reason other than the phonotactic interdependence of the vowel and the glide, which, as we have seen, is not necessarily relevant on the one hand, and is disappearing on the other. We will now take a brief look at some further potential reasons.
+
+5.1 History and spelling
+Middle English had seven long vowels, iː eː ɛː aː ɔː oː uː. The quality of these vowels changed considerably in the Great Vowel Shift, and they all became diphthongs: aj ij ij/ej ej əw uw aw, respectively. Diphthongs of Middle English have either merged with these “new” diphthongs (eg the ow of grow with the ɔː > ow/əw of go), or monophthongized (eg the aw > oː of thaw), or remained as is (eg the oj of choice).
+
+English spelling still reflects Middle English in many respects, so diphthongs are often spelled by a single vowel letter, in fact, only two diphthongs, oj and aw, cannot be spelled in this way. Many Middle English long–short alternations developed into a diphthong–short vowel alternation in current English: eg keep kijp–kept, grave grejv–gravity gravətij, mime majm–mimic mimik, south sawθ–southern səðən, holy həwlij–holiday holidej, fool fuwl–folly folij, etc.
+
+Because of this historical burden there is a strong tradition of calling diphthongs “long vowels”: ie ej as “long A”, ij as “long E”, etc. With this background the reluctance of analysing these “vowels” as vowel+consonant sequences is hardly surprising.

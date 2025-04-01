@@ -1,0 +1,6 @@
+ 
+(12) 
+ 
+In sum, we have seen that in Hungarian, voiced obstruents trigger regressive voice assimilation, so voicing is a phonologically active property. This can be easily represented if we assume the feature [voice] in this language type. In English, lenis obstruents do not cause laryngeal assimilation. Fortisness, on the other hand, seems to be a phonologically active property: sonorant devoicing after fortis obstruents and the allomorphic alternations of the morphemes -s and -ed can be accounted for if we assume the feature [fortis] in this type of laryngeal system and analyze these phenomena as the forward spreading of [fortis]. 
+c. A puzzle for representing the laryngeal contrast 
+Hungarian and English seem to be “well-behaved” voicing and aspirating languages, respectively: which language type they belong to can be read off the phonetic realizations of their obstruents on the one hand, and the phonological behaviors of the obstruents on the other hand. This, in fact, generally applies to other languages too in these categories. However, there exist a few laryngeal systems in which these two criteria for the categorization as a voicing or an aspirating language are not both met. Swedish is such a language—let us consider the data in (13). 

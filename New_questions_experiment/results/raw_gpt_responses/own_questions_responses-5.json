@@ -1,0 +1,834 @@
+[
+  {
+    "question": "If there is a sequence of equal stresses in English, what happens?",
+    "category": "501",
+    "answers": [
+      "a) The first one becomes the strongest",
+      "b) They remain equal in strength",
+      "c) The middle one becomes the strongest",
+      "d) The last one becomes the strongest"
+    ],
+    "correct answer(s)": "d) The last one becomes the strongest",
+    "GPT's response": "a) The first one becomes the strongest",
+    "correct": false
+  },
+  {
+    "question": "Where is the prosodic \"weight\" of an utterance typically located in English?",
+    "category": "502",
+    "answers": [
+      "a) At the beginning",
+      "b) In the middle",
+      "c) It varies randomly",
+      "d) At the end"
+    ],
+    "correct answer(s)": "d) At the end",
+    "GPT's response": "d) At the end",
+    "correct": true
+  },
+  {
+    "question": "What is the tonic stress in the context of English prosody?",
+    "category": "503",
+    "answers": [
+      "a) The first stress in a sentence",
+      "b) The last and strongest stress in a sentence",
+      "c) A stress at the midpoint of a sentence",
+      "d) The lightest stress in a sentence"
+    ],
+    "correct answer(s)": "b) The last and strongest stress in a sentence",
+    "GPT's response": "b) The last and strongest stress in a sentence",
+    "correct": true
+  },
+  {
+    "question": "What is the 1 1 \u2192 2 1 rule known as in English prosody?",
+    "category": "504",
+    "answers": [
+      "a) Tonic assignment rule",
+      "b) Stress deletion rule",
+      "c) Prosodic adjustment rule",
+      "d) Rhythm rule"
+    ],
+    "correct answer(s)": "a) Tonic assignment rule",
+    "GPT's response": "d) Rhythm rule",
+    "correct": false
+  },
+  {
+    "question": "What does the tonic assignment rule state in English prosody?",
+    "category": "505",
+    "answers": [
+      "a) All primary stresses become stronger",
+      "b) Only the first stress remains primary",
+      "c) Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic",
+      "d) Ignore all secondary stresses"
+    ],
+    "correct answer(s)": "c) Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic",
+    "GPT's response": "c) Of several primary stresses, downgrade each to secondary, except the last, which will be the tonic",
+    "correct": true
+  },
+  {
+    "question": "Which statement is NOT true regarding secondary stress in English prosody?",
+    "category": "506",
+    "answers": [
+      "a) The \u201csecondariness\u201d of secondary stress is predictable",
+      "b) A secondary stress is actually a stress which is followed by another stress and has therefore been downgraded",
+      "c) Secondary stress is actually an \u201callophone\u201d of primary stress",
+      "d) We cannot represent words like reformation, satisfactory, sardine with two equal \u201cprimary\u201d stresses"
+    ],
+    "correct answer(s)": "d) We cannot represent words like reformation, satisfactory, sardine with two equal \u201cprimary\u201d stresses",
+    "GPT's response": "c) Secondary stress is actually an \u201callophone\u201d of primary stress",
+    "correct": false
+  },
+  {
+    "question": "Can there be a secondary stress after a primary stress in English prosody according to the End-Weight Principle?",
+    "category": "507",
+    "answers": [
+      "a) No, there cannot be a secondary after the primary",
+      "b) Yes, it often occurs",
+      "c) It depends on the sentence structure",
+      "d) Only in certain dialects"
+    ],
+    "correct answer(s)": "a) No, there cannot be a secondary after the primary",
+    "GPT's response": "b) Yes, it often occurs",
+    "correct": false
+  },
+  {
+    "question": "Which word exhibits tertiary-stressed vowels due to a lack of vowel reduction?",
+    "category": "508",
+    "answers": [
+      "a) s\u00e1lad",
+      "b) \u00d3xford",
+      "c) f\u00f3rmat",
+      "d) cycle"
+    ],
+    "correct answer(s)": "c) f\u00f3rmat",
+    "GPT's response": "b) \u00d3xford",
+    "correct": false
+  },
+  {
+    "question": "Which word also exhibits tertiary-stressed vowels due to its non-reduced vowel?",
+    "category": "509",
+    "answers": [
+      "a) s\u00e1lad",
+      "b) cycle",
+      "c) dir\u00e9ct",
+      "d) fashion"
+    ],
+    "correct answer(s)": "c) dir\u00e9ct",
+    "GPT's response": "b) cycle",
+    "correct": false
+  },
+  {
+    "question": "What type of stressed syllables are referred to as \"tertiary-stressed\"?",
+    "category": "510",
+    "answers": [
+      "a) Those that are entirely unstressed",
+      "b) Those that are strong-unstressed because their vowel does not reduce",
+      "c) Those that are primary-stressed",
+      "d) Those affected by the Rhythm Rule"
+    ],
+    "correct answer(s)": "b) Those that are strong-unstressed because their vowel does not reduce",
+    "GPT's response": "b) Those that are strong-unstressed because their vowel does not reduce",
+    "correct": true
+  },
+  {
+    "question": "Why do 3ry and zero stresses not count as stresses from the prosodic point of view?",
+    "category": "511",
+    "answers": [
+      "a) They are louder than other stresses",
+      "b) They dominate the intonation pattern",
+      "c) Because they occur at the start of the tone-unit",
+      "d) Because the End-Weight Principle does not \u201csee\u201d them and they can never become 1ry-stressed"
+    ],
+    "correct answer(s)": "d) Because the End-Weight Principle does not \u201csee\u201d them and they can never become 1ry-stressed",
+    "GPT's response": "d) Because the End-Weight Principle does not \u201csee\u201d them and they can never become 1ry-stressed",
+    "correct": true
+  },
+  {
+    "question": "What are the phonologically relevant stress degrees in English prosody?",
+    "category": "512",
+    "answers": [
+      "a) Stressed, unstressed, tertiary",
+      "b) Stressed and unstressed",
+      "c) Primary, secondary, and tertiary",
+      "d) Primary and secondary only"
+    ],
+    "correct answer(s)": "b) Stressed and unstressed",
+    "GPT's response": "c) Primary, secondary, and tertiary",
+    "correct": false
+  },
+  {
+    "question": "What stress pattern do initially-stressed compounds exhibit in English prosody?",
+    "category": "513",
+    "answers": [
+      "a) # 3 # 2 #",
+      "b) # 2 # 2 #",
+      "c) # 1 # 3 #",
+      "d) # 3 # 1 #"
+    ],
+    "correct answer(s)": "c) # 1 # 3 #",
+    "GPT's response": "d) # 3 # 1 #",
+    "correct": false
+  },
+  {
+    "question": "What stress pattern do finally-stressed compounds exhibit?",
+    "category": "514",
+    "answers": [
+      "a) # 1 # 3 #",
+      "b) # 2 # 1 #",
+      "c) # 3 # 1 #",
+      "d) # 1 # 2 #"
+    ],
+    "correct answer(s)": "b) # 2 # 1 #",
+    "GPT's response": "b) # 2 # 1 #",
+    "correct": true
+  },
+  {
+    "question": "Which of the following compounds is initially-stressed?",
+    "category": "515",
+    "answers": [
+      "a) trade union",
+      "b) fruit salad",
+      "c) Victoria Station",
+      "d) car ferry"
+    ],
+    "correct answer(s)": "d) car ferry",
+    "GPT's response": "b) fruit salad",
+    "correct": false
+  },
+  {
+    "question": "Which compound is finally-stressed?",
+    "category": "516",
+    "answers": [
+      "a) greenhouse",
+      "b) car ferry",
+      "c) fruit salad",
+      "d) computer virus"
+    ],
+    "correct answer(s)": "c) fruit salad",
+    "GPT's response": "c) fruit salad",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words is considered an \"invisible compound\" in English?",
+    "category": "517",
+    "answers": [
+      "a) gr\u00e9enhouse",
+      "b) w\u00f2rd-f\u00ednal",
+      "c) c\u00e1r ferry",
+      "d) w\u00e8lcome"
+    ],
+    "correct answer(s)": "c) c\u00e1r ferry",
+    "GPT's response": "d) w\u00e8lcome",
+    "correct": false
+  },
+  {
+    "question": "Which word is considered an invisible compound?",
+    "category": "518",
+    "answers": [
+      "a) n\u00f3nsense",
+      "b) w\u00f2rd-f\u00ednal",
+      "c) w\u00e9lcome",
+      "d) ge\u00f3graphy teacher"
+    ],
+    "correct answer(s)": "d) ge\u00f3graphy teacher",
+    "GPT's response": "c) w\u00e9lcome",
+    "correct": false
+  },
+  {
+    "question": "Which word is NOT considered an \"invisible compound\"?",
+    "category": "519",
+    "answers": [
+      "a) w\u00f2rd-f\u00ednal",
+      "b) c\u00e1r ferry",
+      "c) ge\u00f3graphy teacher",
+      "d) d\u00f2uble chin"
+    ],
+    "correct answer(s)": "a) w\u00f2rd-f\u00ednal",
+    "GPT's response": "c) ge\u00f3graphy teacher",
+    "correct": false
+  },
+  {
+    "question": "What does the Compound Stress Rule state regarding initially-stressed compounds?",
+    "category": "520",
+    "answers": [
+      "a) Keep both elements equally stressed",
+      "b) Downgrade the first word to secondary stress",
+      "c) Downgrade the primary stress of the second word to strong-unstressed (3ry) level",
+      "d) Elevate the first stress to primary"
+    ],
+    "correct answer(s)": "c) Downgrade the primary stress of the second word to strong-unstressed (3ry) level",
+    "GPT's response": "c) Downgrade the primary stress of the second word to strong-unstressed (3ry) level",
+    "correct": true
+  },
+  {
+    "question": "What stress pattern is formed according to the Compound Stress Rule for initially-stressed compounds?",
+    "category": "521",
+    "answers": [
+      "a) # 2 # 2 #",
+      "b) # 2 # 1 #",
+      "c) # 3 # 1 #",
+      "d) # 1 # 3 #"
+    ],
+    "correct answer(s)": "d) # 1 # 3 #",
+    "GPT's response": "d) # 1 # 3 #",
+    "correct": true
+  },
+  {
+    "question": "Which of the following compounds would follow the Compound Stress Rule for initial stress?",
+    "category": "522",
+    "answers": [
+      "a) trade union",
+      "b) gr\u00e9enhouse",
+      "c) Victoria Station",
+      "d) \u00e8asy-g\u00f3ing"
+    ],
+    "correct answer(s)": "b) gr\u00e9enhouse",
+    "GPT's response": "b) gr\u00e9enhouse",
+    "correct": true
+  },
+  {
+    "question": "According to the Compound Stress Rule, which compound would NOT apply the rule of downgrading the second element to strong-unstressed?",
+    "category": "523",
+    "answers": [
+      "a) w\u00e8lcome",
+      "b) trade union",
+      "c) w\u00f2rd-f\u00ednal",
+      "d) nonsense"
+    ],
+    "correct answer(s)": "b) trade union",
+    "GPT's response": "b) trade union",
+    "correct": true
+  },
+  {
+    "question": "What rule is described by the pattern # 1 # # 1 # \u2192 # 1 # 3 #?",
+    "category": "524",
+    "answers": [
+      "a) Tonic Assignment Rule",
+      "b) Rhythm Rule",
+      "c) Compound Stress Rule",
+      "d) Stress-Shift Rule"
+    ],
+    "correct answer(s)": "c) Compound Stress Rule",
+    "GPT's response": "b) Rhythm Rule",
+    "correct": false
+  },
+  {
+    "question": "Which word is NOT an obscured compound in English?",
+    "category": "525",
+    "answers": [
+      "a) n\u00f3nsense",
+      "b) p\u00f3stman",
+      "c) \u00c9ngland",
+      "d) w\u00f2rd-f\u00ednal"
+    ],
+    "correct answer(s)": "d) w\u00f2rd-f\u00ednal",
+    "GPT's response": "d) w\u00f2rd-f\u00ednal",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words is an example of an obscured compound?",
+    "category": "526",
+    "answers": [
+      "a) w\u00f2rd-f\u00ednal",
+      "b) gr\u00e9enhouse",
+      "c) J\u00f3hnson",
+      "d) c\u00e1r ferry"
+    ],
+    "correct answer(s)": "c) J\u00f3hnson",
+    "GPT's response": "c) J\u00f3hnson",
+    "correct": true
+  },
+  {
+    "question": "What is the stress pattern of obscured compounds in English prosody?",
+    "category": "527",
+    "answers": [
+      "a) # 1 # 2 #",
+      "b) # 1 # 3 #",
+      "c) # 2 # 1 #",
+      "d) # 10 #"
+    ],
+    "correct answer(s)": "d) # 10 #",
+    "GPT's response": "c) # 2 # 1 #",
+    "correct": false
+  },
+  {
+    "question": "What does the stress pattern #10# exemplify in English prosody?",
+    "category": "528",
+    "answers": [
+      "a) Compound Secondary Stress Rule",
+      "b) Tonic Placement",
+      "c) Compound Ambiguity",
+      "d) Obscured compounds"
+    ],
+    "correct answer(s)": "d) Obscured compounds",
+    "GPT's response": "a) Compound Secondary Stress Rule",
+    "correct": false
+  },
+  {
+    "question": "What does the \u201cY is (made) of X\u201d relationship entail in terms of stress pattern?",
+    "category": "529",
+    "answers": [
+      "a) An initially-stressed compound",
+      "b) An obscured compound",
+      "c) A tertiary-stressed compound",
+      "d) A finally-stressed compound"
+    ],
+    "correct answer(s)": "d) A finally-stressed compound",
+    "GPT's response": "a) An initially-stressed compound",
+    "correct": false
+  },
+  {
+    "question": "What does the \u201cY is (an) X\u201d relationship involve regarding compound stress?",
+    "category": "530",
+    "answers": [
+      "a) An initially-stressed compound",
+      "b) An obscured compound",
+      "c) A tertiary-stressed compound",
+      "d) A finally-stressed compound"
+    ],
+    "correct answer(s)": "d) A finally-stressed compound",
+    "GPT's response": "a) An initially-stressed compound",
+    "correct": false
+  },
+  {
+    "question": "What kind of compound stress pattern do names of places typically have, excluding those ending in \"Street\"?",
+    "category": "531",
+    "answers": [
+      "a) Obscured compound",
+      "b) A finally-stressed compound",
+      "c) An initially-stressed compound",
+      "d) Unstressed compound"
+    ],
+    "correct answer(s)": "b) A finally-stressed compound",
+    "GPT's response": "c) An initially-stressed compound",
+    "correct": false
+  },
+  {
+    "question": "What kind of compound stress pattern do \u201cinitialisms\u201d, where letters are pronounced as their alphabetical names, exhibit?",
+    "category": "532",
+    "answers": [
+      "a) An initially-stressed compound",
+      "b) An obscured compound",
+      "c) A secondary-stressed compound",
+      "d) A finally-stressed compound"
+    ],
+    "correct answer(s)": "d) A finally-stressed compound",
+    "GPT's response": "a) An initially-stressed compound",
+    "correct": false
+  },
+  {
+    "question": "If a compound expresses the idea of \"for...\" (an object relationship), what type of stress does it exhibit?",
+    "category": "533",
+    "answers": [
+      "a) Finally-stressed",
+      "b) Obscured",
+      "c) Initially-stressed",
+      "d) Unstressed"
+    ],
+    "correct answer(s)": "c) Initially-stressed",
+    "GPT's response": "c) Initially-stressed",
+    "correct": true
+  },
+  {
+    "question": "If a compound expresses the idea of \"is a...\", \"is made of...\", or \"is characterized by...\" (a subject relationship), what type of stress pattern does it typically have?",
+    "category": "534",
+    "answers": [
+      "a) Obscured",
+      "b) Initially-stressed",
+      "c) Finally-stressed",
+      "d) Unstressed"
+    ],
+    "correct answer(s)": "c) Finally-stressed",
+    "GPT's response": "b) Initially-stressed",
+    "correct": false
+  },
+  {
+    "question": "In a typical tone unit 'We decided to come back in October', what constitutes the pre-head?",
+    "category": "535",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "a) We de-",
+    "GPT's response": "a) We de-",
+    "correct": true
+  },
+  {
+    "question": "In a typical tone unit 'We decided to come back in October', what does the head consist of?",
+    "category": "536",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "b) -cided to come back in Oc-",
+    "GPT's response": "b) -cided to come back in Oc-",
+    "correct": true
+  },
+  {
+    "question": "In the typical tone unit 'We decided to come back in October', which part is considered the tonic?",
+    "category": "537",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "c) -to-",
+    "GPT's response": "b) -cided to come back in Oc-",
+    "correct": false
+  },
+  {
+    "question": "In a typical tone unit 'We decided to come back in October', what is referred to as the tail?",
+    "category": "538",
+    "answers": [
+      "a) We de-",
+      "b) -cided to come back in Oc-",
+      "c) -to-",
+      "d) -ber"
+    ],
+    "correct answer(s)": "d) -ber",
+    "GPT's response": "d) -ber",
+    "correct": true
+  },
+  {
+    "question": "What is the \"nice old lady\" rule in English prosody?",
+    "category": "539",
+    "answers": [
+      "a) Tonic placement",
+      "b) Stress shift",
+      "c) Phonemic distinction",
+      "d) Rhythmic stress deletion"
+    ],
+    "correct answer(s)": "d) Rhythmic stress deletion",
+    "GPT's response": "b) Stress shift",
+    "correct": false
+  },
+  {
+    "question": "What is the \"afternoon tea\" rule in English prosody?",
+    "category": "540",
+    "answers": [
+      "a) Tonic placement",
+      "b) Phonemic distinction",
+      "c) Stress-shift, resulting from the Rhythm Rule",
+      "d) Compound stress adjustment"
+    ],
+    "correct answer(s)": "c) Stress-shift, resulting from the Rhythm Rule",
+    "GPT's response": "c) Stress-shift, resulting from the Rhythm Rule",
+    "correct": true
+  },
+  {
+    "question": "Which stress pattern exemplifies the \"afternoon tea\" rule?",
+    "category": "541",
+    "answers": [
+      "a) [1 3 1]",
+      "b) [1 0 2]",
+      "c) [2 1 0]",
+      "d) [2 0 3]"
+    ],
+    "correct answer(s)": "d) [2 0 3]",
+    "GPT's response": "c) [2 1 0]",
+    "correct": false
+  },
+  {
+    "question": "What does the \"afternoon tea\" rule dictate regarding stress patterns?",
+    "category": "542",
+    "answers": [
+      "a) The word\u2019s primary stress moves forward",
+      "b) The secondary stress becomes the new primary",
+      "c) A previously unstressed syllable gains stress",
+      "d) The word\u2019s lexical primary-stressed syllable is degraded to strong-unstressed status"
+    ],
+    "correct answer(s)": "d) The word\u2019s lexical primary-stressed syllable is degraded to strong-unstressed status",
+    "GPT's response": "d) The word\u2019s lexical primary-stressed syllable is degraded to strong-unstressed status",
+    "correct": true
+  },
+  {
+    "question": "Where does the neutral tonic fall?",
+    "category": "543",
+    "answers": [
+      "a) On the last function-word of the tone-unit",
+      "b) On the first content-word of the tone-unit",
+      "c) On the first function-word of the tone-unit",
+      "d) On the last content-word of the tone-unit"
+    ],
+    "correct answer(s)": "d) On the last content-word of the tone-unit",
+    "GPT's response": "b) On the first content-word of the tone-unit",
+    "correct": false
+  },
+  {
+    "question": "On which function words can the neutral tonic fall?",
+    "category": "544",
+    "answers": [
+      "a) On a determiner and a pronoun",
+      "b) On auxiliary and a preposition",
+      "c) On an article and an adverb",
+      "d) On an auxiliary and on an adverbial particle"
+    ],
+    "correct answer(s)": "d) On an auxiliary and on an adverbial particle",
+    "GPT's response": "d) On an auxiliary and on an adverbial particle",
+    "correct": true
+  },
+  {
+    "question": "When can the neutral tonic fall on an auxiliary?",
+    "category": "545",
+    "answers": [
+      "a) When it is followed by its unstressed personal pronoun subject",
+      "b) When it is followed by a noun",
+      "c) Only when it is part of a subordinate clause",
+      "d) When there is no further stressable word in the sentence"
+    ],
+    "correct answer(s)": "d) When there is no further stressable word in the sentence",
+    "GPT's response": "d) When there is no further stressable word in the sentence",
+    "correct": true
+  },
+  {
+    "question": "In which case does the tonic not fall on a sentence-final auxiliary?",
+    "category": "546",
+    "answers": [
+      "a) When it is used in an interrogative sentence",
+      "b) When it is preceded by its own stressed subject",
+      "c) When it follows a conjunction",
+      "d) When it is part of a complex verb phrase"
+    ],
+    "correct answer(s)": "b) When it is preceded by its own stressed subject",
+    "GPT's response": "b) When it is preceded by its own stressed subject",
+    "correct": true
+  },
+  {
+    "question": "What is the relationship between intonation and pitch in linguistics?",
+    "category": "547",
+    "answers": [
+      "a) Intonation is about the loudness of syllables",
+      "b) Intonation only relates to rhythm",
+      "c) Pitch is unrelated to intonation",
+      "d) Intonation concerns the height, or pitch, of syllables"
+    ],
+    "correct answer(s)": "d) Intonation concerns the height, or pitch, of syllables",
+    "GPT's response": "d) Intonation concerns the height, or pitch, of syllables",
+    "correct": true
+  },
+  {
+    "question": "What does intonation include in the context of prosody?",
+    "category": "548",
+    "answers": [
+      "a) Only the rhythm of speech",
+      "b) The stress and syllable count",
+      "c) The melodies or \u201ctones\u201d and the division of speech into tone-units",
+      "d) The speed and volume of speech"
+    ],
+    "correct answer(s)": "c) The melodies or \u201ctones\u201d and the division of speech into tone-units",
+    "GPT's response": "c) The melodies or \u201ctones\u201d and the division of speech into tone-units",
+    "correct": true
+  },
+  {
+    "question": "What does the Falling tone express in English intonation?",
+    "category": "549",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "d) Neutrality, definiteness, finality",
+    "GPT's response": "d) Neutrality, definiteness, finality",
+    "correct": true
+  },
+  {
+    "question": "What does the Rising Fall-rise tone convey in English intonation?",
+    "category": "550",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "a) Implication; softening; old info",
+    "GPT's response": "a) Implication; softening; old info",
+    "correct": true
+  },
+  {
+    "question": "What meaning does the Low rise tone hold in English intonation?",
+    "category": "551",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "b) Indifference; encouragement",
+    "GPT's response": "a) Implication; softening; old info",
+    "correct": false
+  },
+  {
+    "question": "What is expressed by the High rise tone in English intonation?",
+    "category": "552",
+    "answers": [
+      "a) Implication; softening; old info",
+      "b) Indifference; encouragement",
+      "c) Inquiry; Yes/No question",
+      "d) Neutrality, definiteness, finality"
+    ],
+    "correct answer(s)": "c) Inquiry; Yes/No question",
+    "GPT's response": "c) Inquiry; Yes/No question",
+    "correct": true
+  },
+  {
+    "question": "In which context is the falling tone generally used to express definiteness and finality?",
+    "category": "553",
+    "answers": [
+      "a) In song lyrics",
+      "b) In casual conversations only",
+      "c) When expressing hypothetical scenarios",
+      "d) In statements and commands"
+    ],
+    "correct answer(s)": "d) In statements and commands",
+    "GPT's response": "d) In statements and commands",
+    "correct": true
+  },
+  {
+    "question": "Which of the following intonations is most commonly used for Wh-questions?",
+    "category": "554",
+    "answers": [
+      "a) High rise",
+      "b) Low rise",
+      "c) Falling tone",
+      "d) Rising Fall-rise"
+    ],
+    "correct answer(s)": "c) Falling tone",
+    "GPT's response": "c) Falling tone",
+    "correct": true
+  },
+  {
+    "question": "What is a common function of the falling-rising tone when used in sentences?",
+    "category": "555",
+    "answers": [
+      "a) To express enthusiastic agreement",
+      "b) To imply reservations or partial truth",
+      "c) To convey complete certainty",
+      "d) To signal boredom"
+    ],
+    "correct answer(s)": "b) To imply reservations or partial truth",
+    "GPT's response": "b) To imply reservations or partial truth",
+    "correct": true
+  },
+  {
+    "question": "How does the falling-rising tone act in terms of negation?",
+    "category": "556",
+    "answers": [
+      "a) It confirms full negation",
+      "b) It denies any implication",
+      "c) It expresses partial negation",
+      "d) It reverses the meaning"
+    ],
+    "correct answer(s)": "c) It expresses partial negation",
+    "GPT's response": "c) It expresses partial negation",
+    "correct": true
+  },
+  {
+    "question": "In what context is the falling-rising tone used to achieve a more polite effect?",
+    "category": "557",
+    "answers": [
+      "a) In dramatic monologues",
+      "b) To soften commands or Wh-questions",
+      "c) In fast-paced conversations",
+      "d) To convey sarcasm"
+    ],
+    "correct answer(s)": "b) To soften commands or Wh-questions",
+    "GPT's response": "b) To soften commands or Wh-questions",
+    "correct": true
+  },
+  {
+    "question": "What is a common function of the low-rising tone in English intonation?",
+    "category": "558",
+    "answers": [
+      "a) To express strong disagreement",
+      "b) To convey urgency",
+      "c) To indicate indifference or lack of importance",
+      "d) To confirm full understanding"
+    ],
+    "correct answer(s)": "c) To indicate indifference or lack of importance",
+    "GPT's response": "c) To indicate indifference or lack of importance",
+    "correct": true
+  },
+  {
+    "question": "Which of the following does the low-rising tone often express?",
+    "category": "559",
+    "answers": [
+      "a) Excitement",
+      "b) Inquiry",
+      "c) Encouragement or reassurance",
+      "d) Sarcasm"
+    ],
+    "correct answer(s)": "c) Encouragement or reassurance",
+    "GPT's response": "b) Inquiry",
+    "correct": false
+  },
+  {
+    "question": "In which contexts is the low-rising tone used to display politeness in English?",
+    "category": "560",
+    "answers": [
+      "a) In sarcastic remarks",
+      "b) In questions",
+      "c) In greetings, thanks, and apologies",
+      "d) In explanations"
+    ],
+    "correct answer(s)": "c) In greetings, thanks, and apologies",
+    "GPT's response": "c) In greetings, thanks, and apologies",
+    "correct": true
+  },
+  {
+    "question": "What is the primary function of the high-rising tone in English intonation?",
+    "category": "561",
+    "answers": [
+      "a) To indicate certainty",
+      "b) To express a command",
+      "c) To confirm information",
+      "d) To signal Yes/No questions"
+    ],
+    "correct answer(s)": "d) To signal Yes/No questions",
+    "GPT's response": "d) To signal Yes/No questions",
+    "correct": true
+  },
+  {
+    "question": "In what type of questions is the high-rising tone most commonly used?",
+    "category": "562",
+    "answers": [
+      "a) Hypothetical questions",
+      "b) Informative questions",
+      "c) Yes/No questions",
+      "d) Rhetorical questions"
+    ],
+    "correct answer(s)": "c) Yes/No questions",
+    "GPT's response": "c) Yes/No questions",
+    "correct": true
+  },
+  {
+    "question": "What linguistic challenge might Hungarian learners face with the high-rising tone in English?",
+    "category": "563",
+    "answers": [
+      "a) They tend to use too low a pitch",
+      "b) They might apply it to statements",
+      "c) They might not articulate the words clearly",
+      "d) They tend to use a rise-fall pattern"
+    ],
+    "correct answer(s)": "d) They tend to use a rise-fall pattern",
+    "GPT's response": "b) They might apply it to statements",
+    "correct": false
+  },
+  {
+    "question": "How is the high-rising tone used in \"please-repeat\" questions?",
+    "category": "564",
+    "answers": [
+      "a) It places emphasis on the auxiliary verb",
+      "b) It omits the question word",
+      "c) It places a dislocated tonic on the question word",
+      "d) It maintains the intonation of a declarative sentence"
+    ],
+    "correct answer(s)": "c) It places a dislocated tonic on the question word",
+    "GPT's response": "c) It places a dislocated tonic on the question word",
+    "correct": true
+  }
+]

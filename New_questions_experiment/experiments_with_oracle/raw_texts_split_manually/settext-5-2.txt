@@ -1,0 +1,27 @@
+
+7.2.1. Stress Degrees in connected speech 
+The effects of the End-Weight Principle are well known in the analysis of word stress: – if a word has two (rarely three) stresses, the last must be the primary, the one(s) before it secondary. Consequently, there cannot be a secondary after the primary. 1
+– strong-unstressed syllables (fórmat /-mæt/, diréct /daɪ-/) are also called “tertiarystressed” because their vowel does not reduce (as it would in completely unstressed syllables like sálad /-ləd/ or Óxford /-fəd/). From the prosodic point of view, however, 3ry and zero stresses do not count as stresses because the End-Weight Principle does not “see” them: they can never become 1ry-stressed.  
+We conclude that in prosody there are only two phonologically relevant stress degrees: 
+stressed (1ry or 2ry) and unstressed (3ry or zero). 
+STRESS DEGREES 
+example (underlined) 
+urbanization 
+/ˌɜ:bənaɪˈzeɪʃn/ 
+urbanization /ˌɜ:bənaɪˈzeɪʃn/ 
+urbanization 
+/ˌɜ:bənaɪˈzeɪʃn/ 
+urbanization 
+/ˌɜ:bənaɪˈzeɪʃn/ 
+word-level: 
+primary str. 
+secondary str. 
+tertiary str. 
+zero str. 
+prosodic: 
+s t r e s s e d 
+(= major-stressed) 
+u n s t r e s s e d 
+	(strong)       	          (weak) 
+We shall occasionally mention (and indicate) secondary stress, but generally we shall just speak of stressed and unstressed syllables – or, more simply, stressed and unstressed words (meaning that their primary-stressable syllable is stressed or unstressed). 
+

@@ -1,0 +1,6 @@
+
+(51) Continued effects of smoothing in CuBE 
+ 
+The schwas in the data in (51) are of a different origin to the schwa which was inserted before historical R: in idea the schwa has always been there (at least ever since this word was borrowed into English), in prayer and mayor, the schwa is independent of historical R, in mail the schwa is due to dark ‘l’, in vowel the schwa is independent of the dark ‘l’ (the word was borrowed from Old French). All of them, however, undergo smoothing in the same way. Historical schwa and schwa due to insertion before r and (more recently before dark) ł result in smoothed vocalic sequences. 
+ There are a few further changes that must be mentioned: the vowel ʉː (the result of smoothing) can for some speakers lowers to oː, for some to əː before palatals. There is thus a split of ʉː into two vowels depending on the place of articulation of the preceding consonant: if the consonant before it is non-palatal, ʉː can optionally lower to oː (poor with either ʉː or oː, as opposed to pure with ʉː, oː or əː, read more on this in the chapter on diphthongs and the problems surrounding them). 
+ Another change we have to discuss is syncopation (the loss of an inter-consonantal schwa when followed by an unstressed vowel), see (52). 

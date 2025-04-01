@@ -1,0 +1,17 @@
+
+4 Epenthesis
+English has consonant clusters word finally (eg lamp, sink, list, risk, lift, pact). However, not any combination of two consonants is possible at the end of a word. One limiting factor is sonority: the second member of a word-final consonant cluster is typically less sonorous than the first. Many words that entered English with a cluster that conflicted with this requirement were amended by epenthesizing ə between the two consonants: eg French mètre mɛtr > mijtər, Old French temple > tempəl, Late Latin prisma > prizəm. In other cases we find two word-final consonants that are not “different enough” to form a cluster: eg matches maʧ+z > maʧəz or fitted fit+d > fitəd. These are again broken up by epenthesis.
+
+While the clusters mentioned so far are invariably broken up by speakers of English, others are variable in this respect: eg elm elm or eləm, farm faɹm or faɹəm, earn əːɹn or əːɹən, girl gəːɹl or gəːɹəl (Trawick-Smith 2015, also Wells 1982: 435). Standard versions of the sonority hierarchy order these consonants as m = n < l < r (cf Szigetvári 2008 : 95f and references there), so these clusters look acceptable falling sonority clusters. Nevertheless, it seems that the sonority distance between these sounds is not enough for some speakers to maintain the clusters (cf Steriade 1982), which again is cured by epenthesis.
+
+It is remarkable in this light that many speakers of English epenthesize ə between a diphthong and a following r or l, too. Some examples are given in (16).
+
+(16) 
+heed hijd vs heel hijəl, here hijə(r)/hiː/hɪr
+fade fejd vs fail fejəl
+fine fajn vs file fajəl, fire fajə(r)/faː
+coin kojn vs coil kojəl, coir kojə(r)
+down dawn, foul fawl vs flour flawə(r)/flaː
+foam fəwm, foal fəwl/fowl
+moon muwn, fool fuwl vs moor muwə(r)/moː/mʊr
+The sequences of the narrow diphthongs ej and ow/əw plus ə have monophthongized earlier (ejə > eː, as in fair, and owə > oː, as in more), hence we find no bisyllabic examples for them with r in (16b) and (16f). (Such monophthongization is also possible, but not obligatory for most of the other diphthongs, as shown by the variant pronunciations.) The r itself at the end of these words is variably present or absent in different varieties of English. We see that epenthesis always applies before r, but only after a subset of the diphthongs before l. Notably, it is only after diphthongs with a front offglide that we have epenthesis before l. This distribution makes sense if we analyse diphthongs as vowel+consonant sequences. Thus it is the consonant clusters jl, as well as jr and wr that induce epenthesis. We could argue that wl is more stable a cluster because its members are homorganic — at least for speakers who have a velarized l. In any case, it is not easy to see what would force epenthesis between a vowel and a consonant, if diphthongs were seen as vowels. If, however, they are analysed as a vowel and a consonant as here, then epenthesis is expected because a glide and a following liquid are very close to each other in sonority.

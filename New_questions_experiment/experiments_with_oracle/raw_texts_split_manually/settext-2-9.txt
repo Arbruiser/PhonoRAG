@@ -1,0 +1,8 @@
+ 
+(13) 	a. [ph]acka 	‘pack’ 
+	[b]ad 	‘bath’ 
+	[th]ak 	‘roof’ 
+	[d]äck 	‘deck’ 
+b. vä/g/a → vä[g]a ‘to weigh’ vä/g-t/ → vä[kt] ‘weighed (past participle)’ kö/p/a → kö[p]a ‘to buy’ kö/p-d/e → kö[pt]e ‘bought (past)’ 
+We can see from the data presented in (13a) that Swedish contrasts voiced and aspirated plosives in word-initial position. Therefore, on a phonetic basis, we could argue that both [voice] and [fortis] should be assumed in this system, being a “mixture” of a voicing and an aspirating language. The data in (13b) show the phonological behaviors of obstruents. We can observe that fortisness seems to be the phonologically active property as it is fortis obstruents that trigger assimilation: when a fortis and a lenis obstruent meet in these cases, it is the lenis that undergoes assimilation, turning into its fortis counterpart. As a result, regressive laryngeal assimilation takes place in vä/g-t/ (deriving vä[kt]) while in kö/p-d/e, the laryngeal assimilation is progressive (so we get kö[pt]e). As for lenisness, it is phonologically inactive. So on a phonological basis, we could argue for encoding the laryngeal contrast only with the feature [fortis]. The question then is which consideration should play a more important role in determining the phonological representation: should we decide based on phonetic forms or phonological behaviors? 
+

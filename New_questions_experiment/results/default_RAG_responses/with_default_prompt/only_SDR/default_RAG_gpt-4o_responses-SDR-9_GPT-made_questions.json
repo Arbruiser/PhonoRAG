@@ -1,0 +1,314 @@
+[
+  {
+    "question": "What is the primary focus of diachronic linguistics compared to synchronic linguistics?",
+    "category": "1",
+    "answers": [
+      "a) Analyzing the current structure of a language.",
+      "b) Studying the social implications of language use.",
+      "c) Examining the historical development and changes in a language.",
+      "d) Understanding the biological basis of language acquisition."
+    ],
+    "correct answer(s)": "c) Examining the historical development and changes in a language.",
+    "GPT's response": "c) Examining the historical development and changes in a language.",
+    "correct": true
+  },
+  {
+    "question": "Which phenomenon explains the insertion of a schwa before a glide followed by a rhotic in Southern British English?",
+    "category": "2",
+    "answers": [
+      "a) Breaking.",
+      "b) Nasalization.",
+      "c) Fronting.",
+      "d) Diphthongization."
+    ],
+    "correct answer(s)": "a) Breaking.",
+    "GPT's response": "a) Breaking.",
+    "correct": true
+  },
+  {
+    "question": "What is the \"carrot-rule\" in Southern Standard British English?",
+    "category": "3",
+    "answers": [
+      "a) A rule that prohibits the use of long vowels before any consonant.",
+      "b) A rule that allows schwa insertion before consonants.",
+      "c) A rule indicating that if R was not deleted, the vowel before it is short.",
+      "d) A rule that mandates the lengthening of all vowels before R."
+    ],
+    "correct answer(s)": "c) A rule indicating that if R was not deleted, the vowel before it is short.",
+    "GPT's response": "c) A rule indicating that if R was not deleted, the vowel before it is short.",
+    "correct": true
+  },
+  {
+    "question": "In the analysis of phonological change, what does the term \"compensatory lengthening\" refer to?",
+    "category": "4",
+    "answers": [
+      "a) The shortening of consonants in clusters.",
+      "b) The insertion of vowels between consonants.",
+      "c) The lengthening of vowels when a following consonant is deleted.",
+      "d) The reduction of vowel length in unstressed syllables."
+    ],
+    "correct answer(s)": "c) The lengthening of vowels when a following consonant is deleted.",
+    "GPT's response": "c) The lengthening of vowels when a following consonant is deleted.",
+    "correct": true
+  },
+  {
+    "question": "Which change in General American English is responsible for the merging of the vowels in \"first,\" \"nurse,\" and \"serf\"?",
+    "category": "5",
+    "answers": [
+      "a) Diphthongization.",
+      "b) Fronting.",
+      "c) First-Nurse Merger.",
+      "d) R-dropping."
+    ],
+    "correct answer(s)": "c) First-Nurse Merger.",
+    "GPT's response": "c) First-Nurse Merger.",
+    "correct": true
+  },
+  {
+    "question": "What is the result of the BATH-TRAP split in Southern Standard British English?",
+    "category": "6",
+    "answers": [
+      "a) A new set of consonant clusters.",
+      "b) The introduction of nasal vowels.",
+      "c) The differentiation of vowel quality in words like \"bath\" and \"trap.\"",
+      "d) The loss of all rhotic sounds."
+    ],
+    "correct answer(s)": "c) The differentiation of vowel quality in words like \"bath\" and \"trap.\"",
+    "GPT's response": "c) The differentiation of vowel quality in words like \"bath\" and \"trap.\"",
+    "correct": true
+  },
+  {
+    "question": "In what context does the intrusive r appear in Southern Standard British English?",
+    "category": "7",
+    "answers": [
+      "a) Before any consonant.",
+      "b) After long vowels and schwa before a vowel-initial word.",
+      "c) At the beginning of a sentence.",
+      "d) In the middle of a word."
+    ],
+    "correct answer(s)": "b) After long vowels and schwa before a vowel-initial word.",
+    "GPT's response": "b) After long vowels and schwa before a vowel-initial word.",
+    "correct": true
+  },
+  {
+    "question": "What is the primary difference between the vowels in \"story\" and \"porridge\" in conservative New England American English?",
+    "category": "8",
+    "answers": [
+      "a) \"Story\" retains a tense vowel, while \"porridge\" has a lax vowel.",
+      "b) Both words have identical vowels.",
+      "c) \"Story\" has a nasalized vowel, while \"porridge\" does not.",
+      "d) \"Porridge\" has a tense vowel, while \"story\" has a lax vowel."
+    ],
+    "correct answer(s)": "a) \"Story\" retains a tense vowel, while \"porridge\" has a lax vowel.",
+    "GPT's response": "a) \"Story\" retains a tense vowel, while \"porridge\" has a lax vowel.",
+    "correct": true
+  },
+  {
+    "question": "Why are the words \"mass\" and \"passive\" pronounced with different vowels in Southern Standard British English?",
+    "category": "9",
+    "answers": [
+      "a) Due to vowel harmony rules.",
+      "b) Because of the influence of BATH-lengthening in \"mass\" but not in \"passive.\"",
+      "c) As a result of nasalization.",
+      "d) Because of schwa insertion in \"passive.\""
+    ],
+    "correct answer(s)": "b) Because of the influence of BATH-lengthening in \"mass\" but not in \"passive.\"",
+    "GPT's response": "b) Because of the influence of BATH-lengthening in \"mass\" but not in \"passive.\"",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is a characteristic of Scottish Standard English regarding pre-r vowels?",
+    "category": "10",
+    "answers": [
+      "a) No change in vowel quality before r compared to other environments.",
+      "b) The introduction of nasal vowels before r.",
+      "c) The insertion of a schwa before r.",
+      "d) A complete loss of all pre-r vowels."
+    ],
+    "correct answer(s)": "a) No change in vowel quality before r compared to other environments.",
+    "GPT's response": "a) No change in vowel quality before r compared to other environments.",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of the rule known as \"smoothing\" in Southern Standard British English?",
+    "category": "11",
+    "answers": [
+      "a) The insertion of consonants in vowel clusters.",
+      "b) The lengthening of consonants after vowels.",
+      "c) The monophthongization of diphthongs before a following vowel.",
+      "d) The deletion of unstressed syllables."
+    ],
+    "correct answer(s)": "c) The monophthongization of diphthongs before a following vowel.",
+    "GPT's response": "c) The monophthongization of diphthongs before a following vowel.",
+    "correct": true
+  },
+  {
+    "question": "How does the presence of r affect vowel length in Southern Standard British English?",
+    "category": "12",
+    "answers": [
+      "a) It causes vowels to become nasalized.",
+      "b) It has no effect on vowel length.",
+      "c) Vowels are lengthened when r is deleted.",
+      "d) Vowels are shortened before r."
+    ],
+    "correct answer(s)": "c) Vowels are lengthened when r is deleted.",
+    "GPT's response": "c) Vowels are lengthened when r is deleted.",
+    "correct": true
+  },
+  {
+    "question": "What phonological process is responsible for the difference in pronunciation between \"clasp\" and \"asp\" in Southern Standard British English?",
+    "category": "13",
+    "answers": [
+      "a) Diphthongization.",
+      "b) BATH-lengthening.",
+      "c) Nasalization.",
+      "d) Schwa insertion."
+    ],
+    "correct answer(s)": "b) BATH-lengthening.",
+    "GPT's response": "b) BATH-lengthening.",
+    "correct": true
+  },
+  {
+    "question": "Which rule applies to the deletion of historical R in Southern Standard British English?",
+    "category": "14",
+    "answers": [
+      "a) Nasalization.",
+      "b) R-dropping.",
+      "c) Vowel harmony.",
+      "d) Consonant cluster reduction."
+    ],
+    "correct answer(s)": "b) R-dropping.",
+    "GPT's response": "b) R-dropping.",
+    "correct": true
+  },
+  {
+    "question": "What is the primary reason for the lack of diphthongs before r in Southern Standard British English?",
+    "category": "15",
+    "answers": [
+      "a) Nasalization of vowels.",
+      "b) Breaking and subsequent smoothing.",
+      "c) Vowel harmony.",
+      "d) Consonant insertion."
+    ],
+    "correct answer(s)": "b) Breaking and subsequent smoothing.",
+    "GPT's response": "b) Breaking and subsequent smoothing.",
+    "correct": true
+  },
+  {
+    "question": "What is the result of the MARRY MERRY MARY merger in General American English?",
+    "category": "16",
+    "answers": [
+      "a) The introduction of nasal vowels.",
+      "b) The merging of previously distinct vowels into a single vowel.",
+      "c) The loss of all rhotic sounds.",
+      "d) The lengthening of all vowels."
+    ],
+    "correct answer(s)": "b) The merging of previously distinct vowels into a single vowel.",
+    "GPT's response": "b) The merging of previously distinct vowels into a single vowel.",
+    "correct": true
+  },
+  {
+    "question": "Which feature distinguishes Northern British English from Southern Standard British English regarding diphthongs?",
+    "category": "17",
+    "answers": [
+      "a) The presence of nasal vowels.",
+      "b) The absence of mid vowel diphthongization.",
+      "c) The insertion of schwa in all diphthongs.",
+      "d) The complete loss of all diphthongs."
+    ],
+    "correct answer(s)": "b) The absence of mid vowel diphthongization.",
+    "GPT's response": "b) The absence of mid vowel diphthongization.",
+    "correct": true
+  },
+  {
+    "question": "What is the historical origin of the vowel in \"spa\" in General American English?",
+    "category": "18",
+    "answers": [
+      "a) A nasalized vowel.",
+      "b) A diphthong.",
+      "c) A tense vowel.",
+      "d) A schwa."
+    ],
+    "correct answer(s)": "c) A tense vowel.",
+    "GPT's response": "The historical origin of the vowel in \"spa\" in General American English is a tense vowel.",
+    "correct": false
+  },
+  {
+    "question": "Which of the following words exemplifies the result of pre-R broadening in Southern Standard British English?",
+    "category": "20",
+    "answers": [
+      "a) Pit.",
+      "b) Burn.",
+      "c) Cat.",
+      "d) Spit."
+    ],
+    "correct answer(s)": "b) Burn.",
+    "GPT's response": "The word that exemplifies the result of pre-R broadening in Southern Standard British English is \"Burn.\"",
+    "correct": false
+  },
+  {
+    "question": "What is a significant consequence of the FOOT-STRUT split in certain English accents?",
+    "category": "22",
+    "answers": [
+      "a) The introduction of nasal vowels.",
+      "b) The loss of all rhotic sounds.",
+      "c) The creation of a phonemic distinction between \u028a and \u028c.",
+      "d) The lengthening of all vowels."
+    ],
+    "correct answer(s)": "c) The creation of a phonemic distinction between \u028a and \u028c.",
+    "GPT's response": "c) The creation of a phonemic distinction between \u028a and \u028c.",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of the \"anti-syncopation\" constraint in Southern Standard British English?",
+    "category": "23",
+    "answers": [
+      "a) The deletion of vowels in unstressed syllables.",
+      "b) The nasalization of consonants.",
+      "c) The insertion of schwa between glides and rhotics.",
+      "d) The lengthening of consonants in clusters."
+    ],
+    "correct answer(s)": "c) The insertion of schwa between glides and rhotics.",
+    "GPT's response": "c) The insertion of schwa between glides and rhotics.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words illustrates the result of the BATH-TRAP split in Southern Standard British English?",
+    "category": "26",
+    "answers": [
+      "a) Class.",
+      "b) Cat.",
+      "c) Spit.",
+      "d) Pit."
+    ],
+    "correct answer(s)": "a) Class.",
+    "GPT's response": "a) Class.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is a result of the first nurse merger in General American English?",
+    "category": "28",
+    "answers": [
+      "a) The introduction of nasal vowels.",
+      "b) The lengthening of all vowels.",
+      "c) The merging of previously distinct vowels into schwa before coda R.",
+      "d) The loss of all rhotic sounds."
+    ],
+    "correct answer(s)": "c) The merging of previously distinct vowels into schwa before coda R.",
+    "GPT's response": "c) The merging of previously distinct vowels into schwa before coda R.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words demonstrates the effect of pre-R broadening in General American English?",
+    "category": "30",
+    "answers": [
+      "a) Cat.",
+      "b) Burn.",
+      "c) Spit.",
+      "d) Pit."
+    ],
+    "correct answer(s)": "b) Burn.",
+    "GPT's response": "b) Burn.",
+    "correct": true
+  }
+]

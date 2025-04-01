@@ -1,0 +1,69 @@
+
+7.7.1. The components of intonation 
+In speech the height of a given syllable is called pitch. In phonology the linguistically relevant (= “phonemic”) pitch changes are examined: this is what we call intonation. In every tone-unit, the last stress, the tonic, is accompanied by pitch change, i.e. the voice falls or rises on that syllable. The pitch-change attached to a tonic syllable is a tone. 
+ 
+The English tones 
+English has four phonologically distinct tones. One is falling, three are rising. 
+
+ 
+Intonation can be represented with lines actually depicting the rising or falling of the voice. The tone (= the pitch change on the tonic syllable) is shown with a thick line. 
+Example 1. Falling tone. 
+ 	 	 	high 	—————————————————  	 	 	mid 
+ 	 	 	low 	————————————————— 
+ 	 	 	 	 We de ′cided to  ′come  ′back in Oc  tober.  	 	 	 	{pre-h} {.......h......e......a......d........} {tn}{tl} 
+The following points deserve comment: 
+– The pre-head (We de-), containing only unstressed syllables, is spoken at a low pitch.  
+– The head (-cided to come back in Oc-) begins with a high pitch, and gradually becomes lower as we proceed towards the tonic (“downdrift”).16 
+– The tonic syllable (-to-) has the only radical pitch change: the tone starts here. The height of the voice suddenly changes on this syllable. (Our example has a falling tone). 
+– The tail (-ber) adds nothing to the intonation, it simply continues where the tonic has pushed it (in this case at a low level). 
+ 
+Example 2. High-rising tone. The rise here is realized on one syllable (car), as there is no tail. There is no pre-head either. The head starts high, the pitch descends gradually as far as the end of the head; there the pitch suddenly breaks its descent, and rises from low to high on the tonic syllable: 
+   high —————————————    mid    low ————————————— 
+ 	 	 	 	   ′Did  you  ′park  the     car? 
+ The falling or rising nature of the intonation of a tone-unit is determined by the tonic. If the tonic has a falling tone, we call the whole intonation falling, no matter where it began or what happened in the pre-head or head. If the tonic is rising, we call the whole intonation rising, though the sentence may actually end on a lower pitch than where it began. 
+ 
+Downdrift 
+The gradual lowering of the pitch within the tone unit’s head is called downdrift.17 Downdrift itself does not count as falling intonation. Compare the examples again: the downdrifting heads are highlighted with parallel lines: 
+ 	 	 	 	————————————————— 
+FALLING INTON. 
+ 	 	 	 	————————————————— 
+ 	 	 	 	 We de ′cided to  ′come  ′back in Oc  tober. 
+ 
+ 	 	 	 	————————————— 
+HIGH-RISING INTON. 
+ 	 	 	 	————————————— 
+ 	 	 	 	   ′Did  you  ′park  the     car? 
+Both sentences have downdrift in their heads. However, the first sentence has falling intonation, the second rising, because their tonics are falling and rising respectively. 
+ 
+ 
+The intonation of the tail  
+If there is a tail, the tone spreads out over the tail: the syllables in the tail continue the movement set by the tonic.  
+ 	 	 	Falling tone:  	——————— 	 	——————— 
+
+ 
+ 	 	 	 	 	 
+ 	 	 	 	 	 
+ 
+ 	 	 	High-rising tone: 
+ 
+ 	 	 	 	 	 
+ 	 	 	 	 	 
+——————— 
+—Usually. 	 
+——————— 
+——————— 
+—Usually? 	 
+ 
+ 
+ 
+ 
+ 
+——————— 
+  Using  it. 
+——————— 
+——————— 
+   Using  it? 
+ 
+We see that when the tone is falling, the syllables in the tail continue low. When the tone is rising, the syllables in the tail continue to rise. The tail is thus not an independent factor in intonation. 
+ 
+ 

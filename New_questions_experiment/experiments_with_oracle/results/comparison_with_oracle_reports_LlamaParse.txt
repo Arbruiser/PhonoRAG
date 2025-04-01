@@ -1,0 +1,45 @@
+run number X
+retriever: <llama_index.core.indices.vector_store.retrievers.retriever.VectorIndexRetriever object at 0x00000198D06A7350>
+top_k = 2
+similarity cutoff: 70
+
+Results for 2-settext.pdf:
+from correct doc as chunk number 1: 0/51
+from correct doc as chunk number 2: 0/51
+from correct chunk as chunk number 1: 16/51
+from correct chunk as chunk number 2: 10/51
+
+Results for 3-settext.txt:
+from correct doc as chunk number 1: 0/67
+from correct doc as chunk number 2: 0/67
+from correct chunk as chunk number 1: 23/67
+from correct chunk as chunk number 2: 8/67
+
+Results for 4-settext.pdf:
+from correct doc as chunk number 1: 0/60
+from correct doc as chunk number 2: 0/60
+from correct chunk as chunk number 1: 11/60
+from correct chunk as chunk number 2: 6/60
+
+Results for 5-settext.pdf:
+from correct doc as chunk number 1: 0/64
+from correct doc as chunk number 2: 0/64
+from correct chunk as chunk number 1: 23/64
+from correct chunk as chunk number 2: 11/64
+
+Results for 9-settext.pdf:
+from correct doc as chunk number 1: 0/58
+from correct doc as chunk number 2: 0/58
+from correct chunk as chunk number 1: 28/58
+from correct chunk as chunk number 2: 9/58
+
+Overall Results:
+Overall from correct doc as chunk number 1: 0/300
+Overall from correct doc as chunk number 2: 0/300
+Overall from correct chunk as chunk number 1: 101/300
+Overall from correct chunk as chunk number 2: 44/300
+
+
+--------------------------
+
+

@@ -1,0 +1,83 @@
+
+2 Parts of a diphthong
+One argument for the integrity of the sequence of a vowel followed by a glide is that not any glide may follow any vowel, ie the two parts of a diphthong are phonotactically related. This may easily be verified if we take another look at the diphthongs of English, shown in (9).
+
+(9)
+
+	j		w
+i	ij fleece	
+e	ej face	
+a	aj price	aw mouth
+o	oj choice	
+u			uw goose
+ə			əw goat
+The distribution of the two glides after the short vowels is almost complementary, there is one exception: both glides occur with a as their first element. Phonetically these two low vowels are different, the one in aj is more back (hence Lindsey’s symbol ɑj), the other one in aw is more front. We believe that such detail need not be indicated in phonological transcription, which is not concerned with the precise phonetic content of its symbols.»
+Note, for example, that the symbol r is widely used for sounds that are very different from an alveolar trill.
+
+However, very similar charts can be produced about consonants, yet they are not used for arguing for the integrity of these clusters. Consider the facts in (10). (The clusters tj and dj have almost become obsolete in British English, yielding ʧ and ʤ, respectively: tube ʧuwb, during ʤoːriŋ, cf Cruttenden 2014: 83.)
+
+
+
+(10)
+	j		w
+p	pj pure	
+b	bj beauty	
+f	fj few	
+t			tw twin
+d			dw dwell
+θ			θw thwack
+One could argue that these consonants also exist independently of each other in English, so that we have contrasting triplets like pure pjoː, poor poː, and your joː or twin, tin, and win. But the same is true of the two parts of a diphthong: meet mijt vs mint, mate mejt vs melt. So why should diphthongs be treated differently from consonant clusters?
+
+In addition, recent changes in British English are leading towards a system where the gaps of the diphthong space are gradually filled in. A very important development in this direction is the vocalization of nonprevocalic l. As a result of this change, the glide w may occur after any vowel, as (11) shows.
+
+
+(11)
+
+	j			w
+i	ij fleece		iw bill
+e	ej face			ew bell
+a	aj price		aw mouth
+o	oj choice		ow ball
+u				uw goose
+ə				əw goat
+In such a system either one must recognize three further “diphthongs”, iw ew ow, or else mouth cannot be seen as a diphthong. An even more recent development in British English is the fronting of the glides of goose and goat. This change results in these lexical sets having vowel+glide sequences that could be transcribed as uj and əj, respectively (Altendorf & Watt 2004: 191). But, as a result of L vocalization, we are not left without uw and əw as the examples in (12) show.
+
+
+(12)
+	j			w
+i	ij fleece		iw bill
+e	ej face			ew bell
+a	aj price		aw mouth
+o	oj choice		ow ball
+u	uj goose		uw bull
+ə	əj goat			əw dull
+Crucially, however, we do not need a fully saturated vowel+glide chart, like the one in (12), to argue for treating the two parts of a diphthong as separate entities. That is, vowel+glide sequences are not necessarily diphthongs even in accents that only have those listed in (9).
+
+
+
+3 Gaps in glide distribution?
+If we examine the distribution of nonnasal sonorants in English, ie l r j w h, we see that they typically occur in prevocalic environments. In fact, in L vocalizing accents, all these consonants occur exclusively prevocalically. They are, however largely insensitive to the environment that precedes them. This is shown in (13). Note that h occurs before the consonant j (and for some before w too), but only if a stressed vowel follows (eg huge hjúwʤ, what (h)wót). On the other hand, l (and for some r) may also be followed by j, but this time only if an unstressed vowel follows (eg value váljuw, virulent vír(j)ələnt).
+
+
+
+(13)
+
+	l	r	j	w	h
+#__V	lay	ray	yet	wit	hit
+C__V	clay	grey	cute	quit	?
+V__V	allay	array	beyond	away	ahead
+
+If we look at the vowels these consonants occur after in more detail, we find a further difference between them. The distibutions diverge after stressed and after unstressed vowels. This is shown in (14).
+
+(14)
+	l	r	j	w	h
+V__V́	alláy	arráy	beyónd	awáy	ahéad
+V́__V	álly	árrow		(Déwi)	(Drógheda)
+
+We see that while l and r freely occur before unstressed vowels as well as stressed ones, the occurrence of j, w, and h is limited. All three marginally occur before an unstressed vowel, but with various restrictions: typically the preceding vowel must be long or unstressed (eg Darwin dáːwin, Malawi məláːwij, narwhal náːwəl, Ottawa ótəwə; yahoo jáːhuw, Monahan mónəhən; sawyer sóːjə). The vowel before these three consonants, however, cannot be short and stressed (cf Polgárdi 2015 ), we have found only some Celtic names that go against this restriction: Dewi déwij, Drogheda dróhədə, Mulcahy məlkáhij.
+
+Instead of asking why j, w, and h may not occur after a short vowel, let us ask — like our smart students — if this is really the case. We contend that this impression is a result of analysing vowel+glide sequences as diphthongs. In fact, if we take them to be what they are, vowel+glide sequences, then the gap in the distribution of glides disappears. In (15) we list a small subset of the many words that contain a short vowel followed by j or w.
+
+(15)
+neon níjon, crayon kréjən, lion lájən, royal rójəl, vowel váwəl, Noah nə́wə, fuel fjúwəl
+In fact, if we analyse diphthongs in this way, glides will not be impossible word finally or preconsonantally any more. Words like eye aj or toe təw now end in a glide, while others like ice ajs or toad təwd contain preconsonantal glides.

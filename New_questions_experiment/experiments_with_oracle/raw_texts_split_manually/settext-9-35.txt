@@ -1,0 +1,28 @@
+
+5.3.3.2 	Diphthongs before R 
+We have arrived at what is sometimes known as breaking of vowels before R. This happens when a historical diphthong (or a tense vowel in other words) was followed by r (see (43)). (43) Breaking of diphthongs before r 
+ 
+If you consider the data above, you will see that diphthongs could be followed by r in the past (this is not generally true for modern BrE). The data is brackets show sporadic data (the diphthong oj is only found before R in two words: Moir, and its alternative form Moira). Let’s see in detail what happened (see (44)). 
+(44) Schwa-insertion before coda R 
+ 
+The first step was the insertion of ə between the glides (j and w) and coda r (see (44)), shown in red. Why was schwa inserted? It seems it had something to do with sonority. The glides are more sonorous than r (see further examples in the chapter on diphthongs in this course). There appeared a constraint that prevented the glides from being followed by r. This appears to have been the opposite of syncopation. This ‘anti-syncopation’ effect was responsible for a profound change that was now set off. Before we continue, observe what happened before onset r. Here schwa was optionally inserted (see 
+(45)). 
+(45) Optional schwa insertion before onset r 
+ 
+The picture is slightly more complicated because schwa was obligatory before diphthongs ɛj and ow (see (46)). 
+(46) Obligatory insertion of schwa before onset r 
+ 
+We will see how this restriction will play out in what lay in the future for these sequences. Note also that sometime in the 20th century another change affected the diphthongs ow and uw when these were not followed by r (see (47)). 
+(47) Fronting of the diphthongs ow and uw when not followed by r 
+ 
+After schwa insertion a new constraint came into existence in Southern BrE: non-syllabic r could only be pronounced before vowels and syllabic consonants (as in red, carrot, barrel, barren, terrorist; for details see chapter on syllables). Before consonants and word-finally, non-syllabic r was lost (see (10), repeated as (48) below; note that this is historical R, which was r when it was still pronounced). This is how coda R was lost in Southern BrE. 
+(48) R-dropping r R Ø  / __#, __C 
+R-dropping was followed by smoothing (= intervocalic glide loss and lengthening of vowel). Let’s see how this played out over the system (see (49)). (49) Smoothing after R-dropping 
+ 
+In current Southern BrE (CuBE) smoothing is only obligatory for ɛjə and owə, which are always monophthongs (ɛː and oː). For the rest of the vowels, all three possible pronunciations exist side by side, they are in free variation. It has to be admitted though that the monophthongised pronunciations are becoming the norm (although we have sound recordings to prove that monophthongal pronunciations were certainly around even more than 50 years ago). 
+ Let’s see what happened before onset R (recall that onset R was not lost in Southern BrE). Before onset R schwa insertion was only obligatory after ɛj and ow. This is borne out by the data (see 
+(50)). 
+(50) Smoothing before onset R 
+ 
+As you can see, where schwa insertion was optional, both pronunciations exist side by side in CuBE. As expected, where schwa insertion was obligatory, only the smoothed version exist (Charon, oral). One offshoot of this is that there are no historical ɛjr and owr/əwr sequences in CuBE (*ɛjr, *owr/*əwr). 
+ Let’s see if smoothing is still an active process in CuBE. We still have data that show that smoothing is affecting even those words that have never contained an R. The prerequisite for smoothing is schwa (of whatever origin), see (51). 

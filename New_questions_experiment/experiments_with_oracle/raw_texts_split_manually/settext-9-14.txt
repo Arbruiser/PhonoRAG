@@ -1,0 +1,19 @@
+
+4 	Major isoglosses in the UK 
+4.1 Introduction 
+Let us now have a look at a few isoglosses that criss-cross the United Kingdom (shown here with England, Scotland and Whales). We will have 6 of these characteristics to discuss briefly. Before we go there, it is worth asking what words we are using as our point of departure. Maps that show isoglosses always start with the comparison of cognates (= words that were ‘born together’ or found together in a now extinct language; go back to our discussion if you don’t understand this), not words that are viewed to have entered the language separately (i.e., independently of a common mother language). So, maps like the ones below will be based on words like bath and sun (two words that have been in the language since Germanic times), course (a word that entered English from French at least 500 years ago, before it branched off into GA or SSBE), but not banana, basil, sushi, sachet, gateau, jalapeno, quesadilla, chinchilla, chihuahua or the like that are viewed as relatively recent borrowings that have entered GA and SSBE separately on separate occasions (more on this below). This is crucial: words referred to above like bath, sun and course did not enter GA and SSBE separately on separate occasions, these words were present together (= they are cognates) in an earlier mother language from which both GA and SSBE develop.  
+      Note the difference between GA and SSBE basil: bɛjzəl in the former, bazəl in the latter. The differences in pronunciation cannot be explained by assuming that these words come from a common source (= a mother language). There is no way for accounting for the differences between the two vowels using the phonological rules we are familiar with from historical phonological analysis. We have to conclude that basil entered GA and SSBE separately (= the word didn’t exist in the mother language from which both GA and SSBE developed), and as such cannot be used to establish isoglosses. If, however, an accent of GA (let us call it GA2 spoken in the Rockies) ultimately came to develop a rule that changed every ɛj to aj, we would say that basil could then be used for an isogloss differentiating between GA1 and GA2. Why? Because both GA1 basil (with ɛj) and GA2 basil (with aj) come from a common mother language/dialect (GA). As you can see, we have just applied the same historical principle to a hypothetical example. It seems that historical analysis and dialectology are the heads and tails of the same linguistic coin. 
+4.2 Major variables used in the classification of English accents in the UK 
+• R-dropping 
+• H-dropping 
+• FOOT-STRUT split 
+• NG-coalescence (phoneme-hood of ŋ) 
+• FACE-GOAT diphtongisation 
+• BATH-TRAP split 
+You must be aware that the isoglosses shown below will also depend on whether a speaker comes from a rural or an urban area, on their family background and the education they received. In reality, the picture is much more complicated. Still the isoglosses give us a rough-hewn picture of some of the differences that characterise some areas as opposed to others. 
+4.2.1 	R-dropping 
+R-dropping refers to a rule in the history of some English accents which deleted word-final and preconsonantal Rs (e.g., farm, bore with no R today in some accents in the UK). 
+(10) R-dropping r R Ø  / __#, __C 
+The isogloss for this change gives us (11) below. 
+(11) R-dropping in the UK 
+ 

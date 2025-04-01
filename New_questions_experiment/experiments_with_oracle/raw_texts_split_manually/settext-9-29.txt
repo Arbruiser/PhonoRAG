@@ -1,0 +1,14 @@
+
+(32) Vocalic contrasts before r 
+ 
+GA also has contrasting tense and lax vowel (peat i vs pit ɪ). The distribution of a is different to that in 
+SSE: the vowel can’t be found word-finally (it patterns with the lax vowels this way: *spa), but ɑ can (spa). Words can end in an unstressed schwa (China), but a stressed schwa word-finally is impossible (*stə) , which is a historical accident. Let us see in detail what happened before R. Most vowels have become lax, see (33). 
+(33) Laxing in GA 
+ 
+Let’s analyse what happened to the tense vowels before R: note that clear and clearance have the same lax vowel (as compared to clean), care and Charon have the same lax vowel (compare it with the tense vowel in cake), so do cure and curious (compare it with cute), ore and oral (compare it with ode). The tense vowels have become lax before R. 
+ As far as the lax vowels are concerned, a historical change that affected them is known as the FIRST-NURSE-MERGER, called so because the four historically lax vowels (ɪ, ɛ, ʊ, ə) have merged into ə before coda R (see (34)). As a matter of fact, the change affecting ə in burn was vacuous (schwa remained a schwa). 
+(34) FIRST-NURSE-MERGER 
+ 
+This is a quality change that sets apart GA (and SSBE) from SSE. In SSE the sequence first nurse merger (or our spirt burn serf) still has the original short vowels. Observe further that vowels merge differently before coda and onset R (see (35a)). 
+(35a) Merging of vowels before R 
+ 

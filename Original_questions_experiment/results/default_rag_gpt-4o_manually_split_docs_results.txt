@@ -1,0 +1,11 @@
+
+itembank-2:		Correct answers 91 / total questions 129 * 100 = 70.54%
+itembank-3-4:		Correct answers 22 / total questions 39 * 100 = 56.41%
+itembank-5-6:		Correct answers 79 / total questions 106 * 100 = 74.53%
+itembank-9a:		Correct answers 24 / total questions 46 * 100 = 52.17%
+itembank-9b:		Correct answers 47 / total questions 75 * 100 = 62.67%
+
+Overall correct answers 263 / total questions 395 * 100 = 66.58%
+
+------------------------------------------------------------------------
+

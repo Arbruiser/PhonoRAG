@@ -1,0 +1,21 @@
+﻿7.1. WHAT IS PROSODY? 
+Prosody in linguistics means the study of stress, rhythm and intonation in units larger than the word. The elements of prosody are also called suprasegmentals because they appear “above” the segments. 
+    Stress means pronouncing the syllable louder than others. Intonation, on the other hand, means the “melody” – falling or rising – with which the sentence is spoken. Observe how we can change one without changing the other: 
+
+(1) 
+Main stress on last word 
+(2) 
+Main stress earlier 
+(a) Falling intonation 
+(1a) 
+ She ′spent a ′year in the  forest. 
+(2a) 
+She ′spent a SYEAR in the forest. 
+(b) Rising intonation 
+(1b) 
+′Did she ′spend a ′year in the ′forest? 
+(2b) 
+′Did she ′spend a ′YEAR in the forest? 
+All combinations exist, proving that stress and intonation are independent variables, both having distinctive (contrastive, “phonemic”) value.  
+      Even though italics and punctuation may represent some prosodic features, it often happens that the same written sentence can be spoken with differing stress or intonation patterns. Ordinary spelling can only express some features of prosody, e.g. 
+She spent a year in the forest!  (emphatic stress on  year) 

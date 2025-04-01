@@ -1,0 +1,20 @@
+
+7.2. THE END-WEIGHT PRINCIPLE 
+It is a general rule of English that if there is a sequence of equal stresses, the last must become the strongest. The prosodic “weight” of an utterance must be at the end: this is the EndWeight Principle. Observe the examples: 
+	new bóok  	 	 	Amanda Cóllinder  	 	sit dówn 
+	considerable expénses 	 	utterly destrúctive  	 	he criticized éverything 
+Unstressable function words (printed here in italics) do not count: 
+right in frónt of you – John dránk some – what I lóok for – Mary couldn’t dó it for me 
+Longer stretches of speech also obey the End-Weight Principle. The last (and therefore strongest!) stress is called the tonic. In the following sentence the tonic is underlined: 
+The children managed to carry the suitcases as far as the edge of the róundabout. 
+The End-Weight Principle is satisfied through a Tonic Assignment Rule: 
+Tonic Assignment Rule 
+	1  1 → 2  1 	= of several primary stresses, downgrade each to secondary, 
+except the last, which will be the tonic. 
+Example:    1  	1	1        1 	  → 	  2	2	2        1      Rachel was happy to cycle home 	Rachel was happy to cycle home 
+The same mechanism is at work in many compounds: 
+    1    1      →   2      1   1      1      1 →   2   2 1 
+photo montage photomontage second  world  war     Second World War 
+It follows that the “secondariness” of secondary stress is predictable: a secondary stress is actually a stress which is followed by another stress and has therefore been downgraded. Secondary stress is thus an “allophone” of primary stress. Lexically, we may represent words like reformation, satisfactory, sardine with two equal “primary” stresses: 
+     //ˈrefəˈmeɪʃən// //ˈsætɪsˈfæktəri// //ˈsɑ:ˈdi:n// because the Tonic Assignment Rule will turn the first stress into secondary anyway: /ˌrefəˈmeɪʃən/  /ˌsætɪsˈfæktəri/ /ˌsɑ:ˈdi:n/ 
+We conclude that primary and secondary stress in an allophonic relationship (complementary distribution), and can be seen as two realizations of the same thing: stress (or “major stress”) 

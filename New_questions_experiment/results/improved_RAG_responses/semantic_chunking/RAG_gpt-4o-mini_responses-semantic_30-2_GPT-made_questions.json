@@ -1,0 +1,652 @@
+[
+  {
+    "question": "What is the primary laryngeal feature that distinguishes English word-initial plosives?",
+    "category": "1",
+    "answers": [
+      "a) Voicing",
+      "b) Aspiration",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Aspiration",
+    "GPT's response": "b) Aspiration",
+    "correct": true
+  },
+  {
+    "question": "In Hungarian, what is the phonetic realization of the /b/ in the word \"b\u00e1l\"?",
+    "category": "2",
+    "answers": [
+      "a) Voiceless aspirated",
+      "b) Voiceless unaspirated",
+      "c) Voiced",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "c) Voiced",
+    "GPT's response": "c) Voiced",
+    "correct": true
+  },
+  {
+    "question": "What is the VOT value typically associated with voiceless aspirated plosives in English?",
+    "category": "3",
+    "answers": [
+      "a) Negative VOT",
+      "b) Zero VOT",
+      "c) Positive VOT",
+      "d) Neutral VOT"
+    ],
+    "correct answer(s)": "c) Positive VOT",
+    "GPT's response": "c) Positive VOT",
+    "correct": true
+  },
+  {
+    "question": "Which of the following languages is classified as a \"true voicing\" language?",
+    "category": "4",
+    "answers": [
+      "a) English",
+      "b) Hungarian",
+      "c) Mandarin Chinese",
+      "d) Icelandic"
+    ],
+    "correct answer(s)": "b) Hungarian",
+    "GPT's response": "b) Hungarian",
+    "correct": true
+  },
+  {
+    "question": "In English, what phonetic cue is used to maintain the laryngeal contrast in word-final position?",
+    "category": "5",
+    "answers": [
+      "a) Prefortis clipping",
+      "b) Nasalization",
+      "c) Palatalization",
+      "d) Vowel raising"
+    ],
+    "correct answer(s)": "a) Prefortis clipping",
+    "GPT's response": "a) Prefortis clipping",
+    "correct": true
+  },
+  {
+    "question": "What is the term used to describe the phenomenon where a vowel is shorter before a voiceless obstruent?",
+    "category": "6",
+    "answers": [
+      "a) Aspiration",
+      "b) Prefortis clipping",
+      "c) Nasalization",
+      "d) Vowel harmony"
+    ],
+    "correct answer(s)": "b) Prefortis clipping",
+    "GPT's response": "b) Prefortis clipping",
+    "correct": true
+  },
+  {
+    "question": "In the context of English phonology, what does the term \"fortis\" refer to?",
+    "category": "7",
+    "answers": [
+      "a) Voiced obstruents",
+      "b) Voiceless obstruents with aspiration",
+      "c) Nasalized vowels",
+      "d) Palatalized consonants"
+    ],
+    "correct answer(s)": "b) Voiceless obstruents with aspiration",
+    "GPT's response": "b) Voiceless obstruents with aspiration",
+    "correct": true
+  },
+  {
+    "question": "What is the primary laryngeal feature used to distinguish obstruents in Hungarian?",
+    "category": "8",
+    "answers": [
+      "a) Aspiration",
+      "b) Voicing",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Voicing",
+    "GPT's response": "b) Voicing",
+    "correct": true
+  },
+  {
+    "question": "In English, what happens to the sonorant consonant following a voiceless aspirated plosive in a word like \"play\"?",
+    "category": "9",
+    "answers": [
+      "a) It becomes nasalized",
+      "b) It becomes palatalized",
+      "c) It becomes devoiced",
+      "d) It becomes voiced"
+    ],
+    "correct answer(s)": "c) It becomes devoiced",
+    "GPT's response": "c) It becomes devoiced",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the English word \"Paul\" in terms of aspiration?",
+    "category": "10",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "c) Voiceless aspirated",
+    "GPT's response": "c) Voiceless aspirated",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of a language that contrasts zero VOT and positive VOT?",
+    "category": "11",
+    "answers": [
+      "a) Hungarian",
+      "b) English",
+      "c) Italian",
+      "d) French"
+    ],
+    "correct answer(s)": "b) English",
+    "GPT's response": "a) Hungarian",
+    "correct": false
+  },
+  {
+    "question": "In the word \"discovery,\" why is the /k/ unaspirated in English?",
+    "category": "12",
+    "answers": [
+      "a) It is followed by a vowel",
+      "b) It is at the beginning of a stressed syllable",
+      "c) It is not word- or syllable-initial",
+      "d) It is followed by a nasal consonant"
+    ],
+    "correct answer(s)": "c) It is not word- or syllable-initial",
+    "GPT's response": "c) It is not word- or syllable-initial",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological process called when a voiceless obstruent becomes voiced due to a following voiced obstruent in Hungarian?",
+    "category": "13",
+    "answers": [
+      "a) Aspiration",
+      "b) Regressive voice assimilation",
+      "c) Palatalization",
+      "d) Nasalization"
+    ],
+    "correct answer(s)": "b) Regressive voice assimilation",
+    "GPT's response": "b) Regressive voice assimilation",
+    "correct": true
+  },
+  {
+    "question": "In English, what is the underlying laryngeal property of the plural morpheme -s?",
+    "category": "14",
+    "answers": [
+      "a) Voiceless",
+      "b) Lenis",
+      "c) Fortis",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Lenis",
+    "GPT's response": "b) Lenis",
+    "correct": true
+  },
+  {
+    "question": "What is the distinctive feature used to represent the laryngeal contrast in English nontraditional analyses?",
+    "category": "15",
+    "answers": [
+      "a) [fortis]",
+      "b) [voice]",
+      "c) [nasal]",
+      "d) [palatal]"
+    ],
+    "correct answer(s)": "a) [fortis]",
+    "GPT's response": "a) [fortis]",
+    "correct": true
+  },
+  {
+    "question": "In Swedish, what phonetic feature is used to distinguish word-initial plosives?",
+    "category": "16",
+    "answers": [
+      "a) Nasalization",
+      "b) Aspiration",
+      "c) Palatalization",
+      "d) Voicing"
+    ],
+    "correct answer(s)": "b) Aspiration",
+    "GPT's response": "d) Voicing",
+    "correct": false
+  },
+  {
+    "question": "What is the phonological behavior of obstruents in Swedish that supports the use of the feature [fortis]?",
+    "category": "17",
+    "answers": [
+      "a) Voicing assimilation",
+      "b) Fortis obstruents trigger assimilation",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Fortis obstruents trigger assimilation",
+    "GPT's response": "b) Fortis obstruents trigger assimilation",
+    "correct": true
+  },
+  {
+    "question": "In English, what happens to the morpheme -ed when it follows a fortis obstruent?",
+    "category": "18",
+    "answers": [
+      "a) It becomes nasalized",
+      "b) It becomes voiced",
+      "c) It becomes fortis",
+      "d) It becomes palatalized"
+    ],
+    "correct answer(s)": "c) It becomes fortis",
+    "GPT's response": "c) It becomes fortis",
+    "correct": true
+  },
+  {
+    "question": "What is the term used to describe the pronunciation of a glottal stop before a voiceless plosive in English?",
+    "category": "19",
+    "answers": [
+      "a) Aspiration",
+      "b) Preglottalization",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Preglottalization",
+    "GPT's response": "b) Preglottalization",
+    "correct": true
+  },
+  {
+    "question": "In Hungarian, what is the result of regressive voice assimilation in the word \"disgr\u00e1fia\"?",
+    "category": "20",
+    "answers": [
+      "a) The /g/ becomes voiceless",
+      "b) The /s/ becomes aspirated",
+      "c) The /s/ becomes voiced",
+      "d) The /d/ becomes nasalized"
+    ],
+    "correct answer(s)": "c) The /s/ becomes voiced",
+    "GPT's response": "c) The /s/ becomes voiced",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the English word \"ball\" in terms of voicing?",
+    "category": "21",
+    "answers": [
+      "a) Voiceless aspirated",
+      "b) Partially voiced or totally voiceless",
+      "c) Voiced",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Partially voiced or totally voiceless",
+    "GPT's response": "b) Partially voiced or totally voiceless",
+    "correct": true
+  },
+  {
+    "question": "In English, what is the effect of a fortis obstruent on a following sonorant consonant?",
+    "category": "22",
+    "answers": [
+      "a) It becomes nasalized",
+      "b) It becomes palatalized",
+      "c) It becomes devoiced",
+      "d) It becomes voiced"
+    ],
+    "correct answer(s)": "c) It becomes devoiced",
+    "GPT's response": "c) It becomes devoiced",
+    "correct": true
+  },
+  {
+    "question": "What is the primary laryngeal feature used to distinguish obstruents in English traditional analyses?",
+    "category": "23",
+    "answers": [
+      "a) [voice]",
+      "b) [fortis]",
+      "c) [nasal]",
+      "d) [palatal]"
+    ],
+    "correct answer(s)": "a) [voice]",
+    "GPT's response": "a) [voice]",
+    "correct": true
+  },
+  {
+    "question": "In the context of English phonology, what does the term \"lenis\" refer to?",
+    "category": "24",
+    "answers": [
+      "a) Voiceless obstruents with aspiration",
+      "b) Voiced obstruents or those without aspiration",
+      "c) Nasalized vowels",
+      "d) Palatalized consonants"
+    ],
+    "correct answer(s)": "b) Voiced obstruents or those without aspiration",
+    "GPT's response": "b) Voiced obstruents or those without aspiration",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the Hungarian word \"P\u00e1l\" in terms of voicing?",
+    "category": "25",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Voiceless unaspirated",
+    "GPT's response": "a) Voiced",
+    "correct": false
+  },
+  {
+    "question": "In English, what is the phonetic cue used to distinguish \"bat\" from \"bad\" in final position?",
+    "category": "26",
+    "answers": [
+      "a) Aspiration",
+      "b) Prefortis clipping",
+      "c) Nasalization",
+      "d) Vowel raising"
+    ],
+    "correct answer(s)": "b) Prefortis clipping",
+    "GPT's response": "b) Prefortis clipping",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological process called when a lenis obstruent becomes fortis due to a preceding fortis obstruent in English?",
+    "category": "27",
+    "answers": [
+      "a) Regressive voice assimilation",
+      "b) Progressive laryngeal assimilation",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Progressive laryngeal assimilation",
+    "GPT's response": "b) Progressive laryngeal assimilation",
+    "correct": true
+  },
+  {
+    "question": "In Swedish, what is the phonological behavior of lenis obstruents when they meet fortis obstruents?",
+    "category": "28",
+    "answers": [
+      "a) They become nasalized",
+      "b) They become palatalized",
+      "c) They undergo assimilation to become fortis",
+      "d) They remain unchanged"
+    ],
+    "correct answer(s)": "c) They undergo assimilation to become fortis",
+    "GPT's response": "c) They undergo assimilation to become fortis",
+    "correct": true
+  },
+  {
+    "question": "In English, what is the effect of a fortis obstruent on the plural morpheme -s?",
+    "category": "30",
+    "answers": [
+      "a) It becomes nasalized",
+      "b) It becomes voiced",
+      "c) It becomes fortis",
+      "d) It becomes palatalized"
+    ],
+    "correct answer(s)": "c) It becomes fortis",
+    "GPT's response": "c) It becomes fortis",
+    "correct": true
+  },
+  {
+    "question": "In Hungarian, what is the phonetic realization of the /p/ in the word \"P\u00e1l\"?",
+    "category": "32",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Voiceless unaspirated",
+    "GPT's response": "b) Voiceless unaspirated",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological process called when a fortis obstruent causes devoicing of a following sonorant in English?",
+    "category": "33",
+    "answers": [
+      "a) Sonorant devoicing",
+      "b) Nasalization",
+      "c) Palatalization",
+      "d) Voicing assimilation"
+    ],
+    "correct answer(s)": "a) Sonorant devoicing",
+    "GPT's response": "a) Sonorant devoicing",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological behavior of fortis obstruents in Swedish that supports the use of the feature [fortis]?",
+    "category": "37",
+    "answers": [
+      "a) Voicing assimilation",
+      "b) Fortis obstruents trigger assimilation",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Fortis obstruents trigger assimilation",
+    "GPT's response": "b) Fortis obstruents trigger assimilation",
+    "correct": true
+  },
+  {
+    "question": "In English, what is the effect of a fortis obstruent on a preceding vowel?",
+    "category": "38",
+    "answers": [
+      "a) It becomes nasalized",
+      "b) It becomes palatalized",
+      "c) It becomes shorter",
+      "d) It becomes longer"
+    ],
+    "correct answer(s)": "c) It becomes shorter",
+    "GPT's response": "c) It becomes shorter",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the English word \"atom\" in terms of aspiration?",
+    "category": "39",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Voiceless unaspirated",
+    "GPT's response": "c) Voiceless aspirated",
+    "correct": false
+  },
+  {
+    "question": "What is the term used to describe the delay in vocal fold vibration after the release of a plosive in English?",
+    "category": "41",
+    "answers": [
+      "a) Nasalization",
+      "b) Palatalization",
+      "c) Voice onset time (VOT)",
+      "d) Glottalization"
+    ],
+    "correct answer(s)": "c) Voice onset time (VOT)",
+    "GPT's response": "c) Voice onset time (VOT)",
+    "correct": true
+  },
+  {
+    "question": "In English, what is the typical VOT value for voiceless unaspirated plosives?",
+    "category": "42",
+    "answers": [
+      "a) Negative VOT",
+      "b) Zero or short-lag VOT",
+      "c) Positive VOT",
+      "d) Neutral VOT"
+    ],
+    "correct answer(s)": "b) Zero or short-lag VOT",
+    "GPT's response": "b) Zero or short-lag VOT",
+    "correct": true
+  },
+  {
+    "question": "Which of the following languages is classified as an \"aspirating\" language?",
+    "category": "43",
+    "answers": [
+      "a) Hungarian",
+      "b) Italian",
+      "c) Mandarin Chinese",
+      "d) French"
+    ],
+    "correct answer(s)": "c) Mandarin Chinese",
+    "GPT's response": "c) Mandarin Chinese",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the English word \"school\" in terms of aspiration?",
+    "category": "44",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Voiceless unaspirated",
+    "GPT's response": "c) Voiceless aspirated",
+    "correct": false
+  },
+  {
+    "question": "In Hungarian, what is the phonetic realization of the /d/ in the word \"diszgr\u00e1fia\"?",
+    "category": "45",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Voiced due to regressive assimilation"
+    ],
+    "correct answer(s)": "a) Voiced",
+    "GPT's response": "d) Voiced due to regressive assimilation",
+    "correct": false
+  },
+  {
+    "question": "What is the term used to describe the phenomenon where a vowel is lengthened before a voiced obstruent?",
+    "category": "46",
+    "answers": [
+      "a) Aspiration",
+      "b) Prevoiced lengthening",
+      "c) Nasalization",
+      "d) Vowel harmony"
+    ],
+    "correct answer(s)": "b) Prevoiced lengthening",
+    "GPT's response": "b) Prevoiced lengthening",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological process called when a fortis obstruent causes a following lenis obstruent to become fortis in English?",
+    "category": "48",
+    "answers": [
+      "a) Regressive voice assimilation",
+      "b) Progressive laryngeal assimilation",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Progressive laryngeal assimilation",
+    "GPT's response": "b) Progressive laryngeal assimilation",
+    "correct": true
+  },
+  {
+    "question": "In Swedish, what is the phonetic realization of the word \"bad\" in terms of voicing?",
+    "category": "49",
+    "answers": [
+      "a) Voiceless aspirated",
+      "b) Voiced",
+      "c) Voiceless unaspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Voiced",
+    "GPT's response": "b) Voiced",
+    "correct": true
+  },
+  {
+    "question": "What is the distinctive feature used to represent the laryngeal contrast in English nontraditional analyses?",
+    "category": "50",
+    "answers": [
+      "a) [voice]",
+      "b) [fortis]",
+      "c) [nasal]",
+      "d) [palatal]"
+    ],
+    "correct answer(s)": "b) [fortis]",
+    "GPT's response": "b) [fortis]",
+    "correct": true
+  },
+  {
+    "question": "In Hungarian, what is the phonetic realization of the /g/ in the word \"diszgr\u00e1fia\"?",
+    "category": "53",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Voiced due to regressive assimilation"
+    ],
+    "correct answer(s)": "d) Voiced due to regressive assimilation",
+    "GPT's response": "d) Voiced due to regressive assimilation",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the English word \"speak\" in terms of aspiration?",
+    "category": "56",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Voiceless unaspirated",
+    "GPT's response": "c) Voiceless aspirated",
+    "correct": false
+  },
+  {
+    "question": "In Hungarian, what is the phonetic realization of the /s/ in the word \"diszgr\u00e1fia\"?",
+    "category": "57",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless aspirated",
+      "d) Voiced due to regressive assimilation"
+    ],
+    "correct answer(s)": "d) Voiced due to regressive assimilation",
+    "GPT's response": "d) Voiced due to regressive assimilation",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological process called when a lenis obstruent becomes fortis due to a preceding fortis obstruent in Swedish?",
+    "category": "58",
+    "answers": [
+      "a) Regressive voice assimilation",
+      "b) Progressive laryngeal assimilation",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Progressive laryngeal assimilation",
+    "GPT's response": "b) Progressive laryngeal assimilation",
+    "correct": true
+  },
+  {
+    "question": "What is the phonetic realization of the English word \"pride\" in terms of voicing?",
+    "category": "60",
+    "answers": [
+      "a) Voiced",
+      "b) Voiceless unaspirated",
+      "c) Voiceless with devoiced sonorant",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "c) Voiceless with devoiced sonorant",
+    "GPT's response": "c) Voiceless with devoiced sonorant",
+    "correct": true
+  },
+  {
+    "question": "What is the phonological behavior of fortis obstruents in Swedish that supports the use of the feature [fortis]?",
+    "category": "62",
+    "answers": [
+      "a) Voicing assimilation",
+      "b) Fortis obstruents trigger assimilation",
+      "c) Nasalization",
+      "d) Palatalization"
+    ],
+    "correct answer(s)": "b) Fortis obstruents trigger assimilation",
+    "GPT's response": "b) Fortis obstruents trigger assimilation",
+    "correct": true
+  },
+  {
+    "question": "In English, what is the underlying laryngeal property of the past tense morpheme -ed?",
+    "category": "67",
+    "answers": [
+      "a) Voiceless",
+      "b) Lenis",
+      "c) Fortis",
+      "d) Nasalized"
+    ],
+    "correct answer(s)": "b) Lenis",
+    "GPT's response": "b) Lenis",
+    "correct": true
+  }
+]

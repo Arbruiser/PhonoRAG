@@ -1,0 +1,20 @@
+
+5.3 “Intervocalic” lenition
+In many accents of English consonants do not retain all their properties in intervocalic position. T-flapping is a well-known example of this phenomenon. Within morphemes in many flapping accents of English t-flapping is restricted to the nonpretonic environment (eg matter máɾə). However, the same kind of lenition also occurs after diphthongs (eg mitre májɾə), which is a problem if diphthongs are to be seen as vowel+consonant sequences, because in this case, the consonant undergoing lenition is not intervocalic.
+
+It is not the case, however, that this type of lenition categorically occurs after vowels, but not after consonants. Let us compare the four types of accent of English shown in (17).
+
+(17)
+	accent
+	A	B	C	D
+matter	ɾ	ɾ	ɾ	ɾ
+martyr	ɾ	ɾ	ɾ	t
+mitre	ɾ	ɾ	ɾ	t
+mantle	ɾ	ɾ	t	t
+Yalta	ɾ	t	t	t
+master	t	t	t	t
+actor	t	t	t	t
+
+Although an overall description of the variation in the distribution of flaps is still to be produced (although see Vaux 2000),  it is clear that there is a graduality in the distribution of the phenomenon. “After a short vowel” appears to be the only environment where flapping occurs for all the accents where it occurs in the first place. What is crucial for us is the difference between accents C and D in (17). This contrast is manifested by New Zealand English Basilect (C) and Acrolect (D) flapping (Bye & de Lacy 2008: 195ff).
+
+We contend that in accent D flapping occurs exclusively in intervocalic position, whereas in accents A, B, and C it may also occur after consonants: the more sonorous the consonant before the flapping site is, the more likely flapping is to occur. It is accent D that categorizes diphthongal offglides — and the second half of long vowels too(!) — together with (other) consonants. The importance of this pattern is that the difference between matter máɾə and mitre májtə (*májɾə) is easily captured if j is a consonant, like s in master mástə (*másɾə).

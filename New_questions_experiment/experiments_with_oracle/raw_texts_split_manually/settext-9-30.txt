@@ -1,0 +1,43 @@
+
+(35b) Merging of ɔ > ɑ in GA 
+Phonological classes of words  having historical ɔ 
+New England 
+(conservative) 
+American 
+General (or innovative) American 
+cloth, loss, lost, loft 
+(ɔ followed by voiceless fricatives, originally lax  ɔ) 
+ɔ 
+ɑ 
+lawn, law, paw, cause 
+(ɔ spelled as <au> or <aw>, originating in ɑw) 
+ɔ 
+ɑ 
+thought, taught, caught 
+(ɔ followed by <gh>, originally lax ɔ) 
+ɔ 
+ɑ 
+tall, ball, hall, malt 
+(ɔ spelled <al(l)>, originally lax ɔ) 
+ɔ 
+ɑ 
+lorry, porridge 
+(ɔ followed by onset R, originally lax ɔ) 
+ɔ 
+ɑ 
+story, storey, Cora, oral, notorious, gory 
+(ɔ where it was laxed by onset R, originally tense o) 
+ɔ 
+ɔ 
+port, nor, north, short, board, force, ward 
+(ɔ followed by coda R, originating in lax ɔ or tense o) 
+ɔ 
+ɔ 
+pot, lot, lop, dock, loll (originally lax ɔ) 
+ɑ 
+ɑ 
+ 
+It is generally true that coda R exercised a greater quality influence on the preceding vowels than onset R. Before coda R the historical short non-low vowels all merged into schwa (spirt = serf = burn = hurt ≠ tar ≠ port).  Before onset R lax vowels keep their quality just as they do before any other consonant (spirit = spit, serif = set, bull = Buryat, hut = hurry). The only vowel that mergers differently is historical short a, which is found as ɛ before onset R (tarry ≠ tar).  
+      Note also a change independent of R in GA: lax ɔ is generally only possible before coda R (port, board), not before any other consonant, including onset R. So, words like lot, cot, shot, lorry, porridge, hot, because, dog all have ɑ in GA (where SSBE would normally have ɔ). It is only dialectally (especially in East Coast/New England American) that lax ɔ is found before voiceless fricatives (as in cloth, loss, lost) and before onset R (as in porridge and oral), and also in some other positions (call, thought, daunt, law). In GA these all have ɑ. Historically, the vowel in pot (ɑ) is a new development in GA (it used to be ɔ), as compared to ɔ in port, and porridge (where R acted as a protective environment, preventing it from becoming ɑ in New England American). Note that spelling is very conservative: pot still has the lax ‘o’ vowel that it did historically. However, not even in GA does the ‘once tense’ ɔ become ɑ before onset R (oral, story, etc. still have ɔ), see summary in (35b) where the shaded areas show identical vowels in GA and conservative New England English. 
+ The traditional name for the combined effects of the first nurse merger and the backing of the historical a vowel before coda r (tar) are known as pre-R broadening (compare tap vs tar, set vs serf, sit vs spirt, to which we can add hut/burn where the change was vacuous). Pre-R broadening is also extended to the failure of ɔ becoming ɑ before coda R (port ɔ, never ɑ). So, first nurse merger + laxing of a to ɑ + failure of ɔ to become ɑ before coda R = pre-R broadening. 
+      Note a further effect that onset R has had on lax a and ɛ, as well as tense e before it: all of these have merged into lax ɛ, so marry merry Mary have the same stressed vowel in GA (as opposed to SSBE where we have different vowels: m[a]rry m[ɛ]rry M[ɛː]ry). Let’s call it the MARRY MERRY MARY merger (36). As a conclusion we can say that the 11 non-diphthongal vowels before C (≠ r) reduces in number to 6 before r (see (37a)). But do we ever have a diphthong before r? The answer is yes. The wide diphthongs can still be found before the rhotic (see (37b)). As you can see, GA has no diphthongs other than the wide diphthongs. The same is true for SSE. 

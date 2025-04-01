@@ -1,0 +1,489 @@
+== cat 1
+In British English, which vowels are traditionally analyzed as diphthongs?
+# KIT, DRESS, TRAP
+# START, NURSE, FORCE
+# ! PRICE, MOUTH, CHOICE
+# NEAR, SQUARE, CURE
+
+== cat 2
+What is the unstressability scale proposed for English vowels?
+# VV > VC > V
+# ! V > VC > VV
+# VC > V > VV
+# V > VV > VC
+
+== cat 3
+What is the significance of the glide [j] in the analysis of unstressed FLEECE?
+# It indicates vowel lengthening.
+# It represents a new vowel category.
+# It is a placeholder for schwa.
+# ! It acts as a consonant following the vowel [i].
+
+== cat 4
+Which vowel was traditionally transcribed as [iː] by Jones but argued to be a diphthong by Szigetvári?
+# ! FLEECE
+# STRUT
+# LOT
+# FOOT
+
+== cat 5
+In the context of the article, what is "HAPPY-tensing"?
+# The process of shortening a vowel in stressed syllables.
+# ! The epenthesis of a glide [j] after [i] in unstressed syllables.
+# The deletion of a final consonant.
+# The merger of two diphthongs.
+
+== cat 6
+What was the historical change described as "VALUE-tensing"?
+# The deletion of the glide [w].
+# ! The transition from FOOT to GOOSE in unstressed word-final positions.
+# The lengthening of the vowel [a].
+# The fronting of the vowel [o].
+
+== cat 7
+Which set of vowels is referred to as "R vowels" in the article?
+# ! NEAR, SQUARE, START, NURSE, FORCE, CURE
+# FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE
+# KIT, DRESS, TRAP, STRUT, LOT, FOOT
+# PRICE, MOUTH, CHOICE
+
+== cat 8
+What is a key argument against analyzing English diphthongs as single units?
+# They are always followed by a consonant.
+# They occur only in unstressed syllables.
+# ! They consist of two skeletal slots with melody associated to each.
+# They do not appear in word-final positions.
+
+== cat 9
+How does the article explain the occurrence of [ij] in unstressed syllables in British English?
+# As a result of vowel deletion.
+# ! As an epenthesis to avoid short vowels in word-final and prevocalic positions.
+# As a merger with another diphthong.
+# As a result of consonant weakening.
+
+== cat 10
+Which unstressed vowel alternation is described as being blocked by certain final consonants?
+# ! The alternation of [i] and [ə] before palatal and velar consonants.
+# The alternation of [u] and [o] before labial consonants.
+# The alternation of [e] and [a] before coronal consonants.
+# The alternation of [ə] and [i] before nasal consonants.
+
+== cat 11
+What is the proposed analysis of unstressed GOAT in the article?
+# As a long monophthong.
+# As a diphthong with a variable offglide.
+# ! As a short vowel [ə] followed by a consonant [w].
+# As a monophthong with a schwa.
+
+== cat 12
+What is the relationship between vowel stressability and sonority according to the article?
+# More sonorous vowels are less stressable.
+# ! More sonorous vowels are more stressable.
+# Sonority does not affect stressability.
+# Less sonorous vowels are more stressable.
+
+== cat 13
+Which vowel is described as having an allophone [o] in unstressed positions historically?
+# FLEECE
+# ! GOAT
+# GOOSE
+# STRUT
+
+== cat 14
+How does the article describe the distribution of unstressed FLEECE in British English?
+# It occurs only before a consonant.
+# It occurs only in stressed syllables.
+# ! It occurs word-finally and prevocalically.
+# It occurs only in compound words.
+
+== cat 15
+What is the implication of the analysis that unstressed [ij], [əw], and [uw] are VC sequences?
+# They are heavier than diphthongs.
+# They are more stressable than R vowels.
+# ! They are light syllables, hence unstressable.
+# They are less common in English.
+
+== cat 16
+Which phonetic symbol is used by Wells to indicate a transitional state of high vowels in unstressed position?
+# [ɪ] and [ʊ]
+# [iː] and [uː]
+# ! [i] and [u]
+# [ə] and [o]
+
+== cat 17
+What phonological change in British English is responsible for the disappearance of [o] from dictionaries?
+# ! GOAT-fronting
+# HAPPY-tensing
+# VALUE-laxing
+# STRUT-raising
+
+== cat 18
+Which unstressed vowel is described as variable before a consonant in British English?
+# ! GOOSE
+# KIT
+# STRUT
+# FACE
+
+== cat 19
+What is the key factor in determining whether a vowel can occur unstressed in English?
+# Its position in a word.
+# Its historical origin.
+# Its length.
+# ! Its sonority and closeness.
+
+== cat 20
+What is the phonetic realization of unstressed GOAT in current British English?
+# [ou]
+# [o]
+# [ə]
+# ! [əw] or [ow]
+
+== cat 21
+Which unstressed vowel is described as "epenthesized" in the context of HAPPY-tensing?
+# [ə]
+# ! [j]
+# [w]
+# [o]
+
+== cat 22
+How does the article explain the stability of unstressed [i] before certain final consonants?
+# It is due to vowel harmony.
+# It is a result of historical vowel lengthening.
+# ! It is protected by homorganic consonants.
+# It is influenced by stress patterns.
+
+== cat 23
+What is the relationship between the glides [j] and [w] and the vowels they follow in unstressed syllables?
+# They lengthen the preceding vowel.
+# They create a new diphthong.
+# ! They act as consonants, not part of the vowel.
+# They reduce the sonority of the vowel.
+
+== cat 24
+Which unstressed vowel alternation is described as occurring before a labial consonant?
+# The alternation of [e] and [i]
+# The alternation of [o] and [u]
+# The alternation of [a] and [ə]
+# ! The alternation of [u] and [ə]
+
+== cat 25
+What is the significance of the unstressability scale in analyzing English vowels?
+# It explains vowel harmony.
+# It predicts vowel alternations in compound words.
+# It accounts for the occurrence of diphthongs in stressed syllables.
+# ! It determines which vowels can occur unstressed.
+
+== cat 26
+Which set of vowels is described as "checked vowels" in the article?
+# NEAR, SQUARE, START
+# ! KIT, DRESS, TRAP
+# PRICE, MOUTH, CHOICE
+# FLEECE, FACE, GOAT
+
+== cat 27
+What is a key argument for analyzing unstressed [uw] as a VC sequence?
+# It occurs only in stressed syllables.
+# It is longer than other unstressed vowels.
+# ! It loses its glide before a consonant.
+# It is more sonorous than other vowels.
+
+== cat 28
+Which unstressed vowel is described as having a variable offglide before a consonant?
+# ! GOOSE
+# FLEECE
+# STRUT
+# FACE
+
+== cat 29
+What is the proposed analysis of unstressed FLEECE in the article?
+# As a long monophthong.
+# As a diphthong with a fixed offglide.
+# As a monophthong with schwa.
+# ! As a short vowel [i] followed by a consonant [j].
+
+== cat 30
+How does the article describe the alternation of unstressed [u] and [ə] in British English?
+# It is a result of vowel harmony.
+# It occurs only in stressed syllables.
+# ! It is influenced by the following consonant.
+# It is a historical change with no current examples.
+
+== cat 31
+What is the implication of the analysis that unstressed [ij], [əw], and [uw] are not diphthongs?
+# They are less common in English.
+# They are more stressable than other vowels.
+# They are heavier than other vowels.
+# ! They remain light and unstressable.
+
+== cat 32
+What is the phonetic realization of unstressed GOOSE in current British English?
+# [o]
+# [ə]
+# [u]
+# ! [uw]
+
+== cat 33
+Which unstressed vowel is described as having an allophone in certain unstressed positions historically?
+# FLEECE
+# ! GOAT
+# GOOSE
+# STRUT
+
+== cat 34
+What is the proposed analysis of unstressed GOAT in the article?
+# As a long monophthong.
+# As a diphthong with a fixed offglide.
+# ! As a short vowel [ə] followed by a consonant [w].
+# As a monophthong with schwa.
+
+== cat 35
+Which vowel is described as having undergone "HAPPY-tensing" in unstressed word-final positions?
+# FOOT
+# ! KIT
+# TRAP
+# STRUT
+
+== cat 36
+What is the function of the glide [w] in the analysis of unstressed GOOSE?
+# It lengthens the vowel.
+# It creates a diphthong.
+# ! It acts as a consonant following the vowel [u].
+# It reduces the vowel's sonority.
+
+== cat 37
+In the context of the article, what is "VALUE-tensing"?
+# The deletion of the glide [j].
+# The shortening of vowels in stressed syllables.
+# ! The transition from FOOT to GOOSE in unstressed word-final positions.
+# The merger of two monophthongs.
+
+== cat 38
+Which unstressed vowel is described as undergoing a change to avoid short vowels in prevocalic positions?
+# ! FLEECE
+# STRUT
+# LOT
+# FACE
+
+== cat 39
+What is the significance of the unstressability scale for English vowel analysis?
+# It predicts vowel harmony patterns.
+# It explains the historical vowel shifts.
+# It accounts for the occurrence of consonant clusters.
+# ! It determines which vowels can occur unstressed.
+
+== cat 40
+Which set of vowels is considered "free vowels" in the article?
+# KIT, DRESS, TRAP
+# NEAR, SQUARE, START
+# ! FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE
+# STRUT, LOT, FOOT
+
+== cat 41
+How does the article describe the alternation of unstressed [i] and [ə] before certain consonants?
+# It is a result of vowel lengthening.
+# It occurs only in compound words.
+# ! It is blocked by palatal and velar consonants.
+# It is influenced by vowel harmony.
+
+== cat 42
+What is the relationship between vowel sonority and stressability according to the article?
+# Less sonorous vowels are more stressable.
+# Sonority does not affect stressability.
+# ! More sonorous vowels are more stressable.
+# More sonorous vowels are less stressable.
+
+== cat 43
+What is the historical phonetic symbol used by Jones for unstressed GOAT?
+# [ə]
+# [o]
+# [u]
+# ! [ou]
+
+== cat 44
+Which unstressed vowel is described as having undergone "GOAT-fronting" in British English?
+# FLEECE
+# STRUT
+# ! GOAT
+# FACE
+
+== cat 45
+What is the proposed analysis of unstressed [ij] in the article?
+# As a long monophthong.
+# As a diphthong with a variable offglide.
+# ! As a short vowel [i] followed by a consonant [j].
+# As a monophthong with schwa.
+
+== cat 46
+How does the article explain the occurrence of [əw] in unstressed syllables in British English?
+# As a result of vowel deletion.
+# As a merger with another diphthong.
+# ! As a short vowel [ə] followed by a consonant [w].
+# As a result of consonant weakening.
+
+== cat 47
+Which unstressed vowel is described as having a fixed offglide in the article?
+# ! GOAT
+# FLEECE
+# STRUT
+# FACE
+
+== cat 48
+What is the significance of the glide [j] in the analysis of unstressed FLEECE?
+# It lengthens the vowel.
+# It creates a new diphthong.
+# ! It acts as a consonant following the vowel [i].
+# It reduces the vowel's sonority.
+
+== cat 49
+Which unstressed vowel is described as having a variable offglide before a consonant?
+# ! GOOSE
+# FLEECE
+# STRUT
+# FACE
+
+== cat 50
+What is the proposed analysis of unstressed [uw] in the article?
+# As a long monophthong.
+# As a diphthong with a fixed offglide.
+# ! As a short vowel [u] followed by a consonant [w].
+# As a monophthong with schwa.
+
+== cat 51
+How does the article describe the alternation of unstressed [u] and [ə] in British English?
+# It occurs only in stressed syllables.
+# It is a historical change with no current examples.
+# It is a result of vowel harmony.
+# ! It is influenced by the following consonant.
+
+== cat 52
+What is the relationship between the glides [j] and [w] and the vowels they follow in unstressed syllables?
+# They lengthen the preceding vowel.
+# They create a new diphthong.
+# ! They act as consonants, not part of the vowel.
+# They reduce the sonority of the vowel.
+
+== cat 53
+Which unstressed vowel alternation is described as occurring before a labial consonant?
+# The alternation of [e] and [i]
+# The alternation of [o] and [u]
+# The alternation of [a] and [ə]
+# ! The alternation of [u] and [ə]
+
+== cat 54
+What is the significance of the unstressability scale in analyzing English vowels?
+# It explains vowel harmony.
+# It predicts vowel alternations in compound words.
+# It accounts for the occurrence of diphthongs in stressed syllables.
+# ! It determines which vowels can occur unstressed.
+
+== cat 55
+Which set of vowels is described as "checked vowels" in the article?
+# NEAR, SQUARE, START
+# ! KIT, DRESS, TRAP
+# PRICE, MOUTH, CHOICE
+# FLEECE, FACE, GOAT
+
+== cat 56
+What is a key argument for analyzing unstressed [uw] as a VC sequence?
+# It occurs only in stressed syllables.
+# It is longer than other unstressed vowels.
+# ! It loses its glide before a consonant.
+# It is more sonorous than other vowels.
+
+== cat 57
+Which unstressed vowel is described as having a variable offglide before a consonant?
+# ! GOOSE
+# FLEECE
+# STRUT
+# FACE
+
+== cat 58
+What is the proposed analysis of unstressed FLEECE in the article?
+# As a long monophthong.
+# As a diphthong with a fixed offglide.
+# As a monophthong with schwa.
+# ! As a short vowel [i] followed by a consonant [j].
+
+== cat 59
+How does the article describe the alternation of unstressed [u] and [ə] in British English?
+# It is a result of vowel harmony.
+# It occurs only in stressed syllables.
+# ! It is influenced by the following consonant.
+# It is a historical change with no current examples.
+
+== cat 60
+What is the implication of the analysis that unstressed [ij], [əw], and [uw] are not diphthongs?
+# They are less common in English.
+# They are more stressable than other vowels.
+# They are heavier than other vowels.
+# ! They remain light and unstressable.
+
+== cat 61
+What is the phonetic realization of unstressed GOOSE in current British English?
+# [o]
+# [ə]
+# [u]
+# ! [uw]
+
+== cat 62
+Which unstressed vowel is described as having an allophone in certain unstressed positions historically?
+# FLEECE
+# ! GOAT
+# GOOSE
+# STRUT
+
+== cat 63
+What is the proposed analysis of unstressed GOAT in the article?
+# As a long monophthong.
+# As a diphthong with a fixed offglide.
+# ! As a short vowel [ə] followed by a consonant [w].
+# As a monophthong with schwa.
+
+== cat 64
+Which unstressed vowel is described as having undergone "HAPPY-tensing" in unstressed word-final positions?
+# FOOT
+# ! KIT
+# TRAP
+# STRUT
+
+== cat 65
+What is the function of the glide [w] in the analysis of unstressed GOOSE?
+# It lengthens the vowel.
+# It creates a diphthong.
+# ! It acts as a consonant following the vowel [u].
+# It reduces the vowel's sonority.
+
+== cat 66
+In the context of the article, what is "VALUE-tensing"?
+# The deletion of the glide [j].
+# The shortening of vowels in stressed syllables.
+# ! The transition from FOOT to GOOSE in unstressed word-final positions.
+# The merger of two monophthongs.
+
+== cat 67
+Which unstressed vowel is described as undergoing a change to avoid short vowels in prevocalic positions?
+# ! FLEECE
+# STRUT
+# LOT
+# FACE
+
+== cat 68
+What is the significance of the unstressability scale for English vowel analysis?
+# It predicts vowel harmony patterns.
+# It explains the historical vowel shifts.
+# It accounts for the occurrence of consonant clusters.
+# ! It determines which vowels can occur unstressed.
+
+== cat 69
+Which set of vowels is considered "free vowels" in the article?
+# KIT, DRESS, TRAP
+# NEAR, SQUARE, START
+# ! FLEECE, FACE, PRICE, MOUTH, GOAT, CHOICE
+# STRUT, LOT, FOOT
+
+== cat 70
+How does the article describe the alternation of unstressed [i] and [ə] before certain consonants?
+# It is a result of vowel lengthening.
+# It occurs only in compound words.
+# ! It is blocked by palatal and velar consonants.
+# It is influenced by vowel harmony.

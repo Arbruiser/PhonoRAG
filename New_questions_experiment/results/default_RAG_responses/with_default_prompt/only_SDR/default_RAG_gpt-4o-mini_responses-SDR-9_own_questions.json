@@ -1,0 +1,756 @@
+[
+  {
+    "question": "What is the reason behind the phonological change of languages?",
+    "category": "901",
+    "answers": [
+      "a) To make languages more complex",
+      "b) To make languages simpler",
+      "c) There is no obvious reason",
+      "d) To increase vocabulary"
+    ],
+    "correct answer(s)": "c) There is no obvious reason",
+    "GPT's response": "c) There is no obvious reason",
+    "correct": true
+  },
+  {
+    "question": "Which statement is true?",
+    "category": "902",
+    "answers": [
+      "a) Language changes are predictable and easy to understand",
+      "b) Language changes are random and make languages simpler",
+      "c) Language changes happen rarely, but can be controlled",
+      "d) Language changes are part of a complex web that is still too complex for us to comprehend"
+    ],
+    "correct answer(s)": "d) Language changes are part of a complex web that is still too complex for us to comprehend",
+    "GPT's response": "d) Language changes are part of a complex web that is still too complex for us to comprehend",
+    "correct": true
+  },
+  {
+    "question": "What parallel is drawn between linguistics and sciences like physics or biology?",
+    "category": "903",
+    "answers": [
+      "a) Linguistics aims to quantify languages like mathematics",
+      "b) Linguists often make predictions about language evolution",
+      "c) Linguistics observes and analyses without making value judgments",
+      "d) Linguistics ranks languages based on complexity and age"
+    ],
+    "correct answer(s)": "c) Linguistics observes and analyses without making value judgments",
+    "GPT's response": "c) Linguistics observes and analyses without making value judgments",
+    "correct": true
+  },
+  {
+    "question": "When do linguists say that a language is better or worse than another language?",
+    "category": "904",
+    "answers": [
+      "a) When a language has more speakers",
+      "b) When a language is older",
+      "c) When a language is geographically widespread",
+      "d) Never, such statements are nonsensical in sciences"
+    ],
+    "correct answer(s)": "d) Never, such statements are nonsensical in sciences",
+    "GPT's response": "d) Never, such statements are nonsensical in sciences",
+    "correct": true
+  },
+  {
+    "question": "What is the parallel drawn between the function of human lungs and the movement of tides?",
+    "category": "905",
+    "answers": [
+      "a) Both lungs and tides can flow in multiple directions",
+      "b) Lungs can forcefully empty air just as tides can reverse",
+      "c) Both lungs and tides can only move in one direction at a time",
+      "d) Lungs are adaptable to rapid changes, just like incoming tides"
+    ],
+    "correct answer(s)": "c) Both lungs and tides can only move in one direction at a time",
+    "GPT's response": "c) Both lungs and tides can only move in one direction at a time",
+    "correct": true
+  },
+  {
+    "question": "Where does the structural analysis of the human anatomy of lungs stop?",
+    "category": "906",
+    "answers": [
+      "a) At explaining the evolutionary development of lungs",
+      "b) At predicting future changes in lung function",
+      "c) At describing the function and limitations without explaining their origins",
+      "d) At comparing lungs with other organ systems"
+    ],
+    "correct answer(s)": "c) At describing the function and limitations without explaining their origins",
+    "GPT's response": "c) At describing the function and limitations without explaining their origins",
+    "correct": true
+  },
+  {
+    "question": "Out of what do evolutionary biologists think human lungs developed?",
+    "category": "907",
+    "answers": [
+      "a) A separate respiratory organ evolved later in humans",
+      "b) The heart's circulatory system",
+      "c) The skin's ability to absorb oxygen directly",
+      "d) An air bladder that is part of the fish's digestive system"
+    ],
+    "correct answer(s)": "d) An air bladder that is part of the fish's digestive system",
+    "GPT's response": "d) An air bladder that is part of the fish's digestive system",
+    "correct": true
+  },
+  {
+    "question": "What may explain the reason for why air can only be inhaled and exhaled in one direction?",
+    "category": "908",
+    "answers": [
+      "a) It optimizes energy consumption",
+      "b) It prevents air from returning to the mouth",
+      "c) It improves the efficiency of oxygen absorption",
+      "d) Air is basically food, and food is normally only transported in one direction"
+    ],
+    "correct answer(s)": "d) Air is basically food, and food is normally only transported in one direction",
+    "GPT's response": "d) Air is basically food, and food is normally only transported in one direction",
+    "correct": true
+  },
+  {
+    "question": "How do fish's air bladders relate to human lungs from a historical perspective?",
+    "category": "909",
+    "answers": [
+      "a) Fish bladders evolved independently of lungs",
+      "b) Fish bladders show no functional similarity to human lungs",
+      "c) Fish air bladders were a part of the digestive system and are ancestors of human lungs",
+      "d) Fish air bladders are larger capacity storage than human lungs"
+    ],
+    "correct answer(s)": "c) Fish air bladders were a part of the digestive system and are ancestors of human lungs",
+    "GPT's response": "c) Fish air bladders were a part of the digestive system and are ancestors of human lungs",
+    "correct": true
+  },
+  {
+    "question": "What evolutionary development is considered to be an innovation in human respiratory function?",
+    "category": "910",
+    "answers": [
+      "a) The ability to cough and clear airways",
+      "b) Exhaling air as a separate action from inhalation",
+      "c) The presence of two distinct lung lobes",
+      "d) Capacity to hold breath underwater for extended periods"
+    ],
+    "correct answer(s)": "b) Exhaling air as a separate action from inhalation",
+    "GPT's response": "b) Exhaling air as a separate action from inhalation",
+    "correct": true
+  },
+  {
+    "question": "What does the language system of contrastive building blocks consist of?",
+    "category": "911",
+    "answers": [
+      "a) Syntax and semantics",
+      "b) Cultural influences and usage patterns",
+      "c) Dialectical variations and slang",
+      "d) Features like voice, nasality, place of articulation, manner of articulation"
+    ],
+    "correct answer(s)": "d) Features like voice, nasality, place of articulation, manner of articulation",
+    "GPT's response": "d) Features like voice, nasality, place of articulation, manner of articulation",
+    "correct": true
+  },
+  {
+    "question": "What does synchronic linguistics focus on?",
+    "category": "912",
+    "answers": [
+      "a) The evolutionary history of languages",
+      "b) The analysis of language units present at a specific point in time",
+      "c) The influence of languages on human society",
+      "d) The historical development of writing systems"
+    ],
+    "correct answer(s)": "b) The analysis of language units present at a specific point in time",
+    "GPT's response": "b) The analysis of language units present at a specific point in time",
+    "correct": true
+  },
+  {
+    "question": "Why might synchronic linguistics be unaware of its own limitations?",
+    "category": "913",
+    "answers": [
+      "a) It considers all historical changes within its analysis",
+      "b) It does not assess the historical development of language units",
+      "c) It relies heavily on historical data",
+      "d) It incorporates all possible perspectives on language evolution"
+    ],
+    "correct answer(s)": "b) It does not assess the historical development of language units",
+    "GPT's response": "b) It does not assess the historical development of language units",
+    "correct": true
+  },
+  {
+    "question": "What does historical linguistics say about the phoneme \u025b\u02d0?",
+    "category": "914",
+    "answers": [
+      "a) It is a borrowed sound from other languages",
+      "b) It has always existed in its current form",
+      "c) It is an innovation derived from previous phonemes",
+      "d) It is unrelated to phonological development"
+    ],
+    "correct answer(s)": "c) It is an innovation derived from previous phonemes",
+    "GPT's response": "c) It is an innovation derived from previous phonemes",
+    "correct": true
+  },
+  {
+    "question": "How did the phoneme \u025b\u02d0 develop historically?",
+    "category": "915",
+    "answers": [
+      "a) It originated directly from contemporary English sounds",
+      "b) It was created by blending unrelated phonemes",
+      "c) It evolved through a sequence of changes: a\u02d0 -> e\u02d0 -> \u025bj -> \u025b\u02d0",
+      "d) It was introduced as an entirely new phoneme in modern times"
+    ],
+    "correct answer(s)": "c) It evolved through a sequence of changes: a\u02d0 -> e\u02d0 -> \u025bj -> \u025b\u02d0",
+    "GPT's response": "c) It evolved through a sequence of changes: a\u02d0 -> e\u02d0 -> \u025bj -> \u025b\u02d0",
+    "correct": true
+  },
+  {
+    "question": "What do verb-final voiced fricatives indicate (house hawz, graze, heave h\u026ajv, loathe l\u0259w\u00f0)?",
+    "category": "916",
+    "answers": [
+      "a) They were once nouns that became verbs over time",
+      "b) They have always been used without any suffixes",
+      "c) There used to be an infinitive suffix after them, such as in housen and grasen",
+      "d) They evolved from different word roots without any suffixes"
+    ],
+    "correct answer(s)": "c) There used to be an infinitive suffix after them, such as in housen and grasen",
+    "GPT's response": "c) There used to be an infinitive suffix after them, such as in housen and grasen",
+    "correct": true
+  },
+  {
+    "question": "What does the historical evolution of the words 'grass' and 'graze' tell us about their vowels?",
+    "category": "917",
+    "answers": [
+      "a) Both 'grass' and 'graze' originally had short vowels",
+      "b) 'Grass' retains its original vowel length in CuBE",
+      "c) 'Graze' has always had the diphthong \u025bj since its origin",
+      "d) 'Grass' had a historically short vowel, while 'graze' originally had a long vowel"
+    ],
+    "correct answer(s)": "d) 'Grass' had a historically short vowel, while 'graze' originally had a long vowel",
+    "GPT's response": "d) 'Grass' had a historically short vowel, while 'graze' originally had a long vowel.",
+    "correct": false
+  },
+  {
+    "question": "What questions should historical linguists always consider when analyzing languages?",
+    "category": "918",
+    "answers": [
+      "a) What does similarity mean at all?",
+      "b) What can be compared with what?",
+      "c) How far can similarity extend?",
+      "d) All of these"
+    ],
+    "correct answer(s)": "d) All of these",
+    "GPT's response": "d) All of these",
+    "correct": true
+  },
+  {
+    "question": "Which language is considered to be stem-based?",
+    "category": "919",
+    "answers": [
+      "a) Hungarian",
+      "b) Turkish",
+      "c) Latin",
+      "d) Finnish"
+    ],
+    "correct answer(s)": "c) Latin",
+    "GPT's response": "a) Hungarian",
+    "correct": false
+  },
+  {
+    "question": "Which language is considered to be stem-based?",
+    "category": "920",
+    "answers": [
+      "a) English",
+      "b) Greek",
+      "c) Spanish",
+      "d) French"
+    ],
+    "correct answer(s)": "b) Greek",
+    "GPT's response": "The context does not provide specific information regarding which language is considered to be stem-based among the options listed. Therefore, an answer cannot be determined from the provided information.",
+    "correct": false
+  },
+  {
+    "question": "How can the logico-semantic concept of possibility be expressed in Hungarian?",
+    "category": "921",
+    "answers": [
+      "a) Only through the addition of a suffix",
+      "b) Only by rearranging sentence structure",
+      "c) Only by an independent word/auxiliary",
+      "d) In two ways: by either using a suffix or a syntactically independent word/auxiliary"
+    ],
+    "correct answer(s)": "d) In two ways: by either using a suffix or a syntactically independent word/auxiliary",
+    "GPT's response": "d) In two ways: by either using a suffix or a syntactically independent word/auxiliary",
+    "correct": true
+  },
+  {
+    "question": "What is generally claimed about the Hungarian complex system of verbal prefixation?",
+    "category": "922",
+    "answers": [
+      "a) It was borrowed from Latin",
+      "b) It developed independently without external influences",
+      "c) It developed through extended contact with languages such as German and Russian",
+      "d) It was primarily influenced by ancient Hungarian tribes"
+    ],
+    "correct answer(s)": "c) It developed through extended contact with languages such as German and Russian",
+    "GPT's response": "c) It developed through extended contact with languages such as German and Russian",
+    "correct": true
+  },
+  {
+    "question": "What kind of knowledge is required to decipher the meaning of the Hungarian sentence \"A feles\u00e9gem a m\u00e1sodik szmen\u00e1ba dolgozik, \u00e9s zsurb\u00e1ba volt, amikor l\u00e1ttam lej\u00f6nni a szolit\u00e9rb\u0151l a tursival a kez\u00e9be\"?",
+    "category": "923",
+    "answers": [
+      "a) Structural knowledge",
+      "b) Phonological knowledge",
+      "c) Morphological knowledge",
+      "d) Lexical knowledge"
+    ],
+    "correct answer(s)": "d) Lexical knowledge",
+    "GPT's response": "d) Lexical knowledge",
+    "correct": true
+  },
+  {
+    "question": "Which language is English most genetically related to?",
+    "category": "924",
+    "answers": [
+      "a) French",
+      "b) Ukrainian",
+      "c) German",
+      "d) Spanish"
+    ],
+    "correct answer(s)": "c) German",
+    "GPT's response": "c) German",
+    "correct": true
+  },
+  {
+    "question": "Which language is Indo-European?",
+    "category": "925",
+    "answers": [
+      "a) Farsi",
+      "b) Hungarian",
+      "c) Finnish",
+      "d) Turkish"
+    ],
+    "correct answer(s)": "a) Farsi",
+    "GPT's response": "a) Farsi",
+    "correct": true
+  },
+  {
+    "question": "Why isn't diachronic linguistics commonly referred to as genealogical linguistics?",
+    "category": "926",
+    "answers": [
+      "a) It mainly focuses on phonology, syntax and semantics",
+      "b) It only analyzes language structures",
+      "c) It does not deal with genes or biological inheritance",
+      "d) It studies the evolution of language phonemes"
+    ],
+    "correct answer(s)": "c) It does not deal with genes or biological inheritance",
+    "GPT's response": "c) It does not deal with genes or biological inheritance",
+    "correct": true
+  },
+  {
+    "question": "Genetically speaking, what language can a Caucasoid child learn the easiest?",
+    "category": "927",
+    "answers": [
+      "a) Russian",
+      "b) Chinese",
+      "c) Spanish",
+      "d) There is no difference"
+    ],
+    "correct answer(s)": "d) There is no difference",
+    "GPT's response": "d) There is no difference",
+    "correct": true
+  },
+  {
+    "question": "What is relevant for historical analysis according to a diachronic approach?",
+    "category": "928",
+    "answers": [
+      "a) Phonetic similarities",
+      "b) The frequency of word usage",
+      "c) The complexity of language syntax",
+      "d) Relationships between phonological changes in words"
+    ],
+    "correct answer(s)": "d) Relationships between phonological changes in words",
+    "GPT's response": "d) Relationships between phonological changes in words",
+    "correct": true
+  },
+  {
+    "question": "In German, what was every \u03b8 regularly displaced by?",
+    "category": "929",
+    "answers": [
+      "a) n",
+      "b) t",
+      "c) k",
+      "d) d"
+    ],
+    "correct answer(s)": "d) d",
+    "GPT's response": "d) d",
+    "correct": true
+  },
+  {
+    "question": "What happened to every historical *mb cluster in German?",
+    "category": "930",
+    "answers": [
+      "a) It turned into <m>",
+      "b) It became <nd>",
+      "c) It remained as <mb>",
+      "d) It turned into <mm>"
+    ],
+    "correct answer(s)": "d) It turned into <mm>",
+    "GPT's response": "d) It turned into <mm>",
+    "correct": true
+  },
+  {
+    "question": "How is ungrammatical data shown in historical linguistics?",
+    "category": "931",
+    "answers": [
+      "a) With an asterisk",
+      "b) With an exclamation mark",
+      "c) With underscores",
+      "d) With double asterisks"
+    ],
+    "correct answer(s)": "d) With double asterisks",
+    "GPT's response": "a) With an asterisk",
+    "correct": false
+  },
+  {
+    "question": "How come we still have nasals before fricatives in English if there was a nasal loss rule?",
+    "category": "932",
+    "answers": [
+      "a) Nasal loss rule only applied temporarily during the medieval period",
+      "b) Nasals evolved back into certain words",
+      "c) Some dialects never followed the nasal loss rule",
+      "d) The rule appeared, then disappeared, and stopped working"
+    ],
+    "correct answer(s)": "d) The rule appeared, then disappeared, and stopped working",
+    "GPT's response": "d) The rule appeared, then disappeared, and stopped working",
+    "correct": true
+  },
+  {
+    "question": "What is the nasal loss rule?",
+    "category": "933",
+    "answers": [
+      "a) The rule that requires nasals to precede fricatives persistently",
+      "b) The rule that states all nasals before fricatives are deleted",
+      "c) The rule stating that nasals are lost if they are preceded by a consonant",
+      "d) The rule mandating the loss of nasality"
+    ],
+    "correct answer(s)": "b) The rule that states all nasals before fricatives are deleted",
+    "GPT's response": "b) The rule that states all nasals before fricatives are deleted",
+    "correct": true
+  },
+  {
+    "question": "When did the nasal loss rule operate?",
+    "category": "934",
+    "answers": [
+      "a) 200 years ago",
+      "b) 500 years ago",
+      "c) 1500 years ago",
+      "d) 50 years ago"
+    ],
+    "correct answer(s)": "c) 1500 years ago",
+    "GPT's response": "c) 1500 years ago",
+    "correct": true
+  },
+  {
+    "question": "How do we know that a word like 'anthem' entered English after the nasal loss rule?",
+    "category": "935",
+    "answers": [
+      "a) Old English scribes intentionally omitted words with nasals before fricatives",
+      "b) 'Anthem' evolved from a different English dialect that did not follow the rule",
+      "c) In Old English texts, 'anthem', 'pansy', and similar words are never found, indicating they entered later",
+      "d) Historical records show 'anthem' was replaced with alternative words during that period"
+    ],
+    "correct answer(s)": "c) In Old English texts, 'anthem', 'pansy', and similar words are never found, indicating they entered later",
+    "GPT's response": "c) In Old English texts, 'anthem', 'pansy', and similar words are never found, indicating they entered later",
+    "correct": true
+  },
+  {
+    "question": "How far back in time can we go when reconstructing Indo-European language?",
+    "category": "936",
+    "answers": [
+      "a) 1000-2000 years",
+      "b) 4000-4500 years",
+      "c) 6000-7000 years",
+      "d) 2000-3000 years"
+    ],
+    "correct answer(s)": "b) 4000-4500 years",
+    "GPT's response": "b) 4000-4500 years",
+    "correct": true
+  },
+  {
+    "question": "Why is claiming that Indo-European and Ugro-Finnic are related considered weak?",
+    "category": "937",
+    "answers": [
+      "a) They have too few similar syntactic structures",
+      "b) There is no extensive vocabulary overlap beyond basic elements",
+      "c) Cultural similarities skew linguistic analysis",
+      "d) They are only compared based on 5 vowels and 9 consonants, which are common in most languages"
+    ],
+    "correct answer(s)": "d) They are only compared based on 5 vowels and 9 consonants, which are common in most languages",
+    "GPT's response": "d) They are only compared based on 5 vowels and 9 consonants, which are common in most languages",
+    "correct": true
+  },
+  {
+    "question": "What does the regularity principle in historical linguistics state?",
+    "category": "938",
+    "answers": [
+      "a) Language changes can only be regular, there is no other way in which it can be conceived of",
+      "b) Language changes in language are often arbitrary and unpredictable",
+      "c) Language changes are regularized by phonologists",
+      "d) Language changes primarily result from societal influences"
+    ],
+    "correct answer(s)": "a) Language changes can only be regular, there is no other way in which it can be conceived of",
+    "GPT's response": "a) Language changes can only be regular, there is no other way in which it can be conceived of",
+    "correct": true
+  },
+  {
+    "question": "What does the uniformitarian principle in historical linguistics state?",
+    "category": "939",
+    "answers": [
+      "a) Language changes often introduces completely new phonological rules",
+      "b) Current language features are novel developments without historical precedent",
+      "c) Language rules from the present have evolved significantly and bear no resemblance to the past",
+      "d) Whatever we observe nowadays must have existed in the past as well"
+    ],
+    "correct answer(s)": "d) Whatever we observe nowadays must have existed in the past as well",
+    "GPT's response": "d) Whatever we observe nowadays must have existed in the past as well",
+    "correct": true
+  },
+  {
+    "question": "What does the presence of two wildly similar words in two languages indicate about their relatedness?",
+    "category": "940",
+    "answers": [
+      "a) They are likely to have evolved independently",
+      "b) Shared vocabulary indicates only cultural exchange, not linguistic descent",
+      "c) They are almost certainly related",
+      "d) There is no proof of relatedness based solely on their similarity"
+    ],
+    "correct answer(s)": "d) There is no proof of relatedness based solely on their similarity",
+    "GPT's response": "d) There is no proof of relatedness based solely on their similarity",
+    "correct": true
+  },
+  {
+    "question": "In historical linguistics, what can be thought of as the 'language genes' that underlie related languages?",
+    "category": "941",
+    "answers": [
+      "a) Shared vocabulary",
+      "b) Grammatical structures",
+      "c) Writing systems",
+      "d) Regular phonological changes"
+    ],
+    "correct answer(s)": "d) Regular phonological changes",
+    "GPT's response": "d) Regular phonological changes",
+    "correct": true
+  },
+  {
+    "question": "Which of the following pairs of languages are related only ultimately?",
+    "category": "942",
+    "answers": [
+      "a) English and German",
+      "b) English and French",
+      "c) French and Spanish",
+      "d) English and Hungarian"
+    ],
+    "correct answer(s)": "b) English and French",
+    "GPT's response": "The pair of languages that are related only ultimately is d) English and Hungarian.",
+    "correct": false
+  },
+  {
+    "question": "Which two languages are immediately related?",
+    "category": "943",
+    "answers": [
+      "a) English and Spanish",
+      "b) English and German",
+      "c) French and Hungarian",
+      "d) French and Dutch"
+    ],
+    "correct answer(s)": "b) English and German",
+    "GPT's response": "b) English and German",
+    "correct": true
+  },
+  {
+    "question": "Which pair of languages are not genetically related at all?",
+    "category": "944",
+    "answers": [
+      "a) English and Farsi",
+      "b) Ukrainian and Sanskrit",
+      "c) English and French",
+      "d) English and Hungarian"
+    ],
+    "correct answer(s)": "d) English and Hungarian",
+    "GPT's response": "d) English and Hungarian",
+    "correct": true
+  },
+  {
+    "question": "What does a historical linguist consider to be the primary difference between a language and a dialect?",
+    "category": "945",
+    "answers": [
+      "a) The number of speakers using each variety",
+      "b) A language is a dialect with an army and navy",
+      "c) There is virtually no difference",
+      "d) The written forms and scripts they use"
+    ],
+    "correct answer(s)": "c) There is virtually no difference",
+    "GPT's response": "c) There is virtually no difference",
+    "correct": true
+  },
+  {
+    "question": "On what basis is the distinction between language and dialect primarily established, according to non-linguistic perspectives?",
+    "category": "946",
+    "answers": [
+      "a) The age and historical depth of the dialects",
+      "b) The phonological and syntactic complexity",
+      "c) Social, cultural, military, naval, or other supremacy differences",
+      "d) The number of phonemes each dialect contains"
+    ],
+    "correct answer(s)": "c) Social, cultural, military, naval, or other supremacy differences",
+    "GPT's response": "c) Social, cultural, military, naval, or other supremacy differences",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words entered GA and SSBE together?",
+    "category": "947",
+    "answers": [
+      "a) Bath, sun, course",
+      "b) Banana, basil, quesadilla",
+      "c) Sushi, sachet, gateau",
+      "d) Jalapeno, chinchilla, chihuahua"
+    ],
+    "correct answer(s)": "a) Bath, sun, course",
+    "GPT's response": "a) Bath, sun, course",
+    "correct": true
+  },
+  {
+    "question": "Which of the following words entered GA and SSBE separately?",
+    "category": "948",
+    "answers": [
+      "a) Bath, sun, course",
+      "b) Banana, basil, sushi",
+      "c) Sun, course, chihuahua",
+      "d) Bath, jalapeno, quesadilla"
+    ],
+    "correct answer(s)": "b) Banana, basil, sushi",
+    "GPT's response": "b) Banana, basil, sushi",
+    "correct": true
+  },
+  {
+    "question": "What is the rule for R-dropping in phonology?",
+    "category": "949",
+    "answers": [
+      "a) r \u2192 \u00d8 / #__",
+      "b) r \u2192 f / __V",
+      "c) r \u2192 \u00d8 / __#, __C",
+      "d) r \u2192 \u00d8 / V__, __C"
+    ],
+    "correct answer(s)": "c) r \u2192 \u00d8 / __#, __C",
+    "GPT's response": "c) r \u2192 \u00d8 / __#, __C",
+    "correct": true
+  },
+  {
+    "question": "What does NG-coalescence refer to in phonology?",
+    "category": "950",
+    "answers": [
+      "a) The process by which the velar nasal (\u014b) becomes a vowel",
+      "b) The assimilation of nasals to following fricatives",
+      "c) The loss of velar sounds in all environments",
+      "d) Whether the velar nasal (\u014b) is a phoneme or not"
+    ],
+    "correct answer(s)": "d) Whether the velar nasal (\u014b) is a phoneme or not",
+    "GPT's response": "d) Whether the velar nasal (\u014b) is a phoneme or not",
+    "correct": true
+  },
+  {
+    "question": "In which case did the BATH-TRAP vowel lengthening fail according to the historical phonological change?",
+    "category": "951",
+    "answers": [
+      "a) If the short vowel was followed by a pause",
+      "b) If the short vowel was followed by silence",
+      "c) If the fricative was followed by a glottal stop",
+      "d) If the fricative was followed by a vowel in the same morpheme"
+    ],
+    "correct answer(s)": "d) If the fricative was followed by a vowel in the same morpheme",
+    "GPT's response": "d) If the fricative was followed by a vowel in the same morpheme",
+    "correct": true
+  },
+  {
+    "question": "In which instance did the BATH-TRAP vowel lengthening fail?",
+    "category": "952",
+    "answers": [
+      "a) If the short vowel was followed by a fricative",
+      "b) If the short vowel was followed by any consonant that is not a fricative",
+      "c) If the short vowel appeared at the end of a word",
+      "d) If the short vowel was preceded by a voiced fricative"
+    ],
+    "correct answer(s)": "b) If the short vowel was followed by any consonant that is not a fricative",
+    "GPT's response": "The BATH-TRAP vowel lengthening failed in the following instances: \n\nb) If the short vowel was followed by any consonant that is not a fricative. \n\nAdditionally, it also failed if the fricative was followed by a vowel in the same word.",
+    "correct": false
+  },
+  {
+    "question": "What is the rule for BATH-lengthening in phonology?",
+    "category": "953",
+    "answers": [
+      "a) a \u2192 a\u02d0 / __Stop(\u2212voi)C#, __Vowel(+high)",
+      "b) a \u2192 a\u02d0 / __Fric(\u2212voi)V, __Nasal(+voi)C",
+      "c) a \u2192 a\u02d0 / __NasalC__, __C#",
+      "d) a \u2192 a\u02d0 / __ Fric(\u2212voi)#, __Fric(\u2212voi)C"
+    ],
+    "correct answer(s)": "d) a \u2192 a\u02d0 / __ Fric(\u2212voi)#, __Fric(\u2212voi)C",
+    "GPT's response": "d) a \u2192 a\u02d0 / __ Fric(\u2212voi)#, __Fric(\u2212voi)C",
+    "correct": true
+  },
+  {
+    "question": "What is the possible explanation for why we have words like mass and Basque that can have either long or short vowel? Also words like lass, bass \u2018perch\u2019, ass \u2018donkey\u2019 have a short vowel, while ass \u2018backside\u2019 usually has a long vowel, as does moustache.",
+    "category": "954",
+    "answers": [
+      "a) These words underwent a new vowel lengthening process after BATH-lengthening",
+      "b) Vowel length varies due to a general phonetic shift affecting all vowels in English",
+      "c) These words are influenced by modern pronunciation trends",
+      "d) These words were 'reborrowed' from accents where BATH-lengthening never occurred"
+    ],
+    "correct answer(s)": "d) These words were 'reborrowed' from accents where BATH-lengthening never occurred",
+    "GPT's response": "d) These words were 'reborrowed' from accents where BATH-lengthening never occurred",
+    "correct": true
+  },
+  {
+    "question": "Which is the formula for the r-insertion rule?",
+    "category": "955",
+    "answers": [
+      "a) 0 \u2192 r  / V__V",
+      "b) 0 \u2192 r / #_V",
+      "c) r \u2192 0 / V\u02d0#__",
+      "d) 0 \u2192 r / V\u02d0# __ V"
+    ],
+    "correct answer(s)": "d) 0 \u2192 r / V\u02d0# __ V",
+    "GPT's response": "The formula for the r-insertion rule is b) 0 \u2192 r / #_V.",
+    "correct": false
+  },
+  {
+    "question": "What is the traditional name for the combined effects of the first nurse merger and the backing of the historical a vowel before coda r?",
+    "category": "956",
+    "answers": [
+      "a) Vowel harmony",
+      "b) Final-obstruent devoicing",
+      "c) Palatalization",
+      "d) Pre-R broadening"
+    ],
+    "correct answer(s)": "d) Pre-R broadening",
+    "GPT's response": "d) Pre-R broadening",
+    "correct": true
+  },
+  {
+    "question": "What changes can collectively be referred to as pre-R broadening?",
+    "category": "957",
+    "answers": [
+      "a) Lowering of e to \u025b and centralizing of a to \u0259 before coda R",
+      "b) First nurse merging, backing of a to \u0251, and raising of \u0254 to o before coda R",
+      "c) Fronting of a to \u00e6 and reduction of u to \u028a before coda R",
+      "d) Merging of i and e with subsequent vowel lengthening before coda R"
+    ],
+    "correct answer(s)": "b) First nurse merging, backing of a to \u0251, and raising of \u0254 to o before coda R",
+    "GPT's response": "The changes that can collectively be referred to as pre-R broadening include the first nurse merger, the backing of the historical a vowel to \u0251 before coda R, and the failure of \u0254 to become \u0251 before coda R. Therefore, the correct answer is:\n\nb) First nurse merging, backing of a to \u0251, and raising of \u0254 to o before coda R.",
+    "correct": false
+  },
+  {
+    "question": "Which sources can R-vowels come from?",
+    "category": "958",
+    "answers": [
+      "a) Pre-R broadening",
+      "b) Pre-R broadening and pre-R breaking",
+      "c) pre-R breaking",
+      "d) Post-vocalic lengthening and consonant fronting"
+    ],
+    "correct answer(s)": "b) Pre-R broadening and pre-R breaking",
+    "GPT's response": "b) Pre-R broadening and pre-R breaking",
+    "correct": true
+  }
+]

@@ -1,0 +1,356 @@
+== cat 201
+What do about half of the world’s languages contrast in terms of laryngeal properties?
+# Vocalic qualities
+# ! Two series of obstruents
+# Syllable structures
+# Stress patterns
+
+== cat 202
+What characteristic defines the /b/ in Hun. bál?
+# Passive voicing
+# Fortis articulation
+# Long-lag VOT
+# ! Vocal fold vibration
+
+== cat 203
+What VOT value characterizes voiced plosives where voicing begins prior to the release of the stops?
+# Zero VOT
+# Long-lag VOT
+# Positive VOT
+# ! Negative VOT
+
+== cat 204
+What VOT value is associated with voiceless unaspirated plosives, where vocal fold vibration begins right around its release?
+# Negative VOT
+# Long-lag VOT
+# Positive VOT
+# ! Zero VOT
+
+== cat 205
+What VOT value is indicative of voiceless aspirated plosives, where voicing is delayed and lags behind the release of the stop?
+# Negative VOT
+# Zero VOT
+# Short-lag VOT
+# ! Positive VOT
+
+== cat 206
+What is the term for the unmarked way of articulating sonorant segments, which involves vocal fold vibration?
+# Passive voicing
+# Breathiness
+# Fortis articulation
+# ! Spontaneous voicing
+
+== cat 207
+In English, how can obstruents become voiced if it is not actively targeted during articulation?
+# Spontaneously voiced
+# Undervoiced
+# ! Passively voiced
+# Voiced by aspiration
+
+== cat 208
+Where do the English obstruents /b, d, g; v, ð, z, ʒ; ʤ/ have their voiced allophones?
+# At the end of a phrase
+# After a nasal sound
+# At the start of a sentence
+# ! In intersonorant position
+
+== cat 209
+Where do English obstruents like /b, d, g; v, ð, z, ʒ; ʤ/ exhibit partially voiced or entirely voiceless allophones?
+# Before a stressed vowel
+# In word-final position
+# ! Not in intersonorant position
+# Following a liquid consonant
+
+== cat 210
+Why is voicing in obstruents in Hungarian referred to as active voicing?
+# Because it happens involuntarily
+# As it only occurs in unstressed syllables
+# Due to the influence of surrounding vowels
+# ! Because it's the result of active articulatory gestures
+
+== cat 211
+How is the laryngeal contrast realized in English words like de/k/rée vs. de/g/rée?
+# The presence vs. absence of nasality
+# The presence vs. absence of lenis articulation
+# The presence vs. absence of fortis articulation
+# ! The presence vs. absence of aspiration
+
+== cat 212
+What happens to the /g/ in English words like de/g/rée?
+# It becomes devoiced
+# It gains aspiration
+# It undergoes nasalization
+# ! It is passively voiced
+
+== cat 213
+What phonetic cues are used to encode the opposition in the laryngeal contrast at the end of words?
+# Aspiration and nasalization
+# Vowel lengthening and nasalization
+# ! Prefortis clipping and preglottalization
+# Voicing and fortis articulation
+
+== cat 214
+What is preglottalization?
+# The lengthening of the preceding vowel
+# The nasalization of a vowel before a plosive
+# The formation of a nasal consonant following a plosive
+# ! The pronunciation of the glottal stop [ʔ] before plosives and affricates
+
+== cat 215
+Which of the following languages is considered a true voicing language?
+# Mandarin Chinese
+# English
+# ! Hungarian
+# Icelandic
+
+== cat 216
+Which type of laryngeal system does Spanish exemplify?
+# Aspirating language
+# ! True voicing language
+# Nasalizing language
+# Vowel harmony language
+
+== cat 217
+Which language is an example of an aspirating language?
+# ! English
+# Serbo-Croatian
+# Italian
+# French
+
+== cat 218
+Which of the following languages does not belong to the aspirating language category?
+# German
+# ! Ukrainian
+# Norwegian
+# Icelandic
+
+== cat 219
+Which laryngeal system classification applies to Czech?
+# Aspirating language
+# Tonal language
+# ! True voicing language
+# Reduplicating language
+
+== cat 220
+German is categorized as which type of laryngeal system?
+# True voicing language
+# Click language
+# ! Aspirating language
+# Stress-timed language
+
+== cat 221
+Among the following, which language demonstrates a voicing system with negative and zero VOT contrasts?
+# Mandarin Chinese
+# ! Serbo-Croatian
+# Icelandic
+# English
+
+== cat 222
+In terms of laryngeal systems, how is Icelandic classified?
+# True voicing language
+# Nasal harmony language
+# Syllable-timed language
+# ! Aspirating language
+
+== cat 223
+What is observed regarding aspiration following /s/?
+# Presence of voicing
+# Intensified aspiration
+# Increased nasalization
+# ! No aspiration
+
+== cat 224
+What type of fricatives do not allow aspiration of following plosives in English?
+# Lenis fricatives
+# Nasal fricatives
+# ! Fortis fricatives
+# Lateral fricatives
+
+== cat 225
+Why is the /k/ in "dis[k]óvery" unaspirated?
+# Because it is at the end of the word
+# Because it is positioned after a nasal sound
+# ! Because it follows a fortis fricative
+# Because it is followed by a vowel
+
+== cat 226
+In which word is the plosive also unaspirated, due to the position in the word like "dis[k]óvery"?
+# nigh<t>mare
+# trac<t>or
+# ! fif<t>een
+# ma<t>chbox
+
+== cat 227
+To account for the absence of aspiration in fortis fricative + plosive clusters, what concept can we refer to?
+# Stress patterns
+# Nasalization
+# Vowel length
+# ! Syllables
+
+== cat 228
+When can a fortis plosive be aspirated?
+# ! At the beginning of a stressed syllable
+# After a nasal consonant
+# In a word-final position
+# Following a voiced vowel
+
+== cat 229
+Which condition for voicing is not fulfilled in words like s[p]eak, s[k]ool, and di.s[k]ó.ve.ry?
+# Fortis obstruent following a nasal
+# Lenition of the vowel
+# Aspiration after a voiceless fricative
+# ! A fortis plosive can only be aspirated at the beginning of a word or at the beginning of a stressed syllable
+
+== cat 230
+Why is there no aspiration in fíf[t]éen or káf[t]an?
+# They end with a vocalic sound
+# The preceding vowel is nasalized
+# ! Because the plosives are not at the beginning of a word or a stressed syllable
+# Due to surrounding voiceless fricatives
+
+== cat 231
+What would a native speaker hear in an audio recording of the word "speak" with /s/ chopped off from the beginning of the word?
+# Peak
+# meak
+# feak
+# ! Beak
+
+== cat 232
+Why would a native speaker hear "beak" instead of "peak" in an audio recording of the word "speak" with /s/ chopped off?
+# The vowel is nasalized, altering perception
+# The plosive undergoes fortition spontaneously
+# ! A word-initial plosive pronounced without aspiration is perceived as a lenis segment
+# The stress pattern causes voicing assimilation
+
+== cat 233
+Why do we analyze the unaspirated voiceless plosives in s[p]eak, s[k]ool, dis[k]óvery, fíf[t]éen, and káf[t]an phonologically as lenis plosives?
+# They occur at the end of syllables
+# They follow nasal consonants
+# They precede voiced vowels
+# ! Because the lack of aspiration leads to their perception as lenis segments
+
+== cat 234
+Traditionally, which distinctive feature was used to represent the contrast between obstruents in both Hungarian and English?
+# [Nasal]
+# [Aspiration]
+# [Tension]
+# ! [Voice]
+
+== cat 235
+What is the laryngeal specification of obstruents like /b, d, g; v, ð, z, ʒ; ʤ/ in Hungarian?
+# Fortis
+# Voiceless
+# Aspirated
+# ! Voice
+
+== cat 236
+What series of obstruents is laryngeally specified in Hungarian?
+# Fortis
+# Lenis
+# Aspirated
+# ! Voiced
+
+== cat 237
+What series of obstruents is laryngeally unspecified in Hungarian?
+# Nasal
+# ! Voiceless
+# Fortis
+# Glottalized
+
+== cat 238
+Which series of obstruents is laryngeally unspecified in Hungarian?
+# /m, n, ŋ/
+# /v, ð, z/
+# /b, d, g/
+# ! /p, t, k; f, θ, s, ʃ, h; ʧ/
+
+== cat 239
+What series of obstruents is laryngeally unspecified in English?
+# Nasal
+# Aspirated
+# Fortis
+# ! Lenis
+
+== cat 240
+What series of obstruents is laryngeally specified in English?
+# Voiced
+# Nasal
+# Aspirated
+# ! Fortis
+
+== cat 241
+Which series of obstruents is laryngeally unspecified in English?
+# /p, t, k; f, θ, s, ʃ, h; ʧ/
+# Nasal sounds like /m, n, ŋ/
+# Aspirated plosives
+# ! /b, d, g; v, ð, z, ʒ; ʤ/
+
+== cat 242
+What happens to /s/ in the Hungarian word /dizgraːfiɔ/?
+# It gets deleted
+# It becomes aspirated
+# It turns into a nasal sound
+# ! It undergoes voicing due to the voiced /g/, becoming /z/
+
+== cat 243
+Why is there no regressive voice assimilation in English?
+# ! Voicing is not a distinctive property of lenis obstruents
+# The voiceless obstruents are stronger
+# English lacks fortis obstruents
+# The stress pattern prevents assimilation
+
+== cat 244
+What phenomenon characterizes aspirating languages and involves the spreading of [fortis]?
+# Retroflex articulation shifting
+# Vowel raising in unstressed syllables
+# Palatalization of adjacent consonants
+# ! Sonorant devoicing after fortis obstruents
+
+== cat 245
+What is the underlying laryngeal property of the plural/possessive/3rd person singular present tense morpheme -s and the past tense/past participle morpheme -ed?
+# Fortis
+# Voiceless
+# Aspirated
+# ! Lenis
+
+== cat 246
+Why do we say that the underlying laryngeal property of the plural/possessive/3rd person singular present tense morpheme -s and the past tense/past participle morpheme -ed are lenis?
+# Because they undergo deaspiration
+# Because they are followed by nasal sounds
+# ! Because they reveal their lenis nature when not affected by a preceding obstruent
+# Because they are stressed in pronunciation
+
+== cat 247
+What do forms of the 3rd person singular -s and past tense morpheme -ed reveal in words like /plɛjz/ and /plɛjd/?
+# Aspirated plosives in contexts
+# The influence of vowel quality
+# ! Their underlying lenis nature when unaffected by obstruents
+# The presence of nasal harmony
+
+== cat 248
+What phenomenon can we observe in /kat/ + /z/ → /kats/?
+# Retrogressive voicing assimilation
+# ! Progressive laryngeal assimilation with the spreading of [fortis]
+# Vowel raising affecting consonant voicing
+# Intervocalic voicing neutralization
+
+== cat 249
+What do voiced obstruents trigger in Hungarian?
+# Palatalization
+# Nasal assimilation
+# Labialization
+# ! Regressive voice assimilation
+
+== cat 250
+Which statement is true about fortisness?
+# It is neutralized in unstressed syllables
+# ! It is a phonologically active property
+# It triggers vowel lengthening
+# It leads to devoicing of all adjacent sounds
+
+== cat 251
+On a phonetic basis, we could argue that which features should be assumed to be present in Swedish?
+# Only [voice]
+# Only [fortis]
+# Nasalization and aspiration
+# ! Both [voice] and [fortis]

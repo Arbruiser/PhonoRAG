@@ -1,0 +1,167 @@
+== cat 1
+What is the primary focus of diachronic linguistics compared to synchronic linguistics?
+# Analyzing the current structure of a language.
+# Studying the social implications of language use.
+# ! Examining the historical development and changes in a language.
+# Understanding the biological basis of language acquisition.
+
+== cat 2
+Which phenomenon explains the insertion of a schwa before a glide followed by a rhotic in Southern British English?
+# ! Breaking.
+# Nasalization.
+# Fronting.
+# Diphthongization.
+
+== cat 3
+What is the "carrot-rule" in Southern Standard British English?
+# A rule that prohibits the use of long vowels before any consonant.
+# A rule that allows schwa insertion before consonants.
+# ! A rule indicating that if R was not deleted, the vowel before it is short.
+# A rule that mandates the lengthening of all vowels before R.
+
+== cat 4
+In the analysis of phonological change, what does the term "compensatory lengthening" refer to?
+# The shortening of consonants in clusters.
+# The insertion of vowels between consonants.
+# ! The lengthening of vowels when a following consonant is deleted.
+# The reduction of vowel length in unstressed syllables.
+
+== cat 5
+Which change in General American English is responsible for the merging of the vowels in "first," "nurse," and "serf"?
+# Diphthongization.
+# Fronting.
+# ! First-Nurse Merger.
+# R-dropping.
+
+== cat 6
+What is the result of the BATH-TRAP split in Southern Standard British English?
+# A new set of consonant clusters.
+# The introduction of nasal vowels.
+# ! The differentiation of vowel quality in words like "bath" and "trap."
+# The loss of all rhotic sounds.
+
+== cat 7
+In what context does the intrusive r appear in Southern Standard British English?
+# Before any consonant.
+# ! After long vowels and schwa before a vowel-initial word.
+# At the beginning of a sentence.
+# In the middle of a word.
+
+== cat 8
+What is the primary difference between the vowels in "story" and "porridge" in conservative New England American English?
+# ! "Story" retains a tense vowel, while "porridge" has a lax vowel.
+# Both words have identical vowels.
+# "Story" has a nasalized vowel, while "porridge" does not.
+# "Porridge" has a tense vowel, while "story" has a lax vowel.
+
+== cat 9
+Why are the words "mass" and "passive" pronounced with different vowels in Southern Standard British English?
+# Due to vowel harmony rules.
+# ! Because of the influence of BATH-lengthening in "mass" but not in "passive."
+# As a result of nasalization.
+# Because of schwa insertion in "passive."
+
+== cat 10
+Which of the following is a characteristic of Scottish Standard English regarding pre-r vowels?
+# ! No change in vowel quality before r compared to other environments.
+# The introduction of nasal vowels before r.
+# The insertion of a schwa before r.
+# A complete loss of all pre-r vowels.
+
+== cat 11
+What is the effect of the rule known as "smoothing" in Southern Standard British English?
+# The insertion of consonants in vowel clusters.
+# The lengthening of consonants after vowels.
+# ! The monophthongization of diphthongs before a following vowel.
+# The deletion of unstressed syllables.
+
+== cat 12
+How does the presence of r affect vowel length in Southern Standard British English?
+# It causes vowels to become nasalized.
+# It has no effect on vowel length.
+# ! Vowels are lengthened when r is deleted.
+# Vowels are shortened before r.
+
+== cat 13
+What phonological process is responsible for the difference in pronunciation between "clasp" and "asp" in Southern Standard British English?
+# Diphthongization.
+# ! BATH-lengthening.
+# Nasalization.
+# Schwa insertion.
+
+== cat 14
+Which rule applies to the deletion of historical R in Southern Standard British English?
+# Nasalization.
+# ! R-dropping.
+# Vowel harmony.
+# Consonant cluster reduction.
+
+== cat 15
+What is the primary reason for the lack of diphthongs before r in Southern Standard British English?
+# Nasalization of vowels.
+# ! Breaking and subsequent smoothing.
+# Vowel harmony.
+# Consonant insertion.
+
+== cat 16
+What is the result of the MARRY MERRY MARY merger in General American English?
+# The introduction of nasal vowels.
+# ! The merging of previously distinct vowels into a single vowel.
+# The loss of all rhotic sounds.
+# The lengthening of all vowels.
+
+== cat 17
+Which feature distinguishes Northern British English from Southern Standard British English regarding diphthongs?
+# The presence of nasal vowels.
+# ! The absence of mid vowel diphthongization.
+# The insertion of schwa in all diphthongs.
+# The complete loss of all diphthongs.
+
+== cat 18
+What is the historical origin of the vowel in "spa" in General American English?
+# A nasalized vowel.
+# A diphthong.
+# ! A tense vowel.
+# A schwa.
+
+== cat 20
+Which of the following words exemplifies the result of pre-R broadening in Southern Standard British English?
+# Pit.
+# ! Burn.
+# Cat.
+# Spit.
+
+== cat 22
+What is a significant consequence of the FOOT-STRUT split in certain English accents?
+# The introduction of nasal vowels.
+# The loss of all rhotic sounds.
+# ! The creation of a phonemic distinction between ʊ and ʌ.
+# The lengthening of all vowels.
+
+== cat 23
+What is the effect of the "anti-syncopation" constraint in Southern Standard British English?
+# The deletion of vowels in unstressed syllables.
+# The nasalization of consonants.
+# ! The insertion of schwa between glides and rhotics.
+# The lengthening of consonants in clusters.
+
+== cat 26
+Which of the following words illustrates the result of the BATH-TRAP split in Southern Standard British English?
+# ! Class.
+# Cat.
+# Spit.
+# Pit.
+
+== cat 28
+Which of the following is a result of the first nurse merger in General American English?
+# The introduction of nasal vowels.
+# The lengthening of all vowels.
+# ! The merging of previously distinct vowels into schwa before coda R.
+# The loss of all rhotic sounds.
+
+== cat 30
+Which of the following words demonstrates the effect of pre-R broadening in General American English?
+# Cat.
+# ! Burn.
+# Spit.
+# Pit.

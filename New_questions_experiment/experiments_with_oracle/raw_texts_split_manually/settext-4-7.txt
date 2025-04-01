@@ -1,0 +1,9 @@
+
+(8) The checked vowels
+	“nonlow”	i	ə u	unstressable
+	“nonhigh”	e	a	o	not unstressable
+In defence of the indeterminate labels “nonlow” and “nonhigh” it must be noted that the vowels of the top line are not necessarily high, but they are certainly not low. Similarly, those of the bottom line are not all low, but certainly none of them is high. Kenstowicz (1997) shows that in some languages the stressability scale does not only involve quantity, but also quality. Put simply the more sonorous, that is, the more open a vowel, the more stressable it is. This is exactly what we find in English, too: the closer, less sonorous vowel of each pair, [i], [ə], and [u], may occur unstressed, the opener, more sonorous ones, [e], [a], and [o], may not. So opener vowels are less “unstressable” than closer ones. More concretely, they are not unstressable, while closer ones are. Thus the fact that [i], [ə], and [u] may occur in unstressed position in English, while [e], [a], and [o] may not follows from universals of language.
+   However, we have seen that some of the free vowels, traditionally classified as diphthongs, may also occur in unstressed position. We are going to examine them in the next section.
+4. UNSTRESSED FREE VOWELS
+We have seen that HAPPY-tensing is responsible for the creation of a word-final and prevocalic unstressed free vowel, FLEECE. Two further free vowels occur unstressed, GOAT and GOOSE. If we organize the free vowels as we have in (8) according to their first element, we get the arrangement in (9).
+

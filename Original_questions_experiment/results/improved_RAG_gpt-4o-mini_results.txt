@@ -1,0 +1,116 @@
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-ada-002
+similarity cutoff: 0
+
+Prompt: Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2:		Correct answers 76 / total questions 129 * 100 = 58.91%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 70 / total questions 106 * 100 = 66.04%
+itembank-9a:		Correct answers 23 / total questions 46 * 100 = 50.0%
+itembank-9b:		Correct answers 39 / total questions 75 * 100 = 52.0%
+
+Overall correct answers 224 / total questions 395 * 100 = 56.71%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-ada-002
+similarity cutoff: 0
+
+Prompt: Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2:		Correct answers 77 / total questions 129 * 100 = 59.69%
+itembank-3-4:		Correct answers 16 / total questions 39 * 100 = 41.03%
+itembank-5-6:		Correct answers 71 / total questions 106 * 100 = 66.98%
+itembank-9a:		Correct answers 21 / total questions 46 * 100 = 45.65%
+itembank-9b:		Correct answers 38 / total questions 75 * 100 = 50.67%
+
+Overall correct answers 223 / total questions 395 * 100 = 56.46%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-ada-002
+similarity cutoff: 0
+
+Prompt: Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2:		Correct answers 72 / total questions 129 * 100 = 55.81%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 71 / total questions 106 * 100 = 66.98%
+itembank-9a:		Correct answers 22 / total questions 46 * 100 = 47.83%
+itembank-9b:		Correct answers 37 / total questions 75 * 100 = 49.33%
+
+Overall correct answers 219 / total questions 395 * 100 = 55.44%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-ada-002
+similarity cutoff: 0
+
+Prompt: Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2:		Correct answers 76 / total questions 129 * 100 = 58.91%
+itembank-3-4:		Correct answers 17 / total questions 39 * 100 = 43.59%
+itembank-5-6:		Correct answers 71 / total questions 106 * 100 = 66.98%
+itembank-9a:		Correct answers 22 / total questions 46 * 100 = 47.83%
+itembank-9b:		Correct answers 36 / total questions 75 * 100 = 48.0%
+
+Overall correct answers 222 / total questions 395 * 100 = 56.2%
+
+------------------------------------------------------------------------
+
+breakpoint percentile: 70
+top_k: 10
+embedding model: text-embedding-ada-002
+similarity cutoff: 0
+
+Prompt: Context information is below.
+---------------------
+{context_str}
+---------------------
+Given the context information and not prior knowledge, answer the query. The context is incredibly important, read and analyze it extremely carefully! Only answer with the letter and text of the answer which you think is correct.
+Question: {query_str}
+Answer: 
+
+itembank-2:		Correct answers 73 / total questions 129 * 100 = 56.59%
+itembank-3-4:		Correct answers 15 / total questions 39 * 100 = 38.46%
+itembank-5-6:		Correct answers 70 / total questions 106 * 100 = 66.04%
+itembank-9a:		Correct answers 22 / total questions 46 * 100 = 47.83%
+itembank-9b:		Correct answers 37 / total questions 75 * 100 = 49.33%
+
+Overall correct answers 217 / total questions 395 * 100 = 54.94%
+
+------------------------------------------------------------------------
+

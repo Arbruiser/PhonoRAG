@@ -1,0 +1,50 @@
+
+7.6.2. Dislocated Tonic Placement 
+In order to focus some part of the message, to contrast it with something, or to highlight it as new information, the tonic may be dislocated, i.e. placed elsewhere than the neutralplacement rules would prescribe. Compare: 
+(a) She spent a year in the Sforest.  	– neutral tonic placement 
+(b) She spent a SYEAR in the forest. 	– dislocated tonic placement 
+A dislocated tonic need not be louder than the other stresses – it is just earlier or later than it would be in the neutral stress pattern. (In the following examples the dislocated tonic is printed in CAPITALS.) 
+ In everyday life people use the word “stress” exactly for this kind of emphasis, and not for the syllabic prominence that “stress” means to the linguist. People say: The headmaster stressed that our school was a traditional one, meaning that he laid special emphasis on tradition. (The same is done in Hungarian, where the everyday meaning of “hangsúly(oz)” is similarly “emphasis, emphasize”:  z igazgató hangsúlyozta...). The layman would say that in sentence (a) above we “didn’t stress anything”, while in (b) we “stressed” that it was a whole year. From a linguistic point of view, the word year is stressed in both (a) and (b); but in (b) it is made emphatic by receiving a dislocated tonic. 
+ 
+ 
+7.6.2.1. Dislocated tonic for contrast 
+The tonic may be dislocated in order to contrast one element (a word, a morpheme, or a grammatical feature, like tense). 
+ 
+ (A) LEXICAL CONTRAST  
+A frequent case of dislocated tonic placement is lexical contrast, when the speaker emphasizes a word which is earlier than the tonic. For example 
+ 	 	Jane  BOUGHT three rabbits at the market.  (She did not sell them.) 
+ 	 	Tim was so drunk he literally  CRAWLED out of the pub.  (instead of walking) 
+Even the verb be can be lexically contrasted: 
+ 	 	(She sounds Welsh to me.) — ′That’s beˈcause she  IS Welsh. 
+ 	 	(It tasted like bad wine.)  —  It  WAS bad wine. 
+ 
+ (B) VERBAL CONTRASTS: MODALITY AND YES/NO POLARITY  
+Another type of contrast that we express with a dislocated tonic concerns the mood, tense, or positive/negative value (the “polarity”) of the verb. The two sentences below show these three types of difference: 
+(a) Tim will enjoy the perpformance.  (neutral tonic)  	 	 	(indicative mood, future tense, positive polarity) 
+(b) Tim TWON’T enjoy the performance. 
+ 	 	 	(indicative mood, future tense, negative polarity) 
+This is not lexical contrast since the verb (enjoy) is the same: the speaker is not contrasting one verb with another, but is contrasting the accompanying values of the same verb. In modality and polarity contrast, the dislocated tonic always falls on an auxiliary. If there is no auxiliary (in the simple present or past), the auxiliary do has to come in to bear the tonic. 
+
+ (i) Verbal modality (mood and tense) contrast  
+“Mood”, for our purposes, includes not only indicative and conditional, but also meanings expressed by the modal auxiliaries (can, could, ought to, etc.). The category “tense” covers all verbal categories including aspect like continuous (= progressive), passive, etc. 
+ 
+ 	(Has Sue gone to France?) — No, but she  MIGHT go. 
+ 	(When will the students write the application?) — They  ARE writing it. 
+ 	(Why don’t you try the cheesecake?) — I  HAVE tried it, thanks. 
+ 	(I think Tim works at a hospital.)  —  He  DID work there (...but doesn’t any more).  	(You should use this dictionary.)  —  We  DO use it. 
+ 	(Shouldn’t Joe study classical music?) — He  DOES study classical music. 
+ 
+ (ii) Yes/No polarity (positive/negative) contrast  
+The other type of non-lexical contrast in verbs concerns “polarity”, namely, positive (= affirmative) versus negative meaning. Polarity contrast (answering “yes” to “no”, or vice versa) is again achieved by placing the tonic on the auxiliary: 
+ 
+ 	(Sue can learn it on her own.) — She  CAN’T learn it on her own.  	(You can’t come in because you’re not members.) — We (ARE members. 
+ 	(I’m glad you’ve bought the tickets.) — We  HAVEN’T bought them. 
+ 	(You don’t like fish and chips, I suppose.) — I  DO like fish and chips. 
+ 	(It’s a shame you didn’t write to Liz.) — I  DID write to her. 
+ 
+Remember that do- forms or other auxiliaries are not needed in cases of lexical contrast, where the verb itself must be stressed: 
+ 	 	(Was Tim ill in hospital for so long?) — No, he  WORKED there. 
+ 	 	(Why don’t you throw away this old dictionary?) — We  USE it! 
+ 	 	(Joe teaches classical music, doesn’t he?) — He  STUDIES classical music. 
+ 
+ 

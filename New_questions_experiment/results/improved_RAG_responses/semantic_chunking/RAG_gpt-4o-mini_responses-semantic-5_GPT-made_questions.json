@@ -1,0 +1,704 @@
+[
+  {
+    "question": "What is the primary function of the End-Weight Principle in English prosody?",
+    "category": "\ufeff1",
+    "answers": [
+      "a) To place the main stress on the first word of a sentence.",
+      "b) To ensure that every syllable is equally stressed.",
+      "c) To ensure that the last stress in a sequence is the strongest.",
+      "d) To reduce the stress on all function words."
+    ],
+    "correct answer(s)": "c) To ensure that the last stress in a sequence is the strongest.",
+    "GPT's response": "c) To ensure that the last stress in a sequence is the strongest.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of an initially-stressed compound?",
+    "category": "2",
+    "answers": [
+      "a) trade union",
+      "b) fruit salad",
+      "c) car ferry",
+      "d) Victoria Station"
+    ],
+    "correct answer(s)": "c) car ferry",
+    "GPT's response": "The example of an initially-stressed compound is c) car ferry.",
+    "correct": false
+  },
+  {
+    "question": "What happens to the pitch in the head of a tone-unit in English intonation?",
+    "category": "3",
+    "answers": [
+      "a) It rises steadily until the tonic.",
+      "b) It remains constant throughout.",
+      "c) It fluctuates randomly.",
+      "d) It gradually lowers, known as downdrift."
+    ],
+    "correct answer(s)": "d) It gradually lowers, known as downdrift.",
+    "GPT's response": "d) It gradually lowers, known as downdrift.",
+    "correct": true
+  },
+  {
+    "question": "In which situation is the fall-rise tone typically used?",
+    "category": "4",
+    "answers": [
+      "a) To express enthusiasm.",
+      "b) To indicate a Wh-question.",
+      "c) To imply partial negation or reservation.",
+      "d) To command someone directly."
+    ],
+    "correct answer(s)": "c) To imply partial negation or reservation.",
+    "GPT's response": "c) To imply partial negation or reservation.",
+    "correct": true
+  },
+  {
+    "question": "How does the Rhythm Rule affect the stress pattern in a phrase like \"nice old lady\"?",
+    "category": "5",
+    "answers": [
+      "a) It emphasizes all three words equally.",
+      "b) It deletes the middle stress, making it \"nice old lady\".",
+      "c) It shifts the stress to the last word.",
+      "d) It reduces all words to tertiary stress."
+    ],
+    "correct answer(s)": "b) It deletes the middle stress, making it \"nice old lady\".",
+    "GPT's response": "b) It deletes the middle stress, making it \"nice old lady\".",
+    "correct": true
+  },
+  {
+    "question": "What is a characteristic of obscured compounds in English?",
+    "category": "6",
+    "answers": [
+      "a) They always have a high rising tone.",
+      "b) They are written with a hyphen.",
+      "c) The second element has zero stress and a reduced vowel.",
+      "d) They have primary stress on the second element."
+    ],
+    "correct answer(s)": "c) The second element has zero stress and a reduced vowel.",
+    "GPT's response": "c) The second element has zero stress and a reduced vowel.",
+    "correct": true
+  },
+  {
+    "question": "Which tone is used to soften commands or Wh-questions in English?",
+    "category": "7",
+    "answers": [
+      "a) Falling tone",
+      "b) High-rising tone",
+      "c) Falling-rising tone",
+      "d) Low-rising tone"
+    ],
+    "correct answer(s)": "c) Falling-rising tone",
+    "GPT's response": "d) Low-rising tone",
+    "correct": false
+  },
+  {
+    "question": "What is the function of the low-rising tone in a conversation?",
+    "category": "8",
+    "answers": [
+      "a) To express anger.",
+      "b) To show indifference or encouragement.",
+      "c) To indicate a question.",
+      "d) To emphasize a statement."
+    ],
+    "correct answer(s)": "b) To show indifference or encouragement.",
+    "GPT's response": "b) To show indifference or encouragement.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of a finally-stressed compound?",
+    "category": "9",
+    "answers": [
+      "a) Victoria Station",
+      "b) greenhouse",
+      "c) chocolate coloured",
+      "d) baby-sit"
+    ],
+    "correct answer(s)": "a) Victoria Station",
+    "GPT's response": "a) Victoria Station",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of the Tonic Assignment Rule on a sequence of stresses?",
+    "category": "10",
+    "answers": [
+      "a) It strengthens the first stress in the sequence.",
+      "b) It eliminates all secondary stresses.",
+      "c) It downgrades all but the last primary stress to secondary.",
+      "d) It places a high pitch on the first stress."
+    ],
+    "correct answer(s)": "c) It downgrades all but the last primary stress to secondary.",
+    "GPT's response": "c) It downgrades all but the last primary stress to secondary.",
+    "correct": true
+  },
+  {
+    "question": "How is the tonic typically indicated in transcription?",
+    "category": "11",
+    "answers": [
+      "a) By bolding the entire word.",
+      "b) By placing an exclamation mark before it.",
+      "c) By underlining the syllable or word.",
+      "d) By capitalizing the entire sentence."
+    ],
+    "correct answer(s)": "c) By underlining the syllable or word.",
+    "GPT's response": "c) By underlining the syllable or word.",
+    "correct": true
+  },
+  {
+    "question": "What is the primary stress pattern of the word \"reformation\" in isolation?",
+    "category": "12",
+    "answers": [
+      "a) /\u02ccref\u0259\u02c8me\u026a\u0283\u0259n/",
+      "b) /\u02c8ref\u0259\u02ccme\u026a\u0283\u0259n/",
+      "c) /r\u025bf\u0259\u02c8me\u026a\u0283\u0259n/",
+      "d) /\u02c8r\u025bf\u0259\u02ccme\u026a\u0283\u0259n/"
+    ],
+    "correct answer(s)": "a) /\u02ccref\u0259\u02c8me\u026a\u0283\u0259n/",
+    "GPT's response": "a) /\u02ccref\u0259\u02c8me\u026a\u0283\u0259n/",
+    "correct": true
+  },
+  {
+    "question": "In a sentence like \"I think Amanda should write Jennifer a letter,\" where does the neutral tonic fall?",
+    "category": "13",
+    "answers": [
+      "a) On \"think\"",
+      "b) On \"Amanda\"",
+      "c) On \"write\"",
+      "d) On \"letter\""
+    ],
+    "correct answer(s)": "d) On \"letter\"",
+    "GPT's response": "The neutral tonic falls on \"letter.\"",
+    "correct": false
+  },
+  {
+    "question": "What is a tone-unit in English prosody?",
+    "category": "14",
+    "answers": [
+      "a) A group of unstressed syllables.",
+      "b) A stretch of speech with a single tonic.",
+      "c) A sequence of falling tones.",
+      "d) A phrase with no stress."
+    ],
+    "correct answer(s)": "b) A stretch of speech with a single tonic.",
+    "GPT's response": "b) A stretch of speech with a single tonic.",
+    "correct": true
+  },
+  {
+    "question": "Which type of question typically uses a high-rising tone in English?",
+    "category": "15",
+    "answers": [
+      "a) Commands",
+      "b) Yes/No questions",
+      "c) Wh-questions",
+      "d) Exclamations"
+    ],
+    "correct answer(s)": "b) Yes/No questions",
+    "GPT's response": "b) Yes/No questions",
+    "correct": true
+  },
+  {
+    "question": "How does a phrasal verb like \"get up\" typically behave in terms of stress?",
+    "category": "17",
+    "answers": [
+      "a) Both the verb and particle are stressed.",
+      "b) Only the verb is stressed.",
+      "c) Only the particle is stressed.",
+      "d) Neither the verb nor the particle is stressed."
+    ],
+    "correct answer(s)": "a) Both the verb and particle are stressed.",
+    "GPT's response": "a) Both the verb and particle are stressed.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of an obscured compound?",
+    "category": "18",
+    "answers": [
+      "a) postman",
+      "b) trade union",
+      "c) car ferry",
+      "d) chocolate coloured"
+    ],
+    "correct answer(s)": "a) postman",
+    "GPT's response": "a) postman",
+    "correct": true
+  },
+  {
+    "question": "What is the typical tonal pattern for Wh-questions in English?",
+    "category": "19",
+    "answers": [
+      "a) High-rising tone",
+      "b) Falling tone",
+      "c) Low-rising tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "b) Falling tone",
+    "GPT's response": "b) Falling tone",
+    "correct": true
+  },
+  {
+    "question": "What is the primary function of the falling tone in English intonation?",
+    "category": "20",
+    "answers": [
+      "a) To indicate a question.",
+      "b) To convey definiteness and finality.",
+      "c) To show uncertainty.",
+      "d) To imply disagreement."
+    ],
+    "correct answer(s)": "b) To convey definiteness and finality.",
+    "GPT's response": "b) To convey definiteness and finality.",
+    "correct": true
+  },
+  {
+    "question": "How is a compound like \"fruit salad\" stressed?",
+    "category": "22",
+    "answers": [
+      "a) Finally-stressed",
+      "b) Initially-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "a) Finally-stressed",
+    "GPT's response": "a) Finally-stressed",
+    "correct": true
+  },
+  {
+    "question": "What happens to the pitch in the tail of a tone-unit with a falling tone?",
+    "category": "23",
+    "answers": [
+      "a) It rises to mid-level.",
+      "b) It continues low.",
+      "c) It rises to high.",
+      "d) It remains constant."
+    ],
+    "correct answer(s)": "b) It continues low.",
+    "GPT's response": "b) It continues low.",
+    "correct": true
+  },
+  {
+    "question": "In which case does a function word receive the tonic?",
+    "category": "25",
+    "answers": [
+      "a) When it is part of a compound.",
+      "b) When it is the first word in a sentence.",
+      "c) When it follows a content word.",
+      "d) When there is no further stressable word in the sentence."
+    ],
+    "correct answer(s)": "d) When there is no further stressable word in the sentence.",
+    "GPT's response": "d) When there is no further stressable word in the sentence.",
+    "correct": true
+  },
+  {
+    "question": "What is the purpose of downdrift in English intonation?",
+    "category": "28",
+    "answers": [
+      "a) To emphasize the tonic.",
+      "b) To raise the pitch of the head.",
+      "c) To gradually lower the pitch in the head.",
+      "d) To make every syllable equally stressed."
+    ],
+    "correct answer(s)": "c) To gradually lower the pitch in the head.",
+    "GPT's response": "c) To gradually lower the pitch in the head.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of a phrasal verb with a stressed particle?",
+    "category": "29",
+    "answers": [
+      "a) put off",
+      "b) laugh at",
+      "c) deal with",
+      "d) sit on"
+    ],
+    "correct answer(s)": "a) put off",
+    "GPT's response": "a) put off",
+    "correct": true
+  },
+  {
+    "question": "What is the typical intonation pattern for commands in English?",
+    "category": "30",
+    "answers": [
+      "a) Low-rising tone",
+      "b) Falling tone",
+      "c) High-rising tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "b) Falling tone",
+    "GPT's response": "b) Falling tone",
+    "correct": true
+  },
+  {
+    "question": "How is the tonic indicated in transcription when needed?",
+    "category": "31",
+    "answers": [
+      "a) By capitalizing the entire sentence.",
+      "b) By placing an exclamation mark at the end.",
+      "c) By bolding the entire word.",
+      "d) By underlining the syllable or word."
+    ],
+    "correct answer(s)": "d) By underlining the syllable or word.",
+    "GPT's response": "d) By underlining the syllable or word.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following compounds is stressed initially?",
+    "category": "32",
+    "answers": [
+      "a) trade union",
+      "b) fruit salad",
+      "c) language teaching",
+      "d) Victoria Station"
+    ],
+    "correct answer(s)": "c) language teaching",
+    "GPT's response": "The compound that is stressed initially is a) trade union.",
+    "correct": false
+  },
+  {
+    "question": "What is the primary effect of the Rhythm Rule in English prosody?",
+    "category": "33",
+    "answers": [
+      "a) To increase the number of stressed syllables.",
+      "b) To delete a stress between two other stresses.",
+      "c) To make every syllable equally stressed.",
+      "d) To emphasize the first syllable of each word."
+    ],
+    "correct answer(s)": "b) To delete a stress between two other stresses.",
+    "GPT's response": "b) To delete a stress between two other stresses.",
+    "correct": true
+  },
+  {
+    "question": "Which tone is typically used for polite Wh-questions?",
+    "category": "34",
+    "answers": [
+      "a) High-rising tone",
+      "b) Low-rising tone",
+      "c) Falling-rising tone",
+      "d) Falling tone"
+    ],
+    "correct answer(s)": "c) Falling-rising tone",
+    "GPT's response": "b) Low-rising tone",
+    "correct": false
+  },
+  {
+    "question": "What is the typical function of the falling-rising tone?",
+    "category": "35",
+    "answers": [
+      "a) To express anger.",
+      "b) To indicate a question.",
+      "c) To imply something unsaid or soften a command.",
+      "d) To emphasize a statement."
+    ],
+    "correct answer(s)": "c) To imply something unsaid or soften a command.",
+    "GPT's response": "c) To imply something unsaid or soften a command.",
+    "correct": true
+  },
+  {
+    "question": "What is the function of the pre-head in a tone-unit?",
+    "category": "37",
+    "answers": [
+      "a) To carry the tonic.",
+      "b) To contain unstressed syllables before the first stress.",
+      "c) To emphasize the tonic.",
+      "d) To conclude the intonation pattern."
+    ],
+    "correct answer(s)": "b) To contain unstressed syllables before the first stress.",
+    "GPT's response": "b) To contain unstressed syllables before the first stress.",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of a tail in a tone-unit with a high-rising tone?",
+    "category": "38",
+    "answers": [
+      "a) It causes the pitch to fall.",
+      "b) It causes the pitch to remain constant.",
+      "c) It continues the rise to a high level.",
+      "d) It causes the pitch to drop to mid-level."
+    ],
+    "correct answer(s)": "c) It continues the rise to a high level.",
+    "GPT's response": "c) It continues the rise to a high level.",
+    "correct": true
+  },
+  {
+    "question": "What happens to the stress pattern in a word like \"satisfactory\" due to the Tonic Assignment Rule?",
+    "category": "40",
+    "answers": [
+      "a) The first stress is downgraded to secondary.",
+      "b) The last stress is eliminated.",
+      "c) All stresses are emphasized equally.",
+      "d) The last stress is downgraded to secondary."
+    ],
+    "correct answer(s)": "a) The first stress is downgraded to secondary.",
+    "GPT's response": "a) The first stress is downgraded to secondary.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following phrases is an example of stress-shift?",
+    "category": "41",
+    "answers": [
+      "a) afternoon tea",
+      "b) new book",
+      "c) nice old lady",
+      "d) car ferry"
+    ],
+    "correct answer(s)": "a) afternoon tea",
+    "GPT's response": "a) afternoon tea",
+    "correct": true
+  },
+  {
+    "question": "What is the role of the head in a tone-unit?",
+    "category": "42",
+    "answers": [
+      "a) To conclude the intonation pattern.",
+      "b) To carry the tonic.",
+      "c) To lead up to the tonic syllable.",
+      "d) To contain only unstressed syllables."
+    ],
+    "correct answer(s)": "c) To lead up to the tonic syllable.",
+    "GPT's response": "c) To lead up to the tonic syllable.",
+    "correct": true
+  },
+  {
+    "question": "How does the Rhythm Rule affect the stress pattern in a phrase like \"very nice people\"?",
+    "category": "43",
+    "answers": [
+      "a) It emphasizes all three words equally.",
+      "b) It shifts the stress to the last word.",
+      "c) It removes stress from the last word.",
+      "d) It deletes the middle stress."
+    ],
+    "correct answer(s)": "d) It deletes the middle stress.",
+    "GPT's response": "d) It deletes the middle stress.",
+    "correct": true
+  },
+  {
+    "question": "Which type of question typically uses a falling tone in English?",
+    "category": "44",
+    "answers": [
+      "a) Yes/No questions",
+      "b) Wh-questions",
+      "c) Commands",
+      "d) Exclamations"
+    ],
+    "correct answer(s)": "b) Wh-questions",
+    "GPT's response": "b) Wh-questions",
+    "correct": true
+  },
+  {
+    "question": "What is the primary function of the high-rising tone in a question?",
+    "category": "45",
+    "answers": [
+      "a) To express finality.",
+      "b) To indicate a statement.",
+      "c) To ask for confirmation or clarification.",
+      "d) To express a command."
+    ],
+    "correct answer(s)": "c) To ask for confirmation or clarification.",
+    "GPT's response": "c) To ask for confirmation or clarification.",
+    "correct": true
+  },
+  {
+    "question": "What is a feature of finally-stressed compounds?",
+    "category": "46",
+    "answers": [
+      "a) They have primary stress on the first element.",
+      "b) They have primary stress on the second element.",
+      "c) They are always written with a hyphen.",
+      "d) The second element is reduced to zero stress."
+    ],
+    "correct answer(s)": "b) They have primary stress on the second element.",
+    "GPT's response": "b) They have primary stress on the second element.",
+    "correct": true
+  },
+  {
+    "question": "How is the tonic typically placed in a neutral statement?",
+    "category": "48",
+    "answers": [
+      "a) On the first word.",
+      "b) On the second word.",
+      "c) On the last content word.",
+      "d) On the last function word."
+    ],
+    "correct answer(s)": "c) On the last content word.",
+    "GPT's response": "c) On the last content word.",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of downdrift on the pitch of the head in a tone-unit?",
+    "category": "49",
+    "answers": [
+      "a) It raises the pitch.",
+      "b) It causes the pitch to remain constant.",
+      "c) It emphasizes the tonic.",
+      "d) It gradually lowers the pitch."
+    ],
+    "correct answer(s)": "d) It gradually lowers the pitch.",
+    "GPT's response": "d) It gradually lowers the pitch.",
+    "correct": true
+  },
+  {
+    "question": "How does a phrasal verb like \"break down\" typically behave in terms of stress?",
+    "category": "50",
+    "answers": [
+      "a) Only the verb is stressed.",
+      "b) Both the verb and particle are stressed.",
+      "c) Only the particle is stressed.",
+      "d) Neither the verb nor the particle is stressed."
+    ],
+    "correct answer(s)": "b) Both the verb and particle are stressed.",
+    "GPT's response": "c) Only the particle is stressed.",
+    "correct": false
+  },
+  {
+    "question": "What is the typical intonation pattern for exclamations in English?",
+    "category": "51",
+    "answers": [
+      "a) Low-rising tone",
+      "b) High-rising tone",
+      "c) Falling tone",
+      "d) Falling-rising tone"
+    ],
+    "correct answer(s)": "c) Falling tone",
+    "GPT's response": "c) Falling tone",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of a compound with obscured stress?",
+    "category": "52",
+    "answers": [
+      "a) trade union",
+      "b) chocolate coloured",
+      "c) nonsense",
+      "d) baby-sit"
+    ],
+    "correct answer(s)": "c) nonsense",
+    "GPT's response": "c) nonsense",
+    "correct": true
+  },
+  {
+    "question": "How is a compound like \"language teaching\" stressed?",
+    "category": "55",
+    "answers": [
+      "a) Initially-stressed",
+      "b) Finally-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "a) Initially-stressed",
+    "GPT's response": "a) Initially-stressed",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of a tail in a tone-unit with a falling-rising tone?",
+    "category": "56",
+    "answers": [
+      "a) It causes the pitch to fall.",
+      "b) It causes the pitch to remain constant.",
+      "c) It causes the pitch to drop to mid-level.",
+      "d) It continues the rise to mid-height."
+    ],
+    "correct answer(s)": "d) It continues the rise to mid-height.",
+    "GPT's response": "The effect of a tail in a tone-unit with a falling-rising tone is that it continues the rise to mid-height. Therefore, the correct answer is: d) It continues the rise to mid-height.",
+    "correct": false
+  },
+  {
+    "question": "What is the role of the tonic in a tone-unit?",
+    "category": "58",
+    "answers": [
+      "a) To contain only unstressed syllables.",
+      "b) To conclude the intonation pattern.",
+      "c) To carry the main pitch change.",
+      "d) To lead up to the head."
+    ],
+    "correct answer(s)": "c) To carry the main pitch change.",
+    "GPT's response": "c) To carry the main pitch change.",
+    "correct": true
+  },
+  {
+    "question": "Which type of question typically uses a falling-rising tone in English?",
+    "category": "60",
+    "answers": [
+      "a) Yes/No questions",
+      "b) Commands",
+      "c) Polite Wh-questions",
+      "d) Exclamations"
+    ],
+    "correct answer(s)": "c) Polite Wh-questions",
+    "GPT's response": "c) Polite Wh-questions",
+    "correct": true
+  },
+  {
+    "question": "What is the typical stress pattern for a compound like \"chocolate coloured\"?",
+    "category": "62",
+    "answers": [
+      "a) Finally-stressed",
+      "b) Initially-stressed",
+      "c) Equally-stressed",
+      "d) Obscured-stressed"
+    ],
+    "correct answer(s)": "b) Initially-stressed",
+    "GPT's response": "a) Finally-stressed",
+    "correct": false
+  },
+  {
+    "question": "How does the presence of a tail affect the intonation of a tone-unit with a low-rising tone?",
+    "category": "63",
+    "answers": [
+      "a) It causes the pitch to fall.",
+      "b) It continues the rise to mid-level.",
+      "c) It causes the pitch to remain constant.",
+      "d) It causes the pitch to drop to mid-level."
+    ],
+    "correct answer(s)": "b) It continues the rise to mid-level.",
+    "GPT's response": "b) It continues the rise to mid-level.",
+    "correct": true
+  },
+  {
+    "question": "What is the typical function of the falling tone in English exclamations?",
+    "category": "64",
+    "answers": [
+      "a) To express uncertainty.",
+      "b) To indicate a question.",
+      "c) To convey surprise or emphasis.",
+      "d) To imply disagreement."
+    ],
+    "correct answer(s)": "c) To convey surprise or emphasis.",
+    "GPT's response": "c) To convey surprise or emphasis.",
+    "correct": true
+  },
+  {
+    "question": "How is the tonic typically placed in a command?",
+    "category": "65",
+    "answers": [
+      "a) On the first word.",
+      "b) On the second word.",
+      "c) On the last content word.",
+      "d) On the verb or directive word."
+    ],
+    "correct answer(s)": "d) On the verb or directive word.",
+    "GPT's response": "d) On the verb or directive word.",
+    "correct": true
+  },
+  {
+    "question": "What is the effect of downdrift on the pitch of the head in a tone-unit with a falling-rising tone?",
+    "category": "66",
+    "answers": [
+      "a) It raises the pitch.",
+      "b) It causes the pitch to remain constant.",
+      "c) It emphasizes the tonic.",
+      "d) It gradually lowers the pitch before rising."
+    ],
+    "correct answer(s)": "d) It gradually lowers the pitch before rising.",
+    "GPT's response": "d) It gradually lowers the pitch before rising.",
+    "correct": true
+  },
+  {
+    "question": "Which of the following is an example of a phrasal verb with a stressed verb?",
+    "category": "67",
+    "answers": [
+      "a) put off",
+      "b) laugh at",
+      "c) get up",
+      "d) deal with"
+    ],
+    "correct answer(s)": "c) get up",
+    "GPT's response": "c) get up",
+    "correct": true
+  }
+]
